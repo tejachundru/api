@@ -397,10 +397,11 @@
       },
       "Jorhat": {
         "delta": {
+          "confirmed": 2,
           "recovered": 3
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 25,
           "recovered": 21
         }
       },
@@ -416,11 +417,10 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 2,
           "recovered": 39
         },
         "total": {
-          "confirmed": 393,
+          "confirmed": 391,
           "deceased": 3,
           "recovered": 220
         }

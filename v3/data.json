@@ -293,11 +293,12 @@
       },
       "Barpeta": {
         "delta": {
-          "confirmed": 24
+          "confirmed": 24,
+          "recovered": 5
         },
         "total": {
           "confirmed": 67,
-          "recovered": 22
+          "recovered": 27
         }
       },
       "Biswanath": {
@@ -315,9 +316,12 @@
         }
       },
       "Cachar": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 73,
-          "recovered": 62
+          "recovered": 66
         }
       },
       "Charaideo": {
@@ -341,11 +345,11 @@
       "Dhemaji": {
         "delta": {
           "confirmed": 14,
-          "recovered": 2
+          "recovered": 4
         },
         "total": {
           "confirmed": 32,
-          "recovered": 3
+          "recovered": 5
         }
       },
       "Dhubri": {
@@ -383,11 +387,12 @@
       },
       "Golaghat": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 3
         },
         "total": {
           "confirmed": 209,
-          "recovered": 26
+          "recovered": 29
         }
       },
       "Hailakandi": {
@@ -409,28 +414,27 @@
           "confirmed": 2
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 27,
           "recovered": 21
         }
       },
       "Kamrup": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 19
         },
         "total": {
-          "confirmed": 110,
+          "confirmed": 115,
           "recovered": 6
         }
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 5,
-          "recovered": 15
+          "recovered": 30
         },
         "total": {
-          "confirmed": 398,
+          "confirmed": 391,
           "deceased": 3,
-          "recovered": 235
+          "recovered": 250
         }
       },
       "Karbi Anglong": {
@@ -525,12 +529,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "recovered": 29
-        },
         "total": {
-          "migrated": 3,
-          "recovered": 29
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
@@ -2259,7 +2259,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T00:42:05+05:30",
+      "last_updated": "2020-06-05T00:44:08+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/RanchiPIB/status/1268229061140082688?s=09"
@@ -5884,7 +5884,7 @@
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-05T00:42:03+05:30",
+      "last_updated": "2020-06-05T00:44:04+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
