@@ -297,12 +297,12 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 25,
-        "confirmed": 25,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -453,12 +453,12 @@
       {
         "district": "Namsai",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -596,12 +596,12 @@
       {
         "district": "West Siang",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -615,12 +615,12 @@
       {
         "district": "Baksa",
         "notes": "",
-        "active": 8,
-        "confirmed": 8,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -628,12 +628,12 @@
       {
         "district": "Barpeta",
         "notes": "",
-        "active": 24,
-        "confirmed": 46,
+        "active": 45,
+        "confirmed": 67,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 0
         }
@@ -719,12 +719,12 @@
       {
         "district": "Dhemaji",
         "notes": "",
-        "active": 23,
-        "confirmed": 24,
+        "active": 31,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -758,12 +758,12 @@
       {
         "district": "Dima Hasao",
         "notes": "",
-        "active": 31,
-        "confirmed": 38,
+        "active": 45,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -836,12 +836,12 @@
       {
         "district": "Kamrup",
         "notes": "",
-        "active": 101,
-        "confirmed": 107,
+        "active": 104,
+        "confirmed": 110,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -849,12 +849,12 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 170,
-        "confirmed": 393,
+        "active": 175,
+        "confirmed": 398,
         "deceased": 3,
         "recovered": 220,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -901,12 +901,12 @@
       {
         "district": "Lakhimpur",
         "notes": "",
-        "active": 45,
-        "confirmed": 51,
+        "active": 49,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1018,12 +1018,12 @@
       {
         "district": "Tinsukia",
         "notes": "",
-        "active": 45,
-        "confirmed": 45,
+        "active": 66,
+        "confirmed": 66,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -1031,12 +1031,12 @@
       {
         "district": "Udalguri",
         "notes": "",
-        "active": 54,
-        "confirmed": 54,
+        "active": 62,
+        "confirmed": 62,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 28,
+          "confirmed": 36,
           "deceased": 0,
           "recovered": 0
         }
@@ -1621,14 +1621,14 @@
       {
         "district": "Balrampur",
         "notes": "",
-        "active": 17,
+        "active": 12,
         "confirmed": 17,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -1673,14 +1673,14 @@
       {
         "district": "Bilaspur",
         "notes": "",
-        "active": 73,
+        "active": 70,
         "confirmed": 84,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 14,
         "delta": {
           "confirmed": 18,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 4
         }
       },
       {
@@ -1764,14 +1764,14 @@
       {
         "district": "Kabeerdham",
         "notes": "",
-        "active": 15,
+        "active": 10,
         "confirmed": 27,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 17,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -1803,14 +1803,14 @@
       {
         "district": "Koriya",
         "notes": "",
-        "active": 35,
+        "active": 33,
         "confirmed": 38,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -1920,14 +1920,14 @@
       {
         "district": "Surguja",
         "notes": "",
-        "active": 5,
+        "active": 3,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -7447,12 +7447,12 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 10,
-        "confirmed": 19,
+        "active": 15,
+        "confirmed": 24,
         "deceased": 9,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 1,
           "recovered": 0
         }
@@ -8628,49 +8628,10 @@
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 31,
-        "confirmed": 194,
+        "active": 32,
+        "confirmed": 195,
         "deceased": 0,
         "recovered": 163,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Gomati",
-        "notes": "",
-        "active": 74,
-        "confirmed": 76,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 25,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Khowai",
-        "notes": "",
-        "active": 22,
-        "confirmed": 23,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 7,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "North Tripura",
-        "notes": "",
-        "active": 6,
-        "confirmed": 10,
-        "deceased": 0,
-        "recovered": 4,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
@@ -8678,14 +8639,53 @@
         }
       },
       {
-        "district": "Sipahijala",
+        "district": "Gomati",
         "notes": "",
-        "active": 178,
-        "confirmed": 180,
+        "active": 83,
+        "confirmed": 85,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 78,
+          "confirmed": 34,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Khowai",
+        "notes": "",
+        "active": 23,
+        "confirmed": 24,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 8,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "North Tripura",
+        "notes": "",
+        "active": 8,
+        "confirmed": 12,
+        "deceased": 0,
+        "recovered": 4,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Sipahijala",
+        "notes": "",
+        "active": 179,
+        "confirmed": 181,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 79,
           "deceased": 0,
           "recovered": 0
         }
@@ -8693,12 +8693,12 @@
       {
         "district": "South Tripura",
         "notes": "",
-        "active": 50,
-        "confirmed": 50,
+        "active": 58,
+        "confirmed": 58,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 20,
+          "confirmed": 28,
           "deceased": 0,
           "recovered": 0
         }
@@ -8719,25 +8719,12 @@
       {
         "district": "West Tripura",
         "notes": "",
-        "active": 40,
-        "confirmed": 40,
+        "active": 42,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 18,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 25,
-        "confirmed": 25,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
