@@ -2,6 +2,8 @@
 
 ### _Android apps:_
 
+- [Covid-19 India Android & iOS(ReactNative) App](https://github.com/RajeevTomar/Covid-19) (by Rajeev Tomar [@RajeevTomar](https://github.com/RajeevTomar/))
+
 - [Covid-19 India Tracker (MaterialDesign | LightWeight)](https://tinyurl.com/covid19IndiaTracker) (by Rahul Pandey [@rahulpandey1501](http://github.com/rahulpandey1501))
 
 - [Covid-19 Tracker](http://covidapp.in) (by Prabhakar Thota [@myinnos](https://github.com/myinnos))
