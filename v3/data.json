@@ -3153,7 +3153,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:43:06+05:30",
+      "last_updated": "2020-06-04T20:53:05+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/Maha_MEDD/status/1268428721159122951?s=19"
@@ -3329,7 +3329,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:42:13+05:30",
+      "last_updated": "2020-06-04T20:48:21+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/DiprManipur/status/1268195568372740096?s=09"
@@ -4253,7 +4253,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:42:11+05:30",
+      "last_updated": "2020-06-04T20:48:19+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/kbssidhu1961/status/1268175385046536197?s=19"
@@ -5269,7 +5269,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:42:08+05:30",
+      "last_updated": "2020-06-04T20:48:16+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-03",
@@ -5284,6 +5284,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 151
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -5292,80 +5295,96 @@
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 25
+        },
         "total": {
-          "confirmed": 51,
+          "confirmed": 76,
           "recovered": 2
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 23,
           "recovered": 1
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 4
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 78
+        },
         "total": {
-          "confirmed": 102,
+          "confirmed": 180,
           "recovered": 2
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 30
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 102
+          "confirmed": 50
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 49,
           "recovered": 1
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 22
+          "confirmed": 40
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T01:28:07+05:30",
+      "last_updated": "2020-06-04T20:53:08+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/275"
       }
     },
     "total": {
-      "confirmed": 573,
+      "confirmed": 622,
       "recovered": 173,
       "tested": 29066
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 7336,
+      "confirmed": 7487,
       "deceased": 212,
       "recovered": 3355,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T20:43:03+05:30",
+      "last_updated": "2020-06-04T20:53:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 224162,
+      "confirmed": 224211,
       "deceased": 6301,
       "migrated": 11,
       "recovered": 107419,

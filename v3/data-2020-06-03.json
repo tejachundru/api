@@ -5710,9 +5710,6 @@
     }
   },
   "TR": {
-    "delta": {
-      "confirmed": 102
-    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -5749,14 +5746,6 @@
           "confirmed": 30
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 102
-        },
-        "total": {
-          "confirmed": 102
-        }
-      },
       "Unokoti": {
         "total": {
           "confirmed": 47,
@@ -5776,14 +5765,14 @@
       }
     },
     "total": {
-      "confirmed": 573,
+      "confirmed": 471,
       "recovered": 173,
       "tested": 29066
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 9640,
+      "confirmed": 9538,
       "deceased": 259,
       "recovered": 3789,
       "tested": 137158
@@ -5795,7 +5784,7 @@
       }
     },
     "total": {
-      "confirmed": 216826,
+      "confirmed": 216724,
       "deceased": 6089,
       "migrated": 11,
       "recovered": 104064,
