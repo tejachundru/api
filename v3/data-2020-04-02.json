@@ -57,19 +57,35 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 124
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "http://chdcovid19.in/"
+      }
     },
     "total": {
-      "confirmed": 18
+      "confirmed": 18,
+      "tested": 124
     }
   },
   "CT": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 1232
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "http://www.cghealth.nic.in/cghealth17/"
+      }
     },
     "total": {
       "confirmed": 9,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 1232
     }
   },
   "DL": {
@@ -78,15 +94,32 @@
       "deceased": 2,
       "recovered": 2
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-01",
+        "source": "http://health.delhigovt.nic.in/wps/wcm/connect/068e55804dc3527fb23cf7982ee7a5c7/HB01A.pdf?MOD=AJPERES&lmod=908572962&CACHEID=068e55804dc3527fb23cf7982ee7a5c7"
+      }
+    },
     "total": {
       "confirmed": 293,
       "deceased": 4,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 2621
     }
   },
   "GA": {
+    "delta": {
+      "tested": 220
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/04/Media-Bulletin-02.04.2020.pdf"
+      }
+    },
     "total": {
-      "confirmed": 5
+      "confirmed": 5,
+      "tested": 220
     }
   },
   "GJ": {
@@ -154,12 +187,20 @@
   "KL": {
     "delta": {
       "confirmed": 21,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 491
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
+      }
     },
     "total": {
       "confirmed": 286,
       "deceased": 2,
-      "recovered": 28
+      "recovered": 28,
+      "tested": 8456
     }
   },
   "LA": {
@@ -212,12 +253,20 @@
   "PB": {
     "delta": {
       "confirmed": 1,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 1434
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "https://twitter.com/kbssidhu1961/status/1245680244658339841/photo/1"
+      }
     },
     "total": {
       "confirmed": 47,
       "deceased": 5,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 1434
     }
   },
   "PY": {
@@ -291,21 +340,36 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "tested": 678
+    },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-02",
+        "source": "https://www.facebook.com/UKMedicalHealth/photos/a.1666257713623931/2556543367928690/?type=3&theater"
+      }
     },
     "total": {
       "confirmed": 10,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 678
     }
   },
   "WB": {
     "delta": {
       "confirmed": 16
     },
+    "meta": {
+      "tested": {
+        "last_updated": "2020-04-01",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.04_.2020_.pdf"
+      }
+    },
     "total": {
       "confirmed": 53,
       "deceased": 3,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 659
     }
   }
 }
