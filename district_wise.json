@@ -2089,19 +2089,19 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "82",
-			"confirmed": "301",
+			"active": "75",
+			"confirmed": "302",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "-7",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "8",
 			"district": "Chandigarh",
 			"districtkey": "CH_Chandigarh",
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "214",
+			"recovered": "222",
 			"slno": "113",
 			"state": "Chandigarh",
 			"statecode": "CH"
@@ -14239,9 +14239,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
-			"deceased": "0",
+			"active": "-28",
+			"confirmed": "1",
+			"deceased": "2",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -14251,7 +14251,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "0",
+			"recovered": "27",
 			"slno": "763",
 			"state": "Uttarakhand",
 			"statecode": "UT"

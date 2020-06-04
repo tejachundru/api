@@ -1563,14 +1563,14 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 82,
-        "confirmed": 301,
+        "active": 75,
+        "confirmed": 302,
         "deceased": 5,
-        "recovered": 214,
+        "recovered": 222,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       }
     ]
@@ -9894,6 +9894,19 @@
         "recovered": 7,
         "delta": {
           "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -28,
+        "confirmed": 1,
+        "deceased": 2,
+        "recovered": 27,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }

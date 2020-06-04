@@ -827,26 +827,34 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 8
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 301,
+          "confirmed": 302,
           "deceased": 5,
-          "recovered": 214
+          "recovered": 222
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-02T17:55:14+05:30",
+      "last_updated": "2020-06-04T16:42:20+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/indiacovid/6205"
       }
     },
     "total": {
-      "confirmed": 301,
+      "confirmed": 302,
       "deceased": 5,
-      "recovered": 214,
+      "recovered": 222,
       "tested": 4977
     }
   },
@@ -3558,7 +3566,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T16:34:06+05:30",
+      "last_updated": "2020-06-04T16:42:05+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/297?single"
@@ -4674,23 +4682,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1139,
+      "confirmed": 1141,
       "deceased": 3,
-      "recovered": 233,
+      "recovered": 268,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T16:34:03+05:30",
+      "last_updated": "2020-06-04T16:43:05+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 217965,
+      "confirmed": 217967,
       "deceased": 6091,
       "migrated": 11,
-      "recovered": 104307,
+      "recovered": 104342,
       "tested": 4242718
     }
   },
@@ -5222,7 +5230,8 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 59
+      "confirmed": 60,
+      "recovered": 27
     },
     "districts": {
       "Almora": {
@@ -5311,6 +5320,16 @@
           "recovered": 44
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 27
+        },
+        "total": {
+          "confirmed": 1,
+          "recovered": 27
+        }
+      },
       "Uttarkashi": {
         "delta": {
           "confirmed": 1
@@ -5322,7 +5341,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T15:04:08+05:30",
+      "last_updated": "2020-06-04T16:42:08+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -5330,10 +5349,10 @@
       }
     },
     "total": {
-      "confirmed": 1144,
+      "confirmed": 1145,
       "deceased": 8,
       "migrated": 3,
-      "recovered": 259,
+      "recovered": 286,
       "tested": 34413
     }
   },
