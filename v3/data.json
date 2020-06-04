@@ -279,7 +279,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 243,
+      "confirmed": 285,
       "recovered": 46
     },
     "districts": {
@@ -331,8 +331,11 @@
         }
       },
       "Darrang": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 26
+          "confirmed": 30
         }
       },
       "Dhemaji": {
@@ -347,10 +350,10 @@
       },
       "Dhubri": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 39
         },
         "total": {
-          "confirmed": 163,
+          "confirmed": 201,
           "recovered": 5
         }
       },
@@ -537,7 +540,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:33:05+05:30",
+      "last_updated": "2020-06-05T00:23:05+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -545,7 +548,7 @@
       }
     },
     "total": {
-      "confirmed": 2074,
+      "confirmed": 2116,
       "deceased": 4,
       "migrated": 3,
       "recovered": 460,
@@ -5869,21 +5872,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9910,
+      "confirmed": 9952,
       "deceased": 274,
       "migrated": 1,
       "recovered": 4386,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T23:33:03+05:30",
+      "last_updated": "2020-06-05T00:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 226634,
+      "confirmed": 226676,
       "deceased": 6363,
       "migrated": 12,
       "recovered": 108450,

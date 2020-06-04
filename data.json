@@ -1133,17 +1133,26 @@
 			"totalconfirmed": "216725",
 			"totaldeceased": "6088",
 			"totalrecovered": "104064"
+		},
+		{
+			"dailyconfirmed": "9952",
+			"dailydeceased": "274",
+			"dailyrecovered": "4386",
+			"date": "04 June ",
+			"totalconfirmed": "226677",
+			"totaldeceased": "6362",
+			"totalrecovered": "108450"
 		}
 	],
 	"statewise": [
 		{
-			"active": "111809",
-			"confirmed": "226634",
+			"active": "111851",
+			"confirmed": "226676",
 			"deaths": "6363",
-			"deltaconfirmed": "9910",
+			"deltaconfirmed": "9952",
 			"deltadeaths": "274",
 			"deltarecovered": "4386",
-			"lastupdatedtime": "04/06/2020 23:33:03",
+			"lastupdatedtime": "05/06/2020 00:23:03",
 			"migratedother": "",
 			"recovered": "108450",
 			"state": "Total",
@@ -1389,13 +1398,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1607",
-			"confirmed": "2074",
+			"active": "1649",
+			"confirmed": "2116",
 			"deaths": "4",
-			"deltaconfirmed": "243",
+			"deltaconfirmed": "285",
 			"deltadeaths": "0",
 			"deltarecovered": "46",
-			"lastupdatedtime": "04/06/2020 23:33:05",
+			"lastupdatedtime": "05/06/2020 00:23:05",
 			"migratedother": "3",
 			"recovered": "460",
 			"state": "Assam",
