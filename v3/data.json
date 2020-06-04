@@ -29,9 +29,9 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 43,
+      "confirmed": 141,
       "deceased": 3,
-      "recovered": 36
+      "recovered": 65
     },
     "districts": {
       "Anantapur": {
@@ -116,7 +116,9 @@
       },
       "Unknown": {
         "delta": {
-          "deceased": 3
+          "confirmed": 98,
+          "deceased": 3,
+          "recovered": 29
         },
         "total": {
           "confirmed": 98,
@@ -151,7 +153,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T12:36:07+05:30",
+      "last_updated": "2020-06-04T12:42:20+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-03",
@@ -218,15 +220,24 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 47
+    },
     "districts": {
       "Baksa": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 8
         }
       },
       "Barpeta": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 46,
           "recovered": 22
         }
       },
@@ -236,8 +247,11 @@
         }
       },
       "Bongaigaon": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 10,
           "recovered": 5
         }
       },
@@ -263,8 +277,11 @@
         }
       },
       "Dhemaji": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 24,
           "recovered": 1
         }
       },
@@ -305,8 +322,11 @@
         }
       },
       "Hojai": {
+        "delta": {
+          "confirmed": 33
+        },
         "total": {
-          "confirmed": 79
+          "confirmed": 112
         }
       },
       "Jorhat": {
@@ -413,7 +433,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T23:23:07+05:30",
+      "last_updated": "2020-06-04T12:43:06+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -421,7 +441,7 @@
       }
     },
     "total": {
-      "confirmed": 1831,
+      "confirmed": 1878,
       "deceased": 4,
       "migrated": 3,
       "recovered": 414,
@@ -893,7 +913,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T12:36:10+05:30",
+      "last_updated": "2020-06-04T12:42:31+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/HealthCgGov/status/1268186561474166785/photo/1"
@@ -1377,7 +1397,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T12:36:14+05:30",
+      "last_updated": "2020-06-04T12:42:33+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-03",
@@ -3061,6 +3081,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 22
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3078,6 +3101,9 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 22
+        },
         "total": {
           "confirmed": 31
         }
@@ -4405,20 +4431,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 550,
+      "confirmed": 717,
       "deceased": 3,
-      "recovered": 55,
+      "recovered": 84,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T12:36:03+05:30",
+      "last_updated": "2020-06-04T12:43:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 217494,
+      "confirmed": 217541,
       "deceased": 6091,
       "migrated": 11,
       "recovered": 104155,

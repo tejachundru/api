@@ -1519,23 +1519,23 @@
     },
     "2020-06-03": {
       "delta": {
-        "confirmed": 278,
+        "confirmed": 180,
         "deceased": 4,
-        "recovered": 79,
+        "recovered": 50,
         "tested": 8066
       },
       "total": {
-        "confirmed": 4069,
+        "confirmed": 3971,
         "deceased": 68,
-        "recovered": 2493,
+        "recovered": 2464,
         "tested": 403747
       }
     },
     "2020-06-04": {
       "delta": {
-        "confirmed": 43,
+        "confirmed": 141,
         "deceased": 3,
-        "recovered": 36
+        "recovered": 65
       },
       "total": {
         "confirmed": 4112,
@@ -2869,8 +2869,11 @@
       }
     },
     "2020-06-04": {
+      "delta": {
+        "confirmed": 47
+      },
       "total": {
-        "confirmed": 1831,
+        "confirmed": 1878,
         "deceased": 4,
         "migrated": 3,
         "recovered": 414,
@@ -19539,15 +19542,18 @@
     },
     "2020-06-03": {
       "delta": {
-        "confirmed": 31,
+        "confirmed": 9,
         "tested": 157
       },
       "total": {
-        "confirmed": 80,
+        "confirmed": 58,
         "tested": 3414
       }
     },
     "2020-06-04": {
+      "delta": {
+        "confirmed": 22
+      },
       "total": {
         "confirmed": 80,
         "tested": 3414
@@ -27434,28 +27440,28 @@
     },
     "2020-06-03": {
       "delta": {
-        "confirmed": 9758,
+        "confirmed": 9638,
         "deceased": 259,
-        "recovered": 3815,
+        "recovered": 3786,
         "tested": 137158
       },
       "total": {
-        "confirmed": 216944,
+        "confirmed": 216824,
         "deceased": 6088,
         "migrated": 11,
-        "recovered": 104100,
+        "recovered": 104071,
         "tested": 4103233
       }
     },
     "2020-06-04": {
       "delta": {
-        "confirmed": 550,
+        "confirmed": 717,
         "deceased": 3,
-        "recovered": 55,
+        "recovered": 84,
         "tested": 139485
       },
       "total": {
-        "confirmed": 217494,
+        "confirmed": 217541,
         "deceased": 6091,
         "migrated": 11,
         "recovered": 104155,

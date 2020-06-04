@@ -28,9 +28,9 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 278,
+      "confirmed": 180,
       "deceased": 4,
-      "recovered": 79,
+      "recovered": 50,
       "tested": 8066
     },
     "districts": {
@@ -150,13 +150,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 98,
-          "recovered": 29
-        },
         "total": {
-          "confirmed": 98,
-          "recovered": 37
+          "recovered": 8
         }
       },
       "Visakhapatnam": {
@@ -204,9 +199,9 @@
       }
     },
     "total": {
-      "confirmed": 4069,
+      "confirmed": 3971,
       "deceased": 68,
-      "recovered": 2493,
+      "recovered": 2464,
       "tested": 403747
     }
   },
@@ -4077,7 +4072,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 31,
+      "confirmed": 9,
       "tested": 157
     },
     "districts": {
@@ -4098,10 +4093,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 31
+          "confirmed": 9
         },
         "total": {
-          "confirmed": 31
+          "confirmed": 9
         }
       }
     },
@@ -4112,7 +4107,7 @@
       }
     },
     "total": {
-      "confirmed": 80,
+      "confirmed": 58,
       "tested": 3414
     }
   },
@@ -5794,9 +5789,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9758,
+      "confirmed": 9638,
       "deceased": 259,
-      "recovered": 3815,
+      "recovered": 3786,
       "tested": 137158
     },
     "meta": {
@@ -5806,10 +5801,10 @@
       }
     },
     "total": {
-      "confirmed": 216944,
+      "confirmed": 216824,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104100,
+      "recovered": 104071,
       "tested": 4103233
     }
   },
