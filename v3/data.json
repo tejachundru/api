@@ -280,7 +280,7 @@
   "AS": {
     "delta": {
       "confirmed": 243,
-      "recovered": 29
+      "recovered": 46
     },
     "districts": {
       "Baksa": {
@@ -337,11 +337,12 @@
       },
       "Dhemaji": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 2
         },
         "total": {
           "confirmed": 32,
-          "recovered": 1
+          "recovered": 3
         }
       },
       "Dhubri": {
@@ -420,12 +421,13 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 15
         },
         "total": {
           "confirmed": 398,
           "deceased": 3,
-          "recovered": 220
+          "recovered": 235
         }
       },
       "Karbi Anglong": {
@@ -535,7 +537,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:03:06+05:30",
+      "last_updated": "2020-06-04T23:22:05+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -546,7 +548,7 @@
       "confirmed": 2074,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 443,
+      "recovered": 460,
       "tested": 126726
     }
   },
@@ -1287,7 +1289,8 @@
     "meta": {
       "last_updated": "2020-06-03T21:23:10+05:30",
       "tested": {
-        "last_updated": "2020-06-04"
+        "last_updated": "2020-06-04",
+        "source": "https://twitter.com/DnhPublicity/status/1268577221683396618/photo/1"
       }
     },
     "total": {
@@ -2245,7 +2248,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:13:07+05:30",
+      "last_updated": "2020-06-04T23:16:05+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/RanchiPIB/status/1268229061140082688?s=09"
@@ -5867,11 +5870,11 @@
       "confirmed": 9910,
       "deceased": 274,
       "migrated": 1,
-      "recovered": 4369,
+      "recovered": 4386,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T23:13:03+05:30",
+      "last_updated": "2020-06-04T23:22:02+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
@@ -5881,7 +5884,7 @@
       "confirmed": 226634,
       "deceased": 6363,
       "migrated": 12,
-      "recovered": 108433,
+      "recovered": 108450,
       "tested": 4242718
     }
   },
