@@ -7109,25 +7109,25 @@
       {
         "district": "Baran",
         "notes": "",
-        "active": 37,
+        "active": 35,
         "confirmed": 45,
         "deceased": 2,
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Barmer",
         "notes": "",
-        "active": 26,
-        "confirmed": 102,
+        "active": 28,
+        "confirmed": 104,
         "deceased": 0,
         "recovered": 76,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7136,13 +7136,13 @@
         "district": "Bharatpur",
         "notes": "",
         "active": 316,
-        "confirmed": 455,
+        "confirmed": 471,
         "deceased": 5,
-        "recovered": 134,
+        "recovered": 150,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 16
         }
       },
       {
@@ -7213,12 +7213,12 @@
       {
         "district": "Churu",
         "notes": "",
-        "active": 54,
-        "confirmed": 117,
+        "active": 66,
+        "confirmed": 129,
         "deceased": 1,
         "recovered": 62,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -7239,14 +7239,14 @@
       {
         "district": "Dholpur",
         "notes": "",
-        "active": 26,
+        "active": 21,
         "confirmed": 65,
         "deceased": 0,
-        "recovered": 39,
+        "recovered": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -7317,12 +7317,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 290,
-        "confirmed": 2124,
+        "active": 302,
+        "confirmed": 2136,
         "deceased": 100,
         "recovered": 1734,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -7369,12 +7369,12 @@
       {
         "district": "Jhunjhunu",
         "notes": "",
-        "active": 30,
-        "confirmed": 143,
+        "active": 35,
+        "confirmed": 148,
         "deceased": 1,
         "recovered": 112,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -7382,14 +7382,14 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 436,
-        "confirmed": 1626,
+        "active": 414,
+        "confirmed": 1638,
         "deceased": 20,
-        "recovered": 1170,
+        "recovered": 1204,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 34
         }
       },
       {
@@ -7408,12 +7408,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 115,
-        "confirmed": 494,
+        "active": 122,
+        "confirmed": 501,
         "deceased": 17,
         "recovered": 362,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -7421,14 +7421,14 @@
       {
         "district": "Nagaur",
         "notes": "",
-        "active": 165,
-        "confirmed": 475,
+        "active": 148,
+        "confirmed": 476,
         "deceased": 8,
-        "recovered": 302,
+        "recovered": 320,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 18
         }
       },
       {
@@ -7486,12 +7486,12 @@
       {
         "district": "Sawai Madhopur",
         "notes": "",
-        "active": 5,
-        "confirmed": 22,
+        "active": 6,
+        "confirmed": 23,
         "deceased": 1,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
