@@ -3305,6 +3305,7 @@
   "OR": {
     "delta": {
       "confirmed": 90,
+      "recovered": 65,
       "tested": 2933
     },
     "districts": {
@@ -3318,19 +3319,23 @@
         }
       },
       "Balangir": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 102,
-          "recovered": 18
+          "recovered": 24
         }
       },
       "Balasore": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 179,
           "deceased": 1,
-          "recovered": 132
+          "recovered": 134
         }
       },
       "Bargarh": {
@@ -3344,11 +3349,12 @@
       },
       "Bhadrak": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 8
         },
         "total": {
           "confirmed": 132,
-          "recovered": 98
+          "recovered": 106
         }
       },
       "Boudh": {
@@ -3375,11 +3381,12 @@
       },
       "Dhenkanal": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 1
         },
         "total": {
           "confirmed": 31,
-          "recovered": 3
+          "recovered": 4
         }
       },
       "Gajapati": {
@@ -3390,30 +3397,40 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 22
+          "confirmed": 22,
+          "recovered": 14
         },
         "total": {
           "confirmed": 521,
           "deceased": 3,
-          "recovered": 340
+          "recovered": 354
         }
       },
       "Jagatsinghpur": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 86,
-          "recovered": 31
+          "recovered": 41
         }
       },
       "Jajpur": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 290,
-          "recovered": 240
+          "recovered": 242
         }
       },
       "Jharsuguda": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 7,
-          "recovered": 5
+          "recovered": 6
         }
       },
       "Kalahandi": {
@@ -3426,31 +3443,41 @@
         }
       },
       "Kandhamal": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 22,
-          "recovered": 5
+          "recovered": 6
         }
       },
       "Kendrapara": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 161,
-          "recovered": 85
+          "recovered": 95
         }
       },
       "Kendujhar": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 30,
-          "recovered": 11
+          "recovered": 18
         }
       },
       "Khordha": {
         "delta": {
-          "confirmed": 25
+          "confirmed": 25,
+          "recovered": 3
         },
         "total": {
           "confirmed": 195,
           "deceased": 4,
-          "recovered": 74
+          "recovered": 77
         }
       },
       "Koraput": {
@@ -3531,7 +3558,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T11:34:48+05:30",
+      "last_updated": "2020-06-04T16:34:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/297?single"
@@ -3540,7 +3567,7 @@
     "total": {
       "confirmed": 2478,
       "deceased": 9,
-      "recovered": 1416,
+      "recovered": 1481,
       "tested": 165824
     }
   },
@@ -4649,11 +4676,11 @@
     "delta": {
       "confirmed": 1139,
       "deceased": 3,
-      "recovered": 168,
+      "recovered": 233,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T15:35:03+05:30",
+      "last_updated": "2020-06-04T16:34:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
@@ -4663,7 +4690,7 @@
       "confirmed": 217965,
       "deceased": 6091,
       "migrated": 11,
-      "recovered": 104242,
+      "recovered": 104307,
       "tested": 4242718
     }
   },
