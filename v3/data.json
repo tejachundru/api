@@ -899,7 +899,8 @@
   "CH": {
     "delta": {
       "confirmed": 1,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 82
     },
     "districts": {
       "Chandigarh": {
@@ -917,15 +918,15 @@
     "meta": {
       "last_updated": "2020-06-04T16:48:08+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://t.me/indiacovid/6205"
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/indiacovid/6290"
       }
     },
     "total": {
       "confirmed": 302,
       "deceased": 5,
       "recovered": 222,
-      "tested": 4977
+      "tested": 5059
     }
   },
   "CT": {
@@ -1603,7 +1604,8 @@
   "HP": {
     "delta": {
       "confirmed": 10,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 1307
     },
     "districts": {
       "Bilaspur": {
@@ -1710,8 +1712,7 @@
       "last_updated": "2020-06-04T19:06:22+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/nhm_hp/status/1268208746729295878?s=19"
+        "last_updated": "2020-06-04"
       }
     },
     "total": {
@@ -1719,14 +1720,15 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 163,
-      "tested": 41351
+      "tested": 42658
     }
   },
   "HR": {
     "delta": {
       "confirmed": 327,
       "deceased": 1,
-      "recovered": 34
+      "recovered": 34,
+      "tested": 4680
     },
     "districts": {
       "Ambala": {
@@ -1944,15 +1946,15 @@
     "meta": {
       "last_updated": "2020-06-04T19:57:11+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%203-06-2020%20Evening.pdf"
+        "last_updated": "2020-06-04",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20as%20on%2004-06-20%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 3281,
       "deceased": 24,
       "recovered": 1123,
-      "tested": 127895
+      "tested": 132575
     }
   },
   "JH": {
@@ -2730,16 +2732,25 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 46,
+          "confirmed": 49,
           "recovered": 13
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 45,
           "recovered": 35
         }
       },
@@ -2750,14 +2761,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:25:13+05:30",
+      "last_updated": "2020-06-04T21:03:09+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ladags/status/1267782995483561985?s=20"
       }
     },
     "total": {
-      "confirmed": 90,
+      "confirmed": 94,
       "deceased": 1,
       "recovered": 48,
       "tested": 8264
@@ -3153,7 +3164,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:53:05+05:30",
+      "last_updated": "2020-06-04T20:56:07+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/Maha_MEDD/status/1268428721159122951?s=19"
@@ -5357,7 +5368,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:53:08+05:30",
+      "last_updated": "2020-06-04T21:03:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/275"
@@ -5371,20 +5382,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7487,
+      "confirmed": 7491,
       "deceased": 212,
       "recovered": 3355,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T20:53:03+05:30",
+      "last_updated": "2020-06-04T21:03:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 224211,
+      "confirmed": 224215,
       "deceased": 6301,
       "migrated": 11,
       "recovered": 107419,
