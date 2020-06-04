@@ -2412,7 +2412,6 @@
     "delta": {
       "confirmed": 187,
       "deceased": 1,
-      "migrated": 1,
       "recovered": 100,
       "tested": 11241
     },
@@ -2462,7 +2461,6 @@
         "delta": {
           "confirmed": 24,
           "deceased": 1,
-          "migrated": 1,
           "recovered": 12
         },
         "total": {
@@ -2520,7 +2518,7 @@
         "total": {
           "confirmed": 129,
           "deceased": 6,
-          "migrated": 2,
+          "migrated": 1,
           "recovered": 37
         }
       },
@@ -2680,11 +2678,6 @@
           "recovered": 62
         }
       },
-      "Unknown": {
-        "total": {
-          "migrated": 1
-        }
-      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 1
@@ -2725,7 +2718,7 @@
     "total": {
       "confirmed": 3408,
       "deceased": 52,
-      "migrated": 4,
+      "migrated": 2,
       "recovered": 1318,
       "tested": 304816
     }
@@ -5610,7 +5603,6 @@
     "delta": {
       "confirmed": 7723,
       "deceased": 201,
-      "migrated": 1,
       "recovered": 3882,
       "tested": 100180
     },
@@ -5623,7 +5615,7 @@
     "total": {
       "confirmed": 198371,
       "deceased": 5608,
-      "migrated": 13,
+      "migrated": 11,
       "recovered": 95744,
       "tested": 3837207
     }

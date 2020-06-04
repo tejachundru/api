@@ -1425,6 +1425,7 @@
     "delta": {
       "confirmed": 9,
       "deceased": 1,
+      "migrated": 1,
       "recovered": 11,
       "tested": 2721
     },
@@ -1460,11 +1461,13 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "migrated": 1
         },
         "total": {
           "confirmed": 130,
           "deceased": 5,
+          "migrated": 1,
           "recovered": 53
         }
       },
@@ -1595,6 +1598,7 @@
     "total": {
       "confirmed": 512,
       "deceased": 20,
+      "migrated": 1,
       "recovered": 193,
       "tested": 45685
     }
@@ -3494,6 +3498,7 @@
     "delta": {
       "confirmed": 1568,
       "deceased": 58,
+      "migrated": 1,
       "recovered": 580,
       "tested": 40510
     },
@@ -3506,7 +3511,7 @@
     "total": {
       "confirmed": 29458,
       "deceased": 939,
-      "migrated": 3,
+      "migrated": 4,
       "recovered": 7103,
       "tested": 665819
     }

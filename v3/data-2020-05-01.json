@@ -1506,7 +1506,6 @@
   "KA": {
     "delta": {
       "confirmed": 24,
-      "migrated": 1,
       "recovered": 22,
       "tested": 4742
     },
@@ -1550,6 +1549,7 @@
         "total": {
           "confirmed": 141,
           "deceased": 5,
+          "migrated": 1,
           "recovered": 69
         }
       },
@@ -1665,14 +1665,6 @@
         "total": {
           "confirmed": 3,
           "recovered": 3
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "migrated": 1
-        },
-        "total": {
-          "migrated": 1
         }
       },
       "Uttara Kannada": {
@@ -3729,7 +3721,6 @@
     "delta": {
       "confirmed": 2396,
       "deceased": 77,
-      "migrated": 1,
       "recovered": 962,
       "tested": 72453
     },

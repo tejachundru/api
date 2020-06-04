@@ -1547,6 +1547,7 @@
         "total": {
           "confirmed": 145,
           "deceased": 6,
+          "migrated": 1,
           "recovered": 71
         }
       },
@@ -1659,11 +1660,6 @@
         "total": {
           "confirmed": 3,
           "recovered": 3
-        }
-      },
-      "Unknown": {
-        "total": {
-          "migrated": 1
         }
       },
       "Uttara Kannada": {
