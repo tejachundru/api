@@ -2366,7 +2366,7 @@
           "confirmed": 9
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 88,
           "deceased": 1,
           "recovered": 66
         }
@@ -2378,7 +2378,7 @@
         "total": {
           "confirmed": 51,
           "deceased": 1,
-          "recovered": 25
+          "recovered": 27
         }
       },
       "Belagavi": {
@@ -2399,7 +2399,7 @@
         "total": {
           "confirmed": 18,
           "deceased": 1,
-          "recovered": 9
+          "recovered": 11
         }
       },
       "Bengaluru Urban": {
@@ -2407,9 +2407,10 @@
           "confirmed": 12
         },
         "total": {
-          "confirmed": 399,
+          "confirmed": 395,
           "deceased": 11,
-          "recovered": 237
+          "migrated": 1,
+          "recovered": 243
         }
       },
       "Bidar": {
@@ -2417,7 +2418,7 @@
           "confirmed": 10
         },
         "total": {
-          "confirmed": 176,
+          "confirmed": 175,
           "deceased": 5,
           "recovered": 41
         }
@@ -2440,15 +2441,16 @@
       },
       "Chitradurga": {
         "total": {
-          "confirmed": 39,
+          "confirmed": 40,
           "recovered": 9
         }
       },
       "Dakshina Kannada": {
         "total": {
-          "confirmed": 134,
+          "confirmed": 129,
           "deceased": 6,
-          "recovered": 48
+          "migrated": 1,
+          "recovered": 37
         }
       },
       "Davanagere": {
@@ -2456,7 +2458,7 @@
           "confirmed": 7
         },
         "total": {
-          "confirmed": 161,
+          "confirmed": 163,
           "deceased": 4,
           "recovered": 121
         }
@@ -2468,7 +2470,7 @@
         },
         "total": {
           "confirmed": 50,
-          "recovered": 26
+          "recovered": 24
         }
       },
       "Gadag": {
@@ -2483,8 +2485,8 @@
           "confirmed": 9
         },
         "total": {
-          "confirmed": 183,
-          "recovered": 30
+          "confirmed": 181,
+          "recovered": 29
         }
       },
       "Haveri": {
@@ -2494,7 +2496,7 @@
         },
         "total": {
           "confirmed": 16,
-          "recovered": 6
+          "recovered": 3
         }
       },
       "Kalaburagi": {
@@ -2502,7 +2504,7 @@
           "confirmed": 100
         },
         "total": {
-          "confirmed": 406,
+          "confirmed": 405,
           "deceased": 7,
           "recovered": 128
         }
@@ -2519,7 +2521,7 @@
           "recovered": 4
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 9
         }
       },
@@ -2547,9 +2549,9 @@
       },
       "Other State": {
         "total": {
-          "confirmed": 22,
+          "confirmed": 34,
           "deceased": 1,
-          "recovered": 24
+          "recovered": 25
         }
       },
       "Raichur": {
@@ -2569,8 +2571,8 @@
       },
       "Shivamogga": {
         "total": {
-          "confirmed": 53,
-          "recovered": 26
+          "confirmed": 51,
+          "recovered": 20
         }
       },
       "Tumakuru": {
@@ -2579,9 +2581,9 @@
           "recovered": 5
         },
         "total": {
-          "confirmed": 33,
+          "confirmed": 31,
           "deceased": 2,
-          "recovered": 12
+          "recovered": 15
         }
       },
       "Udupi": {
@@ -2591,7 +2593,7 @@
         "total": {
           "confirmed": 410,
           "deceased": 1,
-          "recovered": 63
+          "recovered": 62
         }
       },
       "Unknown": {
@@ -2604,7 +2606,7 @@
           "recovered": 5
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 85,
           "recovered": 48
         }
       },
@@ -2624,7 +2626,7 @@
           "confirmed": 5
         },
         "total": {
-          "confirmed": 289,
+          "confirmed": 290,
           "deceased": 1,
           "recovered": 27
         }
@@ -2639,8 +2641,8 @@
     "total": {
       "confirmed": 3796,
       "deceased": 52,
-      "migrated": 2,
-      "recovered": 1403,
+      "migrated": 4,
+      "recovered": 1393,
       "tested": 319628
     }
   },
@@ -5604,8 +5606,8 @@
     "total": {
       "confirmed": 207186,
       "deceased": 5830,
-      "migrated": 11,
-      "recovered": 100285,
+      "migrated": 13,
+      "recovered": 100275,
       "tested": 3966075
     }
   },
