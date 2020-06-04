@@ -2588,20 +2588,32 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 13
+    },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "Chandel": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 21,
           "recovered": 3
         }
       },
@@ -2628,6 +2640,14 @@
           "recovered": 2
         }
       },
+      "Kangpokpi": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 5
+        }
+      },
       "Noney": {
         "total": {
           "confirmed": 3
@@ -2639,13 +2659,19 @@
         }
       },
       "Tamenglong": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 4
+          "confirmed": 5
         }
       },
       "Tengnoupal": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 4
+          "confirmed": 7
         }
       },
       "Thoubal": {
@@ -2667,14 +2693,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:17:07+05:30",
+      "last_updated": "2020-06-04T13:35:07+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/DiprManipur/status/1268195568372740096?s=09"
       }
     },
     "total": {
-      "confirmed": 108,
+      "confirmed": 121,
       "recovered": 38,
       "tested": 12454
     }
@@ -4435,20 +4461,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 717,
+      "confirmed": 730,
       "deceased": 3,
       "recovered": 84,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T12:55:05+05:30",
+      "last_updated": "2020-06-04T13:35:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 217541,
+      "confirmed": 217554,
       "deceased": 6091,
       "migrated": 11,
       "recovered": 104155,
