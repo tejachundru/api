@@ -20436,13 +20436,14 @@
     },
     "2020-06-04": {
       "delta": {
-        "confirmed": 90
+        "confirmed": 90,
+        "tested": 2933
       },
       "total": {
         "confirmed": 2478,
         "deceased": 9,
         "recovered": 1416,
-        "tested": 162891
+        "tested": 165824
       }
     }
   },

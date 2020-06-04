@@ -3046,7 +3046,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 90
+      "confirmed": 90,
+      "tested": 2933
     },
     "districts": {
       "Angul": {
@@ -3274,15 +3275,15 @@
     "meta": {
       "last_updated": "2020-06-04T11:34:48+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/284?single"
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/297?single"
       }
     },
     "total": {
       "confirmed": 2478,
       "deceased": 9,
       "recovered": 1416,
-      "tested": 162891
+      "tested": 165824
     }
   },
   "PB": {
