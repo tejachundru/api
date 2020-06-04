@@ -10624,11 +10624,12 @@
     "2020-06-04": {
       "delta": {
         "confirmed": 188,
+        "deceased": 1,
         "recovered": 9
       },
       "total": {
         "confirmed": 3142,
-        "deceased": 23,
+        "deceased": 24,
         "recovered": 1098,
         "tested": 127895
       }
@@ -13320,14 +13321,14 @@
       "delta": {
         "confirmed": 216,
         "deceased": 1,
-        "migrated": 1,
+        "migrated": 2,
         "recovered": 11,
         "tested": 9670
       },
       "total": {
         "confirmed": 1959,
         "deceased": 42,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 608,
         "tested": 196196
       }
@@ -13341,7 +13342,7 @@
       "total": {
         "confirmed": 2089,
         "deceased": 42,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 654,
         "tested": 206313
       }
@@ -13356,7 +13357,7 @@
       "total": {
         "confirmed": 2182,
         "deceased": 44,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 705,
         "tested": 219894
       }
@@ -13370,7 +13371,7 @@
       "total": {
         "confirmed": 2283,
         "deceased": 44,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 764,
         "tested": 228914
       }
@@ -13385,7 +13386,7 @@
       "total": {
         "confirmed": 2418,
         "deceased": 47,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 781,
         "tested": 241608
       }
@@ -13399,7 +13400,7 @@
       "total": {
         "confirmed": 2533,
         "deceased": 47,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 834,
         "tested": 252078
       }
@@ -13414,7 +13415,7 @@
       "total": {
         "confirmed": 2781,
         "deceased": 48,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 894,
         "tested": 264489
       }
@@ -13429,7 +13430,7 @@
       "total": {
         "confirmed": 2922,
         "deceased": 49,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 997,
         "tested": 280217
       }
@@ -13444,7 +13445,7 @@
       "total": {
         "confirmed": 3221,
         "deceased": 51,
-        "migrated": 2,
+        "migrated": 3,
         "recovered": 1218,
         "tested": 293575
       }
@@ -13453,7 +13454,7 @@
       "delta": {
         "confirmed": 187,
         "deceased": 1,
-        "migrated": 2,
+        "migrated": 1,
         "recovered": 100,
         "tested": 11241
       },
@@ -27315,14 +27316,14 @@
       "delta": {
         "confirmed": 6665,
         "deceased": 142,
-        "migrated": 1,
+        "migrated": 2,
         "recovered": 2576,
         "tested": 115364
       },
       "total": {
         "confirmed": 131425,
         "deceased": 3868,
-        "migrated": 8,
+        "migrated": 9,
         "recovered": 54409,
         "tested": 2834798
       }
@@ -27338,7 +27339,7 @@
       "total": {
         "confirmed": 138536,
         "deceased": 4024,
-        "migrated": 9,
+        "migrated": 10,
         "recovered": 57694,
         "tested": 2943421
       }
@@ -27354,7 +27355,7 @@
       "total": {
         "confirmed": 144950,
         "deceased": 4174,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 60706,
         "tested": 3033591
       }
@@ -27369,7 +27370,7 @@
       "total": {
         "confirmed": 150857,
         "deceased": 4347,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 64291,
         "tested": 3126119
       }
@@ -27384,7 +27385,7 @@
       "total": {
         "confirmed": 158103,
         "deceased": 4535,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 67725,
         "tested": 3242160
       }
@@ -27399,7 +27400,7 @@
       "total": {
         "confirmed": 165357,
         "deceased": 4711,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 70896,
         "tested": 3362136
       }
@@ -27414,7 +27415,7 @@
       "total": {
         "confirmed": 173495,
         "deceased": 4980,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 82631,
         "tested": 3483838
       }
@@ -27429,7 +27430,7 @@
       "total": {
         "confirmed": 181859,
         "deceased": 5185,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 86934,
         "tested": 3611599
       }
@@ -27444,7 +27445,7 @@
       "total": {
         "confirmed": 190648,
         "deceased": 5407,
-        "migrated": 11,
+        "migrated": 12,
         "recovered": 91862,
         "tested": 3737027
       }
@@ -27453,7 +27454,7 @@
       "delta": {
         "confirmed": 7723,
         "deceased": 201,
-        "migrated": 2,
+        "migrated": 1,
         "recovered": 3882,
         "tested": 100180
       },
@@ -27497,16 +27498,16 @@
     },
     "2020-06-04": {
       "delta": {
-        "confirmed": 1978,
-        "deceased": 30,
-        "recovered": 736,
+        "confirmed": 2346,
+        "deceased": 41,
+        "recovered": 924,
         "tested": 139485
       },
       "total": {
-        "confirmed": 218804,
-        "deceased": 6119,
+        "confirmed": 219172,
+        "deceased": 6130,
         "migrated": 13,
-        "recovered": 104800,
+        "recovered": 104988,
         "tested": 4242718
       }
     }
@@ -30587,10 +30588,15 @@
       }
     },
     "2020-06-04": {
+      "delta": {
+        "confirmed": 368,
+        "deceased": 10,
+        "recovered": 188
+      },
       "total": {
-        "confirmed": 6508,
-        "deceased": 345,
-        "recovered": 2580,
+        "confirmed": 6876,
+        "deceased": 355,
+        "recovered": 2768,
         "tested": 232225
       }
     }

@@ -2412,7 +2412,7 @@
     "delta": {
       "confirmed": 187,
       "deceased": 1,
-      "migrated": 2,
+      "migrated": 1,
       "recovered": 100,
       "tested": 11241
     },
@@ -2515,13 +2515,12 @@
       "Dakshina Kannada": {
         "delta": {
           "confirmed": -1,
-          "migrated": 1,
           "recovered": -1
         },
         "total": {
           "confirmed": 129,
           "deceased": 6,
-          "migrated": 1,
+          "migrated": 2,
           "recovered": 37
         }
       },
@@ -2683,7 +2682,7 @@
       },
       "Unknown": {
         "total": {
-          "migrated": 2
+          "migrated": 1
         }
       },
       "Uttara Kannada": {
@@ -5611,7 +5610,7 @@
     "delta": {
       "confirmed": 7723,
       "deceased": 201,
-      "migrated": 2,
+      "migrated": 1,
       "recovered": 3882,
       "tested": 100180
     },
