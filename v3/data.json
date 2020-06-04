@@ -537,7 +537,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:22:05+05:30",
+      "last_updated": "2020-06-04T23:33:05+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -2248,7 +2248,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:16:05+05:30",
+      "last_updated": "2020-06-04T23:25:07+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/RanchiPIB/status/1268229061140082688?s=09"
@@ -2773,7 +2773,8 @@
     "delta": {
       "confirmed": 94,
       "deceased": 3,
-      "recovered": 39
+      "recovered": 39,
+      "tested": 4344
     },
     "districts": {
       "Alappuzha": {
@@ -2938,15 +2939,15 @@
       "last_updated": "2020-06-04T18:58:33+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-03.pdf"
+        "last_updated": "2020-06-04",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf"
       }
     },
     "total": {
       "confirmed": 1589,
       "deceased": 15,
       "recovered": 690,
-      "tested": 95348
+      "tested": 99692
     }
   },
   "LA": {
@@ -5874,7 +5875,7 @@
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T23:22:02+05:30",
+      "last_updated": "2020-06-04T23:33:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
