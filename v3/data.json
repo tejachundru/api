@@ -1318,7 +1318,8 @@
   },
   "GA": {
     "delta": {
-      "confirmed": 40
+      "confirmed": 40,
+      "tested": 1484
     },
     "districts": {
       "North Goa": {
@@ -1346,14 +1347,14 @@
     "meta": {
       "last_updated": "2020-06-04T22:06:20+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/DHS_Goa/status/1268188781745602560?s=19"
+        "last_updated": "2020-06-04",
+        "source": "https://twitter.com/DHS_Goa/status/1268574470593114113?s=19"
       }
     },
     "total": {
       "confirmed": 166,
       "recovered": 57,
-      "tested": 23816
+      "tested": 25300
     }
   },
   "GJ": {
