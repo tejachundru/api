@@ -9618,14 +9618,14 @@
       "delta": {
         "confirmed": 24,
         "recovered": 29,
-        "tested": 1307
+        "tested": 1352
       },
       "total": {
         "confirmed": 383,
         "deceased": 6,
         "migrated": 3,
         "recovered": 175,
-        "tested": 42658
+        "tested": 42703
       }
     }
   },
@@ -11406,13 +11406,14 @@
       "delta": {
         "confirmed": 63,
         "deceased": 1,
-        "recovered": 69
+        "recovered": 69,
+        "tested": 3142
       },
       "total": {
         "confirmed": 827,
         "deceased": 6,
         "recovered": 366,
-        "tested": 74499
+        "tested": 77641
       }
     }
   },

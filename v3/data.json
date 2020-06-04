@@ -1703,7 +1703,7 @@
     "delta": {
       "confirmed": 24,
       "recovered": 29,
-      "tested": 1307
+      "tested": 1352
     },
     "districts": {
       "Bilaspur": {
@@ -1822,7 +1822,7 @@
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-04",
-        "source": "https://twitter.com/nhm_hp/status/1267846904345497601"
+        "source": "https://twitter.com/nhm_hp/status/1268577478756519938?s=19"
       }
     },
     "total": {
@@ -1830,7 +1830,7 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 175,
-      "tested": 42658
+      "tested": 42703
     }
   },
   "HR": {
@@ -2071,7 +2071,8 @@
     "delta": {
       "confirmed": 63,
       "deceased": 1,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 3142
     },
     "districts": {
       "Bokaro": {
@@ -2276,15 +2277,15 @@
     "meta": {
       "last_updated": "2020-06-05T00:44:08+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/RanchiPIB/status/1268229061140082688?s=09"
+        "last_updated": "2020-06-04",
+        "source": "https://twitter.com/RanchiPIB/status/1268594115215851521?s=19"
       }
     },
     "total": {
       "confirmed": 827,
       "deceased": 6,
       "recovered": 366,
-      "tested": 74499
+      "tested": 77641
     }
   },
   "JK": {
