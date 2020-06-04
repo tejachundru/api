@@ -523,7 +523,7 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 94,
+      "confirmed": 126,
       "deceased": 3,
       "recovered": 95,
       "tested": 3584
@@ -559,10 +559,11 @@
       },
       "Banka": {
         "delta": {
+          "confirmed": 4,
           "recovered": 1
         },
         "total": {
-          "confirmed": 123,
+          "confirmed": 127,
           "recovered": 67
         }
       },
@@ -580,11 +581,11 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 6,
           "recovered": 1
         },
         "total": {
-          "confirmed": 204,
+          "confirmed": 207,
           "deceased": 1,
           "recovered": 85
         }
@@ -624,20 +625,20 @@
       },
       "Gaya": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 8
         },
         "total": {
-          "confirmed": 94,
+          "confirmed": 95,
           "recovered": 29
         }
       },
       "Gopalganj": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 10
         },
         "total": {
-          "confirmed": 123,
+          "confirmed": 126,
           "recovered": 74
         }
       },
@@ -678,8 +679,11 @@
         }
       },
       "Khagaria": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 257,
+          "confirmed": 269,
           "deceased": 3,
           "recovered": 90
         }
@@ -704,8 +708,11 @@
         }
       },
       "Madhepura": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 93,
+          "confirmed": 97,
           "deceased": 1,
           "recovered": 36
         }
@@ -741,11 +748,11 @@
       },
       "Nalanda": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 113,
+          "confirmed": 114,
           "deceased": 1,
           "recovered": 84
         }
@@ -763,21 +770,21 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 9
         },
         "total": {
-          "confirmed": 267,
+          "confirmed": 268,
           "deceased": 2,
           "recovered": 179
         }
       },
       "Purnia": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 13
         },
         "total": {
-          "confirmed": 117,
+          "confirmed": 118,
           "recovered": 36
         }
       },
@@ -814,10 +821,11 @@
       },
       "Saran": {
         "delta": {
+          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 88,
+          "confirmed": 90,
           "deceased": 1,
           "recovered": 29
         }
@@ -883,14 +891,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T19:06:06+05:30",
+      "last_updated": "2020-06-04T22:13:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/PIB_Patna/status/1268520472284667904"
       }
     },
     "total": {
-      "confirmed": 4420,
+      "confirmed": 4452,
       "deceased": 28,
       "recovered": 2120,
       "tested": 88313
@@ -1253,7 +1261,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:03:14+05:30",
+      "last_updated": "2020-06-04T22:06:20+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/DHS_Goa/status/1268188781745602560?s=19"
@@ -1609,8 +1617,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 10,
-      "recovered": 17,
+      "confirmed": 24,
+      "recovered": 29,
       "tested": 1307
     },
     "districts": {
@@ -1626,18 +1634,22 @@
       },
       "Chamba": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 26,
+          "confirmed": 28,
           "recovered": 13
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 114,
+          "confirmed": 118,
           "deceased": 1,
-          "recovered": 39
+          "recovered": 49
         }
       },
       "Kangra": {
@@ -1677,26 +1689,33 @@
       },
       "Shimla": {
         "delta": {
-          "recovered": 6
+          "confirmed": 1,
+          "recovered": 7
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 11,
           "deceased": 1,
-          "recovered": 7
+          "recovered": 8
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 11,
           "recovered": 3
         }
       },
       "Solan": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 32,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 10
+          "recovered": 11
         }
       },
       "Una": {
@@ -1715,7 +1734,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T19:06:22+05:30",
+      "last_updated": "2020-06-04T22:12:31+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-04",
@@ -1723,10 +1742,10 @@
       }
     },
     "total": {
-      "confirmed": 369,
+      "confirmed": 383,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 163,
+      "recovered": 175,
       "tested": 42658
     }
   },
@@ -3920,7 +3939,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:03:07+05:30",
+      "last_updated": "2020-06-04T22:06:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/healthminmp/status/1268564821378826241"
@@ -5209,7 +5228,8 @@
     "delta": {
       "confirmed": 1384,
       "deceased": 15,
-      "recovered": 585
+      "recovered": 585,
+      "tested": 16447
     },
     "districts": {
       "Airport Quarantine": {
@@ -5621,15 +5641,15 @@
       "last_updated": "2020-06-04T20:48:16+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03.06.2020.pdf"
+        "last_updated": "2020-06-04",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-04.06.2020.pdf"
       }
     },
     "total": {
       "confirmed": 27256,
       "deceased": 223,
       "recovered": 14901,
-      "tested": 528534
+      "tested": 544981
     }
   },
   "TR": {
@@ -5714,7 +5734,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:03:12+05:30",
+      "last_updated": "2020-06-04T22:06:14+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/275"
@@ -5728,24 +5748,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8287,
+      "confirmed": 8333,
       "deceased": 229,
       "migrated": 1,
-      "recovered": 3915,
+      "recovered": 3927,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T22:03:04+05:30",
+      "last_updated": "2020-06-04T22:13:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 225011,
+      "confirmed": 225057,
       "deceased": 6318,
       "migrated": 12,
-      "recovered": 107979,
+      "recovered": 107991,
       "tested": 4242718
     }
   },
@@ -6646,7 +6666,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:03:09+05:30",
+      "last_updated": "2020-06-04T22:06:09+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
