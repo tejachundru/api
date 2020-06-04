@@ -31,7 +31,8 @@
     "delta": {
       "confirmed": 141,
       "deceased": 3,
-      "recovered": 65
+      "recovered": 65,
+      "tested": 9986
     },
     "districts": {
       "Anantapur": {
@@ -156,15 +157,15 @@
       "last_updated": "2020-06-04T12:42:20+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/282"
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/298"
       }
     },
     "total": {
       "confirmed": 4112,
       "deceased": 71,
       "recovered": 2529,
-      "tested": 403747
+      "tested": 413733
     }
   },
   "AR": {
@@ -2269,6 +2270,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 12559
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2518,15 +2522,15 @@
     "meta": {
       "last_updated": "2020-06-03T20:46:04+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/Maha_MEDD/status/1268054528882028544?s=19"
+        "last_updated": "2020-06-04",
+        "source": "https://twitter.com/Maha_MEDD/status/1268428721159122951?s=19"
       }
     },
     "total": {
       "confirmed": 74860,
       "deceased": 2587,
       "recovered": 32329,
-      "tested": 498577
+      "tested": 511136
     }
   },
   "ML": {
