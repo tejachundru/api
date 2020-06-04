@@ -8962,26 +8962,26 @@
     "districtData": {
       "Almora": {
         "notes": "",
-        "active": 52,
+        "active": 48,
         "confirmed": 63,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Bageshwar": {
         "notes": "",
-        "active": 15,
+        "active": 11,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Chamoli": {
@@ -9010,14 +9010,14 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 270,
-        "confirmed": 322,
-        "deceased": 5,
-        "recovered": 44,
+        "active": 266,
+        "confirmed": 323,
+        "deceased": 7,
+        "recovered": 47,
         "delta": {
-          "confirmed": 34,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 35,
+          "deceased": 2,
+          "recovered": 3
         }
       },
       "Haridwar": {
@@ -9034,38 +9034,38 @@
       },
       "Nainital": {
         "notes": "",
-        "active": 191,
+        "active": 181,
         "confirmed": 310,
         "deceased": 1,
-        "recovered": 118,
+        "recovered": 128,
         "delta": {
           "confirmed": 10,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Pauri Garhwal": {
         "notes": "",
-        "active": 37,
+        "active": 34,
         "confirmed": 42,
         "deceased": 1,
-        "recovered": 4,
+        "recovered": 7,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Pithoragarh": {
         "notes": "",
-        "active": 28,
+        "active": 27,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Rudraprayag": {
@@ -9094,14 +9094,14 @@
       },
       "Udham Singh Nagar": {
         "notes": "",
-        "active": 39,
+        "active": 37,
         "confirmed": 83,
         "deceased": 0,
-        "recovered": 44,
+        "recovered": 46,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Uttarkashi": {
@@ -9112,18 +9112,6 @@
         "recovered": 7,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -28,
-        "confirmed": 1,
-        "deceased": 2,
-        "recovered": 27,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
