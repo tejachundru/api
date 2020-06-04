@@ -28,9 +28,9 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 180,
+      "confirmed": 278,
       "deceased": 4,
-      "recovered": 50,
+      "recovered": 79,
       "tested": 8066
     },
     "districts": {
@@ -150,8 +150,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 98,
+          "recovered": 29
+        },
         "total": {
-          "recovered": 8
+          "confirmed": 98,
+          "recovered": 37
         }
       },
       "Visakhapatnam": {
@@ -199,9 +204,9 @@
       }
     },
     "total": {
-      "confirmed": 3971,
+      "confirmed": 4069,
       "deceased": 68,
-      "recovered": 2464,
+      "recovered": 2493,
       "tested": 403747
     }
   },
@@ -3449,14 +3454,6 @@
       "tested": 3858
     },
     "districts": {
-      "Aizawl": {
-        "delta": {
-          "recovered": 1
-        },
-        "total": {
-          "recovered": 1
-        }
-      },
       "Bishnupur": {
         "delta": {
           "confirmed": 1
@@ -3512,14 +3509,6 @@
           "recovered": 2
         }
       },
-      "Kolasib": {
-        "delta": {
-          "recovered": 11
-        },
-        "total": {
-          "recovered": 11
-        }
-      },
       "Noney": {
         "total": {
           "confirmed": 3
@@ -3567,9 +3556,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 12
+        },
         "total": {
           "confirmed": 28,
-          "recovered": 6
+          "recovered": 18
         }
       }
     },
@@ -4085,7 +4077,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 9,
+      "confirmed": 31,
       "tested": 157
     },
     "districts": {
@@ -4106,10 +4098,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 31
         },
         "total": {
-          "confirmed": 9
+          "confirmed": 31
         }
       }
     },
@@ -4120,7 +4112,7 @@
       }
     },
     "total": {
-      "confirmed": 58,
+      "confirmed": 80,
       "tested": 3414
     }
   },
@@ -5802,9 +5794,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9638,
+      "confirmed": 9758,
       "deceased": 259,
-      "recovered": 3786,
+      "recovered": 3815,
       "tested": 137158
     },
     "meta": {
@@ -5814,10 +5806,10 @@
       }
     },
     "total": {
-      "confirmed": 216824,
+      "confirmed": 216944,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104071,
+      "recovered": 104100,
       "tested": 4103233
     }
   },
