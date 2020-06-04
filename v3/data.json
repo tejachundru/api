@@ -262,7 +262,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 47
+      "confirmed": 47,
+      "recovered": 29
     },
     "districts": {
       "Baksa": {
@@ -463,8 +464,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 29
+        },
         "total": {
-          "migrated": 3
+          "migrated": 3,
+          "recovered": 29
         }
       },
       "West Karbi Anglong": {
@@ -474,7 +479,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T12:55:08+05:30",
+      "last_updated": "2020-06-04T17:02:06+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -485,7 +490,7 @@
       "confirmed": 1878,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 414,
+      "recovered": 443,
       "tested": 126726
     }
   },
@@ -4684,11 +4689,11 @@
     "delta": {
       "confirmed": 1141,
       "deceased": 5,
-      "recovered": 268,
+      "recovered": 297,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T16:51:08+05:30",
+      "last_updated": "2020-06-04T17:02:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
@@ -4698,7 +4703,7 @@
       "confirmed": 217967,
       "deceased": 6093,
       "migrated": 11,
-      "recovered": 104342,
+      "recovered": 104371,
       "tested": 4242718
     }
   },
