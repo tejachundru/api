@@ -4600,8 +4600,8 @@
   },
   "PY": {
     "delta": {
-      "confirmed": 9,
-      "recovered": 5
+      "confirmed": 11,
+      "recovered": 8
     },
     "districts": {
       "Karaikal": {
@@ -4618,17 +4618,12 @@
       },
       "Puducherry": {
         "delta": {
-          "confirmed": 9,
-          "recovered": 5
+          "confirmed": 11,
+          "recovered": 8
         },
         "total": {
-          "confirmed": 76,
-          "recovered": 24
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 6
+          "confirmed": 84,
+          "recovered": 27
         }
       }
     },
@@ -4639,8 +4634,8 @@
       }
     },
     "total": {
-      "confirmed": 88,
-      "recovered": 30,
+      "confirmed": 90,
+      "recovered": 33,
       "tested": 7255
     }
   },
@@ -5790,9 +5785,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9638,
+      "confirmed": 9640,
       "deceased": 259,
-      "recovered": 3786,
+      "recovered": 3789,
       "tested": 137158
     },
     "meta": {
@@ -5802,10 +5797,10 @@
       }
     },
     "total": {
-      "confirmed": 216824,
+      "confirmed": 216826,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104071,
+      "recovered": 104074,
       "tested": 4103233
     }
   },
