@@ -207,7 +207,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 10
+      "confirmed": 10,
+      "tested": 472
     },
     "districts": {
       "Changlang": {
@@ -257,14 +258,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/281"
+        "last_updated": "2020-06-03",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/295"
       }
     },
     "total": {
       "confirmed": 37,
       "recovered": 1,
-      "tested": 9079
+      "tested": 9551
     }
   },
   "AS": {
