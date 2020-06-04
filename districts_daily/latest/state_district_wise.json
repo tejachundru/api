@@ -1526,12 +1526,12 @@
       },
       "Bilaspur": {
         "notes": "",
-        "active": 70,
-        "confirmed": 84,
+        "active": 69,
+        "confirmed": 83,
         "deceased": 0,
         "recovered": 14,
         "delta": {
-          "confirmed": 18,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 4
         }
@@ -1586,24 +1586,24 @@
       },
       "Janjgir Champa": {
         "notes": "",
-        "active": 25,
-        "confirmed": 39,
+        "active": 33,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 14,
         "delta": {
-          "confirmed": 21,
+          "confirmed": 29,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jashpur": {
         "notes": "",
-        "active": 66,
-        "confirmed": 66,
+        "active": 71,
+        "confirmed": 71,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 20,
+          "confirmed": 25,
           "deceased": 0,
           "recovered": 0
         }
@@ -1694,24 +1694,24 @@
       },
       "Raigarh": {
         "notes": "",
-        "active": 16,
-        "confirmed": 22,
+        "active": 20,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Raipur": {
         "notes": "",
-        "active": 18,
-        "confirmed": 27,
+        "active": 17,
+        "confirmed": 26,
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 9,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -1780,6 +1780,18 @@
         "notes": "",
         "active": 3,
         "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
