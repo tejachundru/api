@@ -2571,7 +2571,7 @@
       "Unknown": {
         "total": {
           "confirmed": 28,
-          "recovered": 18
+          "recovered": 6
         }
       }
     },
@@ -2584,7 +2584,7 @@
     },
     "total": {
       "confirmed": 108,
-      "recovered": 38,
+      "recovered": 26,
       "tested": 12454
     }
   },
@@ -3029,10 +3029,16 @@
     }
   },
   "OR": {
+    "delta": {
+      "confirmed": 90
+    },
     "districts": {
       "Angul": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 29,
+          "confirmed": 30,
           "recovered": 24
         }
       },
@@ -3043,21 +3049,30 @@
         }
       },
       "Balasore": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 178,
+          "confirmed": 179,
           "deceased": 1,
           "recovered": 132
         }
       },
       "Bargarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 11,
+          "confirmed": 12,
           "recovered": 2
         }
       },
       "Bhadrak": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 123,
+          "confirmed": 132,
           "recovered": 98
         }
       },
@@ -3068,8 +3083,11 @@
         }
       },
       "Cuttack": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 126,
+          "confirmed": 131,
           "deceased": 1,
           "recovered": 58
         }
@@ -3081,8 +3099,11 @@
         }
       },
       "Dhenkanal": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 31,
           "recovered": 3
         }
       },
@@ -3093,8 +3114,11 @@
         }
       },
       "Ganjam": {
+        "delta": {
+          "confirmed": 22
+        },
         "total": {
-          "confirmed": 499,
+          "confirmed": 521,
           "deceased": 3,
           "recovered": 340
         }
@@ -3118,8 +3142,11 @@
         }
       },
       "Kalahandi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "recovered": 15
         }
       },
@@ -3142,8 +3169,11 @@
         }
       },
       "Khordha": {
+        "delta": {
+          "confirmed": 25
+        },
         "total": {
-          "confirmed": 170,
+          "confirmed": 195,
           "deceased": 4,
           "recovered": 74
         }
@@ -3173,8 +3203,11 @@
         }
       },
       "Nayagarh": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 76,
           "recovered": 45
         }
       },
@@ -3184,8 +3217,11 @@
         }
       },
       "Puri": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 96,
+          "confirmed": 98,
           "recovered": 81
         }
       },
@@ -3195,8 +3231,11 @@
         }
       },
       "Sambalpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 15,
+          "confirmed": 16,
           "recovered": 5
         }
       },
@@ -3207,21 +3246,24 @@
         }
       },
       "Sundargarh": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 74,
           "recovered": 39
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T17:32:05+05:30",
+      "last_updated": "2020-06-04T11:23:06+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/284?single"
       }
     },
     "total": {
-      "confirmed": 2388,
+      "confirmed": 2478,
       "deceased": 9,
       "recovered": 1416,
       "tested": 162891
@@ -4295,20 +4337,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 363
+      "confirmed": 453
     },
     "meta": {
-      "last_updated": "2020-06-04T09:32:04+05:30",
+      "last_updated": "2020-06-04T11:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
       }
     },
     "total": {
-      "confirmed": 217187,
+      "confirmed": 217277,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104071,
+      "recovered": 104059,
       "tested": 4103233
     }
   },

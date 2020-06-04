@@ -3444,7 +3444,7 @@
   "MN": {
     "delta": {
       "confirmed": 19,
-      "recovered": 24,
+      "recovered": 12,
       "tested": 3858
     },
     "districts": {
@@ -3550,12 +3550,9 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "recovered": 12
-        },
         "total": {
           "confirmed": 28,
-          "recovered": 18
+          "recovered": 6
         }
       }
     },
@@ -3567,7 +3564,7 @@
     },
     "total": {
       "confirmed": 108,
-      "recovered": 38,
+      "recovered": 26,
       "tested": 12454
     }
   },
@@ -5790,7 +5787,7 @@
     "delta": {
       "confirmed": 9638,
       "deceased": 259,
-      "recovered": 3786,
+      "recovered": 3774,
       "tested": 137158
     },
     "meta": {
@@ -5803,7 +5800,7 @@
       "confirmed": 216824,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104071,
+      "recovered": 104059,
       "tested": 4103233
     }
   },
