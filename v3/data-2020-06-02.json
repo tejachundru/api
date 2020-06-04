@@ -926,6 +926,7 @@
   "CT": {
     "delta": {
       "confirmed": 15,
+      "deceased": 1,
       "recovered": 9,
       "tested": 2472
     },
@@ -1097,7 +1098,11 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": -2
+          "confirmed": -2,
+          "deceased": 1
+        },
+        "total": {
+          "deceased": 1
         }
       },
       "Uttar Bastar Kanker": {
@@ -1115,7 +1120,7 @@
     },
     "total": {
       "confirmed": 562,
-      "deceased": 1,
+      "deceased": 2,
       "recovered": 130,
       "tested": 77168
     }
@@ -5588,7 +5593,7 @@
   "TT": {
     "delta": {
       "confirmed": 8815,
-      "deceased": 221,
+      "deceased": 222,
       "recovered": 4531,
       "tested": 128868
     },
@@ -5600,7 +5605,7 @@
     },
     "total": {
       "confirmed": 207186,
-      "deceased": 5829,
+      "deceased": 5830,
       "migrated": 11,
       "recovered": 100285,
       "tested": 3966075

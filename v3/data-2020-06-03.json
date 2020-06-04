@@ -1156,6 +1156,11 @@
           "recovered": 4
         }
       },
+      "Unknown": {
+        "total": {
+          "deceased": 1
+        }
+      },
       "Uttar Bastar Kanker": {
         "delta": {
           "recovered": 6
@@ -1174,7 +1179,7 @@
     },
     "total": {
       "confirmed": 626,
-      "deceased": 1,
+      "deceased": 2,
       "recovered": 170,
       "tested": 80416
     }
@@ -5798,7 +5803,7 @@
     },
     "total": {
       "confirmed": 216826,
-      "deceased": 6088,
+      "deceased": 6089,
       "migrated": 11,
       "recovered": 104074,
       "tested": 4103233

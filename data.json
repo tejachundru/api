@@ -1118,11 +1118,11 @@
 		},
 		{
 			"dailyconfirmed": "8815",
-			"dailydeceased": "221",
+			"dailydeceased": "222",
 			"dailyrecovered": "4531",
 			"date": "02 June ",
 			"totalconfirmed": "207187",
-			"totaldeceased": "5828",
+			"totaldeceased": "5829",
 			"totalrecovered": "100285"
 		},
 		{
@@ -1131,19 +1131,19 @@
 			"dailyrecovered": "3789",
 			"date": "03 June ",
 			"totalconfirmed": "216827",
-			"totaldeceased": "6087",
+			"totaldeceased": "6088",
 			"totalrecovered": "104074"
 		}
 	],
 	"statewise": [
 		{
-			"active": "107491",
-			"confirmed": "217967",
-			"deaths": "6093",
-			"deltaconfirmed": "1141",
+			"active": "107584",
+			"confirmed": "218061",
+			"deaths": "6094",
+			"deltaconfirmed": "1235",
 			"deltadeaths": "5",
 			"deltarecovered": "297",
-			"lastupdatedtime": "04/06/2020 17:14:03",
+			"lastupdatedtime": "04/06/2020 17:44:03",
 			"migratedother": "",
 			"recovered": "104371",
 			"state": "Total",
@@ -1277,13 +1277,13 @@
 			"statenotes": "Deaths due to comorbidities added to total deceased"
 		},
 		{
-			"active": "2370",
-			"confirmed": "4420",
+			"active": "2464",
+			"confirmed": "4514",
 			"deaths": "25",
-			"deltaconfirmed": "94",
+			"deltaconfirmed": "188",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/06/2020 14:31:10",
+			"lastupdatedtime": "04/06/2020 17:44:05",
 			"migratedother": "",
 			"recovered": "2025",
 			"state": "Bihar",
@@ -1445,13 +1445,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "488",
+			"active": "487",
 			"confirmed": "678",
-			"deaths": "1",
+			"deaths": "2",
 			"deltaconfirmed": "52",
 			"deltadeaths": "0",
 			"deltarecovered": "19",
-			"lastupdatedtime": "04/06/2020 12:42:31",
+			"lastupdatedtime": "04/06/2020 17:44:08",
 			"migratedother": "",
 			"recovered": "189",
 			"state": "Chhattisgarh",
