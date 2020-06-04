@@ -210,7 +210,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 5,
+      "tested": 474
     },
     "districts": {
       "Changlang": {
@@ -267,20 +268,21 @@
     "meta": {
       "last_updated": "2020-06-04T23:03:11+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/295"
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/312"
       }
     },
     "total": {
       "confirmed": 42,
       "recovered": 1,
-      "tested": 9551
+      "tested": 10025
     }
   },
   "AS": {
     "delta": {
       "confirmed": 285,
-      "recovered": 46
+      "recovered": 46,
+      "tested": 6303
     },
     "districts": {
       "Baksa": {
@@ -543,8 +545,8 @@
       "last_updated": "2020-06-05T00:37:05+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/nhm_assam/status/1268230494988230656?s=19"
+        "last_updated": "2020-06-04",
+        "source": "https://twitter.com/nhm_assam/status/1268576420630073347?s=09"
       }
     },
     "total": {
@@ -552,7 +554,7 @@
       "deceased": 4,
       "migrated": 3,
       "recovered": 460,
-      "tested": 126726
+      "tested": 133029
     }
   },
   "BR": {
