@@ -6464,13 +6464,14 @@
       "delta": {
         "confirmed": 1513,
         "deceased": 59,
-        "recovered": 299
+        "recovered": 299,
+        "tested": 6538
       },
       "total": {
         "confirmed": 23645,
         "deceased": 615,
         "recovered": 9542,
-        "tested": 223607
+        "tested": 230145
       }
     },
     "2020-06-04": {
@@ -6478,7 +6479,7 @@
         "confirmed": 23645,
         "deceased": 615,
         "recovered": 9542,
-        "tested": 223607
+        "tested": 230145
       }
     }
   },
