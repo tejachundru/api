@@ -1712,7 +1712,8 @@
       "last_updated": "2020-06-04T19:06:22+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-04"
+        "last_updated": "2020-06-04",
+        "source": "https://twitter.com/nhm_hp/status/1267846904345497601"
       }
     },
     "total": {
@@ -2761,7 +2762,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T21:03:09+05:30",
+      "last_updated": "2020-06-04T21:07:06+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://twitter.com/ladags/status/1267782995483561985?s=20"
@@ -3763,26 +3764,40 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 26
+        },
         "total": {
-          "confirmed": 31
+          "confirmed": 57
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 16
+          "confirmed": 17
+        }
+      },
+      "Peren": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 5
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 22
-        },
-        "total": {
-          "confirmed": 31
+          "confirmed": -9
         }
       }
     },
@@ -5368,7 +5383,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T21:03:06+05:30",
+      "last_updated": "2020-06-04T21:04:20+05:30",
       "tested": {
         "last_updated": "2020-06-02",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/275"
@@ -5388,7 +5403,7 @@
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T21:03:03+05:30",
+      "last_updated": "2020-06-04T21:07:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
