@@ -1181,7 +1181,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T01:13:06+05:30",
+      "last_updated": "2020-06-05T01:17:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/TS_SinghDeo/status/1268579834189447169?s=20"
@@ -1287,25 +1287,29 @@
   },
   "DN": {
     "delta": {
+      "confirmed": 3,
       "tested": 311
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 11,
+          "confirmed": 14,
           "recovered": 1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T21:23:10+05:30",
+      "last_updated": "2020-06-05T01:23:07+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/DnhPublicity/status/1268577221683396618/photo/1"
       }
     },
     "total": {
-      "confirmed": 11,
+      "confirmed": 14,
       "recovered": 1,
       "tested": 12375
     }
@@ -5885,21 +5889,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9835,
+      "confirmed": 9838,
       "deceased": 274,
       "migrated": 1,
       "recovered": 4386,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-05T01:13:03+05:30",
+      "last_updated": "2020-06-05T01:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 226710,
+      "confirmed": 226713,
       "deceased": 6363,
       "migrated": 12,
       "recovered": 108450,
