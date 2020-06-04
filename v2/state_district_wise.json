@@ -5299,8 +5299,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 10,
-        "confirmed": 28,
+        "active": 13,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 18,
         "delta": {
@@ -8102,12 +8102,12 @@
       {
         "district": "Railway Quarantine",
         "notes": "",
-        "active": 183,
-        "confirmed": 205,
+        "active": 223,
+        "confirmed": 245,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 40,
           "deceased": 0,
           "recovered": 0
         }
@@ -8128,12 +8128,12 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 0,
-        "confirmed": 3,
+        "active": -3,
+        "confirmed": 0,
         "deceased": 3,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -3,
           "deceased": 0,
           "recovered": 0
         }
@@ -8622,8 +8622,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 32,
-        "confirmed": 40,
+        "active": -8,
+        "confirmed": 0,
         "deceased": 8,
         "recovered": 0,
         "delta": {

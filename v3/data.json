@@ -4017,7 +4017,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:02:08+05:30",
+      "last_updated": "2020-06-04T20:09:53+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/kbssidhu1961/status/1268175385046536197?s=19"
@@ -4622,7 +4622,7 @@
   },
   "TN": {
     "delta": {
-      "confirmed": 1387,
+      "confirmed": 1384,
       "deceased": 23,
       "recovered": 578
     },
@@ -4811,8 +4811,10 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": -3
+        },
         "total": {
-          "confirmed": 3,
           "deceased": 3
         }
       },
@@ -4836,17 +4838,12 @@
         }
       },
       "Railway Quarantine": {
-        "total": {
-          "confirmed": 205,
-          "recovered": 22
-        }
-      },
-      "Raiway Quarantine": {
         "delta": {
           "confirmed": 40
         },
         "total": {
-          "confirmed": 40
+          "confirmed": 245,
+          "recovered": 22
         }
       },
       "Ramanathapuram": {
@@ -5035,7 +5032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T20:02:05+05:30",
+      "last_updated": "2020-06-04T20:13:43+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-03",
@@ -5043,7 +5040,7 @@
       }
     },
     "total": {
-      "confirmed": 27259,
+      "confirmed": 27256,
       "deceased": 231,
       "recovered": 14894,
       "tested": 528534
@@ -5118,20 +5115,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3907,
+      "confirmed": 3904,
       "deceased": 64,
       "recovered": 1545,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T20:02:03+05:30",
+      "last_updated": "2020-06-04T20:13:10+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 220733,
+      "confirmed": 220730,
       "deceased": 6153,
       "migrated": 11,
       "recovered": 105609,
