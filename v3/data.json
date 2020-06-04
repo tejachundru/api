@@ -36,24 +36,36 @@
     },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 231,
+          "confirmed": 238,
           "deceased": 4,
-          "recovered": 164
+          "recovered": 165
         }
       },
       "Chittoor": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 272,
+          "confirmed": 281,
           "deceased": 4,
-          "recovered": 198
+          "recovered": 207
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 250,
+          "confirmed": 252,
           "deceased": 2,
-          "recovered": 64
+          "recovered": 72
         }
       },
       "Foreign Evacuees": {
@@ -66,24 +78,37 @@
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 8,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 527,
-          "deceased": 8,
+          "confirmed": 535,
+          "deceased": 9,
           "recovered": 390
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 11,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 486,
-          "deceased": 19,
+          "confirmed": 497,
+          "deceased": 20,
           "recovered": 337
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 5,
+          "deceased": 1,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 740,
-          "deceased": 26,
-          "recovered": 577
+          "confirmed": 745,
+          "deceased": 27,
+          "recovered": 580
         }
       },
       "Other State": {
@@ -97,16 +122,23 @@
         }
       },
       "Prakasam": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 81,
+          "confirmed": 84,
           "recovered": 67
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 22,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 261,
+          "confirmed": 283,
           "deceased": 4,
-          "recovered": 179
+          "recovered": 186
         }
       },
       "Srikakulam": {
@@ -117,38 +149,46 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 98,
-          "deceased": 3,
-          "recovered": 29
+          "recovered": 1
         },
         "total": {
-          "confirmed": 98,
-          "deceased": 3,
-          "recovered": 37
+          "recovered": 9
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 107,
+          "confirmed": 110,
           "deceased": 1,
           "recovered": 73
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 30,
           "recovered": 13
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 135,
+          "confirmed": 145,
           "recovered": 57
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 134,
+          "confirmed": 148,
           "recovered": 114
         }
       }
@@ -2693,7 +2733,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T13:35:07+05:30",
+      "last_updated": "2020-06-04T13:42:18+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/DiprManipur/status/1268195568372740096?s=09"
@@ -4467,7 +4507,7 @@
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T13:35:03+05:30",
+      "last_updated": "2020-06-04T13:42:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
