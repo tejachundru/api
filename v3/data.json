@@ -1845,7 +1845,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T19:53:06+05:30",
+      "last_updated": "2020-06-04T19:57:11+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%203-06-2020%20Evening.pdf"
@@ -3823,10 +3823,17 @@
     }
   },
   "PB": {
+    "delta": {
+      "confirmed": 35,
+      "recovered": 18
+    },
     "districts": {
       "Amritsar": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 389,
+          "confirmed": 404,
           "deceased": 7,
           "recovered": 313
         }
@@ -3839,9 +3846,13 @@
         }
       },
       "Bathinda": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 50,
-          "recovered": 43
+          "confirmed": 53,
+          "recovered": 45
         }
       },
       "Faridkot": {
@@ -3857,8 +3868,11 @@
         }
       },
       "Fazilka": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 45,
           "recovered": 44
         }
       },
@@ -3870,24 +3884,33 @@
         }
       },
       "Gurdaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 143,
+          "confirmed": 144,
           "deceased": 3,
           "recovered": 131
         }
       },
       "Hoshiarpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 131,
+          "confirmed": 132,
           "deceased": 5,
           "recovered": 116
         }
       },
       "Jalandhar": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 260,
           "deceased": 8,
-          "recovered": 209
+          "recovered": 220
         }
       },
       "Kapurthala": {
@@ -3898,10 +3921,14 @@
         }
       },
       "Ludhiana": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 201,
+          "confirmed": 207,
           "deceased": 9,
-          "recovered": 151
+          "recovered": 152
         }
       },
       "Mansa": {
@@ -3917,8 +3944,11 @@
         }
       },
       "Pathankot": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 76,
+          "confirmed": 80,
           "deceased": 3,
           "recovered": 41
         }
@@ -3931,35 +3961,51 @@
         }
       },
       "Rupnagar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 70,
+          "confirmed": 71,
           "deceased": 1,
           "recovered": 59
         }
       },
       "S.A.S. Nagar": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 120,
           "deceased": 3,
-          "recovered": 100
+          "recovered": 103
         }
       },
       "Sangrur": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 102,
-          "recovered": 91
+          "confirmed": 103,
+          "recovered": 92
         }
       },
       "Shahid Bhagat Singh Nagar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 106,
+          "confirmed": 107,
           "deceased": 1,
           "recovered": 100
         }
       },
       "Sri Muktsar Sahib": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 69,
           "recovered": 66
         }
       },
@@ -3971,16 +4017,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T19:35:23+05:30",
+      "last_updated": "2020-06-04T20:02:08+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/kbssidhu1961/status/1268175385046536197?s=19"
       }
     },
     "total": {
-      "confirmed": 2376,
+      "confirmed": 2411,
       "deceased": 47,
-      "recovered": 2029,
+      "recovered": 2047,
       "tested": 101036
     }
   },
@@ -4575,85 +4621,138 @@
     }
   },
   "TN": {
+    "delta": {
+      "confirmed": 1387,
+      "deceased": 23,
+      "recovered": 578
+    },
     "districts": {
       "Airport Quarantine": {
+        "delta": {
+          "confirmed": 15,
+          "deceased": 1,
+          "recovered": 14
+        },
         "total": {
-          "confirmed": 126,
-          "recovered": 32
+          "confirmed": 141,
+          "deceased": 1,
+          "recovered": 46
         }
       },
       "Ariyalur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 370,
+          "confirmed": 372,
           "recovered": 359
         }
       },
       "Chengalpattu": {
+        "delta": {
+          "confirmed": 174,
+          "deceased": 4,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 1363,
-          "deceased": 10,
-          "recovered": 671
+          "confirmed": 1537,
+          "deceased": 14,
+          "recovered": 678
         }
       },
       "Chennai": {
+        "delta": {
+          "confirmed": 1106,
+          "deceased": 14,
+          "recovered": 425
+        },
         "total": {
-          "confirmed": 17587,
-          "deceased": 153,
-          "recovered": 9034
+          "confirmed": 18693,
+          "deceased": 167,
+          "recovered": 9459
         }
       },
       "Coimbatore": {
+        "delta": {
+          "confirmed": -6
+        },
         "total": {
-          "confirmed": 159,
+          "confirmed": 153,
           "deceased": 1,
           "recovered": 144
         }
       },
       "Cuddalore": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 470,
+          "confirmed": 472,
           "deceased": 1,
           "recovered": 432
         }
       },
       "Dharmapuri": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 11,
           "recovered": 5
         }
       },
       "Dindigul": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 146,
+          "confirmed": 148,
           "deceased": 2,
-          "recovered": 123
+          "recovered": 124
         }
       },
       "Erode": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 72,
           "deceased": 1,
           "recovered": 70
         }
       },
       "Kallakurichi": {
+        "delta": {
+          "confirmed": -7,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 259,
-          "recovered": 145
+          "confirmed": 252,
+          "recovered": 153
         }
       },
       "Kancheepuram": {
+        "delta": {
+          "confirmed": 24,
+          "deceased": 1,
+          "recovered": 25
+        },
         "total": {
-          "confirmed": 441,
-          "deceased": 2,
-          "recovered": 267
+          "confirmed": 465,
+          "deceased": 3,
+          "recovered": 292
         }
       },
       "Kanyakumari": {
+        "delta": {
+          "confirmed": -5,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 81,
+          "confirmed": 76,
           "deceased": 1,
-          "recovered": 43
+          "recovered": 48
         }
       },
       "Karur": {
@@ -4663,34 +4762,51 @@
         }
       },
       "Krishnagiri": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 28,
-          "recovered": 20
+          "confirmed": 29,
+          "recovered": 21
         }
       },
       "Madurai": {
+        "delta": {
+          "confirmed": -3,
+          "recovered": 16
+        },
         "total": {
-          "confirmed": 286,
+          "confirmed": 283,
           "deceased": 3,
-          "recovered": 177
+          "recovered": 193
         }
       },
       "Nagapattinam": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 64,
+          "confirmed": 72,
           "recovered": 51
         }
       },
       "Namakkal": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 83,
+          "confirmed": 85,
           "deceased": 1,
           "recovered": 77
         }
       },
       "Nilgiris": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 15,
+          "confirmed": 14,
           "recovered": 14
         }
       },
@@ -4701,14 +4817,20 @@
         }
       },
       "Perambalur": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 143,
+          "confirmed": 142,
           "recovered": 139
         }
       },
       "Pudukkottai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "deceased": 1,
           "recovered": 18
         }
@@ -4719,55 +4841,94 @@
           "recovered": 22
         }
       },
-      "Ramanathapuram": {
+      "Raiway Quarantine": {
+        "delta": {
+          "confirmed": 40
+        },
         "total": {
-          "confirmed": 92,
+          "confirmed": 40
+        }
+      },
+      "Ramanathapuram": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
+        "total": {
+          "confirmed": 93,
           "deceased": 1,
-          "recovered": 54
+          "recovered": 58
         }
       },
       "Ranipet": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 108,
-          "recovered": 85
+          "recovered": 92
         }
       },
       "Salem": {
+        "delta": {
+          "confirmed": -14,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 223,
-          "recovered": 54
+          "confirmed": 209,
+          "recovered": 64
         }
       },
       "Sivaganga": {
+        "delta": {
+          "confirmed": -1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 35,
-          "recovered": 29
+          "confirmed": 34,
+          "recovered": 30
         }
       },
       "Tenkasi": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 94,
-          "recovered": 73
+          "confirmed": 96,
+          "recovered": 77
         }
       },
       "Thanjavur": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 102,
-          "recovered": 80
+          "confirmed": 103,
+          "recovered": 83
         }
       },
       "Theni": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 115,
+          "confirmed": 119,
           "deceased": 2,
           "recovered": 99
         }
       },
       "Thiruvallur": {
+        "delta": {
+          "confirmed": 43,
+          "deceased": 1,
+          "recovered": 15
+        },
         "total": {
-          "confirmed": 1081,
-          "deceased": 10,
-          "recovered": 630
+          "confirmed": 1124,
+          "deceased": 11,
+          "recovered": 645
         }
       },
       "Thiruvarur": {
@@ -4777,28 +4938,44 @@
         }
       },
       "Thoothukkudi": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 295,
+          "confirmed": 301,
           "deceased": 2,
-          "recovered": 157
+          "recovered": 162
         }
       },
       "Tiruchirappalli": {
+        "delta": {
+          "confirmed": 3,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 97,
+          "confirmed": 100,
+          "deceased": 1,
           "recovered": 76
         }
       },
       "Tirunelveli": {
+        "delta": {
+          "confirmed": -3,
+          "recovered": 15
+        },
         "total": {
-          "confirmed": 384,
+          "confirmed": 381,
           "deceased": 1,
-          "recovered": 279
+          "recovered": 294
         }
       },
       "Tirupathur": {
+        "delta": {
+          "confirmed": -6
+        },
         "total": {
-          "confirmed": 42,
+          "confirmed": 36,
           "recovered": 29
         }
       },
@@ -4809,10 +4986,14 @@
         }
       },
       "Tiruvannamalai": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 461,
+          "confirmed": 470,
           "deceased": 2,
-          "recovered": 150
+          "recovered": 153
         }
       },
       "Unknown": {
@@ -4821,28 +5002,40 @@
         }
       },
       "Vellore": {
-        "total": {
-          "confirmed": 51,
+        "delta": {
+          "confirmed": 1,
           "deceased": 1,
-          "recovered": 37
+          "recovered": 1
+        },
+        "total": {
+          "confirmed": 52,
+          "deceased": 2,
+          "recovered": 38
         }
       },
       "Viluppuram": {
+        "delta": {
+          "confirmed": -21
+        },
         "total": {
-          "confirmed": 377,
+          "confirmed": 356,
           "deceased": 2,
           "recovered": 323
         }
       },
       "Virudhunagar": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 128,
-          "recovered": 90
+          "confirmed": 136,
+          "recovered": 98
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T20:36:05+05:30",
+      "last_updated": "2020-06-04T20:02:05+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-03",
@@ -4850,9 +5043,9 @@
       }
     },
     "total": {
-      "confirmed": 25872,
-      "deceased": 208,
-      "recovered": 14316,
+      "confirmed": 27259,
+      "deceased": 231,
+      "recovered": 14894,
       "tested": 528534
     }
   },
@@ -4925,23 +5118,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2485,
-      "deceased": 41,
-      "recovered": 949,
+      "confirmed": 3907,
+      "deceased": 64,
+      "recovered": 1545,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T19:53:03+05:30",
+      "last_updated": "2020-06-04T20:02:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 219311,
-      "deceased": 6130,
+      "confirmed": 220733,
+      "deceased": 6153,
       "migrated": 11,
-      "recovered": 105013,
+      "recovered": 105609,
       "tested": 4242718
     }
   },
@@ -6087,7 +6280,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T19:47:07+05:30",
+      "last_updated": "2020-06-04T19:55:08+05:30",
       "notes": "Deaths due to comorbidities added to total deceased",
       "tested": {
         "last_updated": "2020-06-03",
