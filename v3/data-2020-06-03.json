@@ -3444,10 +3444,18 @@
   "MN": {
     "delta": {
       "confirmed": 19,
-      "recovered": 12,
+      "recovered": 24,
       "tested": 3858
     },
     "districts": {
+      "Aizawl": {
+        "delta": {
+          "recovered": 1
+        },
+        "total": {
+          "recovered": 1
+        }
+      },
       "Bishnupur": {
         "delta": {
           "confirmed": 1
@@ -3501,6 +3509,14 @@
         "total": {
           "confirmed": 2,
           "recovered": 2
+        }
+      },
+      "Kolasib": {
+        "delta": {
+          "recovered": 11
+        },
+        "total": {
+          "recovered": 11
         }
       },
       "Noney": {
@@ -3564,7 +3580,7 @@
     },
     "total": {
       "confirmed": 108,
-      "recovered": 26,
+      "recovered": 38,
       "tested": 12454
     }
   },
@@ -5787,7 +5803,7 @@
     "delta": {
       "confirmed": 9638,
       "deceased": 259,
-      "recovered": 3774,
+      "recovered": 3786,
       "tested": 137158
     },
     "meta": {
@@ -5800,7 +5816,7 @@
       "confirmed": 216824,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104059,
+      "recovered": 104071,
       "tested": 4103233
     }
   },

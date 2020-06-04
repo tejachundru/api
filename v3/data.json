@@ -2498,6 +2498,11 @@
   },
   "MN": {
     "districts": {
+      "Aizawl": {
+        "total": {
+          "recovered": 1
+        }
+      },
       "Bishnupur": {
         "total": {
           "confirmed": 3
@@ -2535,6 +2540,11 @@
         "total": {
           "confirmed": 2,
           "recovered": 2
+        }
+      },
+      "Kolasib": {
+        "total": {
+          "recovered": 11
         }
       },
       "Noney": {
@@ -2584,7 +2594,7 @@
     },
     "total": {
       "confirmed": 108,
-      "recovered": 26,
+      "recovered": 38,
       "tested": 12454
     }
   },
@@ -2994,6 +3004,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 22
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3011,20 +3024,23 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 22
+        },
         "total": {
-          "confirmed": 9
+          "confirmed": 31
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T09:46:06+05:30",
+      "last_updated": "2020-06-04T11:36:07+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/MyGovNagaland/status/1268171512235864066?s=20"
       }
     },
     "total": {
-      "confirmed": 58,
+      "confirmed": 80,
       "tested": 3414
     }
   },
@@ -3256,7 +3272,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T11:23:06+05:30",
+      "last_updated": "2020-06-04T11:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/284?single"
@@ -4337,21 +4353,22 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 453
+      "confirmed": 475,
+      "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T11:23:03+05:30",
+      "last_updated": "2020-06-04T11:36:03+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
+        "last_updated": "2020-06-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 217277,
+      "confirmed": 217299,
       "deceased": 6088,
       "migrated": 11,
-      "recovered": 104059,
-      "tested": 4103233
+      "recovered": 104071,
+      "tested": 4242718
     }
   },
   "UN": {

@@ -1137,13 +1137,13 @@
 	],
 	"statewise": [
 		{
-			"active": "107106",
-			"confirmed": "217277",
+			"active": "107128",
+			"confirmed": "217299",
 			"deaths": "6088",
-			"deltaconfirmed": "453",
+			"deltaconfirmed": "475",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/06/2020 11:23:03",
+			"lastupdatedtime": "04/06/2020 11:36:03",
 			"migratedother": "",
 			"recovered": "104071",
 			"state": "Total",
@@ -1367,7 +1367,7 @@
 			"deltaconfirmed": "90",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/06/2020 11:23:06",
+			"lastupdatedtime": "04/06/2020 11:34:48",
 			"migratedother": "",
 			"recovered": "1416",
 			"state": "Odisha",
@@ -1557,13 +1557,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "58",
-			"confirmed": "58",
+			"active": "80",
+			"confirmed": "80",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "22",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/06/2020 09:46:06",
+			"lastupdatedtime": "04/06/2020 11:36:07",
 			"migratedother": "",
 			"recovered": "0",
 			"state": "Nagaland",
@@ -2859,6 +2859,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "4103233",
 			"updatetimestamp": "03/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "139485",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/294",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "4242718",
+			"updatetimestamp": "04/06/2020 09:00:00"
 		}
 	]
 }
