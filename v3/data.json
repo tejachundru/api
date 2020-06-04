@@ -2275,17 +2275,28 @@
     }
   },
   "KL": {
+    "delta": {
+      "confirmed": 94,
+      "deceased": 3,
+      "recovered": 39
+    },
     "districts": {
       "Alappuzha": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 66,
+          "confirmed": 74,
           "deceased": 1,
           "recovered": 8
         }
       },
       "Ernakulam": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 63,
           "deceased": 1,
           "recovered": 28
         }
@@ -2297,43 +2308,66 @@
         }
       },
       "Kannur": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 234,
+          "confirmed": 240,
           "deceased": 2,
-          "recovered": 128
+          "recovered": 135
         }
       },
       "Kasaragod": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 303,
+          "confirmed": 315,
           "recovered": 205
         }
       },
       "Kollam": {
+        "delta": {
+          "confirmed": 11,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 89,
+          "deceased": 1,
           "recovered": 25
         }
       },
       "Kottayam": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 59,
+          "confirmed": 64,
           "deceased": 1,
           "recovered": 38
         }
       },
       "Kozhikode": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 88,
           "deceased": 1,
-          "recovered": 38
+          "recovered": 43
         }
       },
       "Malappuram": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 138,
+          "confirmed": 146,
           "deceased": 1,
-          "recovered": 50
+          "recovered": 58
         }
       },
       "Other State": {
@@ -2342,46 +2376,72 @@
         }
       },
       "Palakkad": {
+        "delta": {
+          "confirmed": 7,
+          "deceased": 1,
+          "recovered": 13
+        },
         "total": {
-          "confirmed": 167,
-          "recovered": 17
+          "confirmed": 174,
+          "deceased": 1,
+          "recovered": 30
         }
       },
       "Pathanamthitta": {
+        "delta": {
+          "confirmed": 14,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 55,
-          "recovered": 21
+          "confirmed": 69,
+          "recovered": 22
         }
       },
       "Thiruvananthapuram": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 85,
+          "confirmed": 90,
           "deceased": 3,
-          "recovered": 29
+          "recovered": 30
         }
       },
       "Thrissur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 83,
+          "confirmed": 87,
           "deceased": 1,
-          "recovered": 19
+          "recovered": 21
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 7,
+          "deceased": 1
         }
       },
       "Wayanad": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 39,
           "deceased": 1,
-          "recovered": 21
+          "recovered": 23
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T18:36:23+05:30",
+      "last_updated": "2020-06-04T18:23:06+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-03",
@@ -2389,9 +2449,9 @@
       }
     },
     "total": {
-      "confirmed": 1495,
-      "deceased": 12,
-      "recovered": 651,
+      "confirmed": 1589,
+      "deceased": 15,
+      "recovered": 690,
       "tested": 95348
     }
   },
@@ -4688,23 +4748,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1141,
-      "deceased": 5,
-      "recovered": 297,
+      "confirmed": 1235,
+      "deceased": 8,
+      "recovered": 336,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T18:04:03+05:30",
+      "last_updated": "2020-06-04T18:23:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 217967,
-      "deceased": 6094,
+      "confirmed": 218061,
+      "deceased": 6097,
       "migrated": 11,
-      "recovered": 104371,
+      "recovered": 104410,
       "tested": 4242718
     }
   },
