@@ -540,7 +540,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T00:34:05+05:30",
+      "last_updated": "2020-06-05T00:37:05+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -2054,7 +2054,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 46,
+      "confirmed": 63,
       "deceased": 1,
       "recovered": 69
     },
@@ -2240,6 +2240,14 @@
           "recovered": 13
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 17
+        },
+        "total": {
+          "confirmed": 17
+        }
+      },
       "West Singhbhum": {
         "delta": {
           "recovered": 1
@@ -2251,14 +2259,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:25:07+05:30",
+      "last_updated": "2020-06-05T00:39:06+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://twitter.com/RanchiPIB/status/1268229061140082688?s=09"
       }
     },
     "total": {
-      "confirmed": 810,
+      "confirmed": 827,
       "deceased": 6,
       "recovered": 366,
       "tested": 74499
@@ -5782,7 +5790,7 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 175,
+      "confirmed": 24,
       "tested": 657
     },
     "districts": {
@@ -5797,7 +5805,7 @@
       },
       "Gomati": {
         "delta": {
-          "confirmed": 34
+          "confirmed": 9
         },
         "total": {
           "confirmed": 85,
@@ -5806,7 +5814,7 @@
       },
       "Khowai": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 1
         },
         "total": {
           "confirmed": 24,
@@ -5815,7 +5823,7 @@
       },
       "North Tripura": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 2
         },
         "total": {
           "confirmed": 12,
@@ -5824,7 +5832,7 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 79
+          "confirmed": 1
         },
         "total": {
           "confirmed": 181,
@@ -5833,16 +5841,13 @@
       },
       "South Tripura": {
         "delta": {
-          "confirmed": 28
+          "confirmed": 8
         },
         "total": {
           "confirmed": 58
         }
       },
       "Unokoti": {
-        "delta": {
-          "confirmed": 2
-        },
         "total": {
           "confirmed": 49,
           "recovered": 1
@@ -5850,7 +5855,7 @@
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 20
+          "confirmed": 2
         },
         "total": {
           "confirmed": 42
@@ -5872,21 +5877,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9952,
+      "confirmed": 9818,
       "deceased": 274,
       "migrated": 1,
       "recovered": 4386,
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-05T00:34:03+05:30",
+      "last_updated": "2020-06-05T00:39:04+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 226676,
+      "confirmed": 226693,
       "deceased": 6363,
       "migrated": 12,
       "recovered": 108450,

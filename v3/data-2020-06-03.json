@@ -5707,6 +5707,7 @@
   },
   "TR": {
     "delta": {
+      "confirmed": 151,
       "tested": 1415
     },
     "districts": {
@@ -5717,43 +5718,64 @@
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 25
+        },
         "total": {
-          "confirmed": 51,
+          "confirmed": 76,
           "recovered": 2
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 23,
           "recovered": 1
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 4
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 78
+        },
         "total": {
-          "confirmed": 102,
+          "confirmed": 180,
           "recovered": 2
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 30
+          "confirmed": 50
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 49,
           "recovered": 1
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 22
+          "confirmed": 40
         }
       }
     },
@@ -5764,14 +5786,14 @@
       }
     },
     "total": {
-      "confirmed": 471,
+      "confirmed": 622,
       "recovered": 173,
       "tested": 30481
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 9538,
+      "confirmed": 9689,
       "deceased": 259,
       "recovered": 3789,
       "tested": 137158
@@ -5783,7 +5805,7 @@
       }
     },
     "total": {
-      "confirmed": 216724,
+      "confirmed": 216875,
       "deceased": 6089,
       "migrated": 11,
       "recovered": 104064,
