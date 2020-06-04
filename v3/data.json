@@ -265,7 +265,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:52:12+05:30",
+      "last_updated": "2020-06-04T23:02:14+05:30",
       "tested": {
         "last_updated": "2020-06-03",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/295"
@@ -535,7 +535,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:52:07+05:30",
+      "last_updated": "2020-06-04T23:02:08+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-03",
@@ -969,7 +969,8 @@
   "CT": {
     "delta": {
       "confirmed": 130,
-      "recovered": 36
+      "recovered": 36,
+      "tested": 2525
     },
     "districts": {
       "Balod": {
@@ -1167,17 +1168,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:52:08+05:30",
+      "last_updated": "2020-06-04T23:02:10+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/HealthCgGov/status/1268186561474166785/photo/1"
+        "last_updated": "2020-06-04"
       }
     },
     "total": {
       "confirmed": 756,
       "deceased": 2,
       "recovered": 206,
-      "tested": 80416
+      "tested": 82941
     }
   },
   "DL": {
@@ -4992,7 +4992,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:52:04+05:30",
+      "last_updated": "2020-06-04T23:02:04+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/ANI/status/1268570392039288838?s=20"
@@ -5794,7 +5794,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T22:52:10+05:30",
+      "last_updated": "2020-06-04T23:02:12+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/303"
@@ -5815,7 +5815,7 @@
       "tested": 139485
     },
     "meta": {
-      "last_updated": "2020-06-04T22:52:03+05:30",
+      "last_updated": "2020-06-04T23:02:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
