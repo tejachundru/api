@@ -3757,6 +3757,7 @@
   "PB": {
     "delta": {
       "confirmed": 46,
+      "deceased": 1,
       "recovered": 26
     },
     "districts": {
@@ -3949,16 +3950,18 @@
       "Tarn Taran": {
         "delta": {
           "confirmed": 2,
+          "deceased": 1,
           "recovered": 1
         },
         "total": {
           "confirmed": 159,
+          "deceased": 1,
           "recovered": 154
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T18:52:50+05:30",
+      "last_updated": "2020-06-05T19:03:48+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2004-06-2020.pdf"
@@ -3966,7 +3969,7 @@
     },
     "total": {
       "confirmed": 2461,
-      "deceased": 47,
+      "deceased": 48,
       "recovered": 2069,
       "tested": 106933
     }
@@ -5040,12 +5043,12 @@
   "TT": {
     "delta": {
       "confirmed": 2918,
-      "deceased": 18,
+      "deceased": 19,
       "recovered": 1438,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T18:52:46+05:30",
+      "last_updated": "2020-06-05T19:03:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
@@ -5053,7 +5056,7 @@
     },
     "total": {
       "confirmed": 229640,
-      "deceased": 6381,
+      "deceased": 6382,
       "migrated": 12,
       "recovered": 109892,
       "tested": 4386379
