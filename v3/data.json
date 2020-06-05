@@ -2247,6 +2247,11 @@
           "recovered": 21
         }
       },
+      "Unknown": {
+        "total": {
+          "confirmed": -12
+        }
+      },
       "Wayanad": {
         "total": {
           "confirmed": 39,
@@ -2264,7 +2269,7 @@
       }
     },
     "total": {
-      "confirmed": 1589,
+      "confirmed": 1577,
       "deceased": 15,
       "recovered": 690,
       "tested": 99692
@@ -4571,7 +4576,7 @@
       }
     },
     "total": {
-      "confirmed": 227273,
+      "confirmed": 227261,
       "deceased": 6367,
       "migrated": 12,
       "recovered": 108623,
