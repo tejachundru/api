@@ -469,6 +469,7 @@
   },
   "BR": {
     "delta": {
+      "confirmed": 99,
       "deceased": 1,
       "recovered": 113
     },
@@ -769,6 +770,14 @@
           "recovered": 39
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 99
+        },
+        "total": {
+          "confirmed": 99
+        }
+      },
       "Vaishali": {
         "delta": {
           "recovered": 10
@@ -787,14 +796,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T17:35:47+05:30",
+      "last_updated": "2020-06-05T17:43:47+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/PIB_Patna/status/1268520472284667904"
       }
     },
     "total": {
-      "confirmed": 4452,
+      "confirmed": 4551,
       "deceased": 29,
       "recovered": 2233,
       "tested": 88313
@@ -3278,32 +3287,38 @@
   "OR": {
     "delta": {
       "confirmed": 130,
-      "deceased": 1
+      "deceased": 1,
+      "recovered": 123
     },
     "districts": {
       "Angul": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 31,
-          "recovered": 24
+          "recovered": 25
         }
       },
       "Balangir": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 14
         },
         "total": {
           "confirmed": 105,
-          "recovered": 24
+          "recovered": 38
         }
       },
       "Balasore": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 179,
           "deceased": 1,
-          "recovered": 134
+          "recovered": 137
         }
       },
       "Bargarh": {
@@ -3332,12 +3347,13 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 23
+          "confirmed": 23,
+          "recovered": 22
         },
         "total": {
           "confirmed": 154,
           "deceased": 1,
-          "recovered": 58
+          "recovered": 80
         }
       },
       "Deogarh": {
@@ -3348,11 +3364,12 @@
       },
       "Dhenkanal": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 2
         },
         "total": {
           "confirmed": 33,
-          "recovered": 4
+          "recovered": 6
         }
       },
       "Gajapati": {
@@ -3366,12 +3383,13 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 35
         },
         "total": {
           "confirmed": 533,
           "deceased": 3,
-          "recovered": 354
+          "recovered": 389
         }
       },
       "Jagatsinghpur": {
@@ -3409,20 +3427,22 @@
       },
       "Kandhamal": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 7
         },
         "total": {
           "confirmed": 25,
-          "recovered": 6
+          "recovered": 13
         }
       },
       "Kendrapara": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 4
         },
         "total": {
           "confirmed": 163,
-          "recovered": 95
+          "recovered": 99
         }
       },
       "Kendujhar": {
@@ -3437,21 +3457,23 @@
       "Khordha": {
         "delta": {
           "confirmed": 22,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 10
         },
         "total": {
           "confirmed": 217,
           "deceased": 5,
-          "recovered": 77
+          "recovered": 87
         }
       },
       "Koraput": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 6
         },
         "total": {
           "confirmed": 14,
-          "recovered": 1
+          "recovered": 7
         }
       },
       "Malkangiri": {
@@ -3462,11 +3484,12 @@
       },
       "Mayurbhanj": {
         "delta": {
-          "confirmed": 22
+          "confirmed": 22,
+          "recovered": 1
         },
         "total": {
           "confirmed": 57,
-          "recovered": 14
+          "recovered": 15
         }
       },
       "Nabarangapur": {
@@ -3476,14 +3499,21 @@
         }
       },
       "Nayagarh": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 76,
-          "recovered": 45
+          "recovered": 48
         }
       },
       "Nuapada": {
+        "delta": {
+          "recovered": 14
+        },
         "total": {
-          "confirmed": 60
+          "confirmed": 60,
+          "recovered": 14
         }
       },
       "Puri": {
@@ -3520,16 +3550,17 @@
       },
       "Sundargarh": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 1
         },
         "total": {
           "confirmed": 81,
-          "recovered": 39
+          "recovered": 40
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T11:16:06+05:30",
+      "last_updated": "2020-06-05T17:43:49+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/297?single"
@@ -3538,7 +3569,7 @@
     "total": {
       "confirmed": 2608,
       "deceased": 10,
-      "recovered": 1481,
+      "recovered": 1604,
       "tested": 165824
     }
   },
@@ -4656,23 +4687,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 654,
+      "confirmed": 753,
       "deceased": 5,
-      "recovered": 303,
+      "recovered": 426,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T17:35:45+05:30",
+      "last_updated": "2020-06-05T17:43:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 227376,
+      "confirmed": 227475,
       "deceased": 6368,
       "migrated": 12,
-      "recovered": 108757,
+      "recovered": 108880,
       "tested": 4386379
     }
   },
