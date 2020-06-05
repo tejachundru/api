@@ -3935,8 +3935,11 @@
         }
       },
       "Sehore": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 11,
+          "confirmed": 15,
           "deceased": 2,
           "recovered": 4
         }
@@ -3958,14 +3961,6 @@
           "confirmed": 11,
           "deceased": 1,
           "recovered": 8
-        }
-      },
-      "Sheohar": {
-        "delta": {
-          "confirmed": 4
-        },
-        "total": {
-          "confirmed": 4
         }
       },
       "Sheopur": {
