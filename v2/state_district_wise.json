@@ -297,12 +297,12 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 28,
-        "confirmed": 28,
+        "active": 31,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -388,12 +388,12 @@
       {
         "district": "Lohit",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -598,19 +598,6 @@
         "notes": "",
         "active": 1,
         "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2665,12 +2652,12 @@
       {
         "district": "Bilaspur",
         "notes": "",
-        "active": 11,
-        "confirmed": 20,
+        "active": 12,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2678,12 +2665,12 @@
       {
         "district": "Chamba",
         "notes": "",
-        "active": 15,
-        "confirmed": 28,
+        "active": 16,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2691,14 +2678,14 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 64,
+        "active": 63,
         "confirmed": 120,
         "deceased": 1,
-        "recovered": 55,
+        "recovered": 56,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 7
         }
       },
       {
@@ -2730,12 +2717,12 @@
       {
         "district": "Kullu",
         "notes": "",
-        "active": 2,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2756,14 +2743,14 @@
       {
         "district": "Mandi",
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 20,
         "deceased": 2,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2808,12 +2795,12 @@
       {
         "district": "Una",
         "notes": "",
-        "active": 15,
-        "confirmed": 40,
+        "active": 16,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
