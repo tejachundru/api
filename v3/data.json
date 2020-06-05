@@ -309,11 +309,11 @@
       "Cachar": {
         "delta": {
           "confirmed": 7,
-          "recovered": 1
+          "recovered": -1
         },
         "total": {
           "confirmed": 80,
-          "recovered": 67
+          "recovered": 65
         }
       },
       "Charaideo": {
@@ -412,19 +412,19 @@
         }
       },
       "Kamrup": {
-        "total": {
-          "confirmed": 115,
-          "recovered": 6
-        }
-      },
-      "Kamrup Metropolitan": {
         "delta": {
           "recovered": 13
         },
         "total": {
+          "confirmed": 115,
+          "recovered": 19
+        }
+      },
+      "Kamrup Metropolitan": {
+        "total": {
           "confirmed": 391,
           "deceased": 3,
-          "recovered": 263
+          "recovered": 250
         }
       },
       "Karbi Anglong": {
@@ -490,11 +490,11 @@
       "Sonitpur": {
         "delta": {
           "confirmed": 5,
-          "recovered": 11
+          "recovered": 13
         },
         "total": {
           "confirmed": 28,
-          "recovered": 24
+          "recovered": 26
         }
       },
       "South Salmara Mankachar": {
@@ -531,7 +531,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T00:22:49+05:30",
+      "last_updated": "2020-06-06T00:34:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -5801,7 +5801,7 @@
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-06T00:22:46+05:30",
+      "last_updated": "2020-06-06T00:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"

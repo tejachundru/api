@@ -680,14 +680,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 13,
+        "active": 15,
         "confirmed": 80,
         "deceased": 0,
-        "recovered": 67,
+        "recovered": 65,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 1
+          "recovered": -1
         }
       },
       {
@@ -849,27 +849,27 @@
       {
         "district": "Kamrup",
         "notes": "",
-        "active": 109,
+        "active": 96,
         "confirmed": 115,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 125,
+        "active": 138,
         "confirmed": 391,
         "deceased": 3,
-        "recovered": 263,
+        "recovered": 250,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 13
+          "recovered": 0
         }
       },
       {
@@ -1005,14 +1005,14 @@
       {
         "district": "Sonitpur",
         "notes": "",
-        "active": 4,
+        "active": 2,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 24,
+        "recovered": 26,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 11
+          "recovered": 13
         }
       },
       {
