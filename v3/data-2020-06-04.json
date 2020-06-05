@@ -2864,11 +2864,12 @@
       "Malappuram": {
         "delta": {
           "confirmed": 8,
+          "deceased": 1,
           "recovered": 8
         },
         "total": {
           "confirmed": 146,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 58
         }
       },
@@ -2919,14 +2920,6 @@
           "confirmed": 87,
           "deceased": 1,
           "recovered": 21
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "deceased": 1
-        },
-        "total": {
-          "deceased": 1
         }
       },
       "Wayanad": {

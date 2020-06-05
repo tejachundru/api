@@ -4294,9 +4294,9 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 87,
+        "active": 86,
         "confirmed": 146,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 58,
         "delta": {
           "confirmed": 0,
@@ -4363,19 +4363,6 @@
         "confirmed": 39,
         "deceased": 1,
         "recovered": 23,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 1,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
