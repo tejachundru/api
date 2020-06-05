@@ -2031,7 +2031,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 62,
+      "confirmed": 95,
       "deceased": 1,
       "recovered": 69,
       "tested": 2456
@@ -2060,8 +2060,11 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 70,
+          "confirmed": 71,
           "recovered": 10
         }
       },
@@ -2073,21 +2076,21 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 14,
+          "confirmed": 27,
           "recovered": 21
         },
         "total": {
-          "confirmed": 138,
+          "confirmed": 151,
           "recovered": 43
         }
       },
       "Garhwa": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 6,
           "recovered": 10
         },
         "total": {
-          "confirmed": 82,
+          "confirmed": 78,
           "recovered": 68
         }
       },
@@ -2106,19 +2109,19 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 29
+          "confirmed": 27
         }
       },
       "Hazaribagh": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 24,
           "recovered": 10
         },
         "total": {
-          "confirmed": 91,
+          "confirmed": 111,
           "recovered": 55
         }
       },
@@ -2129,29 +2132,26 @@
         }
       },
       "Khunti": {
-        "delta": {
-          "confirmed": 3
-        },
         "total": {
-          "confirmed": 11
+          "confirmed": 8
         }
       },
       "Koderma": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 72,
+          "confirmed": 60,
           "deceased": 1,
           "recovered": 25
         }
       },
       "Latehar": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 20,
           "recovered": 7
         }
       },
@@ -2182,10 +2182,11 @@
       },
       "Ramgarh": {
         "delta": {
+          "confirmed": 7,
           "recovered": 5
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 56,
           "recovered": 10
         }
       },
@@ -2208,25 +2209,25 @@
       },
       "Saraikela-Kharsawan": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 15
+          "confirmed": 19
         }
       },
       "Simdega": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 31,
           "recovered": 11
         },
         "total": {
-          "confirmed": 43,
+          "confirmed": 64,
           "recovered": 24
         }
       },
       "Unknown": {
-        "total": {
-          "confirmed": 17
+        "delta": {
+          "confirmed": -17
         }
       },
       "West Singhbhum": {
@@ -2240,14 +2241,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T10:55:06+05:30",
+      "last_updated": "2020-06-06T00:53:49+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
       }
     },
     "total": {
-      "confirmed": 889,
+      "confirmed": 922,
       "deceased": 7,
       "recovered": 435,
       "tested": 80097
@@ -3451,7 +3452,7 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 8,
+      "confirmed": 13,
       "tested": 2175
     },
     "districts": {
@@ -3534,21 +3535,24 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 36,
           "recovered": 18
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T19:42:50+05:30",
+      "last_updated": "2020-06-06T00:53:52+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6412"
       }
     },
     "total": {
-      "confirmed": 132,
+      "confirmed": 137,
       "recovered": 38,
       "tested": 14629
     }
@@ -5732,22 +5736,35 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 48,
+      "tested": 1162
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 195,
+          "confirmed": 196,
           "recovered": 163
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 85,
+          "confirmed": 86,
           "recovered": 2
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 24,
+          "confirmed": 25,
           "recovered": 1
         }
       },
@@ -5758,57 +5775,69 @@
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 28
+        },
         "total": {
-          "confirmed": 181,
+          "confirmed": 209,
           "recovered": 2
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 58
+          "confirmed": 68
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 49,
+          "confirmed": 50,
           "recovered": 1
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 42
+          "confirmed": 48
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T23:03:09+05:30",
+      "last_updated": "2020-06-06T00:53:50+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/303"
+        "last_updated": "2020-06-05",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/324"
       }
     },
     "total": {
-      "confirmed": 646,
+      "confirmed": 694,
       "recovered": 173,
-      "tested": 31138
+      "tested": 32300
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 9369,
+      "confirmed": 9455,
       "deceased": 286,
       "recovered": 4777,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-06T00:34:46+05:30",
+      "last_updated": "2020-06-06T00:53:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 236091,
+      "confirmed": 236177,
       "deceased": 6649,
       "migrated": 12,
       "recovered": 113231,

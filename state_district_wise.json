@@ -2929,12 +2929,12 @@
       },
       "Dhanbad": {
         "notes": "",
-        "active": 60,
-        "confirmed": 70,
+        "active": 61,
+        "confirmed": 71,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2953,24 +2953,24 @@
       },
       "East Singhbhum": {
         "notes": "",
-        "active": 95,
-        "confirmed": 138,
+        "active": 108,
+        "confirmed": 151,
         "deceased": 0,
         "recovered": 43,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 27,
           "deceased": 0,
           "recovered": 21
         }
       },
       "Garhwa": {
         "notes": "",
-        "active": 14,
-        "confirmed": 82,
+        "active": 10,
+        "confirmed": 78,
         "deceased": 0,
         "recovered": 68,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 10
         }
@@ -3001,24 +3001,24 @@
       },
       "Gumla": {
         "notes": "",
-        "active": 29,
-        "confirmed": 29,
+        "active": 27,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Hazaribagh": {
         "notes": "",
-        "active": 36,
-        "confirmed": 91,
+        "active": 56,
+        "confirmed": 111,
         "deceased": 0,
         "recovered": 55,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 10
         }
@@ -3037,36 +3037,36 @@
       },
       "Khunti": {
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Koderma": {
         "notes": "",
-        "active": 46,
-        "confirmed": 72,
+        "active": 34,
+        "confirmed": 60,
         "deceased": 1,
         "recovered": 25,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Latehar": {
         "notes": "",
-        "active": 8,
-        "confirmed": 15,
+        "active": 13,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -3109,12 +3109,12 @@
       },
       "Ramgarh": {
         "notes": "",
-        "active": 39,
-        "confirmed": 49,
+        "active": 46,
+        "confirmed": 56,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 5
         }
@@ -3145,24 +3145,24 @@
       },
       "Saraikela-Kharsawan": {
         "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Simdega": {
         "notes": "",
-        "active": 19,
-        "confirmed": 43,
+        "active": 40,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 24,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 31,
           "deceased": 0,
           "recovered": 11
         }
@@ -3177,18 +3177,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 17,
-        "confirmed": 17,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },
@@ -4877,8 +4865,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 13,
-        "confirmed": 31,
+        "active": 18,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 18,
         "delta": {
@@ -7956,36 +7944,36 @@
     "districtData": {
       "Dhalai": {
         "notes": "",
-        "active": 32,
-        "confirmed": 195,
+        "active": 33,
+        "confirmed": 196,
         "deceased": 0,
         "recovered": 163,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Gomati": {
         "notes": "",
-        "active": 83,
-        "confirmed": 85,
+        "active": 84,
+        "confirmed": 86,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Khowai": {
         "notes": "",
-        "active": 23,
-        "confirmed": 24,
+        "active": 24,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -8004,48 +7992,48 @@
       },
       "Sipahijala": {
         "notes": "",
-        "active": 179,
-        "confirmed": 181,
+        "active": 207,
+        "confirmed": 209,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 28,
           "deceased": 0,
           "recovered": 0
         }
       },
       "South Tripura": {
         "notes": "",
-        "active": 58,
-        "confirmed": 58,
+        "active": 68,
+        "confirmed": 68,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unokoti": {
         "notes": "",
-        "active": 48,
-        "confirmed": 49,
+        "active": 49,
+        "confirmed": 50,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "West Tripura": {
         "notes": "",
-        "active": 42,
-        "confirmed": 42,
+        "active": 48,
+        "confirmed": 48,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
