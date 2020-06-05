@@ -2704,27 +2704,27 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 68,
-        "confirmed": 118,
+        "active": 64,
+        "confirmed": 120,
         "deceased": 1,
-        "recovered": 49,
+        "recovered": 55,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
         "district": "Kangra",
         "notes": "",
-        "active": 49,
-        "confirmed": 98,
+        "active": 50,
+        "confirmed": 101,
         "deceased": 1,
-        "recovered": 48,
+        "recovered": 50,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -2782,12 +2782,12 @@
       {
         "district": "Shimla",
         "notes": "",
-        "active": 2,
-        "confirmed": 11,
+        "active": 3,
+        "confirmed": 12,
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4410,19 +4410,6 @@
         "recovered": 35,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -9759,13 +9746,13 @@
         "district": "Almora",
         "notes": "",
         "active": 46,
-        "confirmed": 64,
-        "deceased": 0,
-        "recovered": 18,
+        "confirmed": 69,
+        "deceased": 1,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 5,
+          "deceased": 1,
+          "recovered": 4
         }
       },
       {
@@ -9784,12 +9771,12 @@
       {
         "district": "Chamoli",
         "notes": "",
-        "active": 25,
-        "confirmed": 25,
+        "active": 27,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -9797,12 +9784,12 @@
       {
         "district": "Champawat",
         "notes": "",
-        "active": 28,
-        "confirmed": 36,
+        "active": 30,
+        "confirmed": 38,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -9810,27 +9797,27 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 261,
-        "confirmed": 324,
+        "active": 274,
+        "confirmed": 339,
         "deceased": 7,
-        "recovered": 53,
+        "recovered": 55,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 73,
-        "confirmed": 86,
+        "active": 70,
+        "confirmed": 87,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -9849,12 +9836,12 @@
       {
         "district": "Pauri Garhwal",
         "notes": "",
-        "active": 32,
-        "confirmed": 42,
+        "active": 33,
+        "confirmed": 43,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9875,25 +9862,25 @@
       {
         "district": "Rudraprayag",
         "notes": "",
-        "active": 8,
-        "confirmed": 8,
+        "active": 20,
+        "confirmed": 22,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Tehri Garhwal",
         "notes": "",
-        "active": 96,
-        "confirmed": 101,
+        "active": 102,
+        "confirmed": 107,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }

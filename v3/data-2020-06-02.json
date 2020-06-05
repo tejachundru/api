@@ -2825,19 +2825,13 @@
       },
       "Leh": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 1
         },
         "total": {
           "confirmed": 42,
+          "deceased": 1,
           "recovered": 34
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "deceased": 1
-        },
-        "total": {
-          "deceased": 1
         }
       }
     },
