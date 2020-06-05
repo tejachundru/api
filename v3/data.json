@@ -254,7 +254,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T01:12:54+05:30",
+      "last_updated": "2020-06-06T01:20:51+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/312"
@@ -1787,7 +1787,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T01:12:52+05:30",
+      "last_updated": "2020-06-06T01:20:48+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-05",
@@ -5060,6 +5060,7 @@
   },
   "SK": {
     "delta": {
+      "confirmed": 1,
       "tested": 403
     },
     "districts": {
@@ -5072,17 +5073,25 @@
         "total": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-03T19:08:18+05:30",
+      "last_updated": "2020-06-06T01:22:50+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/315"
       }
     },
     "total": {
-      "confirmed": 2,
+      "confirmed": 3,
       "tested": 4761
     }
   },
@@ -5837,20 +5846,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9461,
+      "confirmed": 9462,
       "deceased": 286,
       "recovered": 4779,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-06T01:12:48+05:30",
+      "last_updated": "2020-06-06T01:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 236183,
+      "confirmed": 236184,
       "deceased": 6649,
       "migrated": 12,
       "recovered": 113233,
