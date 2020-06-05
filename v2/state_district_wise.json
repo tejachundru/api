@@ -1102,12 +1102,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 29,
-        "confirmed": 75,
+        "active": 35,
+        "confirmed": 81,
         "deceased": 0,
         "recovered": 46,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1154,12 +1154,12 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 57,
-        "confirmed": 98,
+        "active": 58,
+        "confirmed": 99,
         "deceased": 2,
         "recovered": 39,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1180,12 +1180,12 @@
       {
         "district": "Darbhanga",
         "notes": "",
-        "active": 67,
-        "confirmed": 121,
+        "active": 71,
+        "confirmed": 125,
         "deceased": 0,
         "recovered": 54,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 8
         }
@@ -1193,12 +1193,12 @@
       {
         "district": "East Champaran",
         "notes": "",
-        "active": 50,
-        "confirmed": 116,
+        "active": 53,
+        "confirmed": 119,
         "deceased": 1,
         "recovered": 65,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 16
         }
@@ -1206,12 +1206,12 @@
       {
         "district": "Gaya",
         "notes": "",
-        "active": 59,
-        "confirmed": 95,
+        "active": 69,
+        "confirmed": 105,
         "deceased": 0,
         "recovered": 36,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 7
         }
@@ -1219,12 +1219,12 @@
       {
         "district": "Gopalganj",
         "notes": "",
-        "active": 54,
-        "confirmed": 128,
+        "active": 55,
+        "confirmed": 129,
         "deceased": 0,
         "recovered": 74,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1297,12 +1297,12 @@
       {
         "district": "Kishanganj",
         "notes": "",
-        "active": 60,
-        "confirmed": 79,
+        "active": 65,
+        "confirmed": 84,
         "deceased": 0,
         "recovered": 19,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1349,12 +1349,12 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 26,
-        "confirmed": 160,
+        "active": 33,
+        "confirmed": 167,
         "deceased": 1,
         "recovered": 133,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 1
         }
@@ -1362,12 +1362,12 @@
       {
         "district": "Muzaffarpur",
         "notes": "",
-        "active": 43,
-        "confirmed": 74,
+        "active": 45,
+        "confirmed": 76,
         "deceased": 0,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1414,12 +1414,12 @@
       {
         "district": "Purnia",
         "notes": "",
-        "active": 83,
-        "confirmed": 119,
+        "active": 84,
+        "confirmed": 120,
         "deceased": 0,
         "recovered": 36,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1453,12 +1453,12 @@
       {
         "district": "Samastipur",
         "notes": "",
-        "active": 49,
-        "confirmed": 104,
+        "active": 50,
+        "confirmed": 105,
         "deceased": 1,
         "recovered": 54,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 3
         }
@@ -1518,12 +1518,12 @@
       {
         "district": "Siwan",
         "notes": "",
-        "active": 49,
-        "confirmed": 103,
+        "active": 54,
+        "confirmed": 108,
         "deceased": 2,
         "recovered": 52,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1561,6 +1561,19 @@
         "confirmed": 52,
         "deceased": 0,
         "recovered": 35,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2108,10 +2121,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 13660,
-        "confirmed": 24216,
-        "deceased": 658,
-        "recovered": 9898,
+        "active": 14524,
+        "confirmed": 25546,
+        "deceased": 707,
+        "recovered": 10315,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
