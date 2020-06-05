@@ -788,10 +788,10 @@
       },
       "Rohtas": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 13
         },
         "total": {
-          "confirmed": 229,
+          "confirmed": 230,
           "deceased": 1,
           "recovered": 154
         }
@@ -804,11 +804,11 @@
       },
       "Samastipur": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 3
         },
         "total": {
-          "confirmed": 104,
+          "confirmed": 105,
           "deceased": 1,
           "recovered": 54
         }
@@ -872,14 +872,6 @@
           "recovered": 39
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
-        }
-      },
       "Vaishali": {
         "delta": {
           "recovered": 10
@@ -898,7 +890,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T21:12:49+05:30",
+      "last_updated": "2020-06-05T21:15:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/PIB_Patna/status/1268862294320123905"
@@ -1195,7 +1187,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T21:12:47+05:30",
+      "last_updated": "2020-06-05T21:15:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-04",
@@ -1261,7 +1253,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T21:10:51+05:30",
+      "last_updated": "2020-06-05T21:14:53+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/DHS_Goa/status/1268574470593114113?s=19"
@@ -2401,7 +2393,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T21:10:49+05:30",
+      "last_updated": "2020-06-05T21:14:51+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/diprjk/status/1268562845098299392/photo/2"
@@ -5572,7 +5564,7 @@
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T21:12:46+05:30",
+      "last_updated": "2020-06-05T21:15:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
