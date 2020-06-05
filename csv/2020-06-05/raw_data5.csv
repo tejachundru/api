@@ -1,4 +1,5 @@
 Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,Detected District,Detected State,State code,Num Cases,Current Status,Contracted from which Patient (Suspected),Notes,Source_1,Source_2,Source_3,Nationality,Type of transmission,Status Change Date,Patient Number
+28356,,23/05/2020,,,,,Manipur,MN,0,Hospitalized,,Two cases added based on the total mentioned in the tweet. MOHFW also reported +2 than us in 24th morning update,https://twitter.com/ANI/status/1264451912960634880,,,,,,57292
 28223,,24/05/2020,,,,Unassigned,State Unassigned,UN,439,Hospitalized,,,mohfw.gov.in,,,,,,57159
 28224,,24/05/2020,,,,Ganjam,Odisha,OR,7,Hospitalized,,All in quarantine centres.1 Surat returnee and 6 local cases,https://health.odisha.gov.in/covid19-dashboard.html,,,,,,57160
 28225,,24/05/2020,,,,Puri,Odisha,OR,16,Hospitalized,,"15 in quarantine centres. 11 Surat, 1 TN & 3 WB returnees. 1 local case in home quarantine",https://health.odisha.gov.in/covid19-dashboard.html,,,,,,57161
@@ -132,7 +133,6 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 28353,,24/05/2020,,,,,Andhra Pradesh,AP,66,Hospitalized,,,https://t.me/indiacovid/5438,,,,,,57289
 28354,,24/05/2020,,,,,Andhra Pradesh,AP,29,Recovered,,,https://t.me/indiacovid/5438,,,,,,57290
 28355,,24/05/2020,,,,Kargil,Ladakh,LA,3,Hospitalized,,,https://twitter.com/ladags/status/1264478443887923203?s=19,,,,,,57291
-28356,,23/05/2020,,,,,Manipur,MN,0,Hospitalized,,Two cases added based on the total mentioned in the tweet. MOHFW also reported +2 than us in 24th morning update,https://twitter.com/ANI/status/1264451912960634880,,,,,,57292
 28357,,24/05/2020,,,,,Manipur,MN,3,Hospitalized,,,https://twitter.com/ANI/status/1264451912960634880,,,,,,57293
 28358,,24/05/2020,,,,,Andhra Pradesh,AP,33,Recovered,,To reconcile total active cases (762 domicile cases + 119 Other state cases = 883 active),https://t.me/indiacovid/5438,,,,,,57294
 28359,,24/05/2020,,,,Ganjam,Odisha,OR,30,Recovered,,,https://twitter.com/HFWOdisha/status/1264481504241029120?s=19,,,,,,57295
@@ -1648,6 +1648,14 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 29869,,24/05/2020,,,,,Bihar,BR,49,Recovered,,,https://twitter.com/PIB_Patna/status/1264535576906211328,,,,,,58805
 29870,,24/05/2020,,,,,Tripura,TR,3,Hospitalized,,All of them have returned from #Delhi by Rajdhani Express.,https://twitter.com/BjpBiplab/status/1264598852021223424,,,,,,58806
 29871,,24/05/2020,,M,,Papum Pare,Arunachal Pradesh,AR,1,Hospitalized,,Asymptomatic. Travelled from Delhi,https://twitter.com/PemaKhanduBJP/status/1264595551674195970?s=20,,,,,,58807
+29909,,24/05/2020,,,,Amritsar,Punjab,PB,2,Recovered,,Reconciling based on bulletin,http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2024-05-2020.pdf,,,,,,58845
+29910,,24/05/2020,,,,Tarn Taran,Punjab,PB,-2,Recovered,,Reconciling based on bulletin,http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2024-05-2020.pdf,,,,,,58846
+29913,,24/05/2020,,,,,Manipur,MN,1,Recovered,,,https://t.me/indiacovid/5461,,,,,,58849
+29914,,24/05/2020,,,,,Manipur,MN,1,Recovered,,Making total active cases 30,https://t.me/indiacovid/5461,https://nenow.in/health/3-more-test-covid19-positive-in-manipur-state-count-rises-to-32.html,,,,,58850
+30214,,24/05/2020,,,,Hamirpur,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59150
+30215,,24/05/2020,,,,Kangra,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59151
+30216,,24/05/2020,,,,Una,Himachal Pradesh,HP,6,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59152
+30217,,24/05/2020,,,,,Himachal Pradesh,HP,-8,Hospitalized,,24th Night Split for District,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59153
 29872,,25/05/2020,,,,Unassigned,State Unassigned,UN,304,Hospitalized,,,mohfw.gov.in,,,,,,58808
 29873,,25/05/2020,,,,Alwar,Rajasthan,RJ,5,Hospitalized,,,https://twitter.com/ANI/status/1264772770346352640/photo/2,,,,,,58809
 29874,,25/05/2020,,,,Dholpur,Rajasthan,RJ,1,Hospitalized,,,https://twitter.com/ANI/status/1264772770346352640/photo/2,,,,,,58810
@@ -1685,12 +1693,8 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 29906,,25/05/2020,,,,Bargarh,Odisha,OR,1,Hospitalized,,,https://t.me/indiacovid/5460,,,,,,58842
 29907,,25/05/2020,,,,Khordha,Odisha,OR,5,Hospitalized,,,https://t.me/indiacovid/5460,,,,,,58843
 29908,,25/05/2020,,,,Kendrapara,Odisha,OR,15,Hospitalized,,,https://t.me/indiacovid/5460,,,,,,58844
-29909,,24/05/2020,,,,Amritsar,Punjab,PB,2,Recovered,,Reconciling based on bulletin,http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2024-05-2020.pdf,,,,,,58845
-29910,,24/05/2020,,,,Tarn Taran,Punjab,PB,-2,Recovered,,Reconciling based on bulletin,http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2024-05-2020.pdf,,,,,,58846
 29911,MN-P33,25/05/2020,26,M,,Churachandpur,Manipur,MN,1,Hospitalized,,,https://twitter.com/ANI/status/1264814366685192193?s=19,,,,,,58847
 29912,MN-P34,25/05/2020,21,M,,Noney,Manipur,MN,1,Hospitalized,,,https://twitter.com/ANI/status/1264814366685192193?s=19,,,,,,58848
-29913,,24/05/2020,,,,,Manipur,MN,1,Recovered,,,https://t.me/indiacovid/5461,,,,,,58849
-29914,,24/05/2020,,,,,Manipur,MN,1,Recovered,,Making total active cases 30,https://t.me/indiacovid/5461,https://nenow.in/health/3-more-test-covid19-positive-in-manipur-state-count-rises-to-32.html,,,,,58850
 29915,,25/05/2020,,,,,Andhra Pradesh,AP,44,Hospitalized,,,https://t.me/indiacovid/5466,,,,,,58851
 29916,,25/05/2020,,,,Foreign Evacuees,Andhra Pradesh,AP,62,Hospitalized,,,https://t.me/indiacovid/5466,,,,,,58852
 29917,,25/05/2020,,,,,Andhra Pradesh,AP,41,Recovered,,,https://t.me/indiacovid/5466,,,,,,58853
@@ -1990,10 +1994,6 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 30211,,25/05/2020,,,,Nalbari,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1264894402951962629,,,,,,59147
 30212,,25/05/2020,,,,Morigaon,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1264894402951962629,,,,,,59148
 30213,,25/05/2020,,,,Goalpara,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1264894402951962629,,,,,,59149
-30214,,24/05/2020,,,,Hamirpur,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59150
-30215,,24/05/2020,,,,Kangra,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59151
-30216,,24/05/2020,,,,Una,Himachal Pradesh,HP,6,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59152
-30217,,24/05/2020,,,,,Himachal Pradesh,HP,-8,Hospitalized,,24th Night Split for District,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59153
 30218,,25/05/2020,,,,,Himachal Pradesh,HP,-6,Hospitalized,,25th Noon Bulletin split based on 5PM Bulletin,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59154
 30219,,25/05/2020,,,,Chamba,Himachal Pradesh,HP,4,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59155
 30220,,25/05/2020,,,,Hamirpur,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1264896004769214464,,,,,,59156
@@ -3293,7 +3293,6 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 31511,,25/05/2020,,,,,Chhattisgarh,CT,-7,Hospitalized,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_25052020.pdf,,,,,,60447
 31512,,25/05/2020,,,,Bokaro,Jharkhand,JH,2,Hospitalized,,,https://twitter.com/ANI/status/1264949027310714880,,,,,,60448
 31513,,25/05/2020,,,,Barpeta,Assam,AS,9,Hospitalized,,,https://twitter.com/himantabiswa/status/1264993147358072832,,,,,,60449
-31514,,26/05/2020,,,,Unassigned,State Unassigned,UN,328,Hospitalized,,,mohfw.gov.in,,,,,,60450
 31515,,25/05/2020,,,,Mumbai,Maharashtra,MH,501,Recovered,,,,,,,,,60451
 31516,,25/05/2020,,,,Thane,Maharashtra,MH,337,Recovered,,,,,,,,,60452
 31517,,25/05/2020,,,,Pune,Maharashtra,MH,109,Recovered,,,,,,,,,60453
@@ -3314,6 +3313,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 31532,,25/05/2020,,,,Latur,Maharashtra,MH,10,Recovered,,,,,,,,,60468
 31533,,25/05/2020,,,,Jalna,Maharashtra,MH,2,Recovered,,,,,,,,,60469
 31534,,25/05/2020,,,,Osmanabad,Maharashtra,MH,2,Recovered,,,,,,,,,60470
+31514,,26/05/2020,,,,Unassigned,State Unassigned,UN,328,Hospitalized,,,mohfw.gov.in,,,,,,60450
 31535,,26/05/2020,,,,Bharatpur,Rajasthan,RJ,1,Hospitalized,,,https://twitter.com/PIBJaipur/status/1265126464594178050?s=20,https://twitter.com/ANI/status/1265130444699217922/photo/1,,,,,60471
 31536,,26/05/2020,,,,Bikaner,Rajasthan,RJ,5,Hospitalized,,,https://twitter.com/PIBJaipur/status/1265126464594178050?s=20,https://twitter.com/ANI/status/1265130444699217922/photo/1,,,,,60472
 31537,,26/05/2020,,,,Dholpur,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/PIBJaipur/status/1265126464594178050?s=20,https://twitter.com/ANI/status/1265130444699217922/photo/1,,,,,60473
@@ -4941,14 +4941,30 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 33159,,26/05/2020,,,,Kamrup Metropolitan,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1265347928979202048,,,,,,62095
 33160,,26/05/2020,,,,Kamrup,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1265347928979202048,,,,,,62096
 33161,,26/05/2020,,,,,Meghalaya,ML,5,Hospitalized,,Travelled from Delhi-Haryana,https://twitter.com/SangmaConrad/status/1265353786773639168,,,,,,62097
+33168,,26/05/2020,,,,,Tripura,TR,18,Hospitalized,,Travelled from Maharashtra by train,https://twitter.com/BjpBiplab/status/1265335775480217606,,,,,,62104
+33169,,26/05/2020,,,,,Tripura,TR,5,Hospitalized,,Contacts of positive cases,https://twitter.com/BjpBiplab/status/1265335775480217606,,,,,,62105
+34371,,26/05/2020,,,,Chennai,Tamil Nadu,TN,-1,Hospitalized,,*2 deaths cross notified to other states. #1 patient died after turning negative for infection,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63307
+34372,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63308
+34373,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63309
+34374,,26/05/2020,,,,Chengalpattu,Tamil Nadu,TN,-1,Hospitalized,,*2 deaths cross notified to other states. #1 patient died after turning negative for infection,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63310
+34375,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63311
+34376,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63312
+34470,,26/05/2020,63,F,Dharmadam,Kannur,Kerala,KL,1,Deceased,,,https://twitter.com/ANI/status/1264973729848627205,,,,,,63406
+36261,,26/05/2020,,,,,Telangana,TG,41,Hospitalized,,"Telangana bulletin from 27th added these cases as cases from 26th (Not explicitly, but silently).",,,,,,,65197
+36840,,26/05/2020,,,,,Karnataka,KA,0,Recovered,,"To be Expanded, ** Total Discharges data reconciled with SSU",https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/27.05.2020%20EMB%20English.pdf,,,,,,65776
+36841,,26/05/2020,,,,Belagavi,Karnataka,KA,9,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65777
+36842,,26/05/2020,,,,Davanagere,Karnataka,KA,14,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65778
+36843,,26/05/2020,,,,Bagalkote,Karnataka,KA,-8,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65779
+36844,,26/05/2020,,,,Mandya,Karnataka,KA,1,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65780
+36845,,26/05/2020,,,,Bengaluru Urban,Karnataka,KA,-1,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65781
+36846,,26/05/2020,,,,Other State,Karnataka,KA,1,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65782
+42972,,26/05/2020,,,,Sabarkantha,Gujarat,GJ,-2,Recovered,,Correction in Recovery,https://gujcovid19.gujarat.gov.in/uploads/pressbrief2605262020082715071.pdf,,,,,,71908
 33162,,27/05/2020,,,,Unassigned,State Unassigned,UN,1043,Hospitalized,,,mohfw.gov.in,,,,,,62098
 33163,,27/05/2020,,,,Dimapur,Nagaland,NL,1,Hospitalized,,Travelled from Chennai,https://twitter.com/pangnyu/status/1265492516448743424,,,,,,62099
 33164,,27/05/2020,,,,Dimapur,Nagaland,NL,1,Hospitalized,,Travelled from Chennai,https://twitter.com/pangnyu/status/1265492516448743424,,,,,,62100
 33165,,27/05/2020,,,,Dimapur,Nagaland,NL,1,Hospitalized,,Travelled from Chennai,https://twitter.com/pangnyu/status/1265492516448743424,,,,,,62101
 33166,,27/05/2020,,,,Dimapur,Nagaland,NL,1,Hospitalized,,Travelled from Chennai,https://twitter.com/pangnyu/status/1265492516448743424,,,,,,62102
 33167,,27/05/2020,,,,Kohima,Nagaland,NL,1,Hospitalized,,Travelled from Chennai,https://twitter.com/pangnyu/status/1265492516448743424,,,,,,62103
-33168,,26/05/2020,,,,,Tripura,TR,18,Hospitalized,,Travelled from Maharashtra by train,https://twitter.com/BjpBiplab/status/1265335775480217606,,,,,,62104
-33169,,26/05/2020,,,,,Tripura,TR,5,Hospitalized,,Contacts of positive cases,https://twitter.com/BjpBiplab/status/1265335775480217606,,,,,,62105
 33170,KA-P808,27/05/2020,,,,Shivamogga,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1265548671548116998,,,,,,62106
 33171,KA-P809,27/05/2020,,,,Shivamogga,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1265548671548116998,,,,,,62107
 33172,KA-P813,27/05/2020,,,,Shivamogga,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1265548671548116998,,,,,,62108
@@ -6152,12 +6168,6 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 34368,,27/05/2020,,,,Morigaon,Assam,AS,5,Hospitalized,,,https://twitter.com/himantabiswa/status/1265629888502837248,,,,,,63304
 34369,,27/05/2020,,,,Darrang,Assam,AS,4,Hospitalized,,,https://twitter.com/himantabiswa/status/1265629888502837248,,,,,,63305
 34370,,27/05/2020,,,,Kamrup,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1265629888502837248,,,,,,63306
-34371,,26/05/2020,,,,Chennai,Tamil Nadu,TN,-1,Hospitalized,,*2 deaths cross notified to other states. #1 patient died after turning negative for infection,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63307
-34372,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63308
-34373,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63309
-34374,,26/05/2020,,,,Chengalpattu,Tamil Nadu,TN,-1,Hospitalized,,*2 deaths cross notified to other states. #1 patient died after turning negative for infection,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63310
-34375,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63311
-34376,,26/05/2020,,,,Other State,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf,,,,,,63312
 34377,,27/05/2020,,,,,Assam,AS,22,Recovered,,MMCH,https://twitter.com/himantabiswa/status/1265640148458405892,,,,,,63313
 34378,,27/05/2020,,,,,Assam,AS,2,Recovered,,SMCH,https://twitter.com/himantabiswa/status/1265640148458405892,,,,,,63314
 34379,,27/05/2020,,,,,Assam,AS,1,Recovered,,JMCH,https://twitter.com/himantabiswa/status/1265640148458405892,,,,,,63315
@@ -6251,7 +6261,6 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 34467,,27/05/2020,,,,Surat,Gujarat,GJ,2,Deceased,,,https://www.deshgujarat.com/2020/05/27/covid19-case-total-in-gujarat-crosses-15000-including-over-11000-cases-in-ahmedabad/,https://twitter.com/PIBAhmedabad/status/1265660967612035073?s=20,,,,,63403
 34468,,27/05/2020,,,,Mahisagar,Gujarat,GJ,1,Deceased,,,https://www.deshgujarat.com/2020/05/27/covid19-case-total-in-gujarat-crosses-15000-including-over-11000-cases-in-ahmedabad/,https://twitter.com/PIBAhmedabad/status/1265660967612035073?s=20,,,,,63404
 34469,,27/05/2020,,,,Vadodara,Gujarat,GJ,1,Deceased,,,https://www.deshgujarat.com/2020/05/27/covid19-case-total-in-gujarat-crosses-15000-including-over-11000-cases-in-ahmedabad/,https://twitter.com/PIBAhmedabad/status/1265660967612035073?s=20,,,,,63405
-34470,,26/05/2020,63,F,Dharmadam,Kannur,Kerala,KL,1,Deceased,,,https://twitter.com/ANI/status/1264973729848627205,,,,,,63406
 34471,,27/05/2020,,,,Hazaribagh,Jharkhand,JH,5,Hospitalized,,,https://twitter.com/ANI/status/1265653380476579840,,,,,,63407
 34472,,27/05/2020,,,,Latehar,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1265653380476579840,,,,,,63408
 34473,,27/05/2020,,,Chaibasa,West Singhbhum,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1265653380476579840,,,,,,63409
@@ -6615,6 +6624,29 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 34831,,27/05/2020,,,,Buldhana,Maharashtra,MH,1,Recovered,,,https://phdmah.maps.arcgis.com/apps/opsdashboard/index.html#/2cc0055832264c5296890745e9ea415c,,,,,,63767
 34832,,27/05/2020,,,,Washim,Maharashtra,MH,4,Recovered,,,https://phdmah.maps.arcgis.com/apps/opsdashboard/index.html#/2cc0055832264c5296890745e9ea415c,,,,,,63768
 34833,,27/05/2020,,,,Nagpur,Maharashtra,MH,1,Recovered,,,https://phdmah.maps.arcgis.com/apps/opsdashboard/index.html#/2cc0055832264c5296890745e9ea415c,,,,,,63769
+34844,,27/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/5627,,,,,,63780
+36523,,27/05/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1266030199470043137,,,,,,65459
+36548,,27/05/2020,,,,Chengalpattu,Tamil Nadu,TN,4,Hospitalized,,District Reconciliation,,,,,,,65484
+36549,,27/05/2020,,,,Chennai,Tamil Nadu,TN,4,Hospitalized,,District Reconciliation,,,,,,,65485
+36550,,27/05/2020,,,,Coimbatore,Tamil Nadu,TN,0,Hospitalized,,District Reconciliation,,,,,,,65486
+36551,,27/05/2020,,,,Cuddalore,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65487
+36552,,27/05/2020,,,,Kallakurichi,Tamil Nadu,TN,-8,Hospitalized,,District Reconciliation,,,,,,,65488
+36553,,27/05/2020,,,,Kancheepuram,Tamil Nadu,TN,3,Hospitalized,,District Reconciliation,,,,,,,65489
+36554,,27/05/2020,,,,Madurai,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65490
+36555,,27/05/2020,,,,Pudukkottai,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65491
+36556,,27/05/2020,,,,Ranipet,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65492
+36557,,27/05/2020,,,,Sivaganga,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65493
+36558,,27/05/2020,,,,Thiruvallur,Tamil Nadu,TN,-8,Hospitalized,,District Reconciliation,,,,,,,65494
+36559,,27/05/2020,,,,Thiruvarur,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65495
+36560,,27/05/2020,,,,Thoothukkudi,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65496
+36561,,27/05/2020,,,,Tirunelveli,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65497
+36562,,27/05/2020,,,,Tiruvannamalai,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65498
+36563,,27/05/2020,,,,Vellore,Tamil Nadu,TN,-2,Hospitalized,,District Reconciliation,,,,,,,65499
+36564,,27/05/2020,,,,Viluppuram,Tamil Nadu,TN,7,Hospitalized,,District Reconciliation,,,,,,,65500
+36565,,27/05/2020,,,,Virudhunagar,Tamil Nadu,TN,-12,Hospitalized,,District Reconciliation,,,,,,,65501
+36566,,27/05/2020,,,,Railway Quarantine,Tamil Nadu,TN,13,Hospitalized,,District Reconciliation,,,,,,,65502
+36980,,27/05/2020,,,,,Jharkhand,JH,-25,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65916
+36990,,27/05/2020,,,,,Jharkhand,JH,-38,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65926
 34834,,28/05/2020,,,,Unassigned,State Unassigned,UN,319,Hospitalized,,,mohfw.gov.in,,,,,,63770
 34835,,28/05/2020,32,M,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/ChandigarhBytes/status/1265842723426271233?s=20,,,,,,63771
 34836,,28/05/2020,20,M,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/ChandigarhBytes/status/1265842723426271233?s=20,,,,,,63772
@@ -6625,7 +6657,6 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 34841,,28/05/2020,16,M,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/VermaArthitpv/status/1265860914403663873?s=20,,,,,,63777
 34842,,28/05/2020,17,M,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/VermaArthitpv/status/1265860914403663873?s=20,,,,,,63778
 34843,,28/05/2020,53,M,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/VermaArthitpv/status/1265860914403663873?s=20,,,,,,63779
-34844,,27/05/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/5627,,,,,,63780
 34845,,28/05/2020,,,,Nayagarh,Odisha,OR,7,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1265876066050215936,,,,,,63781
 34846,,28/05/2020,,,,Sambalpur,Odisha,OR,2,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1265876066050215936,,,,,,63782
 34847,,28/05/2020,,,,Bargarh,Odisha,OR,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1265876066050215936,,,,,,63783
@@ -8091,7 +8122,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36258,,28/05/2020,,,,Kutch,Gujarat,GJ,1,Deceased,,,https://twitter.com/PIBAhmedabad/status/1266024117259702272,,,,,,65194
 36259,,28/05/2020,,,,Patan,Gujarat,GJ,1,Deceased,,,https://twitter.com/PIBAhmedabad/status/1266024117259702272,,,,,,65195
 36260,,28/05/2020,,,,Surendranagar,Gujarat,GJ,1,Deceased,,,https://twitter.com/PIBAhmedabad/status/1266024117259702272,,,,,,65196
-36261,,26/05/2020,,,,,Telangana,TG,41,Hospitalized,,"Telangana bulletin from 27th added these cases as cases from 26th (Not explicitly, but silently).",,,,,,,65197
 36262,,28/05/2020,,,,Kangra,Himachal Pradesh,HP,4,Hospitalized,,,https://twitter.com/nhm_hp/status/1266039405254508544?s=19,,,,,,65198
 36263,,28/05/2020,,,,Mandi,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1266039405254508544?s=19,,,,,,65199
 36264,,28/05/2020,,,,Bilaspur,Himachal Pradesh,HP,3,Recovered,,,https://twitter.com/nhm_hp/status/1266039405254508544?s=19,,,,,,65200
@@ -8353,7 +8383,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36520,,28/05/2020,,,,,Tripura,TR,2,Hospitalized,,,https://twitter.com/BjpBiplab/status/1266045802197266438,,,,,,65456
 36521,,28/05/2020,,,,Puducherry,Puducherry,PY,6,Hospitalized,,,,,,,,,65457
 36522,,28/05/2020,,,,,Puducherry,PY,-2,Hospitalized,,,,,,,,,65458
-36523,,27/05/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1266030199470043137,,,,,,65459
 36524,,28/05/2020,,,,Rohtas,Bihar,BR,3,Recovered,,,https://twitter.com/BiharHealthDept/status/1265967657653809152,,,,,,65460
 36525,,28/05/2020,,,,Madhubani,Bihar,BR,1,Recovered,,,https://twitter.com/BiharHealthDept/status/1265967657653809152,,,,,,65461
 36526,,28/05/2020,,,,Begusarai,Bihar,BR,18,Recovered,,,https://twitter.com/BiharHealthDept/status/1265967657653809152,,,,,,65462
@@ -8378,28 +8407,36 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36545,,28/05/2020,,,,Karbi Anglong,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1266075672029454336,,,,,,65481
 36546,,28/05/2020,,,,Dhubri,Assam,AS,1,Hospitalized,,,https://twitter.com/himantabiswa/status/1266075672029454336,,,,,,65482
 36547,,28/05/2020,,,,Changlang,Arunachal Pradesh,AR,1,Hospitalized,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,,,,,65483
-36548,,27/05/2020,,,,Chengalpattu,Tamil Nadu,TN,4,Hospitalized,,District Reconciliation,,,,,,,65484
-36549,,27/05/2020,,,,Chennai,Tamil Nadu,TN,4,Hospitalized,,District Reconciliation,,,,,,,65485
-36550,,27/05/2020,,,,Coimbatore,Tamil Nadu,TN,0,Hospitalized,,District Reconciliation,,,,,,,65486
-36551,,27/05/2020,,,,Cuddalore,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65487
-36552,,27/05/2020,,,,Kallakurichi,Tamil Nadu,TN,-8,Hospitalized,,District Reconciliation,,,,,,,65488
-36553,,27/05/2020,,,,Kancheepuram,Tamil Nadu,TN,3,Hospitalized,,District Reconciliation,,,,,,,65489
-36554,,27/05/2020,,,,Madurai,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65490
-36555,,27/05/2020,,,,Pudukkottai,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65491
-36556,,27/05/2020,,,,Ranipet,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65492
-36557,,27/05/2020,,,,Sivaganga,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65493
-36558,,27/05/2020,,,,Thiruvallur,Tamil Nadu,TN,-8,Hospitalized,,District Reconciliation,,,,,,,65494
-36559,,27/05/2020,,,,Thiruvarur,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65495
-36560,,27/05/2020,,,,Thoothukkudi,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65496
-36561,,27/05/2020,,,,Tirunelveli,Tamil Nadu,TN,-1,Hospitalized,,District Reconciliation,,,,,,,65497
-36562,,27/05/2020,,,,Tiruvannamalai,Tamil Nadu,TN,1,Hospitalized,,District Reconciliation,,,,,,,65498
-36563,,27/05/2020,,,,Vellore,Tamil Nadu,TN,-2,Hospitalized,,District Reconciliation,,,,,,,65499
-36564,,27/05/2020,,,,Viluppuram,Tamil Nadu,TN,7,Hospitalized,,District Reconciliation,,,,,,,65500
-36565,,27/05/2020,,,,Virudhunagar,Tamil Nadu,TN,-12,Hospitalized,,District Reconciliation,,,,,,,65501
-36566,,27/05/2020,,,,Railway Quarantine,Tamil Nadu,TN,13,Hospitalized,,District Reconciliation,,,,,,,65502
 36567,,28/05/2020,,,,Thiruvananthapuram,Kerala,KL,1,Hospitalized,,Deceased case in Train,https://indianexpress.com/article/india/man-who-took-wrong-train-to-kerala-dies-of-covid-19-6432252/,,,,,,65503
-36568,,29/05/2020,,,,Unassigned,State Unassigned,UN,341,Hospitalized,,,https://www.mohfw.gov.in/,,,,,,65504
 36569,,28/05/2020,,,,,Assam,AS,1,Hospitalized,,District yet to ascertain.,https://twitter.com/himantabiswa/status/1266075672029454336,,,,,,65505
+37094,,28/05/2020,,,,,Jharkhand,JH,-6,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,66030
+38040,,28/05/2020,,,,Palakkad,Kerala,KL,-16,Hospitalized,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-28.pdf,,,,,,66976
+38041,,28/05/2020,56,F,Kadampazhipuram,Palakkad,Kerala,KL,1,Hospitalized,P27627,"Contact transmission,Works at Ration shop",http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66977
+38042,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66978
+38043,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66979
+38044,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66980
+38045,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66981
+38046,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66982
+38047,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Karnataka,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66983
+38048,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Karnataka,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66984
+38049,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Mumbai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66985
+38050,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66986
+38051,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66987
+38052,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66988
+38053,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66989
+38054,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66990
+38055,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from New Delhi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66991
+38056,,28/05/2020,58,F,,Palakkad,Kerala,KL,1,Hospitalized,,"Contact transmission, Son had travelled from Maharashtra",http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66992
+38260,,28/05/2020,,,,Hooghly,West Bengal,WB,2,Hospitalized,,ReconciliatioWB Buleltn Dated 28/05/2020,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67196
+38261,,28/05/2020,,,,Kolkata,West Bengal,WB,7,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67197
+38262,,28/05/2020,,,,Malda,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67198
+38263,,28/05/2020,,,,North 24 Parganas,West Bengal,WB,2,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67199
+38264,,28/05/2020,,,,Other State,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67200
+38265,,28/05/2020,,,,Paschim Medinipur,West Bengal,WB,2,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67201
+38266,,28/05/2020,,,,Purba Medinipur,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67202
+38267,,28/05/2020,,,,South 24 Parganas,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67203
+38268,,28/05/2020,,,,,West Bengal,WB,-17,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67204
+36568,,29/05/2020,,,,Unassigned,State Unassigned,UN,341,Hospitalized,,,https://www.mohfw.gov.in/,,,,,,65504
 36570,,29/05/2020,,,,Ajmer,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1266237236158197760?s=19,,,,,,65506
 36571,,29/05/2020,,,,Alwar,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1266237236158197760?s=19,,,,,,65507
 36572,,29/05/2020,,,,Bharatpur,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1266237236158197760?s=19,,,,,,65508
@@ -8670,13 +8707,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36837,,29/05/2020,,,,Hailakandi,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1266266964000862208?s=20,,,,,,65773
 36838,,29/05/2020,,,,Karbi Anglong,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1266266964000862208?s=20,,,,,,65774
 36839,,29/05/2020,,,,Hamirpur,Himachal Pradesh,HP,4,Recovered,,,https://twitter.com/nhm_hp/status/1266277682259431424?s=20,,,,,,65775
-36840,,26/05/2020,,,,,Karnataka,KA,0,Recovered,,"To be Expanded, ** Total Discharges data reconciled with SSU",https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/27.05.2020%20EMB%20English.pdf,,,,,,65776
-36841,,26/05/2020,,,,Belagavi,Karnataka,KA,9,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65777
-36842,,26/05/2020,,,,Davanagere,Karnataka,KA,14,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65778
-36843,,26/05/2020,,,,Bagalkote,Karnataka,KA,-8,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65779
-36844,,26/05/2020,,,,Mandya,Karnataka,KA,1,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65780
-36845,,26/05/2020,,,,Bengaluru Urban,Karnataka,KA,-1,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65781
-36846,,26/05/2020,,,,Other State,Karnataka,KA,1,Recovered,,,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/28.05.2020%20EMB%20English.pdf,,,,,,65782
 36847,,29/05/2020,,,,Bilaspur,Chhattisgarh,CT,2,Hospitalized,,,https://twitter.com/HealthCgGov/status/1266287737880973312?s=20,,,,,,65783
 36848,,29/05/2020,,,,Bastar,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1266287737880973312?s=20,,,,,,65784
 36849,,29/05/2020,,,,Mahasamund,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1266287737880973312?s=20,,,,,,65785
@@ -8810,7 +8840,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36977,,29/05/2020,,,,Ramgarh,Jharkhand,JH,4,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65913
 36978,,29/05/2020,,,,Gumla,Jharkhand,JH,7,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65914
 36979,,29/05/2020,,,,Khunti,Jharkhand,JH,2,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65915
-36980,,27/05/2020,,,,,Jharkhand,JH,-25,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65916
 36981,,29/05/2020,,,,Ranchi,Jharkhand,JH,1,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65917
 36982,,29/05/2020,,,,Bokaro,Jharkhand,JH,5,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65918
 36983,,29/05/2020,,,,Hazaribagh,Jharkhand,JH,11,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65919
@@ -8820,7 +8849,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 36987,,29/05/2020,,,,East Singhbhum,Jharkhand,JH,1,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65923
 36988,,29/05/2020,,,,Latehar,Jharkhand,JH,4,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65924
 36989,,29/05/2020,,,,Chatra,Jharkhand,JH,1,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65925
-36990,,27/05/2020,,,,,Jharkhand,JH,-38,Recovered,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,65926
 36991,,29/05/2020,,,,Kangra,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1266337186535755778,,,,,,65927
 36992,,29/05/2020,,,,Kangra,Himachal Pradesh,HP,4,Recovered,,,https://twitter.com/nhm_hp/status/1266337186535755778,,,,,,65928
 36993,,29/05/2020,,,,South West Garo Hills,Meghalaya,ML,3,Hospitalized,,,https://twitter.com/SangmaConrad/status/1266334086634897408,,,,,,65929
@@ -8924,7 +8952,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 37091,KA-P2167,29/05/2020,,,,Udupi,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1266343452779745280,,,,,,66027
 37092,KA-P792,29/05/2020,,,,Tumakuru,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1266343452779745280,,,,,,66028
 37093,KA-P2762,29/05/2020,50,F,,Chikkaballapura,Karnataka,KA,1,Deceased,,"case of RTA Head Injury on 24.05.2020 was admitted to Private hospital on 24.05.2020 and because of acute kidney injury and   pneumonia   patient   was   shifted   to   Designated   hospital, Bengaluru Urban on 28.05.2020 and tested positive for Covid-19. Died on 29.05.2020.",https://twitter.com/DHFWKA/status/1266343452779745280,,,,,,66029
-37094,,28/05/2020,,,,,Jharkhand,JH,-6,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266064479084666880?s=20,,,,,,66030
 37095,,29/05/2020,38,M,,Ariyalur,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf,,,,,,66031
 37096,,29/05/2020,24,M,,Ariyalur,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf,,,,,,66032
 37097,,29/05/2020,31,M,,Ariyalur,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf,,,,,,66033
@@ -9870,23 +9897,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 38037,,29/05/2020,,,,Alappuzha,Kerala,KL,1,Hospitalized,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66973
 38038,,29/05/2020,,,,Alappuzha,Kerala,KL,1,Hospitalized,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66974
 38039,,29/05/2020,,,,Other State,Kerala,KL,1,Hospitalized,,"Air India Cabin crew, admitted in Kannur",http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66975
-38040,,28/05/2020,,,,Palakkad,Kerala,KL,-16,Hospitalized,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-28.pdf,,,,,,66976
-38041,,28/05/2020,56,F,Kadampazhipuram,Palakkad,Kerala,KL,1,Hospitalized,P27627,"Contact transmission,Works at Ration shop",http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66977
-38042,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66978
-38043,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66979
-38044,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66980
-38045,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66981
-38046,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66982
-38047,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Karnataka,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66983
-38048,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Karnataka,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66984
-38049,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Mumbai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66985
-38050,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66986
-38051,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66987
-38052,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66988
-38053,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66989
-38054,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from Chennai,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66990
-38055,,28/05/2020,,,,Palakkad,Kerala,KL,1,Hospitalized,,Travelled from New Delhi,http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66991
-38056,,28/05/2020,58,F,,Palakkad,Kerala,KL,1,Hospitalized,,"Contact transmission, Son had travelled from Maharashtra",http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf,,,,,,66992
 38057,,29/05/2020,,,,Chengalpattu,Tamil Nadu,TN,40,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf,,,,,,66993
 38058,,29/05/2020,,,,Chennai,Tamil Nadu,TN,591,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf,,,,,,66994
 38059,,29/05/2020,,,,Cuddalore,Tamil Nadu,TN,3,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-29.05.2020.pdf,,,,,,66995
@@ -10090,15 +10100,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 38257,,29/05/2020,,,,Palwal,Haryana,HR,2,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20as%20on%2029-05-20%20Evening.pdf,,,,,,67193
 38258,,29/05/2020,,,,Karnal,Haryana,HR,4,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20as%20on%2029-05-20%20Evening.pdf,,,,,,67194
 38259,,29/05/2020,,,,Kurukshetra,Haryana,HR,6,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20as%20on%2029-05-20%20Evening.pdf,,,,,,67195
-38260,,28/05/2020,,,,Hooghly,West Bengal,WB,2,Hospitalized,,ReconciliatioWB Buleltn Dated 28/05/2020,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67196
-38261,,28/05/2020,,,,Kolkata,West Bengal,WB,7,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67197
-38262,,28/05/2020,,,,Malda,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67198
-38263,,28/05/2020,,,,North 24 Parganas,West Bengal,WB,2,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67199
-38264,,28/05/2020,,,,Other State,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67200
-38265,,28/05/2020,,,,Paschim Medinipur,West Bengal,WB,2,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67201
-38266,,28/05/2020,,,,Purba Medinipur,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67202
-38267,,28/05/2020,,,,South 24 Parganas,West Bengal,WB,1,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67203
-38268,,28/05/2020,,,,,West Bengal,WB,-17,Hospitalized,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_MAY_REPORT_FINAL.pdf,,,,,,67204
 38269,,29/05/2020,,,,Karnal,Haryana,HR,6,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20as%20on%2029-05-20%20Evening.pdf,,,,,,67205
 38270,,29/05/2020,,,,,Manipur,MN,1,Hospitalized,,,https://twitter.com/ANI/status/1266390357895340033,,,,,,67206
 38271,,29/05/2020,,,,Indore,Madhya Pradesh,MP,84,Hospitalized,,,https://twitter.com/JansamparkMP/status/1266382123520360451,,,,,,67207
@@ -10491,6 +10492,14 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 38658,,29/05/2020,,,,Biswanath,Assam,AS,11,Hospitalized,,,https://twitter.com/himantabiswa/status/1266437590212767745?s=20),,,,,,67594
 38659,,29/05/2020,,,,Udalguri,Assam,AS,9,Hospitalized,,,https://twitter.com/himantabiswa/status/1266437590212767745?s=20),,,,,,67595
 38660,,29/05/2020,,,,Darrang,Assam,AS,2,Hospitalized,,,https://twitter.com/himantabiswa/status/1266437590212767745?s=20),,,,,,67596
+40202,,29/05/2020,,,,Kutch,Gujarat,GJ,-11,Hospitalized,,Reconciliation from Gujcovid19 Dashoard,https://gujcovid19.gujarat.gov.in/,,,,,,69138
+40203,,29/05/2020,,,,Kheda,Gujarat,GJ,11,Hospitalized,,Reconciliation from Gujcovid19 Dashoard,https://gujcovid19.gujarat.gov.in/,,,,,,69139
+40702,,29/05/2020,,,,Puducherry,Puducherry,PY,4,Hospitalized,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,69638
+40703,,29/05/2020,,,,Puducherry,Puducherry,PY,4,Recovered,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,69639
+40704,,29/05/2020,,,,Mahe,Puducherry,PY,2,Recovered,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,69640
+40708,,29/05/2020,,,,Karimganj,Assam,AS,-2,Hospitalized,,Correction based on Dashboard.,https://covid19.assam.gov.in/all-districts/,,,,,,69644
+40811,,29/05/2020,,,,Dehradun,Uttarakhand,UT,-1,Deceased,,Correction in District wise Death,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69747
+40812,,29/05/2020,,,,Pauri Garhwal,Uttarakhand,UT,1,Deceased,,Correction in District wise Death,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69748
 38661,,30/05/2020,,,,Unassigned,State Unassigned,UN,370,Hospitalized,,,https://www.mohfw.gov.in/,,,,,,67597
 38662,,30/05/2020,,,,Dimapur,Nagaland,NL,8,Hospitalized,,,https://twitter.com/pangnyu/status/1266552295401164801?s=20,,,,,,67598
 38663,,30/05/2020,,,,Kohima,Nagaland,NL,3,Hospitalized,,,https://twitter.com/pangnyu/status/1266552295401164801?s=20,,,,,,67599
@@ -12032,8 +12041,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40199,,30/05/2020,,,,Porbandar,Gujarat,GJ,1,Hospitalized,,,https://twitter.com/GujHFWDept/status/1266732895776931842?s=20,,,,,,69135
 40200,,30/05/2020,,,,Other State,Gujarat,GJ,2,Hospitalized,,,https://twitter.com/GujHFWDept/status/1266732895776931842?s=20,,,,,,69136
 40201,,30/05/2020,,,,Amreli,Gujarat,GJ,1,Hospitalized,,,https://twitter.com/GujHFWDept/status/1266732895776931842?s=20,,,,,,69137
-40202,,29/05/2020,,,,Kutch,Gujarat,GJ,-11,Hospitalized,,Reconciliation from Gujcovid19 Dashoard,https://gujcovid19.gujarat.gov.in/,,,,,,69138
-40203,,29/05/2020,,,,Kheda,Gujarat,GJ,11,Hospitalized,,Reconciliation from Gujcovid19 Dashoard,https://gujcovid19.gujarat.gov.in/,,,,,,69139
 40204,,30/05/2020,,,,,Delhi,DL,1163,Hospitalized,,,https://twitter.com/CMODelhi/status/1266740059643895808?s=19,,,,,,69140
 40205,,30/05/2020,,,,,Delhi,DL,229,Recovered,,,https://twitter.com/CMODelhi/status/1266740059643895808?s=19,,,,,,69141
 40206,,30/05/2020,,,,,Delhi,DL,18,Deceased,,,https://twitter.com/CMODelhi/status/1266740059643895808?s=19,,,,,,69142
@@ -12532,13 +12539,9 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40699,,30/05/2020,,,,West Tripura,Tripura,TR,8,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,69635
 40700,,30/05/2020,,,,,Tripura,TR,-22,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,69636
 40701,,30/05/2020,,,,Gomati,Tripura,TR,1,Recovered,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,69637
-40702,,29/05/2020,,,,Puducherry,Puducherry,PY,4,Hospitalized,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,69638
-40703,,29/05/2020,,,,Puducherry,Puducherry,PY,4,Recovered,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,69639
-40704,,29/05/2020,,,,Mahe,Puducherry,PY,2,Recovered,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,69640
 40705,,30/05/2020,,,,Chandigarh,Chandigarh,CH,10,Recovered,,,http://chdcovid19.in/,,,,,,69641
 40706,,30/05/2020,,,,Chirang,Assam,AS,26,Hospitalized,,,https://twitter.com/himantabiswa/status/1266658381713903616,,,,,,69642
 40707,,30/05/2020,,,,Kamrup Metropolitan,Assam,AS,3,Hospitalized,,,https://twitter.com/himantabiswa/status/1266658381713903616,,,,,,69643
-40708,,29/05/2020,,,,Karimganj,Assam,AS,-2,Hospitalized,,Correction based on Dashboard.,https://covid19.assam.gov.in/all-districts/,,,,,,69644
 40709,,30/05/2020,,,,East Singhbhum,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266783771140988933?s=20,,,,,,69645
 40710,,30/05/2020,,,,,Jharkhand,JH,-1,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266783771140988933?s=20,,,,,,69646
 40711,,30/05/2020,,,,Garhwa,Jharkhand,JH,13,Recovered,,,https://twitter.com/RanchiPIB/status/1266783771140988933?s=20,,,,,,69647
@@ -12553,6 +12556,12 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40720,,30/05/2020,62,M,,,Telangana,TG,1,Deceased,,Had DM and HTN,https://twitter.com/IPRTelangana/status/1266764214560886785,,,,,,69656
 40721,,30/05/2020,52,M,,,Telangana,TG,1,Deceased,,Had HTN,https://twitter.com/IPRTelangana/status/1266764214560886785,,,,,,69657
 40722,,30/05/2020,47,M,,,Telangana,TG,1,Deceased,,Underwent Cardiac surgery,https://twitter.com/IPRTelangana/status/1266764214560886785,,,,,,69658
+40743,,30/05/2020,,,,Changlang,Arunachal Pradesh,AR,1,Hospitalized,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,,,,,69679
+40764,,30/05/2020,,,,Gumla,Jharkhand,JH,0,Recovered,,District Wise Recovery Reconciliation,https://t.me/indiacovid/5962,,,,,,69700
+40791,,30/05/2020,,,,Pakur,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69727
+40792,,30/05/2020,,,,Dhanbad,Jharkhand,JH,13,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69728
+40793,,30/05/2020,,,,Sahibganj,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69729
+40794,,30/05/2020,,,,East Singhbhum,Jharkhand,JH,16,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69730
 40723,,31/05/2020,,,,Unassigned,State Unassigned,UN,448,Hospitalized,,,mohfw.gov.in,,,,,,69659
 40724,,31/05/2020,,,,Ganjam,Odisha,OR,10,Hospitalized,,District Wise Reconciliation from Oddisha Dashboard,https://health.odisha.gov.in,,,,,,69660
 40725,,31/05/2020,,,,Jajpur,Odisha,OR,10,Hospitalized,,,https://health.odisha.gov.in,,,,,,69661
@@ -12573,7 +12582,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40740,,31/05/2020,,,,Dhenkanal,Odisha,OR,1,Hospitalized,,,https://health.odisha.gov.in,,,,,,69676
 40741,,31/05/2020,,,,Sambalpur,Odisha,OR,1,Hospitalized,,,https://health.odisha.gov.in,,,,,,69677
 40742,,31/05/2020,,,,Bargarh,Odisha,OR,6,Hospitalized,,,https://health.odisha.gov.in,,,,,,69678
-40743,,30/05/2020,,,,Changlang,Arunachal Pradesh,AR,1,Hospitalized,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,,,,,69679
 40744,,31/05/2020,44,F,,Churachandpur,Manipur,MN,1,Hospitalized,,Returnee from Chennai,https://t.me/indiacovid/5963,,,,,,69680
 40745,,31/05/2020,34,M,,Chandel,Manipur,MN,1,Hospitalized,,Returnee from Mumbai,https://t.me/indiacovid/5963,,,,,,69681
 40746,,31/05/2020,,F,,Kohima,Nagaland,NL,4,Hospitalized,,,https://twitter.com/pangnyu/status/1266911053805309952?s=20,,,,,,69682
@@ -12594,7 +12602,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40761,,31/05/2020,,,,Rajsamand,Rajasthan,RJ,5,Recovered,,,https://twitter.com/ANI/status/1266964029265735680?s=19,,,,,,69697
 40762,,31/05/2020,,,,Sirohi,Rajasthan,RJ,15,Recovered,,,https://twitter.com/ANI/status/1266964029265735680?s=19,,,,,,69698
 40763,,31/05/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1266964029265735680?s=19,,,,,,69699
-40764,,30/05/2020,,,,Gumla,Jharkhand,JH,0,Recovered,,District Wise Recovery Reconciliation,https://t.me/indiacovid/5962,,,,,,69700
 40765,,31/05/2020,,,,,Tripura,TR,11,Hospitalized,,Returned from Chennai,https://twitter.com/BjpBiplab/status/1266992775268098048,,,,,,69701
 40766,,31/05/2020,,,,Chandigarh,Chandigarh,CH,2,Hospitalized,,,https://twitter.com/ANI/status/1266994504336150528,,,,,,69702
 40767,,31/05/2020,,,,Solan,Himachal Pradesh,HP,2,Recovered,,,https://twitter.com/nhm_hp/status/1266987779658928129?s=20,,,,,,69703
@@ -12621,10 +12628,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40788,,31/05/2020,21,F,,Imphal East,Manipur,MN,1,Hospitalized,,Returned from pune,https://twitter.com/ANI/status/1266983376294039553?s=19,,,,,,69724
 40789,,31/05/2020,19,F,,Imphal East,Manipur,MN,1,Hospitalized,,Returned from pune,https://twitter.com/ANI/status/1266983376294039553?s=19,,,,,,69725
 40790,,31/05/2020,20,M,,Imphal West,Manipur,MN,1,Hospitalized,,Returned From  Delhi,https://twitter.com/ANI/status/1266983376294039553?s=19,,,,,,69726
-40791,,30/05/2020,,,,Pakur,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69727
-40792,,30/05/2020,,,,Dhanbad,Jharkhand,JH,13,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69728
-40793,,30/05/2020,,,,Sahibganj,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69729
-40794,,30/05/2020,,,,East Singhbhum,Jharkhand,JH,16,Hospitalized,,,https://twitter.com/RanchiPIB/status/1266798030285492228?s=20,,,,,,69730
 40795,,31/05/2020,,,,Hamirpur,Himachal Pradesh,HP,4,Hospitalized,,,https://twitter.com/nhm_hp/status/1267066166054391808,,,,,,69731
 40796,,31/05/2020,,,,Kangra,Himachal Pradesh,HP,8,Hospitalized,,,https://twitter.com/nhm_hp/status/1267066166054391808,,,,,,69732
 40797,,31/05/2020,,,,Kullu,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1267066166054391808,,,,,,69733
@@ -12641,8 +12644,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 40808,,31/05/2020,,,,Pauri Garhwal,Uttarakhand,UT,6,Hospitalized,,,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69744
 40809,,31/05/2020,,,,Rudraprayag,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69745
 40810,,31/05/2020,,,,Uttarkashi,Uttarakhand,UT,6,Hospitalized,,,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69746
-40811,,29/05/2020,,,,Dehradun,Uttarakhand,UT,-1,Deceased,,Correction in District wise Death,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69747
-40812,,29/05/2020,,,,Pauri Garhwal,Uttarakhand,UT,1,Deceased,,Correction in District wise Death,https://twitter.com/PIBDehradun/status/1267018088316145667,,,,,,69748
 40813,,31/05/2020,23,M,Matihani,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1267020187766853632,,,,,,69749
 40814,,31/05/2020,19,M,Matihani,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1267020187766853632,,,,,,69750
 40815,,31/05/2020,44,F,Matihani,Begusarai,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1267020187766853632,,,,,,69751
@@ -14802,7 +14803,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 42969,,31/05/2020,,,,Aravalli,Gujarat,GJ,1,Deceased,,,https://twitter.com/GujHFWDept/status/1267114239820533760,,,,,,71905
 42970,,31/05/2020,,,,Jamnagar,Gujarat,GJ,1,Deceased,,,https://twitter.com/GujHFWDept/status/1267114239820533760?s=20,,,,,,71906
 42971,,31/05/2020,,,,Rajkot,Gujarat,GJ,1,Deceased,,,https://twitter.com/GujHFWDept/status/1267114239820533760?s=20,,,,,,71907
-42972,,26/05/2020,,,,Sabarkantha,Gujarat,GJ,-2,Recovered,,Correction in Recovery,https://gujcovid19.gujarat.gov.in/uploads/pressbrief2605262020082715071.pdf,,,,,,71908
 42973,,31/05/2020,,,,Ranchi,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1267112493681274881?s=19,,,,,,71909
 42974,,31/05/2020,,,,Hazaribagh,Jharkhand,JH,3,Hospitalized,,,https://twitter.com/ANI/status/1267112493681274881?s=19,,,,,,71910
 42975,,31/05/2020,,,,East Singhbhum,Jharkhand,JH,10,Hospitalized,,,https://twitter.com/ANI/status/1267112493681274881?s=19,,,,,,71911
@@ -15094,13 +15094,18 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 43261,,31/05/2020,,,,North Tripura,Tripura,TR,1,Recovered,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,72197
 43262,,31/05/2020,,,,Puducherry,Puducherry,PY,13,Hospitalized,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,72198
 43263,,31/05/2020,,,,Puducherry,Puducherry,PY,2,Recovered,,,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,72199
+43280,,31/05/2020,,,,Sahibganj,Jharkhand,JH,2,Hospitalized,,,https://twitter.com/RanchiPIB/status/1267160180002828288,,,,,,72205
+43281,,31/05/2020,,,,Dhanbad,Jharkhand,JH,23,Hospitalized,,Total Count 635,https://twitter.com/RanchiPIB/status/1267160180002828288,,,,,,72206
+43301,,31/05/2020,,,,Jaipur,Rajasthan,RJ,-1,Deceased,,ONLY ONE DEATH ON 31ST MAY (ID 42952 AND 43135),,,,,,,72226
+43302,,31/05/2020,,,,Hamirpur,Himachal Pradesh,HP,2,Recovered,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72227
+43303,,31/05/2020,,,,Kangra,Himachal Pradesh,HP,4,Recovered,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72228
+43304,,31/05/2020,,,,Una,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72229
+43305,,31/05/2020,,,,Una,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72230
 43275,,01/06/2020,,,,Unassigned,State Unassigned,UN,139,Hospitalized,,,mohfw.gov.in,,,,,,72200
 43276,,01/06/2020,,,,Raigarh,Chhattisgarh,CT,2,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267299876213153792?s=20,,,,,,72201
 43277,,01/06/2020,,,,Durg,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267299876213153792?s=20,,,,,,72202
 43278,,01/06/2020,,,,Rajnandgaon,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267299876213153792?s=20,,,,,,72203
 43279,,01/06/2020,,,,Mahasamund,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267299876213153792?s=20,,,,,,72204
-43280,,31/05/2020,,,,Sahibganj,Jharkhand,JH,2,Hospitalized,,,https://twitter.com/RanchiPIB/status/1267160180002828288,,,,,,72205
-43281,,31/05/2020,,,,Dhanbad,Jharkhand,JH,23,Hospitalized,,Total Count 635,https://twitter.com/RanchiPIB/status/1267160180002828288,,,,,,72206
 43282,,01/06/2020,,,,Dibrugarh,Assam,AS,14,Hospitalized,,,https://twitter.com/himantabiswa/status/1267322516005023744?s=20,,,,,,72207
 43283,,01/06/2020,,,,Dhemaji,Assam,AS,4,Hospitalized,,,https://twitter.com/himantabiswa/status/1267322516005023744?s=20,,,,,,72208
 43284,,01/06/2020,,,,Tinsukia,Assam,AS,3,Hospitalized,,,https://twitter.com/himantabiswa/status/1267322516005023744?s=20,,,,,,72209
@@ -15120,11 +15125,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 43298,,01/06/2020,,,,Jaipur,Rajasthan,RJ,2,Deceased,,,https://t.me/indiacovid/6039,,,,,,72223
 43299,,01/06/2020,,,,Bharatpur,Rajasthan,RJ,7,Recovered,,,https://t.me/indiacovid/6039,,,,,,72224
 43300,,01/06/2020,,,,Jhalawar,Rajasthan,RJ,4,Recovered,,,https://t.me/indiacovid/6039,,,,,,72225
-43301,,31/05/2020,,,,Jaipur,Rajasthan,RJ,-1,Deceased,,ONLY ONE DEATH ON 31ST MAY (ID 42952 AND 43135),,,,,,,72226
-43302,,31/05/2020,,,,Hamirpur,Himachal Pradesh,HP,2,Recovered,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72227
-43303,,31/05/2020,,,,Kangra,Himachal Pradesh,HP,4,Recovered,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72228
-43304,,31/05/2020,,,,Una,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72229
-43305,,31/05/2020,,,,Una,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1267124035076399104?s=20,,,,,,72230
 43306,,01/06/2020,,,,Solan,Himachal Pradesh,HP,2,Hospitalized,,,https://twitter.com/nhm_hp/status/1267352655640145928?s=20,,,,,,72231
 43307,,01/06/2020,,,,Bargarh,Odisha,OR,3,Hospitalized,,,https://health.odisha.gov.in/covid19-dashboard.html,,,,,,72232
 43308,,01/06/2020,,,,Bhadrak,Odisha,OR,7,Hospitalized,,,https://health.odisha.gov.in/covid19-dashboard.html,,,,,,72233
@@ -16251,6 +16251,38 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 44429,,01/06/2020,,,,South Tripura,Tripura,TR,5,Hospitalized,,Updated based on state dashboard,https://twitter.com/mygovtripura/status/1267515291946364929,,,,,,73354
 44430,,01/06/2020,,,,Unokoti,Tripura,TR,41,Hospitalized,,Updated based on state dashboard,https://twitter.com/mygovtripura/status/1267515291946364929,,,,,,73355
 44431,,01/06/2020,,,,West Tripura,Tripura,TR,4,Hospitalized,,Updated based on state dashboard,https://twitter.com/mygovtripura/status/1267515291946364929,,,,,,73356
+44620,,01/06/2020,,,,Papum Pare,Arunachal Pradesh,AR,1,Hospitalized,,June 1st Entry,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73545
+44621,,01/06/2020,,,,Papum Pare,Arunachal Pradesh,AR,1,Hospitalized,,June 1st Entry,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73546
+44627,,01/06/2020,,,,,Arunachal Pradesh,AR,-2,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73552
+44628,,01/06/2020,,,,Changlang,Arunachal Pradesh,AR,2,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73553
+45316,,01/06/2020,,,,Uttar Bastar Kanker,Chhattisgarh,CT,-1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74241
+47180,,01/06/2020,,,,Lohit,Arunachal Pradesh,AR,-1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76105
+47181,,01/06/2020,,,,Upper Siang,Arunachal Pradesh,AR,1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76106
+47951,,01/06/2020,,,,Bagalkote,Karnataka,KA,-1,Hospitalized,,District numbers reconcilled to 4th June,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76876
+47952,,01/06/2020,,,,Ballari,Karnataka,KA,2,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76877
+47953,,01/06/2020,,,,Bengaluru Rural,Karnataka,KA,2,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76878
+47954,,01/06/2020,,,,Bengaluru Urban,Karnataka,KA,-4,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76879
+47955,,01/06/2020,,,,Bengaluru Urban,Karnataka,KA,6,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76880
+47956,,01/06/2020,,,,Bidar,Karnataka,KA,-1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76881
+47957,,01/06/2020,,,,Chitradurga,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76882
+47958,,01/06/2020,,,,Dakshina Kannada,Karnataka,KA,-5,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76883
+47959,,01/06/2020,,,,Dakshina Kannada,Karnataka,KA,-11,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76884
+47960,,01/06/2020,,,,Davanagere,Karnataka,KA,2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76885
+47961,,01/06/2020,,,,Dharwad,Karnataka,KA,-2,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76886
+47962,,01/06/2020,,,,Hassan,Karnataka,KA,-2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76887
+47963,,01/06/2020,,,,Hassan,Karnataka,KA,-1,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76888
+47964,,01/06/2020,,,,Haveri,Karnataka,KA,-3,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76889
+47965,,01/06/2020,,,,Kalaburagi,Karnataka,KA,-1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76890
+47966,,01/06/2020,,,,Kolar,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76891
+47967,,01/06/2020,,,,Other State,Karnataka,KA,12,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76892
+47968,,01/06/2020,,,,Other State,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76893
+47969,,01/06/2020,,,,Shivamogga,Karnataka,KA,-2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76894
+47970,,01/06/2020,,,,Shivamogga,Karnataka,KA,-6,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76895
+47971,,01/06/2020,,,,Tumakuru,Karnataka,KA,-2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76896
+47972,,01/06/2020,,,,Tumakuru,Karnataka,KA,3,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76897
+47973,,01/06/2020,,,,Udupi,Karnataka,KA,-1,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76898
+47974,,01/06/2020,,,,Uttara Kannada,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76899
+47975,,01/06/2020,,,,Yadgir,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76900
 44432,,02/06/2020,,,,,Mizoram,MZ,12,Hospitalized,,,https://twitter.com/ZoramthangaCM/status/1267643043122950145,,,,,,73357
 44433,,02/06/2020,,,,Unassigned,State Unassigned,UN,784,Hospitalized,,,mohfw.gov.in,,,,,,73358
 44434,,02/06/2020,,M,,Dimapur,Nagaland,NL,5,Hospitalized,,Chennai returnees,https://twitter.com/pangnyu/status/1267649646098333702?s=20,,,,,,73359
@@ -16439,15 +16471,11 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 44617,,02/06/2020,,,,Darbhanga,Bihar,BR,9,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73542
 44618,,02/06/2020,,,,Jamui,Bihar,BR,7,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73543
 44619,,02/06/2020,,,,Khagaria,Bihar,BR,17,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73544
-44620,,01/06/2020,,,,Papum Pare,Arunachal Pradesh,AR,1,Hospitalized,,June 1st Entry,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73545
-44621,,01/06/2020,,,,Papum Pare,Arunachal Pradesh,AR,1,Hospitalized,,June 1st Entry,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73546
 44622,,02/06/2020,,,,Kishanganj,Bihar,BR,2,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73547
 44623,,02/06/2020,,,,Patna,Bihar,BR,18,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73548
 44624,,02/06/2020,,,,East Champaran,Bihar,BR,3,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73549
 44625,,02/06/2020,,,,Rohtas,Bihar,BR,1,Recovered,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73550
 44626,,02/06/2020,,,,Lohit,Arunachal Pradesh,AR,1,Hospitalized,1,,https://twitter.com/DirectorateofHS/status/1267779367456948224,https://arunachal24.in/arunachal-pradesh-reports-5-new-covid19-positive-cases/,https://twitter.com/PemaKhanduBJP/status/1267784701030219776,,,,73551
-44627,,01/06/2020,,,,,Arunachal Pradesh,AR,-2,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73552
-44628,,01/06/2020,,,,Changlang,Arunachal Pradesh,AR,2,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1267501404769398784,,,,,,73553
 44629,,02/06/2020,,,,Sitamarhi,Bihar,BR,1,Deceased,,,https://twitter.com/BiharHealthDept/status/1267778492613062656?s=20),,,,,,73554
 44630,,02/06/2020,19,F,Bapudham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/ANI/status/1267782595854495745,https://twitter.com/nagarkoti/status/1267782256547909632,,,,,73555
 44631,,02/06/2020,18,F,Bapudham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://twitter.com/ANI/status/1267782595854495745,https://twitter.com/nagarkoti/status/1267782256547909632,,,,,73556
@@ -17135,7 +17163,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 45313,,02/06/2020,,,,Janjgir Champa,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74238
 45314,,02/06/2020,,,,Bastar,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74239
 45315,,02/06/2020,,,,,Chhattisgarh,CT,-2,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74240
-45316,,01/06/2020,,,,Uttar Bastar Kanker,Chhattisgarh,CT,-1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74241
 45317,,02/06/2020,,,,Balod,Chhattisgarh,CT,1,Recovered,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74242
 45318,,02/06/2020,,,,Bametara,Chhattisgarh,CT,4,Recovered,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74243
 45319,,02/06/2020,,,,Mungeli,Chhattisgarh,CT,4,Recovered,,,https://twitter.com/HealthCgGov/status/1267827208027926530?s=19,,,,,,74244
@@ -17553,6 +17580,21 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 45731,,02/06/2020,,,,Mungeli,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267840235628572679,,,,,,74660
 45732,,02/06/2020,,,,Gariaband,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1267840235628572679,,,,,,74661
 45733,,02/06/2020,,,,,Chhattisgarh,CT,2,Hospitalized,,Matching total,https://twitter.com/HealthCgGov/status/1267840235628572679,,,,,,74662
+45773,,02/06/2020,,,,,Tripura,TR,-48,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74698
+45774,,02/06/2020,,,,Dhalai,Tripura,TR,19,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74699
+45775,,02/06/2020,,,,Gomati,Tripura,TR,10,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74700
+45776,,02/06/2020,,,,Sipahijala,Tripura,TR,1,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74701
+45777,,02/06/2020,,,,South Tripura,Tripura,TR,17,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74702
+45778,,02/06/2020,,,,Unokoti,Tripura,TR,2,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74703
+45779,,02/06/2020,,,,West Tripura,Tripura,TR,-1,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74704
+47178,,02/06/2020,,,,,Arunachal Pradesh,AR,-1,Hospitalized,,District Wise Reconciliation,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76103
+47179,,02/06/2020,,,,Pakke Kessang,Arunachal Pradesh,AR,1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76104
+47237,,02/06/2020,,,,Namsai,Arunachal Pradesh,AR,-1,Hospitalized,,District Wise Reconciliation,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76162
+47253,,02/06/2020,,,,,Chhattisgarh,CT,-2,Hospitalized,,,https://t.me/indiacovid/6246,,,,,,76178
+47285,,02/06/2020,,,,Kamrup,Assam,AS,1,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76210
+47286,,02/06/2020,,,,Kamrup Metropolitan,Assam,AS,14,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76211
+47287,,02/06/2020,,,,,Assam,AS,-17,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76212
+47521,,02/06/2020,55,F,,Durg,Chhattisgarh,CT,1,Deceased,,,https://twitter.com/aiims_rpr/status/1268078723938410498?s=09,,,,,,76446
 45734,,03/06/2020,,,,,Nagaland,NL,5,Hospitalized,,,https://twitter.com/pangnyu/status/1268009164804182017,,,,,,74663
 45735,,03/06/2020,,,,,Nagaland,NL,4,Hospitalized,,,https://twitter.com/pangnyu/status/1268009164804182017,,,,,,74664
 45736,,03/06/2020,,,,Unassigned,State Unassigned,UN,709,Hospitalized,,,mohfw.gov.in,,,,,,74665
@@ -17588,13 +17630,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 45770,,03/06/2020,,,,Foreign Evacuees,Andhra Pradesh,AP,1,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268070787128242179,,,,,,74695
 45771,,03/06/2020,,,,Other State,Andhra Pradesh,AP,94,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268070787128242179,,,,,,74696
 45772,,03/06/2020,,,,Other State,Andhra Pradesh,AP,14,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268070787128242179,,,,,,74697
-45773,,02/06/2020,,,,,Tripura,TR,-48,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74698
-45774,,02/06/2020,,,,Dhalai,Tripura,TR,19,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74699
-45775,,02/06/2020,,,,Gomati,Tripura,TR,10,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74700
-45776,,02/06/2020,,,,Sipahijala,Tripura,TR,1,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74701
-45777,,02/06/2020,,,,South Tripura,Tripura,TR,17,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74702
-45778,,02/06/2020,,,,Unokoti,Tripura,TR,2,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74703
-45779,,02/06/2020,,,,West Tripura,Tripura,TR,-1,Hospitalized,,Splitting based on dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,74704
 45780,,03/06/2020,,,,Anantapur,Andhra Pradesh,AP,2,Recovered,,Split based on dashboard,http://covid19.ap.gov.in/Covid19_Admin,,,,,,74705
 45781,,03/06/2020,,,,Chittoor,Andhra Pradesh,AP,4,Recovered,,Split based on dashboard,http://covid19.ap.gov.in/Covid19_Admin,,,,,,74706
 45782,,03/06/2020,,,,East Godavari,Andhra Pradesh,AP,11,Recovered,,Split based on dashboard,http://covid19.ap.gov.in/Covid19_Admin,,,,,,74707
@@ -18993,10 +19028,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47175,,03/06/2020,,,,Wardha,Maharashtra,MH,1,Recovered,,,https://arogya.maharashtra.gov.in/pdf/ncovidepressnotejune3.pdf,,,,,,76100
 47176,,03/06/2020,,,,Bhandara,Maharashtra,MH,3,Recovered,,,https://arogya.maharashtra.gov.in/pdf/ncovidepressnotejune3.pdf,,,,,,76101
 47177,,03/06/2020,,,,Gondia,Maharashtra,MH,3,Recovered,,,https://arogya.maharashtra.gov.in/pdf/ncovidepressnotejune3.pdf,,,,,,76102
-47178,,02/06/2020,,,,,Arunachal Pradesh,AR,-1,Hospitalized,,District Wise Reconciliation,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76103
-47179,,02/06/2020,,,,Pakke Kessang,Arunachal Pradesh,AR,1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76104
-47180,,01/06/2020,,,,Lohit,Arunachal Pradesh,AR,-1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76105
-47181,,01/06/2020,,,,Upper Siang,Arunachal Pradesh,AR,1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76106
 47182,,03/06/2020,,,,Changlang,Arunachal Pradesh,AR,9,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76107
 47183,,03/06/2020,,,,Ghazipur,Uttar Pradesh,UP,7,Hospitalized,,,https://t.me/indiacovid/6269,,,,,,76108
 47184,,03/06/2020,,,,Agra,Uttar Pradesh,UP,8,Hospitalized,,,https://t.me/indiacovid/6269,,,,,,76109
@@ -19052,7 +19083,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47234,,03/06/2020,,,,Kushinagar,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/6269,,,,,,76159
 47235,,03/06/2020,,,,Chandauli,Uttar Pradesh,UP,1,Recovered,,,https://t.me/indiacovid/6269,,,,,,76160
 47236,,03/06/2020,,,,Kanpur Dehat,Uttar Pradesh,UP,2,Recovered,,,https://t.me/indiacovid/6269,,,,,,76161
-47237,,02/06/2020,,,,Namsai,Arunachal Pradesh,AR,-1,Hospitalized,,District Wise Reconciliation,https://twitter.com/DirectorateofHS/status/1268211192494870528?s=19,,,,,,76162
 47238,,03/06/2020,,,,Mau,Uttar Pradesh,UP,1,Deceased,,,https://t.me/indiacovid/6269,,,,,,76163
 47239,,03/06/2020,,,,Dhubri,Assam,AS,59,Hospitalized,,,https://twitter.com/himantabiswa/status/1268234297225314304,,,,,,76164
 47240,,03/06/2020,,,,Nagaon,Assam,AS,14,Hospitalized,,,https://twitter.com/himantabiswa/status/1268234297225314304,,,,,,76165
@@ -19068,7 +19098,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47250,,03/06/2020,,,,Koriya,Chhattisgarh,CT,8,Hospitalized,,,https://t.me/indiacovid/6246,,,,,,76175
 47251,,03/06/2020,,,,Balrampur,Chhattisgarh,CT,1,Hospitalized,,,https://t.me/indiacovid/6246,,,,,,76176
 47252,,03/06/2020,,,,Jashpur,Chhattisgarh,CT,5,Hospitalized,,,https://t.me/indiacovid/6246,,,,,,76177
-47253,,02/06/2020,,,,,Chhattisgarh,CT,-2,Hospitalized,,,https://t.me/indiacovid/6246,,,,,,76178
 47254,,03/06/2020,,,,Bilaspur,Chhattisgarh,CT,4,Recovered,,,https://t.me/indiacovid/6246,,,,,,76179
 47255,,03/06/2020,,,,Raigarh,Chhattisgarh,CT,6,Recovered,,,https://t.me/indiacovid/6246,,,,,,76180
 47256,,03/06/2020,,,,Janjgir Champa,Chhattisgarh,CT,2,Recovered,,,https://t.me/indiacovid/6246,,,,,,76181
@@ -19100,15 +19129,22 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47282,,03/06/2020,,,,Karbi Anglong,Assam,AS,1,Recovered,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76207
 47283,,03/06/2020,,,,,Assam,AS,-67,Recovered,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76208
 47284,,03/06/2020,,,,Jorhat,Assam,AS,2,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76209
-47285,,02/06/2020,,,,Kamrup,Assam,AS,1,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76210
-47286,,02/06/2020,,,,Kamrup Metropolitan,Assam,AS,14,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76211
-47287,,02/06/2020,,,,,Assam,AS,-17,Hospitalized,,Expanding based on dashboard,https://covid19.assam.gov.in/all-districts/,,,,,,76212
 47288,,03/06/2020,,,,,Tripura,TR,53,Hospitalized,,,https://twitter.com/BjpBiplab/status/1268243916165230593?s=19,,,,,,76213
 47289,,03/06/2020,,,,Dehradun,Uttarakhand,UT,1,Hospitalized,,,https://t.me/indiacovid/6250,,,,,,76214
 47290,,03/06/2020,,,,Nainital,Uttarakhand,UT,14,Hospitalized,,,https://t.me/indiacovid/6250,,,,,,76215
 47291,,03/06/2020,,,,Udham Singh Nagar,Uttarakhand,UT,1,Hospitalized,,,https://t.me/indiacovid/6250,,,,,,76216
 47292,,03/06/2020,,,,Pithoragarh,Uttarakhand,UT,1,Hospitalized,,,https://t.me/indiacovid/6250,,,,,,76217
 47293,,03/06/2020,,,,Chamoli,Uttarakhand,UT,2,Hospitalized,,,https://t.me/indiacovid/6250,,,,,,76218
+47374,,03/06/2020,,,,Puducherry,Puducherry,PY,2,Hospitalized,,State dashboard based update,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,76299
+47375,,03/06/2020,,,,Puducherry,Puducherry,PY,3,Recovered,,State dashboard based update,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,76300
+48319,,03/06/2020,,,,Gomati,Tripura,TR,25,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77244
+48320,,03/06/2020,,,,Khowai,Tripura,TR,7,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77245
+48321,,03/06/2020,,,,North Tripura,Tripura,TR,1,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77246
+48322,,03/06/2020,,,,Sipahijala,Tripura,TR,78,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77247
+48323,,03/06/2020,,,,South Tripura,Tripura,TR,20,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77248
+48324,,03/06/2020,,,,Unokoti,Tripura,TR,2,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77249
+48325,,03/06/2020,,,,West Tripura,Tripura,TR,18,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77250
+48326,,03/06/2020,,,,,Tripura,TR,-102,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77251
 47294,,04/06/2020,19,F,,Lunglei,Mizoram,MZ,1,Hospitalized,,Returned from outside state,https://twitter.com/dipr_mizoram/status/1268354345864769539,,,,,,76219
 47295,,04/06/2020,22,F,,Mamit,Mizoram,MZ,1,Hospitalized,,Returned from outside state,https://twitter.com/dipr_mizoram/status/1268354345864769539,,,,,,76220
 47296,,04/06/2020,45,F,,Saitual,Mizoram,MZ,1,Hospitalized,,Returned from outside state,https://twitter.com/dipr_mizoram/status/1268354345864769539,,,,,,76221
@@ -19189,8 +19225,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47371,,04/06/2020,,,,Pauri Garhwal,Uttarakhand,UT,4,Hospitalized,,,https://twitter.com/PIBDehradun/status/1268468370355228672?s=19,,,,,,76296
 47372,,04/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,10,Hospitalized,,,https://twitter.com/PIBDehradun/status/1268468370355228672?s=19,,,,,,76297
 47373,,04/06/2020,,,,Uttarkashi,Uttarakhand,UT,1,Hospitalized,,,https://twitter.com/PIBDehradun/status/1268468370355228672?s=19,,,,,,76298
-47374,,03/06/2020,,,,Puducherry,Puducherry,PY,2,Hospitalized,,State dashboard based update,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,76299
-47375,,03/06/2020,,,,Puducherry,Puducherry,PY,3,Recovered,,State dashboard based update,https://covid19dashboard.py.gov.in/Reporting/DateWise,,,,,,76300
 47376,,04/06/2020,,,,Barmer,Rajasthan,RJ,2,Hospitalized,,Updated based on http://www.rajswasthya.nic.in/,,,,,,,76301
 47377,,04/06/2020,,,,Bharatpur,Rajasthan,RJ,16,Hospitalized,,Updated based on http://www.rajswasthya.nic.in/,,,,,,,76302
 47378,,04/06/2020,,,,Churu,Rajasthan,RJ,12,Hospitalized,,Updated based on http://www.rajswasthya.nic.in/,,,,,,,76303
@@ -19336,7 +19370,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47518,,04/06/2020,44,M,Govindpur,Nawada,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1268450582475485184,,,,,,76443
 47519,,04/06/2020,2,M,Kahra,Saharsa,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1268450582475485184,,,,,,76444
 47520,,04/06/2020,40,M,Kahra,Saharsa,Bihar,BR,1,Hospitalized,,,https://twitter.com/BiharHealthDept/status/1268450582475485184,,,,,,76445
-47521,,02/06/2020,55,F,,Durg,Chhattisgarh,CT,1,Deceased,,,https://twitter.com/aiims_rpr/status/1268078723938410498?s=09,,,,,,76446
 47522,,04/06/2020,,,,Palakkad,Kerala,KL,1,Deceased,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,,,,,,76447
 47523,,04/06/2020,,,,Kollam,Kerala,KL,1,Deceased,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,,,,,,76448
 47524,,04/06/2020,,,,Malappuram,Kerala,KL,1,Deceased,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,,,,,,76449
@@ -19766,31 +19799,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 47948,,04/06/2020,,,,Kangra,Himachal Pradesh,HP,9,Recovered,,,https://twitter.com/nhm_hp/status/1268517788777189377?s=20,,,,,,76873
 47949,,04/06/2020,,,,Shimla,Himachal Pradesh,HP,6,Recovered,,,https://twitter.com/nhm_hp/status/1268517788777189377?s=20,,,,,,76874
 47950,,04/06/2020,,,,Una,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1268517788777189377?s=20,,,,,,76875
-47951,,01/06/2020,,,,Bagalkote,Karnataka,KA,-1,Hospitalized,,District numbers reconcilled to 4th June,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76876
-47952,,01/06/2020,,,,Ballari,Karnataka,KA,2,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76877
-47953,,01/06/2020,,,,Bengaluru Rural,Karnataka,KA,2,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76878
-47954,,01/06/2020,,,,Bengaluru Urban,Karnataka,KA,-4,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76879
-47955,,01/06/2020,,,,Bengaluru Urban,Karnataka,KA,6,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76880
-47956,,01/06/2020,,,,Bidar,Karnataka,KA,-1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76881
-47957,,01/06/2020,,,,Chitradurga,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76882
-47958,,01/06/2020,,,,Dakshina Kannada,Karnataka,KA,-5,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76883
-47959,,01/06/2020,,,,Dakshina Kannada,Karnataka,KA,-11,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76884
-47960,,01/06/2020,,,,Davanagere,Karnataka,KA,2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76885
-47961,,01/06/2020,,,,Dharwad,Karnataka,KA,-2,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76886
-47962,,01/06/2020,,,,Hassan,Karnataka,KA,-2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76887
-47963,,01/06/2020,,,,Hassan,Karnataka,KA,-1,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76888
-47964,,01/06/2020,,,,Haveri,Karnataka,KA,-3,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76889
-47965,,01/06/2020,,,,Kalaburagi,Karnataka,KA,-1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76890
-47966,,01/06/2020,,,,Kolar,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76891
-47967,,01/06/2020,,,,Other State,Karnataka,KA,12,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76892
-47968,,01/06/2020,,,,Other State,Karnataka,KA,1,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76893
-47969,,01/06/2020,,,,Shivamogga,Karnataka,KA,-2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76894
-47970,,01/06/2020,,,,Shivamogga,Karnataka,KA,-6,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76895
-47971,,01/06/2020,,,,Tumakuru,Karnataka,KA,-2,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76896
-47972,,01/06/2020,,,,Tumakuru,Karnataka,KA,3,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76897
-47973,,01/06/2020,,,,Udupi,Karnataka,KA,-1,Recovered,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76898
-47974,,01/06/2020,,,,Uttara Kannada,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76899
-47975,,01/06/2020,,,,Yadgir,Karnataka,KA,1,Hospitalized,,,https://twitter.com/DHFWKA/status/1268526911963066368,,,,,,76900
 47976,,04/06/2020,,,,Sant Kabir Nagar,Uttar Pradesh,UP,13,Hospitalized,,,https://t.me/indiacovid/6313,,,,,,76901
 47977,,04/06/2020,,,,Gautam Buddha Nagar,Uttar Pradesh,UP,30,Hospitalized,,,https://t.me/indiacovid/6313,,,,,,76902
 47978,,04/06/2020,,,,Agra,Uttar Pradesh,UP,10,Hospitalized,,,https://t.me/indiacovid/6313,,,,,,76903
@@ -20134,14 +20142,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 48316,,04/06/2020,,,,Washim,Maharashtra,MH,2,Deceased,,,,,,,,,77241
 48317,,04/06/2020,,,,Yavatmal,Maharashtra,MH,1,Deceased,,,,,,,,,77242
 48318,,04/06/2020,,,,Gadchiroli,Maharashtra,MH,7,Recovered,,,,,,,,,77243
-48319,,03/06/2020,,,,Gomati,Tripura,TR,25,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77244
-48320,,03/06/2020,,,,Khowai,Tripura,TR,7,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77245
-48321,,03/06/2020,,,,North Tripura,Tripura,TR,1,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77246
-48322,,03/06/2020,,,,Sipahijala,Tripura,TR,78,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77247
-48323,,03/06/2020,,,,South Tripura,Tripura,TR,20,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77248
-48324,,03/06/2020,,,,Unokoti,Tripura,TR,2,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77249
-48325,,03/06/2020,,,,West Tripura,Tripura,TR,18,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77250
-48326,,03/06/2020,,,,,Tripura,TR,-102,Hospitalized,,,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,77251
 48327,,04/06/2020,,,,,Nagaland,NL,-31,Hospitalized,,District Wise Recpnciliation,https://covid19.nagaland.gov.in/health-main,,,,,,77252
 48328,,04/06/2020,,,,Dimapur,Nagaland,NL,26,Hospitalized,,,https://covid19.nagaland.gov.in/health-main,,,,,,77253
 48329,,04/06/2020,,,,Kohima,Nagaland,NL,1,Hospitalized,,,https://covid19.nagaland.gov.in/health-main,,,,,,77254
@@ -20428,92 +20428,8 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 48610,,04/06/2020,,,,Jashpur,Chhattisgarh,CT,5,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268583415844044802,,,,,,
 48611,,04/06/2020,,,,,Chhattisgarh,CT,2,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268583415844044802,,,,,,
 48612,,04/06/2020,,,,Dadra and Nagar Haveli,Dadra and Nagar Haveli and Daman and Diu,DN,3,Hospitalized,,,https://twitter.com/DnhPublicity/status/1268595413898199043?s=20,,,,,,
-48613,,05/06/2020,,,,Lunglei,Mizoram,MZ,1,Hospitalized,,Institutional quarantine at Lunglei,https://twitter.com/dipr_mizoram/status/1268736125104910336,,,,,,
-48614,,05/06/2020,,,Falkawn,Aizawl,Mizoram,MZ,4,Hospitalized,,ZMC,https://twitter.com/dipr_mizoram/status/1268736125104910336,,,,,,
-48615,,05/06/2020,,,,,Nagaland,NL,14,Hospitalized,,,https://twitter.com/pangnyu/status/1268747371938287616,,,,,,
-48616,,05/06/2020,,,,Khordha,Odisha,OR,1,Deceased,,,,,,,,,
-48617,,05/06/2020,,,,Unassigned,State Unassigned,UN,127,Hospitalized,,,mohfw.gov.in,,,,,,
-48618,,05/06/2020,,,,Koraput,Odisha,OR,6,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48619,,05/06/2020,,,,Khordha,Odisha,OR,22,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48620,,05/06/2020,,,,Puri,Odisha,OR,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48621,,05/06/2020,,,,Rayagada,Odisha,OR,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48622,,05/06/2020,,,,Jajpur,Odisha,OR,3,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48623,,05/06/2020,,,,Jagatsinghpur,Odisha,OR,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48624,,05/06/2020,,,,Gajapati,Odisha,OR,7,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48625,,05/06/2020,,,,Mayurbhanj,Odisha,OR,22,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48626,,05/06/2020,,,,Cuttack,Odisha,OR,23,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48627,,05/06/2020,,,,Angul,Odisha,OR,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48628,,05/06/2020,,,,Bargarh,Odisha,OR,4,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48629,,05/06/2020,,,,Dhenkanal,Odisha,OR,2,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48630,,05/06/2020,,,,Balangir,Odisha,OR,3,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48631,,05/06/2020,,,,Bhadrak,Odisha,OR,4,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48632,,05/06/2020,,,,Kendujhar,Odisha,OR,2,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48633,,05/06/2020,,,,Kandhamal,Odisha,OR,3,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48634,,05/06/2020,,,,Kalahandi,Odisha,OR,3,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48635,,05/06/2020,,,,Ganjam,Odisha,OR,12,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48636,,05/06/2020,,,,Sundargarh,Odisha,OR,7,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48637,,05/06/2020,,,,Subarnapur,Odisha,OR,1,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48638,,05/06/2020,,,,Kendrapara,Odisha,OR,2,Hospitalized,,,https://twitter.com/IPR_Odisha/status/1268767295444312064,,,,,,
-48639,,05/06/2020,,,,Ranchi,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48640,,05/06/2020,,,,Bokaro,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48641,,05/06/2020,,,,Hazaribagh,Jharkhand,JH,4,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48642,,05/06/2020,,,,Simdega,Jharkhand,JH,10,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48643,,05/06/2020,,,,Koderma,Jharkhand,JH,13,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48644,,05/06/2020,,,,Garhwa,Jharkhand,JH,10,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48645,,05/06/2020,,,,Palamu,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48646,,05/06/2020,,,,East Singhbhum,Jharkhand,JH,14,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48647,,05/06/2020,,,,Latehar,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48648,,05/06/2020,,,,Gumla,Jharkhand,JH,3,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48649,,05/06/2020,,,,Saraikela-Kharsawan,Jharkhand,JH,1,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48650,,05/06/2020,,,,Khunti,Jharkhand,JH,3,Hospitalized,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48651,,05/06/2020,,,,Ranchi,Jharkhand,JH,7,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48652,,05/06/2020,,,,Hazaribagh,Jharkhand,JH,10,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48653,,05/06/2020,,,,Simdega,Jharkhand,JH,11,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48654,,05/06/2020,,,,Garhwa,Jharkhand,JH,10,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48655,,05/06/2020,,,,Palamu,Jharkhand,JH,1,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48656,,05/06/2020,,,,East Singhbhum,Jharkhand,JH,21,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48657,,05/06/2020,,,,Ramgarh,Jharkhand,JH,5,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48658,,05/06/2020,,,,West Singhbhum,Jharkhand,JH,1,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48659,,05/06/2020,,,,Pakur,Jharkhand,JH,3,Recovered,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48660,,05/06/2020,,,,Ranchi,Jharkhand,JH,1,Deceased,,,https://twitter.com/ANI/status/1268768103556509697,,,,,,
-48661,,05/06/2020,10,M,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/6353,,,,,,
-48662,,05/06/2020,3,F,Bapu Dham Colony,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/6353,,,,,,
-48663,,05/06/2020,,,,Baran,Rajasthan,RJ,4,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48664,,05/06/2020,,,,Bharatpur,Rajasthan,RJ,20,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48665,,05/06/2020,,,,Jaipur,Rajasthan,RJ,16,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48666,,05/06/2020,,,,Jhalawar,Rajasthan,RJ,23,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48667,,05/06/2020,,,,Kota,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48668,,05/06/2020,,,,Sawai Madhopur,Rajasthan,RJ,1,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48669,,05/06/2020,,,,Other State,Rajasthan,RJ,2,Hospitalized,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48670,,05/06/2020,,,,Barmer,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48671,,05/06/2020,,,,Bhilwara,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48672,,05/06/2020,,,,Jodhpur,Rajasthan,RJ,23,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48673,,05/06/2020,,,,Rajsamand,Rajasthan,RJ,6,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48674,,05/06/2020,,,,Sikar,Rajasthan,RJ,25,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48675,,05/06/2020,,,,Sirohi,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48676,,05/06/2020,,,,Tonk,Rajasthan,RJ,1,Recovered,,,https://twitter.com/ANI/status/1268787780538122242,,,,,,
-48677,,05/06/2020,,,,Anantapur,Andhra Pradesh,AP,17,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48678,,05/06/2020,,,,Chittoor,Andhra Pradesh,AP,4,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48679,,05/06/2020,,,,East Godavari,Andhra Pradesh,AP,1,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48680,,05/06/2020,,,,Guntur,Andhra Pradesh,AP,5,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48681,,05/06/2020,,,,Y.S.R. Kadapa,Andhra Pradesh,AP,2,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48682,,05/06/2020,,,,Krishna,Andhra Pradesh,AP,8,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48683,,05/06/2020,,,,Prakasam,Andhra Pradesh,AP,1,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48684,,05/06/2020,,,,S.P.S. Nellore,Andhra Pradesh,AP,5,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48685,,05/06/2020,,,,Visakhapatnam,Andhra Pradesh,AP,1,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48686,,05/06/2020,,,,Vizianagaram,Andhra Pradesh,AP,2,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48687,,05/06/2020,,,,West Godavari,Andhra Pradesh,AP,4,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48688,,05/06/2020,,,,Chittoor,Andhra Pradesh,AP,2,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48689,,05/06/2020,,,,East Godavari,Andhra Pradesh,AP,13,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48690,,05/06/2020,,,,Kurnool,Andhra Pradesh,AP,7,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48691,,05/06/2020,,,,Krishna,Andhra Pradesh,AP,2,Deceased,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48692,,05/06/2020,,,,Foreign Evacuees,Andhra Pradesh,AP,4,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48693,,05/06/2020,,,,Other State,Andhra Pradesh,AP,84,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
-48694,,05/06/2020,,,,Other State,Andhra Pradesh,AP,14,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,
 48695,,04/06/2020,,,,,Puducherry,PY,9,Hospitalized,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,,,,,,
 48696,,04/06/2020,,,,,Puducherry,PY,4,Recovered,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,,,,,,
-48697,,05/06/2020,,,,,Puducherry,PY,5,Hospitalized,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,,,,,,
-48698,,05/06/2020,,,,,Puducherry,PY,6,Recovered,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,,,,,,
 48699,,04/06/2020,,,,Pathanamthitta,Kerala,KL,-14,Hospitalized,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,,,,,,
 48700,,04/06/2020,5,M,Vettipuram,Pathanamthitta,Kerala,KL,1,Hospitalized,,"Travelled from Maharashta, son of P48700",http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/05/pathanamthitta-14-people-tested-with-covid-19.html,,,,,
 48701,,04/06/2020,35,M,Vettipuram,Pathanamthitta,Kerala,KL,1,Hospitalized,,Travelled from Maharashta,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/05/pathanamthitta-14-people-tested-with-covid-19.html,,,,,
@@ -20529,16 +20445,6 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 48711,,04/06/2020,58,F,Omalloor,Pathanamthitta,Kerala,KL,1,Hospitalized,,Travelled from Kuwait,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/05/pathanamthitta-14-people-tested-with-covid-19.html,,,,,
 48712,,04/06/2020,48,F,Thannithode,Pathanamthitta,Kerala,KL,1,Hospitalized,,Travelled from Kuwait,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/05/pathanamthitta-14-people-tested-with-covid-19.html,,,,,
 48713,,04/06/2020,25,M,Aranmula,Pathanamthitta,Kerala,KL,1,Hospitalized,,Travelled from Abu Dhabi,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/05/pathanamthitta-14-people-tested-with-covid-19.html,,,,,
-48714,,05/06/2020,,,,Gurugram,Haryana,HR,78,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48715,,05/06/2020,,,,Nuh,Haryana,HR,3,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48716,,05/06/2020,,,,Palwal,Haryana,HR,6,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48717,,05/06/2020,,,,Fatehabad,Haryana,HR,3,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48718,,05/06/2020,,,,Mahendragarh,Haryana,HR,4,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48719,,05/06/2020,,,,Kurukshetra,Haryana,HR,9,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48720,,05/06/2020,,,,Ambala,Haryana,HR,3,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48721,,05/06/2020,,,,Fatehabad,Haryana,HR,1,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48722,,05/06/2020,,,,Mahendragarh,Haryana,HR,12,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
-48723,,05/06/2020,,,,Kurukshetra,Haryana,HR,5,Recovered,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,
 48724,,04/06/2020,,,,Kasaragod,Kerala,KL,-12,Hospitalized,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,,,,,,
 48725,,04/06/2020,25,M,,Kasaragod,Kerala,KL,1,Hospitalized,,Contact transmission,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/kasargod/2020/06/04/kasargod-corona-virus.html,,,,,
 48726,,04/06/2020,,,,Kasaragod,Kerala,KL,1,Hospitalized,,Travelled from Maharashtra,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/kasargod/2020/06/04/kasargod-corona-virus.html,,,,,
@@ -20584,4 +20490,3 @@ Maharashtra",https://t.me/Karnataka_KoViD19_Broadcast/3670,,,,,,63882
 48766,,04/06/2020,,,,Alappuzha,Kerala,KL,1,Hospitalized,,Travelled from Mumbai to Kochi,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/alappuzha/2020/06/05/alappuzha-covid-19.html,,,,,
 48767,,04/06/2020,,,,Alappuzha,Kerala,KL,1,Hospitalized,,Travelled from Moscow landed at Kannur,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/alappuzha/2020/06/05/alappuzha-covid-19.html,,,,,
 48768,,04/06/2020,,,,Alappuzha,Kerala,KL,1,Hospitalized,,Travelled from Kuwait,http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf,https://www.manoramaonline.com/district-news/alappuzha/2020/06/05/alappuzha-covid-19.html,,,,,
-48769,,,,,,,,,,,,,,,,,,,
