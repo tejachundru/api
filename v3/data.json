@@ -796,7 +796,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T17:43:47+05:30",
+      "last_updated": "2020-06-05T17:48:47+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/PIB_Patna/status/1268520472284667904"
@@ -2378,16 +2378,25 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 3
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 49,
+          "confirmed": 51,
           "recovered": 13
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 45,
+          "confirmed": 46,
           "recovered": 35
         }
       },
@@ -2405,7 +2414,7 @@
       }
     },
     "total": {
-      "confirmed": 94,
+      "confirmed": 97,
       "deceased": 1,
       "recovered": 48,
       "tested": 8264
@@ -3560,7 +3569,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T17:43:49+05:30",
+      "last_updated": "2020-06-05T17:48:48+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/297?single"
@@ -4687,20 +4696,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 753,
+      "confirmed": 756,
       "deceased": 5,
       "recovered": 426,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T17:43:46+05:30",
+      "last_updated": "2020-06-05T17:48:45+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 227475,
+      "confirmed": 227478,
       "deceased": 6368,
       "migrated": 12,
       "recovered": 108880,
