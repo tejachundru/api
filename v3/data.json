@@ -942,7 +942,8 @@
   "CT": {
     "delta": {
       "confirmed": 90,
-      "recovered": 25
+      "recovered": 25,
+      "tested": 2802
     },
     "districts": {
       "Balod": {
@@ -1130,15 +1131,14 @@
     "meta": {
       "last_updated": "2020-06-05T22:44:50+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/TS_SinghDeo/status/1268579834189447169?s=20"
+        "last_updated": "2020-06-05"
       }
     },
     "total": {
       "confirmed": 863,
       "deceased": 2,
       "recovered": 231,
-      "tested": 82941
+      "tested": 85743
     }
   },
   "DL": {

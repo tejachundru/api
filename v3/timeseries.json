@@ -5478,13 +5478,14 @@
     "2020-06-05": {
       "delta": {
         "confirmed": 90,
-        "recovered": 25
+        "recovered": 25,
+        "tested": 2802
       },
       "total": {
         "confirmed": 863,
         "deceased": 2,
         "recovered": 231,
-        "tested": 82941
+        "tested": 85743
       }
     }
   },
