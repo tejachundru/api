@@ -1249,7 +1249,8 @@
     "meta": {
       "last_updated": "2020-06-05T01:29:05+05:30",
       "tested": {
-        "last_updated": "2020-06-05"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/DnhPublicity/status/1268932607464669185/photo/1"
       }
     },
     "total": {
@@ -2006,7 +2007,8 @@
     "delta": {
       "confirmed": 62,
       "deceased": 1,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 2456
     },
     "districts": {
       "Bokaro": {
@@ -2214,15 +2216,15 @@
     "meta": {
       "last_updated": "2020-06-05T10:55:06+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/RanchiPIB/status/1268594115215851521?s=19"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
       }
     },
     "total": {
       "confirmed": 889,
       "deceased": 7,
       "recovered": 435,
-      "tested": 77641
+      "tested": 80097
     }
   },
   "JK": {
@@ -3527,7 +3529,8 @@
     "delta": {
       "confirmed": 234,
       "deceased": 7,
-      "recovered": 241
+      "recovered": 241,
+      "tested": 5997
     },
     "districts": {
       "Agar Malwa": {
@@ -3974,15 +3977,15 @@
     "meta": {
       "last_updated": "2020-06-05T22:44:47+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/healthminmp/status/1268564821378826241"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/healthminmp/status/1268916804107329538?s=09"
       }
     },
     "total": {
       "confirmed": 8996,
       "deceased": 384,
       "recovered": 5878,
-      "tested": 189252
+      "tested": 195249
     }
   },
   "MZ": {
@@ -4598,7 +4601,8 @@
   "PY": {
     "delta": {
       "confirmed": 5,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 169
     },
     "districts": {
       "Karaikal": {
@@ -4633,14 +4637,13 @@
     "meta": {
       "last_updated": "2020-06-05T13:44:37+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "last_updated": "2020-06-05"
       }
     },
     "total": {
       "confirmed": 104,
       "recovered": 43,
-      "tested": 7576
+      "tested": 7963
     }
   },
   "RJ": {

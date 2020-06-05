@@ -4634,7 +4634,8 @@
   "PY": {
     "delta": {
       "confirmed": 9,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 218
     },
     "districts": {
       "Karaikal": {
@@ -4668,14 +4669,13 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "last_updated": "2020-06-04"
       }
     },
     "total": {
       "confirmed": 99,
       "recovered": 37,
-      "tested": 7576
+      "tested": 7794
     }
   },
   "RJ": {
