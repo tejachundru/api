@@ -1131,7 +1131,8 @@
     "meta": {
       "last_updated": "2020-06-05T22:44:50+05:30",
       "tested": {
-        "last_updated": "2020-06-05"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/HealthCgGov/status/1268904801796063237?s=20"
       }
     },
     "total": {
@@ -1145,7 +1146,8 @@
     "delta": {
       "confirmed": 1330,
       "deceased": 49,
-      "recovered": 417
+      "recovered": 417,
+      "tested": 5187
     },
     "districts": {
       "Central Delhi": {
@@ -1221,18 +1223,21 @@
       "last_updated": "2020-06-05T21:19:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-04.pdf"
+        "last_updated": "2020-06-05",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-05.pdf"
       }
     },
     "total": {
       "confirmed": 26334,
       "deceased": 708,
       "recovered": 10315,
-      "tested": 236506
+      "tested": 241693
     }
   },
   "DN": {
+    "delta": {
+      "tested": 1292
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
@@ -1244,20 +1249,20 @@
     "meta": {
       "last_updated": "2020-06-05T01:29:05+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/DnhPublicity/status/1268577221683396618/photo/1"
+        "last_updated": "2020-06-05"
       }
     },
     "total": {
       "confirmed": 14,
       "recovered": 1,
-      "tested": 12375
+      "tested": 13667
     }
   },
   "GA": {
     "delta": {
       "confirmed": 30,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 908
     },
     "districts": {
       "North Goa": {
@@ -1286,14 +1291,14 @@
     "meta": {
       "last_updated": "2020-06-05T21:14:53+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/DHS_Goa/status/1268574470593114113?s=19"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/DHS_Goa/status/1268932787312062464?s=19"
       }
     },
     "total": {
       "confirmed": 196,
       "recovered": 65,
-      "tested": 25300
+      "tested": 26208
     }
   },
   "GJ": {
@@ -1649,7 +1654,8 @@
   "HP": {
     "delta": {
       "confirmed": 6,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 985
     },
     "districts": {
       "Bilaspur": {
@@ -1744,8 +1750,8 @@
       "last_updated": "2020-06-05T18:14:53+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/nhm_hp/status/1268577478756519938?s=19"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/nhm_hp/status/1268936480069730304?s=19"
       }
     },
     "total": {
@@ -1753,7 +1759,7 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 183,
-      "tested": 42703
+      "tested": 43688
     }
   },
   "HR": {
@@ -2223,7 +2229,8 @@
     "delta": {
       "confirmed": 182,
       "deceased": 1,
-      "recovered": 38
+      "recovered": 38,
+      "tested": 6580
     },
     "districts": {
       "Anantnag": {
@@ -2426,15 +2433,15 @@
     "meta": {
       "last_updated": "2020-06-05T21:14:51+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/diprjk/status/1268562845098299392/photo/2"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/diprjk/status/1268920698040455169?s=19"
       }
     },
     "total": {
       "confirmed": 3324,
       "deceased": 36,
       "recovered": 1086,
-      "tested": 195677
+      "tested": 202257
     }
   },
   "KA": {
