@@ -1507,9 +1507,10 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 50135,,05/06/2020,,,,South Tripura,Tripura,TR,10,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79505
 50136,,05/06/2020,,,,Unokoti,Tripura,TR,1,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79506
 50137,,05/06/2020,,,,West Tripura,Tripura,TR,6,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79507
-50138,,05/06/2020,,,,,,,,,,,,,,,,,79508
-50139,,05/06/2020,,,,,,,,,,,,,,,,,79509
-50140,,05/06/2020,,,,,,,,,,,,,,,,,79510
+50138,,05/06/2020,,,,,,,,,,,https://twitter.com/HealthCgGov/status/1268955212674408449,,,,,,79508
+50139,,05/06/2020,,,,,,,,,,what does the negative number of cases signify,,,,,,,79509
+50140,,05/06/2020,,,,,,,,,,"So sometimes states move patients around. In that case, 
+the district numbers will reduce the next day and get added to some other district. The other scenario is when we add a bulk entry first and then ""expand"" it later. For example, if we add 20 cases for Assam without a district, and later we figure out districts. So we add the district entries, then add a -20 for Assam without district. Now you have state totals matching and the districts updated.",,,,,,,79510
 50141,,,,,,,,,,,,,,,,,,,79511
 50142,,,,,,,,,,,,,,,,,,,79512
 50143,,,,,,,,,,,,,,,,,,,79513
