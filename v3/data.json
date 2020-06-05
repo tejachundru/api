@@ -2902,7 +2902,8 @@
       "last_updated": "2020-06-05T18:24:47+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-05"
+        "last_updated": "2020-06-05",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-05.pdf"
       }
     },
     "total": {
@@ -3424,7 +3425,8 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 8
+      "confirmed": 8,
+      "tested": 2175
     },
     "districts": {
       "Bishnupur": {
@@ -3515,21 +3517,21 @@
     "meta": {
       "last_updated": "2020-06-05T19:42:50+05:30",
       "tested": {
-        "last_updated": "2020-06-03",
-        "source": "https://twitter.com/DiprManipur/status/1268195568372740096?s=09"
+        "last_updated": "2020-06-05",
+        "source": "https://t.me/indiacovid/6412"
       }
     },
     "total": {
       "confirmed": 132,
       "recovered": 38,
-      "tested": 12454
+      "tested": 14629
     }
   },
   "MP": {
     "delta": {
-      "confirmed": 234,
+      "confirmed": 293,
       "deceased": 7,
-      "recovered": 241,
+      "recovered": 182,
       "tested": 5997
     },
     "districts": {
@@ -3719,14 +3721,13 @@
       },
       "Indore": {
         "delta": {
-          "confirmed": 54,
-          "deceased": 4,
-          "recovered": 59
+          "confirmed": 113,
+          "deceased": 4
         },
         "total": {
-          "confirmed": 3687,
+          "confirmed": 3746,
           "deceased": 149,
-          "recovered": 2243
+          "recovered": 2184
         }
       },
       "Jabalpur": {
@@ -3982,9 +3983,9 @@
       }
     },
     "total": {
-      "confirmed": 8996,
+      "confirmed": 9055,
       "deceased": 384,
-      "recovered": 5878,
+      "recovered": 5819,
       "tested": 195249
     }
   },
@@ -4042,7 +4043,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 14
+      "confirmed": 14,
+      "tested": 235
     },
     "districts": {
       "Dimapur": {
@@ -4077,13 +4079,13 @@
     "meta": {
       "last_updated": "2020-06-05T09:36:08+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/MyGovNagaland/status/1268532835478114304?s=20"
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/pangnyu/status/1268747371938287616?s=20"
       }
     },
     "total": {
       "confirmed": 94,
-      "tested": 3739
+      "tested": 3974
     }
   },
   "OR": {
@@ -5766,9 +5768,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9279,
+      "confirmed": 9338,
       "deceased": 286,
-      "recovered": 4777,
+      "recovered": 4718,
       "tested": 143661
     },
     "meta": {
@@ -5779,10 +5781,10 @@
       }
     },
     "total": {
-      "confirmed": 236001,
+      "confirmed": 236060,
       "deceased": 6649,
       "migrated": 12,
-      "recovered": 113231,
+      "recovered": 113172,
       "tested": 4386379
     }
   },
