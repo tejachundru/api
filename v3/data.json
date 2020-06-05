@@ -2748,7 +2748,8 @@
   "KL": {
     "delta": {
       "confirmed": 111,
-      "recovered": 22
+      "recovered": 22,
+      "tested": 4353
     },
     "districts": {
       "Alappuzha": {
@@ -2901,15 +2902,14 @@
       "last_updated": "2020-06-05T18:24:47+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-04.pdf"
+        "last_updated": "2020-06-05"
       }
     },
     "total": {
       "confirmed": 1700,
       "deceased": 15,
       "recovered": 712,
-      "tested": 99692
+      "tested": 104045
     }
   },
   "LA": {
@@ -4637,7 +4637,8 @@
     "meta": {
       "last_updated": "2020-06-05T13:44:37+05:30",
       "tested": {
-        "last_updated": "2020-06-05"
+        "last_updated": "2020-06-05",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
@@ -4650,7 +4651,8 @@
     "delta": {
       "confirmed": 222,
       "deceased": 5,
-      "recovered": 255
+      "recovered": 255,
+      "tested": 13781
     },
     "districts": {
       "Ajmer": {
@@ -4999,15 +5001,15 @@
     "meta": {
       "last_updated": "2020-06-05T22:35:47+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/ANI/status/1268570392039288838?s=20"
+        "last_updated": "2020-06-05",
+        "source": "https://t.me/indiacovid/6431"
       }
     },
     "total": {
       "confirmed": 10084,
       "deceased": 218,
       "recovered": 7359,
-      "tested": 467129
+      "tested": 480910
     }
   },
   "SK": {
@@ -5800,7 +5802,8 @@
     "delta": {
       "confirmed": 496,
       "deceased": 12,
-      "recovered": 209
+      "recovered": 209,
+      "tested": 14054
     },
     "districts": {
       "Agra": {
@@ -6556,15 +6559,15 @@
     "meta": {
       "last_updated": "2020-06-05T20:12:49+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://t.me/indiacovid/6310"
+        "last_updated": "2020-06-05",
+        "source": "https://t.me/indiacovid/6395?single"
       }
     },
     "total": {
       "confirmed": 9733,
       "deceased": 257,
       "recovered": 5648,
-      "tested": 330663
+      "tested": 344717
     }
   },
   "UT": {
