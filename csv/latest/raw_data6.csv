@@ -81,8 +81,8 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 48692,,05/06/2020,,,,Foreign Evacuees,Andhra Pradesh,AP,4,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,78079
 48693,,05/06/2020,,,,Other State,Andhra Pradesh,AP,84,Hospitalized,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,78080
 48694,,05/06/2020,,,,Other State,Andhra Pradesh,AP,14,Recovered,,,https://twitter.com/ArogyaAndhra/status/1268804028026155009?s=20,,,,,,78081
-48697,,05/06/2020,,,,,Puducherry,PY,5,Hospitalized,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,https://twitter.com/ANI/status/1268881631621771264?s=20),,,,,78082
-48698,,05/06/2020,,,,,Puducherry,PY,6,Recovered,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,https://twitter.com/ANI/status/1268881631621771264?s=20),,,,,78083
+48697,,05/06/2020,,,,Puducherry,Puducherry,PY,5,Hospitalized,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,https://twitter.com/ANI/status/1268881631621771264?s=20),,,,,78082
+48698,,05/06/2020,,,,Puducherry,Puducherry,PY,6,Recovered,,,https://twitter.com/PuducherryFOB/status/1268444138858561536?s=20,https://twitter.com/ANI/status/1268881631621771264?s=20),,,,,78083
 48714,,05/06/2020,,,,Gurugram,Haryana,HR,78,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,78084
 48715,,05/06/2020,,,,Nuh,Haryana,HR,3,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,78085
 48716,,05/06/2020,,,,Palwal,Haryana,HR,6,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-06-20%20Morning.pdf,,,,,,78086
@@ -1391,11 +1391,11 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 50019,,05/06/2020,,,,Jaipur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1268934524856987648,,,,,,79389
 50020,,05/06/2020,,,,Sawai Madhopur,Rajasthan,RJ,1,Deceased,,,https://twitter.com/ANI/status/1268934524856987648,,,,,,79390
 50021,,05/06/2020,,,,Other State,Rajasthan,RJ,1,Deceased,,Other State/country,https://twitter.com/ANI/status/1268934524856987648,,,,,,79391
-50022,,05/06/2020,,,,Raipur,Chhattisgarh,CT,3,Hospitalized,,,,,,,,,79392
-50023,,05/06/2020,,,,Rajnandgaon,Chhattisgarh,CT,2,Hospitalized,,,,,,,,,79393
-50024,,05/06/2020,,,,Durg,Chhattisgarh,CT,1,Hospitalized,,,,,,,,,79394
-50025,,05/06/2020,,,,Balrampur,Chhattisgarh,CT,1,Hospitalized,,,,,,,,,79395
-50026,,05/06/2020,,,,Koriya,Chhattisgarh,CT,1,Hospitalized,,,,,,,,,79396
+50022,,05/06/2020,,,,Raipur,Chhattisgarh,CT,3,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268904801796063237?s=09,,,,,,79392
+50023,,05/06/2020,,,,Rajnandgaon,Chhattisgarh,CT,2,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268904801796063237?s=09,,,,,,79393
+50024,,05/06/2020,,,,Durg,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268904801796063237?s=09,,,,,,79394
+50025,,05/06/2020,,,,Balrampur,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268904801796063237?s=09,,,,,,79395
+50026,,05/06/2020,,,,Koriya,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268904801796063237?s=09,,,,,,79396
 50027,,05/06/2020,,,,Barmer,Rajasthan,RJ,2,Recovered,,,https://twitter.com/ANI/status/1268934524856987648,,,,,,79397
 50028,,05/06/2020,,,,Bikaner,Rajasthan,RJ,6,Recovered,,,https://twitter.com/ANI/status/1268934524856987648,,,,,,79398
 50029,,05/06/2020,,,,Churu,Rajasthan,RJ,25,Recovered,,,https://twitter.com/ANI/status/1268934524856987648,,,,,,79399
@@ -1506,21 +1506,20 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 50134,,05/06/2020,,,,Sipahijala,Tripura,TR,28,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79504
 50135,,05/06/2020,,,,South Tripura,Tripura,TR,10,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79505
 50136,,05/06/2020,,,,Unokoti,Tripura,TR,1,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79506
-50137,,05/06/2020,,,,West Tripura,Tripura,TR,6,Hospitalized,,Read Data updation part in this: https://blog.covid19india.org/2020/05/27/dataopsworkflow/,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79507
+50137,,05/06/2020,,,,West Tripura,Tripura,TR,6,Hospitalized,,,https://twitter.com/mygovtripura/status/1268964752509882369?s=20,,,,,,79507
 50138,,05/06/2020,,,,Bilaspur,Himachal Pradesh,,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1268955212674408449,,,,,,79508
-50139,,05/06/2020,,,,Chamba,Himachal Pradesh,HP,1,Hospitalized,,what does the negative number of cases signify,https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79509
-50140,,05/06/2020,,,,Kullu,Himachal Pradesh,HP,1,Hospitalized,,"So sometimes states move patients around. In that case, 
-the district numbers will reduce the next day and get added to some other district. The other scenario is when we add a bulk entry first and then ""expand"" it later. For example, if we add 20 cases for Assam without a district, and later we figure out districts. So we add the district entries, then add a -20 for Assam without district. Now you have state totals matching and the districts updated.",https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79510
+50139,,05/06/2020,,,,Chamba,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79509
+50140,,05/06/2020,,,,Kullu,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79510
 50141,,05/06/2020,,,,Una,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79511
 50142,,05/06/2020,,,,Hamirpur,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79512
 50143,,05/06/2020,,,,Mandi,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1268936480069730304?s=20,,,,,,79513
 50144,,05/06/2020,,,,Changlang,Arunachal Pradesh,AR,3,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268959862051999751/photo/1,,,,,,79514
 50145,,05/06/2020,,,,Lohit,Arunachal Pradesh,AR,1,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268959862051999751/photo/1,,,,,,79515
-50146,,05/06/2020,,,,,Arunachal Pradesh,AR,-2,Hospitalized,,Correcting unknowns,https://twitter.com/DirectorateofHS/status/1268959862051999751/photo/1,,,,,,79516
-50147,,05/06/2020,,,,,Sikkim,SK,1,Hospitalized,,yes i was about to say about arunanchal,,,,,,,79517
-50148,,,,,,,,,,,,corrections were needed,blog was a good eyeopener to the fforts put up by you people,,,,,,79518
-50149,,,,,,,,,,,,That's a good example for correcting unknowns,Hehe that's a very small part of the whole operations,,,,,,79519
-50150,,,,,,,,,,,,,But yeah :),,,,,,79520
+50146,,05/06/2020,,,,,Arunachal Pradesh,AR,-2,Hospitalized,,,https://twitter.com/DirectorateofHS/status/1268959862051999751/photo/1,,,,,,79516
+50147,,05/06/2020,,,,,Sikkim,SK,1,Hospitalized,,,https://covid19sikkim.org/,,,,,,79517
+50148,,,,,,,,,,,,,,,,,,,79518
+50149,,,,,,,,,,,,,,,,,,,79519
+50150,,,,,,,,,,,,,,,,,,,79520
 50151,,,,,,,,,,,,,,,,,,,79521
 50152,,,,,,,,,,,,,,,,,,,79522
 50153,,,,,,,,,,,,,,,,,,,79523

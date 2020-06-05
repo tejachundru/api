@@ -9343,19 +9343,19 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "57",
-			"confirmed": "84",
+			"active": "56",
+			"confirmed": "89",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "-1",
+			"deltaconfirmed": "5",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "6",
 			"district": "Puducherry",
 			"districtkey": "PY_Puducherry",
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "27",
+			"recovered": "33",
 			"slno": "483",
 			"state": "Puducherry",
 			"statecode": "PY"
@@ -14095,8 +14095,8 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "4",
-			"confirmed": "14",
+			"active": "5",
+			"confirmed": "9",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -14107,7 +14107,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "10",
+			"recovered": "4",
 			"slno": "755",
 			"state": "Puducherry",
 			"statecode": "PY"

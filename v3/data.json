@@ -4664,19 +4664,19 @@
         }
       },
       "Puducherry": {
-        "total": {
-          "confirmed": 84,
-          "recovered": 27
-        }
-      },
-      "Unknown": {
         "delta": {
           "confirmed": 5,
           "recovered": 6
         },
         "total": {
-          "confirmed": 14,
-          "recovered": 10
+          "confirmed": 89,
+          "recovered": 33
+        }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": 9,
+          "recovered": 4
         }
       }
     },
@@ -5084,7 +5084,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T01:22:50+05:30",
+      "last_updated": "2020-06-06T01:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/315"
@@ -5852,7 +5852,7 @@
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-06T01:22:46+05:30",
+      "last_updated": "2020-06-06T01:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
