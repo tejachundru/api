@@ -270,7 +270,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 38,
+      "confirmed": 75,
       "recovered": 50
     },
     "districts": {
@@ -333,8 +333,11 @@
         }
       },
       "Dhubri": {
+        "delta": {
+          "confirmed": 37
+        },
         "total": {
-          "confirmed": 201,
+          "confirmed": 238,
           "recovered": 5
         }
       },
@@ -505,7 +508,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T22:35:50+05:30",
+      "last_updated": "2020-06-06T00:12:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -513,7 +516,7 @@
       }
     },
     "total": {
-      "confirmed": 2154,
+      "confirmed": 2191,
       "deceased": 4,
       "migrated": 3,
       "recovered": 510,
@@ -3529,9 +3532,9 @@
   },
   "MP": {
     "delta": {
-      "confirmed": 293,
+      "confirmed": 234,
       "deceased": 7,
-      "recovered": 182,
+      "recovered": 241,
       "tested": 5997
     },
     "districts": {
@@ -3721,13 +3724,14 @@
       },
       "Indore": {
         "delta": {
-          "confirmed": 113,
-          "deceased": 4
+          "confirmed": 54,
+          "deceased": 4,
+          "recovered": 59
         },
         "total": {
-          "confirmed": 3746,
+          "confirmed": 3687,
           "deceased": 149,
-          "recovered": 2184
+          "recovered": 2243
         }
       },
       "Jabalpur": {
@@ -3983,9 +3987,9 @@
       }
     },
     "total": {
-      "confirmed": 9055,
+      "confirmed": 8996,
       "deceased": 384,
-      "recovered": 5819,
+      "recovered": 5878,
       "tested": 195249
     }
   },
@@ -5768,23 +5772,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9338,
+      "confirmed": 9316,
       "deceased": 286,
-      "recovered": 4718,
+      "recovered": 4777,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T22:44:46+05:30",
+      "last_updated": "2020-06-06T00:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 236060,
+      "confirmed": 236038,
       "deceased": 6649,
       "migrated": 12,
-      "recovered": 113172,
+      "recovered": 113231,
       "tested": 4386379
     }
   },
