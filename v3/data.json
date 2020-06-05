@@ -4454,13 +4454,14 @@
     "delta": {
       "confirmed": 340,
       "deceased": 2,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 143661
     },
     "meta": {
       "last_updated": "2020-06-05T11:16:03+05:30",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
+        "last_updated": "2020-06-05",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
@@ -4468,7 +4469,7 @@
       "deceased": 6365,
       "migrated": 12,
       "recovered": 108519,
-      "tested": 4242718
+      "tested": 4386379
     }
   },
   "UN": {
