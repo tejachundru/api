@@ -1396,12 +1396,19 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 103,
+      "recovered": 21
+    },
     "districts": {
       "Ambala": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 70,
           "deceased": 2,
-          "recovered": 40
+          "recovered": 43
         }
       },
       "Bhiwani": {
@@ -1424,9 +1431,13 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 27,
-          "recovered": 8
+          "confirmed": 30,
+          "recovered": 9
         }
       },
       "Foreign Evacuees": {
@@ -1436,8 +1447,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 78
+        },
         "total": {
-          "confirmed": 1410,
+          "confirmed": 1488,
           "deceased": 4,
           "recovered": 292
         }
@@ -1481,26 +1495,40 @@
         }
       },
       "Kurukshetra": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 37,
-          "recovered": 18
+          "confirmed": 46,
+          "recovered": 23
         }
       },
       "Mahendragarh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 12
+        },
         "total": {
-          "confirmed": 73,
-          "recovered": 21
+          "confirmed": 77,
+          "recovered": 33
         }
       },
       "Nuh": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 82,
+          "confirmed": 85,
           "recovered": 66
         }
       },
       "Palwal": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 86,
+          "confirmed": 92,
           "recovered": 48
         }
       },
@@ -1551,16 +1579,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T19:57:11+05:30",
+      "last_updated": "2020-06-05T14:42:58+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20as%20on%2004-06-20%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 3281,
+      "confirmed": 3384,
       "deceased": 24,
-      "recovered": 1123,
+      "recovered": 1144,
       "tested": 132575
     }
   },
@@ -2249,7 +2277,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": -12
+          "confirmed": -1
         }
       },
       "Wayanad": {
@@ -2261,7 +2289,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T18:58:33+05:30",
+      "last_updated": "2020-06-05T14:43:07+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-04",
@@ -2269,7 +2297,7 @@
       }
     },
     "total": {
-      "confirmed": 1577,
+      "confirmed": 1588,
       "deceased": 15,
       "recovered": 690,
       "tested": 99692
@@ -4563,23 +4591,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 551,
+      "confirmed": 654,
       "deceased": 4,
-      "recovered": 169,
+      "recovered": 190,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T13:44:34+05:30",
+      "last_updated": "2020-06-05T14:43:16+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 227261,
+      "confirmed": 227375,
       "deceased": 6367,
       "migrated": 12,
-      "recovered": 108623,
+      "recovered": 108644,
       "tested": 4386379
     }
   },

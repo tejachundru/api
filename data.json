@@ -1135,26 +1135,26 @@
 			"totalrecovered": "104064"
 		},
 		{
-			"dailyconfirmed": "9835",
+			"dailyconfirmed": "9847",
 			"dailydeceased": "274",
 			"dailyrecovered": "4390",
 			"date": "04 June ",
-			"totalconfirmed": "226711",
+			"totalconfirmed": "226723",
 			"totaldeceased": "6362",
 			"totalrecovered": "108454"
 		}
 	],
 	"statewise": [
 		{
-			"active": "112259",
-			"confirmed": "227261",
+			"active": "112353",
+			"confirmed": "227376",
 			"deaths": "6367",
-			"deltaconfirmed": "551",
+			"deltaconfirmed": "654",
 			"deltadeaths": "4",
-			"deltarecovered": "169",
-			"lastupdatedtime": "05/06/2020 13:44:34",
+			"deltarecovered": "190",
+			"lastupdatedtime": "05/06/2020 14:43:16",
 			"migratedother": "",
-			"recovered": "108623",
+			"recovered": "108644",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1356,15 +1356,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2134",
-			"confirmed": "3281",
+			"active": "2216",
+			"confirmed": "3384",
 			"deaths": "24",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "103",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/06/2020 19:57:11",
+			"deltarecovered": "21",
+			"lastupdatedtime": "05/06/2020 14:42:58",
 			"migratedother": "",
-			"recovered": "1123",
+			"recovered": "1144",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": ""
@@ -1412,13 +1412,13 @@
 			"statenotes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count"
 		},
 		{
-			"active": "872",
-			"confirmed": "1577",
+			"active": "884",
+			"confirmed": "1589",
 			"deaths": "15",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/06/2020 18:58:33",
+			"lastupdatedtime": "05/06/2020 14:43:07",
 			"migratedother": "",
 			"recovered": "690",
 			"state": "Kerala",
