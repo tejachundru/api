@@ -4654,6 +4654,10 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 9,
+      "recovered": 4
+    },
     "districts": {
       "Karaikal": {
         "total": {
@@ -4672,6 +4676,16 @@
           "confirmed": 84,
           "recovered": 27
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 4
+        },
+        "total": {
+          "confirmed": 9,
+          "recovered": 4
+        }
       }
     },
     "meta": {
@@ -4681,8 +4695,8 @@
       }
     },
     "total": {
-      "confirmed": 90,
-      "recovered": 33,
+      "confirmed": 99,
+      "recovered": 37,
       "tested": 7576
     }
   },
@@ -5849,10 +5863,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9838,
+      "confirmed": 9847,
       "deceased": 274,
       "migrated": 1,
-      "recovered": 4386,
+      "recovered": 4390,
       "tested": 139485
     },
     "meta": {
@@ -5862,10 +5876,10 @@
       }
     },
     "total": {
-      "confirmed": 226713,
+      "confirmed": 226722,
       "deceased": 6363,
       "migrated": 12,
-      "recovered": 108450,
+      "recovered": 108454,
       "tested": 4242718
     }
   },
