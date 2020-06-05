@@ -681,24 +681,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 302,
+          "confirmed": 304,
           "deceased": 5,
           "recovered": 222
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-04T16:48:08+05:30",
+      "last_updated": "2020-06-05T11:03:13+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/indiacovid/6290"
       }
     },
     "total": {
-      "confirmed": 302,
+      "confirmed": 304,
       "deceased": 5,
       "recovered": 222,
       "tested": 5059
@@ -1717,7 +1723,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T10:53:07+05:30",
+      "last_updated": "2020-06-05T10:55:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/RanchiPIB/status/1268594115215851521?s=19"
@@ -3127,7 +3133,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 130
+      "confirmed": 130,
+      "deceased": 1
     },
     "districts": {
       "Angul": {
@@ -3285,11 +3292,12 @@
       },
       "Khordha": {
         "delta": {
-          "confirmed": 22
+          "confirmed": 22,
+          "deceased": 1
         },
         "total": {
           "confirmed": 217,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 77
         }
       },
@@ -3377,7 +3385,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T10:46:06+05:30",
+      "last_updated": "2020-06-05T11:03:06+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/297?single"
@@ -3385,7 +3393,7 @@
     },
     "total": {
       "confirmed": 2608,
-      "deceased": 9,
+      "deceased": 10,
       "recovered": 1481,
       "tested": 165824
     }
@@ -4444,20 +4452,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 338,
-      "deceased": 1,
+      "confirmed": 340,
+      "deceased": 2,
       "recovered": 69
     },
     "meta": {
-      "last_updated": "2020-06-05T10:53:03+05:30",
+      "last_updated": "2020-06-05T11:03:03+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
       }
     },
     "total": {
-      "confirmed": 227051,
-      "deceased": 6364,
+      "confirmed": 227053,
+      "deceased": 6365,
       "migrated": 12,
       "recovered": 108519,
       "tested": 4242718
