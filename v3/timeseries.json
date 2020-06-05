@@ -6573,13 +6573,14 @@
       "delta": {
         "confirmed": 1359,
         "deceased": 44,
-        "recovered": 356
+        "recovered": 356,
+        "tested": 6361
       },
       "total": {
         "confirmed": 25004,
         "deceased": 659,
         "recovered": 9898,
-        "tested": 230145
+        "tested": 236506
       }
     },
     "2020-06-05": {
@@ -6587,7 +6588,7 @@
         "confirmed": 25004,
         "deceased": 659,
         "recovered": 9898,
-        "tested": 230145
+        "tested": 236506
       }
     }
   },
