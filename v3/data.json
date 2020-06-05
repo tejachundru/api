@@ -4497,7 +4497,7 @@
   },
   "RJ": {
     "delta": {
-      "confirmed": 68,
+      "confirmed": 72,
       "recovered": 58
     },
     "districts": {
@@ -4530,10 +4530,10 @@
       },
       "Baran": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 57,
+          "confirmed": 61,
           "deceased": 2,
           "recovered": 8
         }
@@ -4791,14 +4791,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T12:15:06+05:30",
+      "last_updated": "2020-06-05T21:34:47+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/ANI/status/1268570392039288838?s=20"
       }
     },
     "total": {
-      "confirmed": 9930,
+      "confirmed": 9934,
       "deceased": 213,
       "recovered": 7162,
       "tested": 467129
@@ -5558,20 +5558,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8818,
+      "confirmed": 8822,
       "deceased": 274,
       "recovered": 4303,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T21:19:46+05:30",
+      "last_updated": "2020-06-05T21:34:45+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 235540,
+      "confirmed": 235544,
       "deceased": 6637,
       "migrated": 12,
       "recovered": 112757,
