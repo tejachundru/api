@@ -4498,7 +4498,7 @@
   },
   "RJ": {
     "delta": {
-      "confirmed": 72,
+      "confirmed": 98,
       "recovered": 58
     },
     "districts": {
@@ -4550,20 +4550,21 @@
       },
       "Bharatpur": {
         "delta": {
-          "confirmed": 20
+          "confirmed": 42
         },
         "total": {
-          "confirmed": 524,
+          "confirmed": 546,
           "deceased": 6,
           "recovered": 150
         }
       },
       "Bhilwara": {
         "delta": {
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 160,
+          "confirmed": 163,
           "deceased": 2,
           "recovered": 105
         }
@@ -4662,10 +4663,10 @@
       },
       "Jhalawar": {
         "delta": {
-          "confirmed": 23
+          "confirmed": 24
         },
         "total": {
-          "confirmed": 325,
+          "confirmed": 326,
           "recovered": 132
         }
       },
@@ -4792,14 +4793,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T21:40:47+05:30",
+      "last_updated": "2020-06-05T21:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-04",
         "source": "https://twitter.com/ANI/status/1268570392039288838?s=20"
       }
     },
     "total": {
-      "confirmed": 9934,
+      "confirmed": 9960,
       "deceased": 213,
       "recovered": 7162,
       "tested": 467129
@@ -5559,20 +5560,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8822,
+      "confirmed": 8848,
       "deceased": 274,
       "recovered": 4303,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T21:40:46+05:30",
+      "last_updated": "2020-06-05T21:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 235544,
+      "confirmed": 235570,
       "deceased": 6637,
       "migrated": 12,
       "recovered": 112757,
