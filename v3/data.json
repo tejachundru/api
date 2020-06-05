@@ -257,6 +257,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "recovered": 39
+    },
     "districts": {
       "Baksa": {
         "total": {
@@ -281,9 +284,12 @@
         }
       },
       "Cachar": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 73,
-          "recovered": 66
+          "recovered": 67
         }
       },
       "Charaideo": {
@@ -314,9 +320,12 @@
         }
       },
       "Dibrugarh": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 42,
-          "recovered": 1
+          "recovered": 4
         }
       },
       "Dima Hasao": {
@@ -332,9 +341,12 @@
         }
       },
       "Golaghat": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 209,
-          "recovered": 29
+          "recovered": 35
         }
       },
       "Hailakandi": {
@@ -349,9 +361,12 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 27,
-          "recovered": 21
+          "recovered": 26
         }
       },
       "Kamrup": {
@@ -361,10 +376,13 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "recovered": 13
+        },
         "total": {
           "confirmed": 391,
           "deceased": 3,
-          "recovered": 250
+          "recovered": 263
         }
       },
       "Karbi Anglong": {
@@ -419,9 +437,12 @@
         }
       },
       "Sonitpur": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 23,
-          "recovered": 13
+          "recovered": 24
         }
       },
       "South Salmara Mankachar": {
@@ -452,7 +473,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T00:37:05+05:30",
+      "last_updated": "2020-06-05T19:22:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -463,7 +484,7 @@
       "confirmed": 2116,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 460,
+      "recovered": 499,
       "tested": 133029
     }
   },
@@ -5044,11 +5065,11 @@
     "delta": {
       "confirmed": 2918,
       "deceased": 19,
-      "recovered": 1438,
+      "recovered": 1477,
       "tested": 143661
     },
     "meta": {
-      "last_updated": "2020-06-05T19:11:46+05:30",
+      "last_updated": "2020-06-05T19:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
@@ -5058,7 +5079,7 @@
       "confirmed": 229640,
       "deceased": 6382,
       "migrated": 12,
-      "recovered": 109892,
+      "recovered": 109931,
       "tested": 4386379
     }
   },
