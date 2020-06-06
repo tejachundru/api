@@ -260,7 +260,7 @@
   "AS": {
     "delta": {
       "confirmed": 154,
-      "recovered": 38
+      "recovered": 79
     },
     "districts": {
       "Airport Quarantine": {
@@ -398,9 +398,12 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 27,
-          "recovered": 26
+          "recovered": 33
         }
       },
       "Kamrup": {
@@ -414,12 +417,13 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 8
         },
         "total": {
           "confirmed": 392,
           "deceased": 3,
-          "recovered": 250
+          "recovered": 258
         }
       },
       "Karbi Anglong": {
@@ -433,11 +437,12 @@
       },
       "Karimganj": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 4
         },
         "total": {
           "confirmed": 77,
-          "recovered": 2
+          "recovered": 6
         }
       },
       "Kokrajhar": {
@@ -465,16 +470,21 @@
       },
       "Nagaon": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 10
         },
         "total": {
-          "confirmed": 97
+          "confirmed": 97,
+          "recovered": 10
         }
       },
       "Nalbari": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 25,
-          "recovered": 4
+          "recovered": 9
         }
       },
       "Other State": {
@@ -493,11 +503,12 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 7
         },
         "total": {
           "confirmed": 32,
-          "recovered": 26
+          "recovered": 33
         }
       },
       "South Salmara Mankachar": {
@@ -540,7 +551,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T19:29:51+05:30",
+      "last_updated": "2020-06-06T20:12:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -551,7 +562,7 @@
       "confirmed": 2398,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 548,
+      "recovered": 589,
       "tested": 133029
     }
   },
@@ -5210,11 +5221,11 @@
       "confirmed": 4688,
       "deceased": 71,
       "migrated": 1,
-      "recovered": 1851,
+      "recovered": 1892,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T20:04:46+05:30",
+      "last_updated": "2020-06-06T20:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -5224,7 +5235,7 @@
       "confirmed": 240789,
       "deceased": 6720,
       "migrated": 13,
-      "recovered": 115050,
+      "recovered": 115091,
       "tested": 4524317
     }
   },
