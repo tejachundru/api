@@ -4661,14 +4661,14 @@
     "districtData": {
       "Bishnupur": {
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Chandel": {
@@ -4709,14 +4709,14 @@
       },
       "Imphal West": {
         "notes": "",
-        "active": 25,
+        "active": 21,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Jiribam": {
@@ -4769,14 +4769,14 @@
       },
       "Noney": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Pherzawl": {
@@ -4805,14 +4805,14 @@
       },
       "Tamenglong": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Tengnoupal": {
@@ -4829,26 +4829,26 @@
       },
       "Thoubal": {
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 4,
+        "deceased": 0,
+        "recovered": 4,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 2
+        }
+      },
+      "Ukhrul": {
+        "notes": "",
+        "active": 3,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Ukhrul": {
-        "notes": "",
-        "active": 5,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Unknown": {

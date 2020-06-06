@@ -2546,12 +2546,17 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 11
+      "confirmed": 11,
+      "recovered": 11
     },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         }
       },
       "Chandel": {
@@ -2575,9 +2580,12 @@
         }
       },
       "Imphal West": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 26,
-          "recovered": 1
+          "recovered": 5
         }
       },
       "Kakching": {
@@ -2597,8 +2605,12 @@
         }
       },
       "Noney": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         }
       },
       "Pherzawl": {
@@ -2615,8 +2627,12 @@
         }
       },
       "Tamenglong": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 1
         }
       },
       "Tengnoupal": {
@@ -2625,14 +2641,21 @@
         }
       },
       "Thoubal": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 4,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "Ukhrul": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 2
         }
       },
       "Unknown": {
@@ -2643,7 +2666,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T12:22:48+05:30",
+      "last_updated": "2020-06-06T12:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6412"
@@ -2651,7 +2674,7 @@
     },
     "total": {
       "confirmed": 148,
-      "recovered": 38,
+      "recovered": 49,
       "tested": 14629
     }
   },
@@ -4410,10 +4433,11 @@
   "TT": {
     "delta": {
       "confirmed": 876,
+      "recovered": 11,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T12:22:46+05:30",
+      "last_updated": "2020-06-06T12:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -4423,7 +4447,7 @@
       "confirmed": 237060,
       "deceased": 6649,
       "migrated": 12,
-      "recovered": 113233,
+      "recovered": 113244,
       "tested": 4524317
     }
   },
