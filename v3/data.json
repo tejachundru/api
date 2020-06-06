@@ -274,7 +274,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 154,
+      "confirmed": 230,
       "recovered": 79
     },
     "districts": {
@@ -293,10 +293,10 @@
       },
       "Barpeta": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 12
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 80,
           "recovered": 38
         }
       },
@@ -309,8 +309,11 @@
         }
       },
       "Bongaigaon": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 5
         }
       },
@@ -337,34 +340,37 @@
         }
       },
       "Darrang": {
+        "delta": {
+          "confirmed": 22
+        },
         "total": {
-          "confirmed": 43
+          "confirmed": 65
         }
       },
       "Dhemaji": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 15
         },
         "total": {
-          "confirmed": 46,
+          "confirmed": 49,
           "recovered": 5
         }
       },
       "Dhubri": {
         "delta": {
-          "confirmed": 21
+          "confirmed": 44
         },
         "total": {
-          "confirmed": 259,
+          "confirmed": 282,
           "recovered": 5
         }
       },
       "Dibrugarh": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 43,
+          "confirmed": 50,
           "recovered": 4
         }
       },
@@ -432,11 +438,11 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 13,
           "recovered": 8
         },
         "total": {
-          "confirmed": 392,
+          "confirmed": 404,
           "deceased": 3,
           "recovered": 258
         }
@@ -518,11 +524,11 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 6,
           "recovered": 7
         },
         "total": {
-          "confirmed": 32,
+          "confirmed": 34,
           "recovered": 33
         }
       },
@@ -566,7 +572,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T20:21:49+05:30",
+      "last_updated": "2020-06-06T23:52:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -574,7 +580,7 @@
       }
     },
     "total": {
-      "confirmed": 2398,
+      "confirmed": 2474,
       "deceased": 4,
       "migrated": 3,
       "recovered": 589,
@@ -5859,21 +5865,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10353,
+      "confirmed": 10429,
       "deceased": 297,
       "migrated": 1,
       "recovered": 5387,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T23:13:46+05:30",
+      "last_updated": "2020-06-06T23:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 246454,
+      "confirmed": 246530,
       "deceased": 6946,
       "migrated": 13,
       "recovered": 118592,
