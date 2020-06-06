@@ -923,6 +923,10 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 23,
+      "recovered": 28
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -931,21 +935,31 @@
         }
       },
       "Baloda Bazar": {
+        "delta": {
+          "confirmed": 14,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 81,
-          "recovered": 12
+          "confirmed": 95,
+          "recovered": 13
         }
       },
       "Balrampur": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 18,
-          "recovered": 5
+          "recovered": 8
         }
       },
       "Bametara": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 20,
-          "recovered": 12
+          "recovered": 13
         }
       },
       "Bastar": {
@@ -954,9 +968,12 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 98,
-          "recovered": 17
+          "recovered": 19
         }
       },
       "Dhamtari": {
@@ -984,9 +1001,12 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 47,
-          "recovered": 14
+          "recovered": 16
         }
       },
       "Jashpur": {
@@ -1001,8 +1021,11 @@
         }
       },
       "Korba": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 94,
+          "confirmed": 97,
           "recovered": 34
         }
       },
@@ -1018,9 +1041,12 @@
         }
       },
       "Mungeli": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 86,
-          "recovered": 41
+          "recovered": 52
         }
       },
       "Raigarh": {
@@ -1030,10 +1056,14 @@
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 30,
+          "confirmed": 34,
           "deceased": 1,
-          "recovered": 8
+          "recovered": 9
         }
       },
       "Rajnandgaon": {
@@ -1043,35 +1073,52 @@
         }
       },
       "Surajpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 7
         }
       },
       "Surguja": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 9,
+          "recovered": 7
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": 6
+        },
+        "total": {
           "recovered": 6
         }
       },
       "Uttar Bastar Kanker": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "recovered": 11
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T22:44:50+05:30",
+      "last_updated": "2020-06-06T20:42:47+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/HealthCgGov/status/1268904801796063237?s=20"
       }
     },
     "total": {
-      "confirmed": 863,
+      "confirmed": 886,
       "deceased": 2,
-      "recovered": 231,
+      "recovered": 259,
       "tested": 85743
     }
   },
@@ -2267,7 +2314,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T20:34:49+05:30",
+      "last_updated": "2020-06-06T20:37:49+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/diprjk/status/1268920698040455169?s=19"
@@ -3160,7 +3207,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T20:34:47+05:30",
+      "last_updated": "2020-06-06T20:37:47+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/Maha_MEDD/status/1269143363204165632?s=19"
@@ -5394,24 +5441,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7572,
+      "confirmed": 7595,
       "deceased": 194,
       "migrated": 1,
-      "recovered": 1934,
+      "recovered": 1962,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T20:34:46+05:30",
+      "last_updated": "2020-06-06T20:42:45+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 243673,
+      "confirmed": 243696,
       "deceased": 6843,
       "migrated": 13,
-      "recovered": 115133,
+      "recovered": 115161,
       "tested": 4524317
     }
   },

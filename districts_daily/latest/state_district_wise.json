@@ -1478,38 +1478,38 @@
       },
       "Baloda Bazar": {
         "notes": "",
-        "active": 69,
-        "confirmed": 81,
+        "active": 82,
+        "confirmed": 95,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Balrampur": {
         "notes": "",
-        "active": 13,
+        "active": 10,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Bametara": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 20,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bastar": {
@@ -1538,14 +1538,14 @@
       },
       "Bilaspur": {
         "notes": "",
-        "active": 81,
+        "active": 79,
         "confirmed": 98,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Dakshin Bastar Dantewada": {
@@ -1598,14 +1598,14 @@
       },
       "Janjgir Champa": {
         "notes": "",
-        "active": 33,
+        "active": 31,
         "confirmed": 47,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Jashpur": {
@@ -1646,12 +1646,12 @@
       },
       "Korba": {
         "notes": "",
-        "active": 60,
-        "confirmed": 94,
+        "active": 63,
+        "confirmed": 97,
         "deceased": 0,
         "recovered": 34,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1682,14 +1682,14 @@
       },
       "Mungeli": {
         "notes": "",
-        "active": 45,
+        "active": 34,
         "confirmed": 86,
         "deceased": 0,
-        "recovered": 41,
+        "recovered": 52,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "Narayanpur": {
@@ -1718,14 +1718,14 @@
       },
       "Raipur": {
         "notes": "",
-        "active": 21,
-        "confirmed": 30,
+        "active": 24,
+        "confirmed": 34,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Rajnandgaon": {
@@ -1754,36 +1754,36 @@
       },
       "Surajpur": {
         "notes": "",
-        "active": 3,
-        "confirmed": 10,
+        "active": 4,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Surguja": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Uttar Bastar Kanker": {
         "notes": "",
-        "active": 9,
-        "confirmed": 20,
+        "active": 10,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1794,6 +1794,18 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -6,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
