@@ -2061,7 +2061,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 95
+      "confirmed": 185
     },
     "districts": {
       "Bokaro": {
@@ -2100,10 +2100,10 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 21
         },
         "total": {
-          "confirmed": 165,
+          "confirmed": 171,
           "recovered": 29
         }
       },
@@ -2131,19 +2131,19 @@
       },
       "Gumla": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 11
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 37,
           "recovered": 1
         }
       },
       "Hazaribagh": {
         "delta": {
-          "confirmed": 26
+          "confirmed": 29
         },
         "total": {
-          "confirmed": 113,
+          "confirmed": 116,
           "recovered": 52
         }
       },
@@ -2154,8 +2154,11 @@
         }
       },
       "Khunti": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 9
         }
       },
       "Koderma": {
@@ -2170,16 +2173,19 @@
       },
       "Latehar": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 9
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 23,
           "recovered": 7
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 2
         }
       },
@@ -2191,28 +2197,28 @@
       },
       "Palamu": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 29,
           "recovered": 17
         }
       },
       "Ramgarh": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 28
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 77,
           "recovered": 10
         }
       },
       "Ranchi": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 141,
+          "confirmed": 144,
           "deceased": 4,
           "recovered": 121
         }
@@ -2223,36 +2229,42 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 20,
           "recovered": 1
         }
       },
       "Simdega": {
         "delta": {
-          "confirmed": 30
+          "confirmed": 64
         },
         "total": {
-          "confirmed": 64,
+          "confirmed": 98,
           "recovered": 14
         }
       },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 16,
+          "confirmed": 21,
           "recovered": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T17:53:51+05:30",
+      "last_updated": "2020-06-07T01:34:50+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
       }
     },
     "total": {
-      "confirmed": 938,
+      "confirmed": 1028,
       "deceased": 7,
       "recovered": 410,
       "tested": 80097
@@ -5888,21 +5900,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10431,
+      "confirmed": 10521,
       "deceased": 297,
       "migrated": 1,
       "recovered": 5427,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-07T01:15:46+05:30",
+      "last_updated": "2020-06-07T01:34:47+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 246532,
+      "confirmed": 246622,
       "deceased": 6946,
       "migrated": 13,
       "recovered": 118632,
