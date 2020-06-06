@@ -1155,13 +1155,13 @@
 	],
 	"statewise": [
 		{
-			"active": "116887",
-			"confirmed": "236781",
+			"active": "117060",
+			"confirmed": "236954",
 			"deaths": "6649",
-			"deltaconfirmed": "597",
+			"deltaconfirmed": "770",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/06/2020 09:32:46",
+			"lastupdatedtime": "06/06/2020 10:22:46",
 			"migratedother": "",
 			"recovered": "113233",
 			"state": "Total",
@@ -1379,13 +1379,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "994",
-			"confirmed": "2608",
+			"active": "1167",
+			"confirmed": "2781",
 			"deaths": "10",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "173",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/06/2020 17:54:48",
+			"lastupdatedtime": "06/06/2020 10:22:48",
 			"migratedother": "",
 			"recovered": "1604",
 			"state": "Odisha",
@@ -2905,6 +2905,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "4386379",
 			"updatetimestamp": "05/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "137938",
+			"source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "4524317",
+			"updatetimestamp": "06/06/2020 09:00:00"
 		}
 	]
 }
