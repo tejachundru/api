@@ -3539,7 +3539,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T15:41:47+05:30",
+      "last_updated": "2020-06-06T15:44:47+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-06"
@@ -4661,20 +4661,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1382,
+      "confirmed": 1388,
       "deceased": 1,
       "recovered": 204,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T15:42:46+05:30",
+      "last_updated": "2020-06-06T15:45:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 237566,
+      "confirmed": 237572,
       "deceased": 6650,
       "migrated": 12,
       "recovered": 113437,
@@ -5212,7 +5212,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 24
+      "confirmed": 30
     },
     "districts": {
       "Almora": {
@@ -5266,10 +5266,10 @@
       },
       "Nainital": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 315,
+          "confirmed": 317,
           "deceased": 1,
           "recovered": 130
         }
@@ -5283,10 +5283,10 @@
       },
       "Pithoragarh": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 32,
+          "confirmed": 36,
           "recovered": 1
         }
       },
@@ -5327,7 +5327,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T15:42:47+05:30",
+      "last_updated": "2020-06-06T15:45:47+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-05",
@@ -5335,7 +5335,7 @@
       }
     },
     "total": {
-      "confirmed": 1239,
+      "confirmed": 1245,
       "deceased": 11,
       "migrated": 4,
       "recovered": 344,
