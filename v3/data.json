@@ -931,7 +931,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T22:12:47+05:30",
+      "last_updated": "2020-06-06T22:18:48+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/PIB_Patna/status/1269256716366929921"
@@ -4664,7 +4664,7 @@
   "RJ": {
     "delta": {
       "confirmed": 253,
-      "deceased": 11,
+      "deceased": 13,
       "recovered": 142
     },
     "districts": {
@@ -4921,11 +4921,12 @@
       },
       "Other State": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 2
         },
         "total": {
           "confirmed": 28,
-          "deceased": 10
+          "deceased": 12
         }
       },
       "Pali": {
@@ -5008,7 +5009,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T22:06:47+05:30",
+      "last_updated": "2020-06-06T22:23:47+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6431"
@@ -5016,7 +5017,7 @@
     },
     "total": {
       "confirmed": 10337,
-      "deceased": 229,
+      "deceased": 231,
       "recovered": 7501,
       "tested": 480910
     }
@@ -5800,13 +5801,13 @@
   "TT": {
     "delta": {
       "confirmed": 9861,
-      "deceased": 284,
+      "deceased": 286,
       "migrated": 1,
       "recovered": 5108,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T22:12:46+05:30",
+      "last_updated": "2020-06-06T22:23:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -5814,7 +5815,7 @@
     },
     "total": {
       "confirmed": 245962,
-      "deceased": 6933,
+      "deceased": 6935,
       "migrated": 13,
       "recovered": 118313,
       "tested": 4524317
