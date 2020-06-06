@@ -6784,14 +6784,14 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 460,
+        "active": 435,
         "confirmed": 1707,
         "deceased": 20,
-        "recovered": 1227,
+        "recovered": 1252,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 25
         }
       },
       "Karauli": {
@@ -6808,13 +6808,13 @@
       },
       "Kota": {
         "notes": "",
-        "active": 105,
+        "active": 104,
         "confirmed": 506,
-        "deceased": 17,
+        "deceased": 18,
         "recovered": 384,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6832,12 +6832,12 @@
       },
       "Other State": {
         "notes": "",
-        "active": 17,
-        "confirmed": 27,
+        "active": 18,
+        "confirmed": 28,
         "deceased": 10,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6932,18 +6932,6 @@
         "confirmed": 577,
         "deceased": 1,
         "recovered": 507,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

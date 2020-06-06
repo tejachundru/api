@@ -9811,19 +9811,19 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "460",
+			"active": "435",
 			"confirmed": "1707",
 			"deceased": "20",
-			"deltaactive": "1",
+			"deltaactive": "-24",
 			"deltaconfirmed": "1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "25",
 			"district": "Jodhpur",
 			"districtkey": "RJ_Jodhpur",
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "1227",
+			"recovered": "1252",
 			"slno": "528",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -9847,12 +9847,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "105",
+			"active": "104",
 			"confirmed": "506",
-			"deceased": "17",
-			"deltaactive": "3",
+			"deceased": "18",
+			"deltaactive": "2",
 			"deltaconfirmed": "3",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Kota",
 			"districtkey": "RJ_Kota",
@@ -9883,11 +9883,11 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "17",
-			"confirmed": "27",
+			"active": "18",
+			"confirmed": "28",
 			"deceased": "10",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Other State",
@@ -14131,8 +14131,8 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
