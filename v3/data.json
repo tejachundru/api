@@ -519,7 +519,8 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 147
+      "confirmed": 147,
+      "tested": 3570
     },
     "districts": {
       "Araria": {
@@ -837,15 +838,15 @@
     "meta": {
       "last_updated": "2020-06-06T15:28:48+05:30",
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://twitter.com/PIB_Patna/status/1268862294320123905"
+        "last_updated": "2020-06-06",
+        "source": "https://twitter.com/PIB_Patna/status/1269256716366929921"
       }
     },
     "total": {
       "confirmed": 4745,
       "deceased": 29,
       "recovered": 2233,
-      "tested": 91903
+      "tested": 95473
     }
   },
   "CH": {
@@ -3450,30 +3451,47 @@
     "districts": {
       "Dimapur": {
         "total": {
-          "confirmed": 57
+          "confirmed": 9
+        }
+      },
+      "Kiphire": {
+        "total": {
+          "confirmed": 4
         }
       },
       "Kohima": {
         "total": {
-          "confirmed": 17
+          "confirmed": 5
+        }
+      },
+      "Mon": {
+        "total": {
+          "confirmed": 23
         }
       },
       "Peren": {
+        "total": {
+          "confirmed": 53
+        }
+      },
+      "Phek": {
         "total": {
           "confirmed": 1
         }
       },
       "Tuensang": {
         "total": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Unknown": {
         "delta": {
           "confirmed": 13
-        },
+        }
+      },
+      "Wokha": {
         "total": {
-          "confirmed": 27
+          "confirmed": 5
         }
       }
     },

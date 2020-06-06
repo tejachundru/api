@@ -4044,31 +4044,75 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": -48
+        },
         "total": {
-          "confirmed": 57
+          "confirmed": 9
+        }
+      },
+      "Kiphire": {
+        "delta": {
+          "confirmed": 4
+        },
+        "total": {
+          "confirmed": 4
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": -12
+        },
         "total": {
-          "confirmed": 17
+          "confirmed": 5
+        }
+      },
+      "Mon": {
+        "delta": {
+          "confirmed": 23
+        },
+        "total": {
+          "confirmed": 23
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 52
+        },
+        "total": {
+          "confirmed": 53
+        }
+      },
+      "Phek": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 1
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 14
+          "confirmed": -13
         },
         "total": {
-          "confirmed": 14
+          "confirmed": -13
+        }
+      },
+      "Wokha": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 5
         }
       }
     },

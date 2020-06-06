@@ -3503,7 +3503,7 @@
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 163,
+        "active": 162,
         "confirmed": 452,
         "deceased": 13,
         "recovered": 276,
@@ -3575,7 +3575,7 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 89,
+        "active": 88,
         "confirmed": 167,
         "deceased": 6,
         "recovered": 72,
@@ -5660,8 +5660,8 @@
     "districtData": {
       "Dimapur": {
         "notes": "",
-        "active": 57,
-        "confirmed": 57,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5672,8 +5672,8 @@
       },
       "Kiphire": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5684,8 +5684,8 @@
       },
       "Kohima": {
         "notes": "",
-        "active": 17,
-        "confirmed": 17,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5720,8 +5720,8 @@
       },
       "Mon": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5731,6 +5731,18 @@
         }
       },
       "Peren": {
+        "notes": "",
+        "active": 53,
+        "confirmed": 53,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Phek": {
         "notes": "",
         "active": 1,
         "confirmed": 1,
@@ -5742,22 +5754,10 @@
           "recovered": 0
         }
       },
-      "Phek": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
       "Tuensang": {
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5768,8 +5768,8 @@
       },
       "Wokha": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5782,18 +5782,6 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 27,
-        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
