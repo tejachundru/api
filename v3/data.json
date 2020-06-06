@@ -258,7 +258,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 81
+      "confirmed": 81,
+      "recovered": 38
     },
     "districts": {
       "Airport Quarantine": {
@@ -485,8 +486,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 38
+        },
         "total": {
-          "migrated": 3
+          "migrated": 3,
+          "recovered": 38
         }
       },
       "West Karbi Anglong": {
@@ -496,7 +501,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T14:03:48+05:30",
+      "last_updated": "2020-06-06T16:02:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -507,7 +512,7 @@
       "confirmed": 2325,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 510,
+      "recovered": 548,
       "tested": 133029
     }
   },
@@ -1498,10 +1503,17 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 184,
+      "recovered": 6
+    },
     "districts": {
       "Ambala": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 76,
+          "confirmed": 77,
           "deceased": 2,
           "recovered": 43
         }
@@ -1526,8 +1538,11 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 30,
+          "confirmed": 33,
           "recovered": 9
         }
       },
@@ -1538,15 +1553,21 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 76
+        },
         "total": {
-          "confirmed": 1563,
+          "confirmed": 1639,
           "deceased": 4,
           "recovered": 332
         }
       },
       "Hisar": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 78,
+          "confirmed": 82,
           "recovered": 22
         }
       },
@@ -1557,16 +1578,23 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 107,
-          "recovered": 92
+          "recovered": 96
         }
       },
       "Jind": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 35,
+          "confirmed": 38,
           "deceased": 2,
-          "recovered": 24
+          "recovered": 26
         }
       },
       "Kaithal": {
@@ -1601,8 +1629,11 @@
         }
       },
       "Palwal": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 100,
+          "confirmed": 111,
           "recovered": 48
         }
       },
@@ -1613,8 +1644,11 @@
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 67,
+          "confirmed": 71,
           "deceased": 3,
           "recovered": 51
         }
@@ -1639,30 +1673,36 @@
         }
       },
       "Sonipat": {
+        "delta": {
+          "confirmed": 81
+        },
         "total": {
-          "confirmed": 261,
+          "confirmed": 342,
           "deceased": 1,
           "recovered": 158
         }
       },
       "Yamunanagar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 10,
           "recovered": 9
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T20:46:50+05:30",
+      "last_updated": "2020-06-06T16:02:47+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%205-06-2020%20Evenning.pdf"
       }
     },
     "total": {
-      "confirmed": 3597,
+      "confirmed": 3781,
       "deceased": 24,
-      "recovered": 1209,
+      "recovered": 1215,
       "tested": 137452
     }
   },
@@ -4661,23 +4701,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1388,
+      "confirmed": 1572,
       "deceased": 1,
-      "recovered": 204,
+      "recovered": 248,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T15:45:46+05:30",
+      "last_updated": "2020-06-06T16:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 237572,
+      "confirmed": 237756,
       "deceased": 6650,
       "migrated": 12,
-      "recovered": 113437,
+      "recovered": 113481,
       "tested": 4524317
     }
   },
@@ -5327,7 +5367,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T15:45:47+05:30",
+      "last_updated": "2020-06-06T15:54:04+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-05",
