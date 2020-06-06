@@ -2436,7 +2436,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T18:02:48+05:30",
+      "last_updated": "2020-06-06T18:07:49+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-05",
@@ -4777,13 +4777,13 @@
   "TT": {
     "delta": {
       "confirmed": 1686,
-      "deceased": 2,
+      "deceased": 13,
       "migrated": 1,
-      "recovered": 387,
+      "recovered": 647,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T18:02:46+05:30",
+      "last_updated": "2020-06-06T18:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -4791,9 +4791,9 @@
     },
     "total": {
       "confirmed": 237788,
-      "deceased": 6651,
+      "deceased": 6662,
       "migrated": 13,
-      "recovered": 113595,
+      "recovered": 113855,
       "tested": 4524317
     }
   },
@@ -4810,6 +4810,10 @@
     }
   },
   "UP": {
+    "delta": {
+      "deceased": 11,
+      "recovered": 260
+    },
     "districts": {
       "Agra": {
         "total": {
@@ -5297,6 +5301,16 @@
           "recovered": 46
         }
       },
+      "Unknown": {
+        "delta": {
+          "deceased": 11,
+          "recovered": 260
+        },
+        "total": {
+          "deceased": 11,
+          "recovered": 260
+        }
+      },
       "Unnao": {
         "total": {
           "confirmed": 41,
@@ -5313,7 +5327,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T20:12:49+05:30",
+      "last_updated": "2020-06-06T18:12:47+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6395?single"
@@ -5321,8 +5335,8 @@
     },
     "total": {
       "confirmed": 9733,
-      "deceased": 257,
-      "recovered": 5648,
+      "deceased": 268,
+      "recovered": 5908,
       "tested": 344717
     }
   },
