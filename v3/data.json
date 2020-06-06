@@ -1409,6 +1409,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1430,8 +1433,11 @@
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 101,
+          "confirmed": 105,
           "deceased": 1,
           "recovered": 50
         }
@@ -1496,7 +1502,7 @@
       }
     },
     "total": {
-      "confirmed": 393,
+      "confirmed": 397,
       "deceased": 6,
       "migrated": 3,
       "recovered": 185,
@@ -1716,7 +1722,7 @@
         "total": {
           "confirmed": 25,
           "deceased": 1,
-          "recovered": 15
+          "recovered": 20
         }
       },
       "Chatra": {
@@ -1737,7 +1743,7 @@
         },
         "total": {
           "confirmed": 71,
-          "recovered": 10
+          "recovered": 11
         }
       },
       "Dumka": {
@@ -1752,7 +1758,7 @@
         },
         "total": {
           "confirmed": 165,
-          "recovered": 43
+          "recovered": 29
         }
       },
       "Garhwa": {
@@ -1761,14 +1767,14 @@
         },
         "total": {
           "confirmed": 78,
-          "recovered": 68
+          "recovered": 58
         }
       },
       "Giridih": {
         "total": {
           "confirmed": 21,
           "deceased": 1,
-          "recovered": 11
+          "recovered": 17
         }
       },
       "Godda": {
@@ -1782,7 +1788,8 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 1
         }
       },
       "Hazaribagh": {
@@ -1791,7 +1798,7 @@
         },
         "total": {
           "confirmed": 113,
-          "recovered": 55
+          "recovered": 52
         }
       },
       "Jamtara": {
@@ -1812,7 +1819,7 @@
         "total": {
           "confirmed": 60,
           "deceased": 1,
-          "recovered": 25
+          "recovered": 31
         }
       },
       "Latehar": {
@@ -1833,7 +1840,7 @@
       "Pakur": {
         "total": {
           "confirmed": 5,
-          "recovered": 6
+          "recovered": 3
         }
       },
       "Palamu": {
@@ -1842,7 +1849,7 @@
         },
         "total": {
           "confirmed": 27,
-          "recovered": 18
+          "recovered": 17
         }
       },
       "Ramgarh": {
@@ -1858,7 +1865,7 @@
         "total": {
           "confirmed": 141,
           "deceased": 4,
-          "recovered": 127
+          "recovered": 121
         }
       },
       "Sahibganj": {
@@ -1877,7 +1884,7 @@
         },
         "total": {
           "confirmed": 64,
-          "recovered": 24
+          "recovered": 14
         }
       },
       "West Singhbhum": {
@@ -1888,7 +1895,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T17:22:48+05:30",
+      "last_updated": "2020-06-06T17:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
@@ -1897,7 +1904,7 @@
     "total": {
       "confirmed": 938,
       "deceased": 7,
-      "recovered": 435,
+      "recovered": 407,
       "tested": 80097
     }
   },
@@ -4710,24 +4717,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1574,
+      "confirmed": 1578,
       "deceased": 1,
       "migrated": 1,
       "recovered": 334,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T17:22:46+05:30",
+      "last_updated": "2020-06-06T17:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 237675,
+      "confirmed": 237679,
       "deceased": 6650,
       "migrated": 13,
-      "recovered": 113567,
+      "recovered": 113539,
       "tested": 4524317
     }
   },
