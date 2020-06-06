@@ -30,27 +30,29 @@
   "AP": {
     "delta": {
       "confirmed": 210,
-      "recovered": 16
+      "recovered": 56
     },
     "districts": {
       "Anantapur": {
         "delta": {
-          "confirmed": 19
+          "confirmed": 19,
+          "recovered": 1
         },
         "total": {
           "confirmed": 274,
           "deceased": 4,
-          "recovered": 165
+          "recovered": 166
         }
       },
       "Chittoor": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "recovered": 1
         },
         "total": {
           "confirmed": 298,
           "deceased": 4,
-          "recovered": 209
+          "recovered": 210
         }
       },
       "East Godavari": {
@@ -94,12 +96,13 @@
       },
       "Kurnool": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 17,
+          "recovered": 4
         },
         "total": {
           "confirmed": 762,
           "deceased": 27,
-          "recovered": 587
+          "recovered": 591
         }
       },
       "Other State": {
@@ -120,12 +123,13 @@
       },
       "S.P.S. Nellore": {
         "delta": {
-          "confirmed": 16
+          "confirmed": 16,
+          "recovered": 2
         },
         "total": {
           "confirmed": 304,
           "deceased": 4,
-          "recovered": 186
+          "recovered": 188
         }
       },
       "Srikakulam": {
@@ -143,10 +147,13 @@
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 111,
           "deceased": 1,
-          "recovered": 73
+          "recovered": 75
         }
       },
       "Vizianagaram": {
@@ -168,14 +175,17 @@
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "recovered": 30
+        },
         "total": {
           "confirmed": 150,
-          "recovered": 114
+          "recovered": 144
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T13:34:47+05:30",
+      "last_updated": "2020-06-06T13:42:48+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-05",
@@ -185,7 +195,7 @@
     "total": {
       "confirmed": 4460,
       "deceased": 73,
-      "recovered": 2581,
+      "recovered": 2621,
       "tested": 423564
     }
   },
@@ -4518,11 +4528,11 @@
     "delta": {
       "confirmed": 1130,
       "deceased": 1,
-      "recovered": 52,
+      "recovered": 92,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T13:34:46+05:30",
+      "last_updated": "2020-06-06T13:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -4532,7 +4542,7 @@
       "confirmed": 237314,
       "deceased": 6650,
       "migrated": 12,
-      "recovered": 113285,
+      "recovered": 113325,
       "tested": 4524317
     }
   },
