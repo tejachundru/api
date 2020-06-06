@@ -1689,7 +1689,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T12:12:48+05:30",
+      "last_updated": "2020-06-06T12:19:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
@@ -2545,6 +2545,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 11
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -2557,8 +2560,11 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 29,
           "recovered": 3
         }
       },
@@ -2591,6 +2597,14 @@
         }
       },
       "Noney": {
+        "total": {
+          "confirmed": 3
+        }
+      },
+      "Pherzawl": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
           "confirmed": 3
         }
@@ -2629,14 +2643,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T01:04:52+05:30",
+      "last_updated": "2020-06-06T12:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6412"
       }
     },
     "total": {
-      "confirmed": 137,
+      "confirmed": 148,
       "recovered": 38,
       "tested": 14629
     }
@@ -4395,18 +4409,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 865,
+      "confirmed": 876,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T12:12:46+05:30",
+      "last_updated": "2020-06-06T12:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 237049,
+      "confirmed": 237060,
       "deceased": 6649,
       "migrated": 12,
       "recovered": 113233,
