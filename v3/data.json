@@ -569,6 +569,7 @@
   "BR": {
     "delta": {
       "confirmed": 233,
+      "recovered": 65,
       "tested": 3570
     },
     "districts": {
@@ -584,11 +585,12 @@
       },
       "Arwal": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 5
         },
         "total": {
           "confirmed": 54,
-          "recovered": 33
+          "recovered": 38
         }
       },
       "Aurangabad": {
@@ -602,11 +604,12 @@
       },
       "Banka": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 13
         },
         "total": {
           "confirmed": 130,
-          "recovered": 67
+          "recovered": 80
         }
       },
       "Begusarai": {
@@ -694,12 +697,13 @@
       },
       "Jehanabad": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 15
         },
         "total": {
           "confirmed": 177,
           "deceased": 1,
-          "recovered": 91
+          "recovered": 106
         }
       },
       "Kaimur": {
@@ -712,9 +716,12 @@
         }
       },
       "Katihar": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 167,
-          "recovered": 65
+          "recovered": 75
         }
       },
       "Khagaria": {
@@ -796,12 +803,13 @@
       },
       "Patna": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 3
         },
         "total": {
           "confirmed": 273,
           "deceased": 2,
-          "recovered": 180
+          "recovered": 183
         }
       },
       "Purnia": {
@@ -814,19 +822,23 @@
         }
       },
       "Rohtas": {
+        "delta": {
+          "recovered": 14
+        },
         "total": {
           "confirmed": 230,
           "deceased": 1,
-          "recovered": 154
+          "recovered": 168
         }
       },
       "Saharsa": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": -1
         },
         "total": {
           "confirmed": 80,
-          "recovered": 46
+          "recovered": 45
         }
       },
       "Samastipur": {
@@ -841,18 +853,22 @@
       },
       "Saran": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 11,
+          "recovered": 1
         },
         "total": {
           "confirmed": 101,
           "deceased": 1,
-          "recovered": 31
+          "recovered": 32
         }
       },
       "Sheikhpura": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 108,
-          "recovered": 20
+          "recovered": 25
         }
       },
       "Sheohar": {
@@ -915,7 +931,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T22:02:50+05:30",
+      "last_updated": "2020-06-06T22:12:47+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/PIB_Patna/status/1269256716366929921"
@@ -924,7 +940,7 @@
     "total": {
       "confirmed": 4831,
       "deceased": 29,
-      "recovered": 2233,
+      "recovered": 2298,
       "tested": 95473
     }
   },
@@ -4992,7 +5008,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T22:02:47+05:30",
+      "last_updated": "2020-06-06T22:06:47+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6431"
@@ -5786,11 +5802,11 @@
       "confirmed": 9861,
       "deceased": 284,
       "migrated": 1,
-      "recovered": 5043,
+      "recovered": 5108,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T22:02:46+05:30",
+      "last_updated": "2020-06-06T22:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -5800,7 +5816,7 @@
       "confirmed": 245962,
       "deceased": 6933,
       "migrated": 13,
-      "recovered": 118248,
+      "recovered": 118313,
       "tested": 4524317
     }
   },
