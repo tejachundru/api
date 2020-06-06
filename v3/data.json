@@ -968,7 +968,8 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "tested": 116
     },
     "districts": {
       "Chandigarh": {
@@ -985,15 +986,15 @@
     "meta": {
       "last_updated": "2020-06-06T23:03:53+05:30",
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/318"
+        "last_updated": "2020-06-06",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/337"
       }
     },
     "total": {
       "confirmed": 312,
       "deceased": 5,
       "recovered": 273,
-      "tested": 5121
+      "tested": 5237
     }
   },
   "CT": {
@@ -5395,7 +5396,8 @@
     "delta": {
       "confirmed": 1478,
       "deceased": 19,
-      "recovered": 633
+      "recovered": 633,
+      "tested": 16022
     },
     "districts": {
       "Airport Quarantine": {
@@ -5784,15 +5786,15 @@
       "last_updated": "2020-06-06T18:42:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-05.06.2020.pdf"
+        "last_updated": "2020-06-06",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-06.06.2020.pdf"
       }
     },
     "total": {
       "confirmed": 30172,
       "deceased": 254,
       "recovered": 16395,
-      "tested": 560673
+      "tested": 576695
     }
   },
   "TR": {
