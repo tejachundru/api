@@ -1719,7 +1719,7 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 4,
+      "confirmed": 6,
       "recovered": 3
     },
     "districts": {
@@ -1731,10 +1731,11 @@
       },
       "Chamba": {
         "delta": {
+          "confirmed": 1,
           "recovered": 1
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 30,
           "recovered": 14
         }
       },
@@ -1798,8 +1799,11 @@
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 42,
           "recovered": 25
         }
       },
@@ -1810,7 +1814,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T17:53:52+05:30",
+      "last_updated": "2020-06-07T01:02:49+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-05",
@@ -1818,7 +1822,7 @@
       }
     },
     "total": {
-      "confirmed": 398,
+      "confirmed": 400,
       "deceased": 6,
       "migrated": 3,
       "recovered": 188,
@@ -5873,21 +5877,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10429,
+      "confirmed": 10431,
       "deceased": 297,
       "migrated": 1,
       "recovered": 5387,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-07T00:04:46+05:30",
+      "last_updated": "2020-06-07T01:02:47+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 246530,
+      "confirmed": 246532,
       "deceased": 6946,
       "migrated": 13,
       "recovered": 118592,
