@@ -2956,10 +2956,16 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 6,
+          "confirmed": 20,
           "recovered": 1
         }
       },
@@ -2977,22 +2983,17 @@
         "total": {
           "confirmed": 1
         }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 12
-        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T09:36:11+05:30",
+      "last_updated": "2020-06-06T09:22:49+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-462020-500pm-562020-500-pm"
       }
     },
     "total": {
-      "confirmed": 22,
+      "confirmed": 24,
       "recovered": 1,
       "tested": 1687
     }
@@ -3032,7 +3033,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T09:12:52+05:30",
+      "last_updated": "2020-06-06T09:21:49+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/pangnyu/status/1268747371938287616?s=20"
@@ -4310,17 +4311,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13
+      "confirmed": 597
     },
     "meta": {
-      "last_updated": "2020-06-06T09:12:46+05:30",
+      "last_updated": "2020-06-06T09:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
       }
     },
     "total": {
-      "confirmed": 236197,
+      "confirmed": 236781,
       "deceased": 6649,
       "migrated": 12,
       "recovered": 113233,
@@ -4328,12 +4329,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 582
+    },
     "meta": {
-      "last_updated": "2020-06-05T09:36:05+05:30",
+      "last_updated": "2020-06-06T09:22:47+05:30",
       "notes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
     },
     "total": {
-      "confirmed": 7610
+      "confirmed": 8192
     }
   },
   "UP": {

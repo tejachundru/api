@@ -3862,17 +3862,12 @@
     },
     "districts": {
       "Aizawl": {
-        "total": {
-          "confirmed": 1,
-          "recovered": 1
-        }
-      },
-      "Unknown": {
         "delta": {
           "confirmed": 12
         },
         "total": {
-          "confirmed": 12
+          "confirmed": 13,
+          "recovered": 1
         }
       }
     },
