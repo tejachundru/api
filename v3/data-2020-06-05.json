@@ -1665,7 +1665,7 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 10,
+      "confirmed": 11,
       "recovered": 10,
       "tested": 985
     },
@@ -1690,11 +1690,11 @@
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 7
         },
         "total": {
-          "confirmed": 120,
+          "confirmed": 121,
           "deceased": 1,
           "recovered": 56
         }
@@ -1780,7 +1780,7 @@
       }
     },
     "total": {
-      "confirmed": 393,
+      "confirmed": 394,
       "deceased": 6,
       "migrated": 3,
       "recovered": 185,
@@ -2030,7 +2030,7 @@
     "delta": {
       "confirmed": 17,
       "deceased": 1,
-      "recovered": 41,
+      "recovered": 44,
       "tested": 2456
     },
     "districts": {
@@ -2067,9 +2067,12 @@
         }
       },
       "Dumka": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 4,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "East Singhbhum": {
@@ -2195,10 +2198,12 @@
       },
       "Saraikela-Kharsawan": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 1
         },
         "total": {
-          "confirmed": 19
+          "confirmed": 19,
+          "recovered": 1
         }
       },
       "Simdega": {
@@ -2235,7 +2240,7 @@
     "total": {
       "confirmed": 844,
       "deceased": 7,
-      "recovered": 407,
+      "recovered": 410,
       "tested": 80097
     }
   },
@@ -5783,9 +5788,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9379,
+      "confirmed": 9380,
       "deceased": 286,
-      "recovered": 4751,
+      "recovered": 4754,
       "tested": 143661
     },
     "meta": {
@@ -5795,10 +5800,10 @@
       }
     },
     "total": {
-      "confirmed": 236101,
+      "confirmed": 236102,
       "deceased": 6649,
       "migrated": 12,
-      "recovered": 113205,
+      "recovered": 113208,
       "tested": 4386379
     }
   },

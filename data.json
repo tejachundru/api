@@ -1144,26 +1144,26 @@
 			"totalrecovered": "108454"
 		},
 		{
-			"dailyconfirmed": "9379",
+			"dailyconfirmed": "9380",
 			"dailydeceased": "286",
-			"dailyrecovered": "4751",
+			"dailyrecovered": "4754",
 			"date": "05 June ",
-			"totalconfirmed": "236102",
+			"totalconfirmed": "236103",
 			"totaldeceased": "6648",
-			"totalrecovered": "113205"
+			"totalrecovered": "113208"
 		}
 	],
 	"statewise": [
 		{
-			"active": "117477",
-			"confirmed": "237679",
+			"active": "117472",
+			"confirmed": "237680",
 			"deaths": "6650",
 			"deltaconfirmed": "1578",
 			"deltadeaths": "1",
-			"deltarecovered": "334",
-			"lastupdatedtime": "06/06/2020 17:35:46",
+			"deltarecovered": "337",
+			"lastupdatedtime": "06/06/2020 17:44:46",
 			"migratedother": "13",
-			"recovered": "113539",
+			"recovered": "113545",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1449,15 +1449,15 @@
 			"statenotes": "Four migrated cases reduced from Active count"
 		},
 		{
-			"active": "524",
+			"active": "521",
 			"confirmed": "938",
 			"deaths": "7",
 			"deltaconfirmed": "94",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/06/2020 17:35:48",
+			"lastupdatedtime": "06/06/2020 17:44:47",
 			"migratedother": "0",
-			"recovered": "407",
+			"recovered": "410",
 			"state": "Jharkhand",
 			"statecode": "JH",
 			"statenotes": ""
@@ -1491,15 +1491,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "203",
-			"confirmed": "397",
+			"active": "201",
+			"confirmed": "398",
 			"deaths": "6",
 			"deltaconfirmed": "4",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/06/2020 01:20:48",
+			"deltarecovered": "3",
+			"lastupdatedtime": "06/06/2020 17:44:49",
 			"migratedother": "3",
-			"recovered": "185",
+			"recovered": "188",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
