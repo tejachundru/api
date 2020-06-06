@@ -572,7 +572,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T00:00:48+05:30",
+      "last_updated": "2020-06-07T00:04:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -999,7 +999,8 @@
     "delta": {
       "confirmed": 60,
       "deceased": 2,
-      "recovered": 22
+      "recovered": 22,
+      "tested": 3649
     },
     "districts": {
       "Balod": {
@@ -1207,15 +1208,14 @@
     "meta": {
       "last_updated": "2020-06-06T20:53:49+05:30",
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://twitter.com/HealthCgGov/status/1268904801796063237?s=20"
+        "last_updated": "2020-06-06"
       }
     },
     "total": {
       "confirmed": 923,
       "deceased": 4,
       "recovered": 259,
-      "tested": 85743
+      "tested": 89392
     }
   },
   "DL": {
@@ -5872,7 +5872,7 @@
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-07T00:00:46+05:30",
+      "last_updated": "2020-06-07T00:04:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"

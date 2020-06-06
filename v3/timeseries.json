@@ -5560,13 +5560,14 @@
       "delta": {
         "confirmed": 60,
         "deceased": 2,
-        "recovered": 22
+        "recovered": 22,
+        "tested": 3649
       },
       "total": {
         "confirmed": 923,
         "deceased": 4,
         "recovered": 259,
-        "tested": 85743
+        "tested": 89392
       }
     }
   },
