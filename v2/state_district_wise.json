@@ -641,14 +641,14 @@
       {
         "district": "Biswanath",
         "notes": "",
-        "active": 44,
+        "active": 37,
         "confirmed": 44,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 7,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       {
@@ -784,14 +784,14 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 178,
+        "active": 171,
         "confirmed": 213,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 42,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       {
@@ -823,14 +823,14 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": -6,
+        "active": 1,
         "confirmed": 27,
         "deceased": 0,
-        "recovered": 33,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 0
         }
       },
       {
@@ -849,14 +849,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 143,
+        "active": 112,
         "confirmed": 404,
         "deceased": 3,
-        "recovered": 258,
+        "recovered": 289,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 39
         }
       },
       {
@@ -875,14 +875,14 @@
       {
         "district": "Karimganj",
         "notes": "",
-        "active": 71,
+        "active": 64,
         "confirmed": 77,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 13,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 11
         }
       },
       {
@@ -992,14 +992,14 @@
       {
         "district": "Sonitpur",
         "notes": "",
-        "active": 1,
+        "active": 8,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 33,
+        "recovered": 26,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 0
         }
       },
       {
@@ -8589,12 +8589,12 @@
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 33,
-        "confirmed": 196,
+        "active": 36,
+        "confirmed": 199,
         "deceased": 0,
         "recovered": 163,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -8602,12 +8602,12 @@
       {
         "district": "Gomati",
         "notes": "",
-        "active": 84,
-        "confirmed": 86,
+        "active": 86,
+        "confirmed": 88,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -8615,12 +8615,12 @@
       {
         "district": "Khowai",
         "notes": "",
-        "active": 24,
-        "confirmed": 25,
+        "active": 25,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -8628,12 +8628,12 @@
       {
         "district": "North Tripura",
         "notes": "",
-        "active": 8,
-        "confirmed": 12,
+        "active": 10,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -8641,12 +8641,12 @@
       {
         "district": "Sipahijala",
         "notes": "",
-        "active": 207,
-        "confirmed": 209,
+        "active": 241,
+        "confirmed": 243,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 34,
           "deceased": 0,
           "recovered": 0
         }
@@ -8680,25 +8680,12 @@
       {
         "district": "West Tripura",
         "notes": "",
-        "active": 48,
-        "confirmed": 48,
+        "active": 61,
+        "confirmed": 61,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 55,
-        "confirmed": 55,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }

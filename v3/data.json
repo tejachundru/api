@@ -276,7 +276,7 @@
   "AS": {
     "delta": {
       "confirmed": 230,
-      "recovered": 79
+      "recovered": 117
     },
     "districts": {
       "Airport Quarantine": {
@@ -303,10 +303,12 @@
       },
       "Biswanath": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 7
         },
         "total": {
-          "confirmed": 44
+          "confirmed": 44,
+          "recovered": 7
         }
       },
       "Bongaigaon": {
@@ -395,11 +397,12 @@
       },
       "Golaghat": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 7
         },
         "total": {
           "confirmed": 213,
-          "recovered": 35
+          "recovered": 42
         }
       },
       "Hailakandi": {
@@ -420,12 +423,9 @@
         }
       },
       "Jorhat": {
-        "delta": {
-          "recovered": 7
-        },
         "total": {
           "confirmed": 27,
-          "recovered": 33
+          "recovered": 26
         }
       },
       "Kamrup": {
@@ -440,12 +440,12 @@
       "Kamrup Metropolitan": {
         "delta": {
           "confirmed": 13,
-          "recovered": 8
+          "recovered": 39
         },
         "total": {
           "confirmed": 404,
           "deceased": 3,
-          "recovered": 258
+          "recovered": 289
         }
       },
       "Karbi Anglong": {
@@ -460,11 +460,11 @@
       "Karimganj": {
         "delta": {
           "confirmed": 1,
-          "recovered": 4
+          "recovered": 11
         },
         "total": {
           "confirmed": 77,
-          "recovered": 6
+          "recovered": 13
         }
       },
       "Kokrajhar": {
@@ -525,12 +525,11 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 6,
-          "recovered": 7
+          "confirmed": 6
         },
         "total": {
           "confirmed": 34,
-          "recovered": 33
+          "recovered": 26
         }
       },
       "South Salmara Mankachar": {
@@ -573,7 +572,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T00:04:48+05:30",
+      "last_updated": "2020-06-07T01:15:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-04",
@@ -584,7 +583,7 @@
       "confirmed": 2474,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 589,
+      "recovered": 627,
       "tested": 133029
     }
   },
@@ -1815,7 +1814,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T01:11:48+05:30",
+      "last_updated": "2020-06-07T01:15:50+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-05",
@@ -5810,46 +5809,53 @@
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 196,
+          "confirmed": 199,
           "recovered": 163
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 86,
+          "confirmed": 88,
           "recovered": 2
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 1
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 14,
           "recovered": 4
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 34
+        },
         "total": {
-          "confirmed": 209,
+          "confirmed": 243,
           "recovered": 2
         }
       },
       "South Tripura": {
         "total": {
           "confirmed": 68
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 55
-        },
-        "total": {
-          "confirmed": 55
         }
       },
       "Unokoti": {
@@ -5859,8 +5865,11 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 48
+          "confirmed": 61
         }
       }
     },
@@ -5882,11 +5891,11 @@
       "confirmed": 10431,
       "deceased": 297,
       "migrated": 1,
-      "recovered": 5389,
+      "recovered": 5427,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-07T01:11:46+05:30",
+      "last_updated": "2020-06-07T01:15:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -5896,7 +5905,7 @@
       "confirmed": 246532,
       "deceased": 6946,
       "migrated": 13,
-      "recovered": 118594,
+      "recovered": 118632,
       "tested": 4524317
     }
   },
