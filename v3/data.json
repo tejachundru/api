@@ -1720,7 +1720,7 @@
   "HP": {
     "delta": {
       "confirmed": 6,
-      "recovered": 3
+      "recovered": 5
     },
     "districts": {
       "Bilaspur": {
@@ -1732,11 +1732,11 @@
       "Chamba": {
         "delta": {
           "confirmed": 1,
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 30,
-          "recovered": 14
+          "recovered": 15
         }
       },
       "Hamirpur": {
@@ -1800,11 +1800,12 @@
       },
       "Una": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 42,
-          "recovered": 25
+          "recovered": 26
         }
       },
       "Unknown": {
@@ -1814,7 +1815,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T01:02:49+05:30",
+      "last_updated": "2020-06-07T01:11:48+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-05",
@@ -1825,7 +1826,7 @@
       "confirmed": 400,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 188,
+      "recovered": 190,
       "tested": 43688
     }
   },
@@ -5077,7 +5078,8 @@
   },
   "SK": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "tested": 244
     },
     "districts": {
       "East Sikkim": {
@@ -5102,13 +5104,13 @@
     "meta": {
       "last_updated": "2020-06-06T23:03:57+05:30",
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/315"
+        "last_updated": "2020-06-06",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/339"
       }
     },
     "total": {
       "confirmed": 7,
-      "tested": 4761
+      "tested": 5005
     }
   },
   "TG": {
@@ -5880,11 +5882,11 @@
       "confirmed": 10431,
       "deceased": 297,
       "migrated": 1,
-      "recovered": 5387,
+      "recovered": 5389,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-07T01:02:47+05:30",
+      "last_updated": "2020-06-07T01:11:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
@@ -5894,7 +5896,7 @@
       "confirmed": 246532,
       "deceased": 6946,
       "migrated": 13,
-      "recovered": 118592,
+      "recovered": 118594,
       "tested": 4524317
     }
   },

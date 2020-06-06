@@ -1155,24 +1155,24 @@
 		{
 			"dailyconfirmed": "10431",
 			"dailydeceased": "297",
-			"dailyrecovered": "5387",
+			"dailyrecovered": "5427",
 			"date": "06 June ",
 			"totalconfirmed": "246533",
 			"totaldeceased": "6945",
-			"totalrecovered": "118592"
+			"totalrecovered": "118632"
 		}
 	],
 	"statewise": [
 		{
-			"active": "120981",
+			"active": "120941",
 			"confirmed": "246532",
 			"deaths": "6946",
 			"deltaconfirmed": "10431",
 			"deltadeaths": "297",
-			"deltarecovered": "5387",
-			"lastupdatedtime": "07/06/2020 01:02:47",
+			"deltarecovered": "5427",
+			"lastupdatedtime": "07/06/2020 01:11:46",
 			"migratedother": "13",
-			"recovered": "118592",
+			"recovered": "118632",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1416,15 +1416,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1878",
+			"active": "1840",
 			"confirmed": "2474",
 			"deaths": "4",
 			"deltaconfirmed": "230",
 			"deltadeaths": "0",
-			"deltarecovered": "79",
+			"deltarecovered": "117",
 			"lastupdatedtime": "07/06/2020 00:04:48",
 			"migratedother": "3",
-			"recovered": "589",
+			"recovered": "627",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count"
@@ -1500,15 +1500,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "203",
+			"active": "201",
 			"confirmed": "400",
 			"deaths": "6",
 			"deltaconfirmed": "6",
 			"deltadeaths": "0",
-			"deltarecovered": "3",
-			"lastupdatedtime": "07/06/2020 01:02:49",
+			"deltarecovered": "5",
+			"lastupdatedtime": "07/06/2020 01:11:48",
 			"migratedother": "3",
-			"recovered": "188",
+			"recovered": "190",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
