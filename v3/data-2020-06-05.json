@@ -959,7 +959,7 @@
   "CT": {
     "delta": {
       "confirmed": 90,
-      "recovered": 25,
+      "recovered": 31,
       "tested": 2802
     },
     "districts": {
@@ -1008,11 +1008,11 @@
       "Bilaspur": {
         "delta": {
           "confirmed": 14,
-          "recovered": 3
+          "recovered": 9
         },
         "total": {
           "confirmed": 98,
-          "recovered": 17
+          "recovered": 23
         }
       },
       "Dhamtari": {
@@ -1154,7 +1154,7 @@
     "total": {
       "confirmed": 863,
       "deceased": 2,
-      "recovered": 231,
+      "recovered": 237,
       "tested": 85743
     }
   },
@@ -5825,7 +5825,7 @@
     "delta": {
       "confirmed": 9379,
       "deceased": 286,
-      "recovered": 4745,
+      "recovered": 4751,
       "tested": 143661
     },
     "meta": {
@@ -5838,7 +5838,7 @@
       "confirmed": 236101,
       "deceased": 6649,
       "migrated": 12,
-      "recovered": 113199,
+      "recovered": 113205,
       "tested": 4386379
     }
   },
