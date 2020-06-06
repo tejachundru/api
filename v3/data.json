@@ -2749,7 +2749,7 @@
   "MN": {
     "delta": {
       "confirmed": 11,
-      "recovered": 11
+      "recovered": 14
     },
     "districts": {
       "Bishnupur": {
@@ -2861,22 +2861,25 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 36,
-          "recovered": 18
+          "confirmed": 31,
+          "recovered": 21
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T12:44:48+05:30",
+      "last_updated": "2020-06-06T16:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6412"
       }
     },
     "total": {
-      "confirmed": 148,
-      "recovered": 49,
+      "confirmed": 143,
+      "recovered": 52,
       "tested": 14629
     }
   },
@@ -3757,6 +3760,10 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 5
+    },
     "districts": {
       "Karaikal": {
         "total": {
@@ -3771,28 +3778,32 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 89,
-          "recovered": 33
+          "confirmed": 101,
+          "recovered": 42
         }
       },
       "Unknown": {
-        "total": {
-          "confirmed": 9,
-          "recovered": 4
+        "delta": {
+          "confirmed": -9,
+          "recovered": -4
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-05T13:44:37+05:30",
+      "last_updated": "2020-06-06T16:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
-      "confirmed": 104,
-      "recovered": 43,
+      "confirmed": 107,
+      "recovered": 48,
       "tested": 7963
     }
   },
@@ -4702,24 +4713,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1572,
+      "confirmed": 1575,
       "deceased": 1,
       "migrated": 1,
-      "recovered": 326,
+      "recovered": 334,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T16:42:46+05:30",
+      "last_updated": "2020-06-06T16:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 237756,
+      "confirmed": 237754,
       "deceased": 6650,
       "migrated": 13,
-      "recovered": 113559,
+      "recovered": 113567,
       "tested": 4524317
     }
   },
@@ -5382,7 +5393,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T16:42:48+05:30",
+      "last_updated": "2020-06-06T16:50:50+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-05",
