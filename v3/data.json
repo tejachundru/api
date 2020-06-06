@@ -1709,7 +1709,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 95
+      "confirmed": 94
     },
     "districts": {
       "Bokaro": {
@@ -1736,7 +1736,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 72,
+          "confirmed": 71,
           "recovered": 10
         }
       },
@@ -1751,7 +1751,7 @@
           "confirmed": 15
         },
         "total": {
-          "confirmed": 166,
+          "confirmed": 165,
           "recovered": 43
         }
       },
@@ -1760,7 +1760,7 @@
           "confirmed": 6
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 78,
           "recovered": 68
         }
       },
@@ -1782,7 +1782,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 28
+          "confirmed": 27
         }
       },
       "Hazaribagh": {
@@ -1790,7 +1790,7 @@
           "confirmed": 26
         },
         "total": {
-          "confirmed": 137,
+          "confirmed": 113,
           "recovered": 55
         }
       },
@@ -1810,7 +1810,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 61,
+          "confirmed": 60,
           "deceased": 1,
           "recovered": 25
         }
@@ -1820,7 +1820,7 @@
           "confirmed": 6
         },
         "total": {
-          "confirmed": 26,
+          "confirmed": 20,
           "recovered": 7
         }
       },
@@ -1841,7 +1841,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 27,
           "recovered": 18
         }
       },
@@ -1850,16 +1850,13 @@
           "confirmed": 7
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 56,
           "recovered": 10
         }
       },
       "Ranchi": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 142,
+          "confirmed": 141,
           "deceased": 4,
           "recovered": 127
         }
@@ -1879,7 +1876,7 @@
           "confirmed": 30
         },
         "total": {
-          "confirmed": 94,
+          "confirmed": 64,
           "recovered": 24
         }
       },
@@ -1891,14 +1888,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T12:19:48+05:30",
+      "last_updated": "2020-06-06T17:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
       }
     },
     "total": {
-      "confirmed": 1017,
+      "confirmed": 938,
       "deceased": 7,
       "recovered": 435,
       "tested": 80097
@@ -4713,21 +4710,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1575,
+      "confirmed": 1574,
       "deceased": 1,
       "migrated": 1,
       "recovered": 334,
       "tested": 137938
     },
     "meta": {
-      "last_updated": "2020-06-06T16:59:46+05:30",
+      "last_updated": "2020-06-06T17:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
       }
     },
     "total": {
-      "confirmed": 237754,
+      "confirmed": 237675,
       "deceased": 6650,
       "migrated": 13,
       "recovered": 113567,
