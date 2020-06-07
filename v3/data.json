@@ -3110,7 +3110,8 @@
   "OR": {
     "delta": {
       "confirmed": 75,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 3500
     },
     "districts": {
       "Angul": {
@@ -3350,14 +3351,14 @@
       "last_updated": "2020-06-07T10:34:48+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-06"
+        "last_updated": "2020-06-07"
       }
     },
     "total": {
       "confirmed": 2856,
       "deceased": 11,
       "recovered": 1716,
-      "tested": 172598
+      "tested": 176098
     }
   },
   "PB": {
