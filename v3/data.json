@@ -2509,7 +2509,8 @@
     "meta": {
       "last_updated": "2020-06-03T21:17:10+05:30",
       "tested": {
-        "last_updated": "2020-06-06"
+        "last_updated": "2020-06-06",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/342"
       }
     },
     "total": {
@@ -3016,10 +3017,16 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 9,
+          "confirmed": 14,
           "recovered": 8
         }
       },
@@ -3060,14 +3067,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T19:42:51+05:30",
+      "last_updated": "2020-06-07T10:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/MyGovNagaland/status/1269256163167592448/photo/1"
       }
     },
     "total": {
-      "confirmed": 107,
+      "confirmed": 112,
       "recovered": 8,
       "tested": 4061
     }
@@ -4386,19 +4393,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 493,
+      "confirmed": 498,
       "deceased": 1,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T10:34:46+05:30",
+      "last_updated": "2020-06-07T10:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 247115,
+      "confirmed": 247120,
       "deceased": 6947,
       "migrated": 13,
       "recovered": 118695,
