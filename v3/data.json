@@ -1189,7 +1189,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T22:12:47+05:30",
+      "last_updated": "2020-06-07T22:14:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-06",
@@ -2158,7 +2158,8 @@
     "delta": {
       "confirmed": 620,
       "deceased": 2,
-      "recovered": 90
+      "recovered": 90,
+      "tested": 6601
     },
     "districts": {
       "Anantnag": {
@@ -2354,15 +2355,15 @@
     "meta": {
       "last_updated": "2020-06-07T21:34:47+05:30",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "https://twitter.com/diprjk/status/1269277728114724865?s=19"
+        "last_updated": "2020-06-07",
+        "source": "https://twitter.com/diprjk/status/1269649914079870976"
       }
     },
     "total": {
       "confirmed": 4087,
       "deceased": 41,
       "recovered": 1216,
-      "tested": 211880
+      "tested": 218481
     }
   },
   "KA": {
@@ -3922,7 +3923,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T22:12:49+05:30",
+      "last_updated": "2020-06-07T22:15:50+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/healthminmp/status/1269293087907512320?s=09"
@@ -5654,7 +5655,7 @@
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T22:12:45+05:30",
+      "last_updated": "2020-06-07T22:15:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
