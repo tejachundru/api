@@ -182,7 +182,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 121,
+      "confirmed": 237,
       "recovered": 2,
       "tested": 4614
     },
@@ -396,7 +396,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 116
+        },
         "total": {
+          "confirmed": 116,
           "migrated": 3
         }
       },
@@ -416,7 +420,7 @@
       }
     },
     "total": {
-      "confirmed": 347,
+      "confirmed": 463,
       "deceased": 4,
       "migrated": 3,
       "recovered": 57,
@@ -1086,8 +1090,8 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 46,
-          "recovered": 1
+          "confirmed": 48,
+          "recovered": 10
         }
       },
       "Unknown": {
@@ -1095,8 +1099,7 @@
           "confirmed": 1
         },
         "total": {
-          "confirmed": 3,
-          "recovered": 9
+          "confirmed": 1
         }
       }
     },
@@ -4962,7 +4965,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6665,
+      "confirmed": 6781,
       "deceased": 142,
       "migrated": 1,
       "recovered": 2576,
@@ -4975,7 +4978,7 @@
       }
     },
     "total": {
-      "confirmed": 131425,
+      "confirmed": 131541,
       "deceased": 3868,
       "migrated": 8,
       "recovered": 54409,
