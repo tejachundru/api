@@ -1480,6 +1480,7 @@
   },
   "HP": {
     "delta": {
+      "confirmed": 7,
       "recovered": 1
     },
     "districts": {
@@ -1496,15 +1497,21 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 121,
+          "confirmed": 123,
           "deceased": 1,
           "recovered": 58
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 105,
+          "confirmed": 109,
           "deceased": 1,
           "recovered": 50
         }
@@ -1521,8 +1528,11 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "deceased": 2,
           "recovered": 9
         }
@@ -1564,7 +1574,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T12:37:49+05:30",
+      "last_updated": "2020-06-07T18:22:49+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-06",
@@ -1572,7 +1582,7 @@
       }
     },
     "total": {
-      "confirmed": 400,
+      "confirmed": 407,
       "deceased": 6,
       "migrated": 3,
       "recovered": 191,
@@ -2564,7 +2574,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T18:12:48+05:30",
+      "last_updated": "2020-06-07T18:13:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-06",
@@ -4944,20 +4954,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1599,
+      "confirmed": 1606,
       "deceased": 11,
       "recovered": 739,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T18:12:46+05:30",
+      "last_updated": "2020-06-07T18:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 248221,
+      "confirmed": 248228,
       "deceased": 6957,
       "migrated": 13,
       "recovered": 119396,
