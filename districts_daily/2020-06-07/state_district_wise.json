@@ -1957,13 +1957,13 @@
       "Dadra and Nagar Haveli": {
         "notes": "",
         "active": 18,
-        "confirmed": 19,
+        "confirmed": 20,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Daman": {
@@ -2021,8 +2021,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 138,
-        "confirmed": 196,
+        "active": 171,
+        "confirmed": 229,
         "deceased": 0,
         "recovered": 58,
         "delta": {
@@ -6162,12 +6162,12 @@
       },
       "Barnala": {
         "notes": "",
-        "active": 3,
-        "confirmed": 25,
+        "active": 4,
+        "confirmed": 26,
         "deceased": 1,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6234,12 +6234,12 @@
       },
       "Gurdaspur": {
         "notes": "",
-        "active": 13,
-        "confirmed": 148,
+        "active": 16,
+        "confirmed": 151,
         "deceased": 3,
         "recovered": 132,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -6406,18 +6406,6 @@
         "confirmed": 159,
         "deceased": 1,
         "recovered": 154,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 4,
-        "confirmed": 4,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
