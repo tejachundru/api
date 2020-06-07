@@ -7130,12 +7130,12 @@
       },
       "Karimnagar": {
         "notes": "",
-        "active": 6,
-        "confirmed": 22,
+        "active": 7,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7166,12 +7166,12 @@
       },
       "Mahabubabad": {
         "notes": "",
-        "active": 2,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7214,12 +7214,12 @@
       },
       "Medchal Malkajgiri": {
         "notes": "",
-        "active": 62,
-        "confirmed": 72,
+        "active": 65,
+        "confirmed": 75,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -7238,12 +7238,12 @@
       },
       "Nagarkurnool": {
         "notes": "",
-        "active": 3,
-        "confirmed": 5,
+        "active": 4,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7322,36 +7322,36 @@
       },
       "Ranga Reddy": {
         "notes": "",
-        "active": 136,
-        "confirmed": 155,
+        "active": 148,
+        "confirmed": 167,
         "deceased": 2,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sangareddy": {
         "notes": "",
-        "active": 14,
-        "confirmed": 20,
+        "active": 15,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Siddipet": {
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7418,22 +7418,22 @@
       },
       "Yadadri Bhuvanagiri": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
         "notes": "",
-        "active": -895,
+        "active": -941,
         "confirmed": 357,
-        "deceased": 93,
-        "recovered": 1159,
+        "deceased": 107,
+        "recovered": 1191,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -7932,38 +7932,38 @@
     "districtData": {
       "Dhalai": {
         "notes": "",
-        "active": 36,
+        "active": 35,
         "confirmed": 199,
         "deceased": 0,
-        "recovered": 163,
+        "recovered": 164,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gomati": {
         "notes": "",
-        "active": 90,
+        "active": 87,
         "confirmed": 92,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 5,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Khowai": {
         "notes": "",
-        "active": 25,
+        "active": 22,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "North Tripura": {
@@ -7980,26 +7980,26 @@
       },
       "Sipahijala": {
         "notes": "",
-        "active": 290,
+        "active": 287,
         "confirmed": 292,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 5,
         "delta": {
           "confirmed": 49,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "South Tripura": {
         "notes": "",
-        "active": 68,
+        "active": 66,
         "confirmed": 68,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Unokoti": {
@@ -8016,14 +8016,14 @@
       },
       "West Tripura": {
         "notes": "",
-        "active": 61,
+        "active": 54,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       }
     },
