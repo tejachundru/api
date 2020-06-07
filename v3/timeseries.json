@@ -6695,13 +6695,14 @@
       "delta": {
         "confirmed": 1320,
         "deceased": 53,
-        "recovered": 349
+        "recovered": 349,
+        "tested": 5180
       },
       "total": {
         "confirmed": 27654,
         "deceased": 761,
         "recovered": 10664,
-        "tested": 241693
+        "tested": 246873
       }
     }
   },
