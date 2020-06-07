@@ -5401,20 +5401,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7718,
+      "confirmed": 7732,
       "deceased": 171,
       "recovered": 4081,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T20:55:45+05:30",
+      "last_updated": "2020-06-07T21:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 254340,
+      "confirmed": 254354,
       "deceased": 7117,
       "migrated": 13,
       "recovered": 122738,
@@ -6193,7 +6193,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 38,
+      "confirmed": 52,
       "deceased": 2,
       "recovered": 76,
       "tested": 528
@@ -6233,12 +6233,12 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 10,
+          "confirmed": 11,
           "deceased": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 368,
+          "confirmed": 369,
           "deceased": 9,
           "migrated": 4,
           "recovered": 71
@@ -6246,10 +6246,10 @@
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 27
         },
         "total": {
-          "confirmed": 122,
+          "confirmed": 135,
           "recovered": 37
         }
       },
@@ -6320,7 +6320,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:23:49+05:30",
+      "last_updated": "2020-06-07T21:12:48+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -6328,7 +6328,7 @@
       }
     },
     "total": {
-      "confirmed": 1341,
+      "confirmed": 1355,
       "deceased": 13,
       "migrated": 5,
       "recovered": 498,
