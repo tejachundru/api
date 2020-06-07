@@ -725,15 +725,15 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 3
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 314,
+          "confirmed": 315,
           "deceased": 5,
           "recovered": 273
         }
@@ -747,7 +747,7 @@
       }
     },
     "total": {
-      "confirmed": 314,
+      "confirmed": 315,
       "deceased": 5,
       "recovered": 273,
       "tested": 5237
@@ -1393,6 +1393,10 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 191,
+      "recovered": 15
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1402,9 +1406,13 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 57,
-          "recovered": 6
+          "confirmed": 63,
+          "recovered": 11
         }
       },
       "Charkhi Dadri": {
@@ -1414,15 +1422,21 @@
         }
       },
       "Faridabad": {
+        "delta": {
+          "confirmed": 55
+        },
         "total": {
-          "confirmed": 620,
+          "confirmed": 675,
           "deceased": 10,
           "recovered": 183
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 38,
+          "confirmed": 39,
           "recovered": 9
         }
       },
@@ -1433,15 +1447,21 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 78
+        },
         "total": {
-          "confirmed": 1692,
+          "confirmed": 1770,
           "deceased": 4,
           "recovered": 343
         }
       },
       "Hisar": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 82,
+          "confirmed": 85,
           "recovered": 22
         }
       },
@@ -1452,8 +1472,11 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 107,
+          "confirmed": 109,
           "recovered": 96
         }
       },
@@ -1471,8 +1494,11 @@
         }
       },
       "Karnal": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 91,
+          "confirmed": 99,
           "deceased": 1,
           "recovered": 40
         }
@@ -1484,26 +1510,40 @@
         }
       },
       "Mahendragarh": {
+        "delta": {
+          "confirmed": 25,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 77,
-          "recovered": 33
+          "confirmed": 102,
+          "recovered": 37
         }
       },
       "Nuh": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 85,
+          "confirmed": 90,
           "recovered": 66
         }
       },
       "Palwal": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 119,
-          "recovered": 48
+          "confirmed": 122,
+          "recovered": 54
         }
       },
       "Panchkula": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 28,
+          "confirmed": 33,
           "recovered": 26
         }
       },
@@ -1548,16 +1588,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T21:50:48+05:30",
+      "last_updated": "2020-06-07T14:02:48+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%206-06-2020%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 3952,
+      "confirmed": 4143,
       "deceased": 24,
-      "recovered": 1280,
+      "recovered": 1295,
       "tested": 141688
     }
   },
@@ -4534,23 +4574,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 665,
+      "confirmed": 857,
       "deceased": 4,
-      "recovered": 106,
+      "recovered": 121,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T13:52:46+05:30",
+      "last_updated": "2020-06-07T14:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 247287,
+      "confirmed": 247479,
       "deceased": 6950,
       "migrated": 13,
-      "recovered": 118763,
+      "recovered": 118778,
       "tested": 4666386
     }
   },
