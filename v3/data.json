@@ -1164,7 +1164,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T23:34:48+05:30",
+      "last_updated": "2020-06-07T23:43:00+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/HealthCgGov/status/1269656689013166080"
@@ -1313,7 +1313,7 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 159,
+          "confirmed": 165,
           "recovered": 1
         }
       },
@@ -1322,7 +1322,7 @@
           "confirmed": 33
         },
         "total": {
-          "confirmed": 135,
+          "confirmed": 129,
           "recovered": 58
         }
       }
@@ -2974,10 +2974,13 @@
   },
   "LA": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 4
     },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 54,
           "recovered": 13
@@ -2995,7 +2998,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T23:34:50+05:30",
+      "last_updated": "2020-06-07T23:43:02+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ladags/status/1269280140531388416?s=09"
@@ -5413,7 +5416,8 @@
     "delta": {
       "confirmed": 1515,
       "deceased": 18,
-      "recovered": 604
+      "recovered": 604,
+      "tested": 16275
     },
     "districts": {
       "Airport Quarantine": {
@@ -5795,15 +5799,15 @@
       "last_updated": "2020-06-07T18:46:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-06.06.2020.pdf"
+        "last_updated": "2020-06-07",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-07.06.2020.pdf"
       }
     },
     "total": {
       "confirmed": 31687,
       "deceased": 272,
       "recovered": 16999,
-      "tested": 576695
+      "tested": 592970
     }
   },
   "TR": {
@@ -5897,13 +5901,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10769,
+      "confirmed": 10770,
       "deceased": 261,
-      "recovered": 5161,
+      "recovered": 5191,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T23:34:46+05:30",
+      "last_updated": "2020-06-07T23:42:56+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
@@ -5913,7 +5917,7 @@
       "confirmed": 257392,
       "deceased": 7207,
       "migrated": 13,
-      "recovered": 123818,
+      "recovered": 123848,
       "tested": 4666386
     }
   },
@@ -6692,15 +6696,18 @@
     "delta": {
       "confirmed": 52,
       "deceased": 2,
-      "recovered": 76,
+      "recovered": 106,
       "tested": 528
     },
     "districts": {
       "Almora": {
+        "delta": {
+          "recovered": 13
+        },
         "total": {
           "confirmed": 73,
           "deceased": 1,
-          "recovered": 47
+          "recovered": 60
         }
       },
       "Bageshwar": {
@@ -6732,22 +6739,23 @@
         "delta": {
           "confirmed": 11,
           "deceased": 2,
-          "recovered": 1
+          "recovered": 11
         },
         "total": {
           "confirmed": 369,
           "deceased": 9,
           "migrated": 4,
-          "recovered": 71
+          "recovered": 81
         }
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 7
         },
         "total": {
           "confirmed": 135,
-          "recovered": 37
+          "recovered": 44
         }
       },
       "Nainital": {
@@ -6817,7 +6825,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T21:24:49+05:30",
+      "last_updated": "2020-06-07T23:42:59+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -6828,7 +6836,7 @@
       "confirmed": 1355,
       "deceased": 13,
       "migrated": 5,
-      "recovered": 498,
+      "recovered": 528,
       "tested": 37166
     }
   },

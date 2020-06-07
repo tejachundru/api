@@ -2009,8 +2009,8 @@
       },
       "South Goa": {
         "notes": "",
-        "active": 158,
-        "confirmed": 159,
+        "active": 164,
+        "confirmed": 165,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -2021,8 +2021,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 77,
-        "confirmed": 135,
+        "active": 71,
+        "confirmed": 129,
         "deceased": 0,
         "recovered": 58,
         "delta": {
@@ -4022,7 +4022,7 @@
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -8938,14 +8938,14 @@
     "districtData": {
       "Almora": {
         "notes": "",
-        "active": 25,
+        "active": 12,
         "confirmed": 73,
         "deceased": 1,
-        "recovered": 47,
+        "recovered": 60,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       "Bageshwar": {
@@ -8986,26 +8986,26 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 285,
+        "active": 275,
         "confirmed": 369,
         "deceased": 9,
-        "recovered": 71,
+        "recovered": 81,
         "delta": {
           "confirmed": 11,
           "deceased": 2,
-          "recovered": 1
+          "recovered": 11
         }
       },
       "Haridwar": {
         "notes": "",
-        "active": 98,
+        "active": 91,
         "confirmed": 135,
         "deceased": 0,
-        "recovered": 37,
+        "recovered": 44,
         "delta": {
           "confirmed": 27,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Nainital": {

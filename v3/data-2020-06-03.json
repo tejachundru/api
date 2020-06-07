@@ -1315,13 +1315,13 @@
           "confirmed": 47
         },
         "total": {
-          "confirmed": 65,
+          "confirmed": 71,
           "recovered": 1
         }
       },
       "Unknown": {
         "total": {
-          "confirmed": 55,
+          "confirmed": 49,
           "recovered": 50
         }
       }
@@ -2923,16 +2923,16 @@
   },
   "LA": {
     "delta": {
-      "confirmed": 10,
+      "confirmed": 9,
       "recovered": 1
     },
     "districts": {
       "Kargil": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 7
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 46,
           "recovered": 13
         }
       },
@@ -2955,7 +2955,7 @@
       }
     },
     "total": {
-      "confirmed": 91,
+      "confirmed": 90,
       "deceased": 1,
       "recovered": 48,
       "tested": 8310
@@ -5784,7 +5784,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9690,
+      "confirmed": 9689,
       "deceased": 259,
       "recovered": 3789,
       "tested": 137158
@@ -5796,7 +5796,7 @@
       }
     },
     "total": {
-      "confirmed": 216876,
+      "confirmed": 216875,
       "deceased": 6089,
       "migrated": 11,
       "recovered": 104064,
