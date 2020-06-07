@@ -2216,6 +2216,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 15054
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2466,15 +2469,15 @@
     "meta": {
       "last_updated": "2020-06-06T20:53:47+05:30",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "https://twitter.com/Maha_MEDD/status/1269143363204165632?s=19"
+        "last_updated": "2020-06-07",
+        "source": "https://twitter.com/Maha_MEDD/status/1269505767914307584?s=19"
       }
     },
     "total": {
       "confirmed": 82968,
       "deceased": 2969,
       "recovered": 37390,
-      "tested": 538009
+      "tested": 553063
     }
   },
   "ML": {
@@ -3351,7 +3354,8 @@
       "last_updated": "2020-06-07T10:34:48+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-07"
+        "last_updated": "2020-06-07",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/344?single"
       }
     },
     "total": {
