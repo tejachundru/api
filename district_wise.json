@@ -361,11 +361,11 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "32",
-			"confirmed": "32",
+			"active": "34",
+			"confirmed": "34",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Changlang",
@@ -2881,8 +2881,8 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "126",
-			"confirmed": "127",
+			"active": "158",
+			"confirmed": "159",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -9883,12 +9883,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "22",
+			"active": "21",
 			"confirmed": "34",
-			"deceased": "12",
-			"deltaactive": "6",
+			"deceased": "13",
+			"deltaactive": "5",
 			"deltaconfirmed": "6",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Other State",
 			"districtkey": "RJ_Other State",
@@ -13789,8 +13789,8 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "109",
-			"confirmed": "167",
+			"active": "77",
+			"confirmed": "135",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
