@@ -3000,8 +3000,11 @@
       }
     },
     "2020-06-07": {
+      "delta": {
+        "confirmed": 92
+      },
       "total": {
-        "confirmed": 2474,
+        "confirmed": 2566,
         "deceased": 4,
         "migrated": 3,
         "recovered": 589,
@@ -28724,13 +28727,13 @@
     },
     "2020-06-07": {
       "delta": {
-        "confirmed": 573,
+        "confirmed": 665,
         "deceased": 4,
         "recovered": 106,
         "tested": 142069
       },
       "total": {
-        "confirmed": 247195,
+        "confirmed": 247287,
         "deceased": 6950,
         "migrated": 13,
         "recovered": 118763,
