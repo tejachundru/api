@@ -1313,17 +1313,20 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "confirmed": 30
+        },
         "total": {
-          "confirmed": 167,
+          "confirmed": 197,
           "recovered": 1
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 33
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 127,
+          "confirmed": 97,
           "recovered": 58
         }
       }
@@ -4182,7 +4185,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T00:20:48+05:30",
+      "last_updated": "2020-06-08T00:24:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/MyGovNagaland/status/1269620079034945544/photo/1"
@@ -5900,7 +5903,7 @@
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-08T00:20:46+05:30",
+      "last_updated": "2020-06-08T00:24:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
