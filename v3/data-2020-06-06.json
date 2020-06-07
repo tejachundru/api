@@ -272,7 +272,7 @@
   "AS": {
     "delta": {
       "confirmed": 230,
-      "recovered": 117,
+      "recovered": 79,
       "tested": 13576
     },
     "districts": {
@@ -550,13 +550,11 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 4,
-          "recovered": 38
+          "confirmed": 4
         },
         "total": {
           "confirmed": 4,
-          "migrated": 3,
-          "recovered": 38
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
@@ -578,7 +576,7 @@
       "confirmed": 2474,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 627,
+      "recovered": 589,
       "tested": 146605
     }
   },
@@ -5886,7 +5884,7 @@
       "confirmed": 10521,
       "deceased": 297,
       "migrated": 1,
-      "recovered": 5490,
+      "recovered": 5452,
       "tested": 137938
     },
     "meta": {
@@ -5899,7 +5897,7 @@
       "confirmed": 246622,
       "deceased": 6946,
       "migrated": 13,
-      "recovered": 118695,
+      "recovered": 118657,
       "tested": 4524317
     }
   },

@@ -1057,10 +1057,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -30,
+        "active": 8,
         "confirmed": 8,
         "deceased": 0,
-        "recovered": 38,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1576,12 +1576,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 36,
-        "confirmed": 314,
+        "active": 37,
+        "confirmed": 315,
         "deceased": 5,
         "recovered": 273,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2795,14 +2795,14 @@
       {
         "district": "Solan",
         "notes": "",
-        "active": 17,
+        "active": 16,
         "confirmed": 32,
         "deceased": 1,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {

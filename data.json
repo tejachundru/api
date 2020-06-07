@@ -1155,24 +1155,24 @@
 		{
 			"dailyconfirmed": "10521",
 			"dailydeceased": "297",
-			"dailyrecovered": "5490",
+			"dailyrecovered": "5452",
 			"date": "06 June ",
 			"totalconfirmed": "246623",
 			"totaldeceased": "6945",
-			"totalrecovered": "118695"
+			"totalrecovered": "118657"
 		}
 	],
 	"statewise": [
 		{
-			"active": "121417",
-			"confirmed": "247180",
+			"active": "121455",
+			"confirmed": "247181",
 			"deaths": "6950",
-			"deltaconfirmed": "558",
+			"deltaconfirmed": "559",
 			"deltadeaths": "4",
-			"deltarecovered": "105",
-			"lastupdatedtime": "07/06/2020 12:22:46",
+			"deltarecovered": "106",
+			"lastupdatedtime": "07/06/2020 12:34:46",
 			"migratedother": "13",
-			"recovered": "118800",
+			"recovered": "118763",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1416,15 +1416,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1840",
+			"active": "1878",
 			"confirmed": "2474",
 			"deaths": "4",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/06/2020 01:15:48",
+			"lastupdatedtime": "07/06/2020 12:34:47",
 			"migratedother": "3",
-			"recovered": "627",
+			"recovered": "589",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count"
@@ -1500,27 +1500,27 @@
 			"statenotes": ""
 		},
 		{
-			"active": "201",
+			"active": "200",
 			"confirmed": "400",
 			"deaths": "6",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "07/06/2020 01:15:50",
+			"deltarecovered": "1",
+			"lastupdatedtime": "07/06/2020 12:34:49",
 			"migratedother": "3",
-			"recovered": "190",
+			"recovered": "191",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
 		},
 		{
-			"active": "36",
-			"confirmed": "314",
+			"active": "37",
+			"confirmed": "315",
 			"deaths": "5",
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/06/2020 12:22:48",
+			"lastupdatedtime": "07/06/2020 12:34:50",
 			"migratedother": "0",
 			"recovered": "273",
 			"state": "Chandigarh",

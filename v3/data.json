@@ -404,8 +404,7 @@
       "Unknown": {
         "total": {
           "confirmed": 4,
-          "migrated": 3,
-          "recovered": 38
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
@@ -415,7 +414,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T01:15:48+05:30",
+      "last_updated": "2020-06-07T12:34:47+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-06",
@@ -426,7 +425,7 @@
       "confirmed": 2474,
       "deceased": 4,
       "migrated": 3,
-      "recovered": 627,
+      "recovered": 589,
       "tested": 146605
     }
   },
@@ -697,29 +696,29 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 2
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 313,
+          "confirmed": 314,
           "deceased": 5,
           "recovered": 273
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T12:22:48+05:30",
+      "last_updated": "2020-06-07T12:34:50+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/337"
       }
     },
     "total": {
-      "confirmed": 313,
+      "confirmed": 314,
       "deceased": 5,
       "recovered": 273,
       "tested": 5237
@@ -1264,6 +1263,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1323,11 +1325,14 @@
         }
       },
       "Solan": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 32,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 11
+          "recovered": 12
         }
       },
       "Una": {
@@ -1343,7 +1348,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T01:15:50+05:30",
+      "last_updated": "2020-06-07T12:34:49+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-06",
@@ -1354,7 +1359,7 @@
       "confirmed": 400,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 190,
+      "recovered": 191,
       "tested": 44509
     }
   },
@@ -4480,23 +4485,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 557,
+      "confirmed": 558,
       "deceased": 4,
-      "recovered": 105,
+      "recovered": 106,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T12:22:46+05:30",
+      "last_updated": "2020-06-07T12:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 247179,
+      "confirmed": 247180,
       "deceased": 6950,
       "migrated": 13,
-      "recovered": 118800,
+      "recovered": 118763,
       "tested": 4666386
     }
   },
