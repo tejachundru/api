@@ -553,7 +553,7 @@
           "confirmed": 4
         },
         "total": {
-          "confirmed": 120,
+          "confirmed": 4,
           "migrated": 3
         }
       },
@@ -573,7 +573,7 @@
       }
     },
     "total": {
-      "confirmed": 2590,
+      "confirmed": 2474,
       "deceased": 4,
       "migrated": 3,
       "recovered": 589,
@@ -1345,8 +1345,8 @@
           "confirmed": 62
         },
         "total": {
-          "confirmed": 237,
-          "recovered": 10
+          "confirmed": 249,
+          "recovered": 13
         }
       },
       "Unknown": {
@@ -1354,8 +1354,8 @@
           "confirmed": 9
         },
         "total": {
-          "confirmed": 24,
-          "recovered": 49
+          "confirmed": 12,
+          "recovered": 46
         }
       }
     },
@@ -5431,7 +5431,7 @@
   },
   "TN": {
     "delta": {
-      "confirmed": 1478,
+      "confirmed": 1458,
       "deceased": 19,
       "recovered": 633,
       "tested": 16022
@@ -5636,11 +5636,11 @@
       },
       "Railway Quarantine": {
         "delta": {
-          "confirmed": 23,
+          "confirmed": 3,
           "recovered": 3
         },
         "total": {
-          "confirmed": 280,
+          "confirmed": 260,
           "recovered": 56
         }
       },
@@ -5826,7 +5826,7 @@
       }
     },
     "total": {
-      "confirmed": 30172,
+      "confirmed": 30152,
       "deceased": 254,
       "recovered": 16395,
       "tested": 576695
@@ -5917,7 +5917,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10428,
+      "confirmed": 10408,
       "deceased": 297,
       "migrated": 1,
       "recovered": 5433,
@@ -5930,7 +5930,7 @@
       }
     },
     "total": {
-      "confirmed": 246738,
+      "confirmed": 246602,
       "deceased": 6946,
       "migrated": 13,
       "recovered": 118657,

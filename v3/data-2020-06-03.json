@@ -522,7 +522,6 @@
           "confirmed": 2
         },
         "total": {
-          "confirmed": 116,
           "migrated": 3
         }
       },
@@ -542,7 +541,7 @@
       }
     },
     "total": {
-      "confirmed": 1947,
+      "confirmed": 1831,
       "deceased": 4,
       "migrated": 3,
       "recovered": 414,
@@ -1316,14 +1315,14 @@
           "confirmed": 47
         },
         "total": {
-          "confirmed": 105,
-          "recovered": 10
+          "confirmed": 117,
+          "recovered": 13
         }
       },
       "Unknown": {
         "total": {
-          "confirmed": 15,
-          "recovered": 41
+          "confirmed": 3,
+          "recovered": 38
         }
       }
     },
@@ -5797,7 +5796,7 @@
       }
     },
     "total": {
-      "confirmed": 216991,
+      "confirmed": 216875,
       "deceased": 6089,
       "migrated": 11,
       "recovered": 104064,

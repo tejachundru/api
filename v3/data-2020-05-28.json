@@ -473,7 +473,7 @@
           "confirmed": 3
         },
         "total": {
-          "confirmed": 119,
+          "confirmed": 3,
           "migrated": 3,
           "recovered": 25
         }
@@ -491,7 +491,7 @@
       }
     },
     "total": {
-      "confirmed": 997,
+      "confirmed": 881,
       "deceased": 4,
       "migrated": 3,
       "recovered": 104,
@@ -1176,8 +1176,8 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 48,
-          "recovered": 10
+          "confirmed": 60,
+          "recovered": 13
         }
       },
       "Unknown": {
@@ -1186,8 +1186,8 @@
           "recovered": 1
         },
         "total": {
-          "confirmed": 15,
-          "recovered": 22
+          "confirmed": 3,
+          "recovered": 19
         }
       }
     },
@@ -5211,7 +5211,7 @@
       }
     },
     "total": {
-      "confirmed": 165473,
+      "confirmed": 165357,
       "deceased": 4711,
       "migrated": 11,
       "recovered": 70896,
