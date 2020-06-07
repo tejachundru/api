@@ -1315,18 +1315,20 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 18,
+          "confirmed": 20,
           "recovered": 1
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 2,
           "recovered": 6
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 47,
           "recovered": 43
         }
       }

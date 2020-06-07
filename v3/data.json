@@ -1164,7 +1164,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T23:43:00+05:30",
+      "last_updated": "2020-06-07T23:44:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/HealthCgGov/status/1269656689013166080"
@@ -1272,7 +1272,8 @@
   "DN": {
     "delta": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 766
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1289,14 +1290,14 @@
     "meta": {
       "last_updated": "2020-06-06T21:42:54+05:30",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "https://twitter.com/DnhPublicity/status/1269327038319656961/photo/1"
+        "last_updated": "2020-06-07",
+        "source": "https://twitter.com/DnhPublicity/status/1269694023398313984/photo/1"
       }
     },
     "total": {
       "confirmed": 20,
       "recovered": 2,
-      "tested": 14780
+      "tested": 15546
     }
   },
   "GA": {
@@ -1313,7 +1314,7 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 165,
+          "confirmed": 167,
           "recovered": 1
         }
       },
@@ -1322,7 +1323,7 @@
           "confirmed": 33
         },
         "total": {
-          "confirmed": 129,
+          "confirmed": 127,
           "recovered": 58
         }
       }
@@ -2998,7 +2999,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T23:43:02+05:30",
+      "last_updated": "2020-06-07T23:44:51+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/ladags/status/1269280140531388416?s=09"
@@ -5907,7 +5908,7 @@
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T23:42:56+05:30",
+      "last_updated": "2020-06-07T23:49:51+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
@@ -6825,7 +6826,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T23:42:59+05:30",
+      "last_updated": "2020-06-07T23:49:54+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
