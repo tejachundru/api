@@ -1728,6 +1728,7 @@
   "HR": {
     "delta": {
       "confirmed": 496,
+      "deceased": 4,
       "recovered": 194
     },
     "districts": {
@@ -1760,11 +1761,12 @@
       },
       "Faridabad": {
         "delta": {
-          "confirmed": 56
+          "confirmed": 56,
+          "deceased": 3
         },
         "total": {
           "confirmed": 676,
-          "deceased": 10,
+          "deceased": 13,
           "recovered": 183
         }
       },
@@ -1902,11 +1904,12 @@
       },
       "Panipat": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 11,
+          "deceased": 1
         },
         "total": {
           "confirmed": 83,
-          "deceased": 3,
+          "deceased": 4,
           "recovered": 51
         }
       },
@@ -1960,7 +1963,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T21:42:47+05:30",
+      "last_updated": "2020-06-07T21:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%206-06-2020%20Evening.pdf"
@@ -1968,7 +1971,7 @@
     },
     "total": {
       "confirmed": 4448,
-      "deceased": 24,
+      "deceased": 28,
       "recovered": 1474,
       "tested": 141688
     }
@@ -3911,7 +3914,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T21:41:50+05:30",
+      "last_updated": "2020-06-07T21:44:50+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://twitter.com/MyGovNagaland/status/1269256163167592448/photo/1"
@@ -5512,12 +5515,12 @@
   "TT": {
     "delta": {
       "confirmed": 8659,
-      "deceased": 173,
+      "deceased": 177,
       "recovered": 4350,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T21:42:46+05:30",
+      "last_updated": "2020-06-07T21:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
@@ -5525,7 +5528,7 @@
     },
     "total": {
       "confirmed": 255281,
-      "deceased": 7119,
+      "deceased": 7123,
       "migrated": 13,
       "recovered": 123007,
       "tested": 4666386
