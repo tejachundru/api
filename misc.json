@@ -1,10 +1,10 @@
 {
 	"state_meta_data": [
 		{
-			"abbreviation": "TT",
-			"no": "0",
-			"population": "1332900000",
-			"stateut": "India"
+			"abbreviation": "AN",
+			"no": "29",
+			"population": "397000",
+			"stateut": "Andaman and Nicobar Islands"
 		},
 		{
 			"abbreviation": "AP",
@@ -31,10 +31,28 @@
 			"stateut": "Bihar"
 		},
 		{
+			"abbreviation": "CH",
+			"no": "30",
+			"population": "1179000",
+			"stateut": "Chandigarh"
+		},
+		{
 			"abbreviation": "CT",
 			"no": "5",
 			"population": "28724000",
 			"stateut": "Chhattisgarh"
+		},
+		{
+			"abbreviation": "DN",
+			"no": "31",
+			"population": "959000",
+			"stateut": "Dadra and Nagar Haveli and Daman and Diu"
+		},
+		{
+			"abbreviation": "DL",
+			"no": "33",
+			"population": "19814000",
+			"stateut": "Delhi"
 		},
 		{
 			"abbreviation": "GA",
@@ -61,6 +79,18 @@
 			"stateut": "Himachal Pradesh"
 		},
 		{
+			"abbreviation": "TT",
+			"no": "0",
+			"population": "1332900000",
+			"stateut": "India"
+		},
+		{
+			"abbreviation": "JK",
+			"no": "34",
+			"population": "13203000",
+			"stateut": "Jammu and Kashmir"
+		},
+		{
 			"abbreviation": "JH",
 			"no": "10",
 			"population": "37403000",
@@ -77,6 +107,18 @@
 			"no": "12",
 			"population": "35125000",
 			"stateut": "Kerala"
+		},
+		{
+			"abbreviation": "LA",
+			"no": "35",
+			"population": "293000",
+			"stateut": "Ladakh"
+		},
+		{
+			"abbreviation": "LD",
+			"no": "36",
+			"population": "68000",
+			"stateut": "Lakshadweep"
 		},
 		{
 			"abbreviation": "MP",
@@ -121,6 +163,12 @@
 			"stateut": "Odisha"
 		},
 		{
+			"abbreviation": "PY",
+			"no": "37",
+			"population": "1504000",
+			"stateut": "Puducherry"
+		},
+		{
 			"abbreviation": "PB",
 			"no": "20",
 			"population": "29859000",
@@ -137,6 +185,12 @@
 			"no": "22",
 			"population": "664000",
 			"stateut": "Sikkim"
+		},
+		{
+			"abbreviation": "UN",
+			"no": "38",
+			"population": "",
+			"stateut": "State Unassigned"
 		},
 		{
 			"abbreviation": "TN",
@@ -157,76 +211,22 @@
 			"stateut": "Tripura"
 		},
 		{
-			"abbreviation": "UT",
-			"no": "26",
-			"population": "11141000",
-			"stateut": "Uttarakhand"
-		},
-		{
 			"abbreviation": "UP",
 			"no": "27",
 			"population": "224979000",
 			"stateut": "Uttar Pradesh"
 		},
 		{
+			"abbreviation": "UT",
+			"no": "26",
+			"population": "11141000",
+			"stateut": "Uttarakhand"
+		},
+		{
 			"abbreviation": "WB",
 			"no": "28",
 			"population": "96906000",
 			"stateut": "West Bengal"
-		},
-		{
-			"abbreviation": "AN",
-			"no": "29",
-			"population": "397000",
-			"stateut": "Andaman and Nicobar Islands"
-		},
-		{
-			"abbreviation": "CH",
-			"no": "30",
-			"population": "1179000",
-			"stateut": "Chandigarh"
-		},
-		{
-			"abbreviation": "DN",
-			"no": "31",
-			"population": "959000",
-			"stateut": "Dadra and Nagar Haveli and Daman and Diu"
-		},
-		{
-			"abbreviation": "DL",
-			"no": "33",
-			"population": "19814000",
-			"stateut": "Delhi"
-		},
-		{
-			"abbreviation": "JK",
-			"no": "34",
-			"population": "13203000",
-			"stateut": "Jammu and Kashmir"
-		},
-		{
-			"abbreviation": "LA",
-			"no": "35",
-			"population": "293000",
-			"stateut": "Ladakh"
-		},
-		{
-			"abbreviation": "LD",
-			"no": "36",
-			"population": "68000",
-			"stateut": "Lakshadweep"
-		},
-		{
-			"abbreviation": "PY",
-			"no": "37",
-			"population": "1504000",
-			"stateut": "Puducherry"
-		},
-		{
-			"abbreviation": "UN",
-			"no": "38",
-			"population": "",
-			"stateut": "State Unassigned"
 		}
 	]
 }
