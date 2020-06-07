@@ -2980,11 +2980,25 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 10
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "recovered": 1
+        }
+      },
+      "Lawngtlai": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Lunglei": {
@@ -2993,8 +3007,11 @@
         }
       },
       "Mamit": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 1
+          "confirmed": 8
         }
       },
       "Saitual": {
@@ -3004,14 +3021,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T09:32:50+05:30",
+      "last_updated": "2020-06-07T11:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-562020-500pm-662020-500-pm"
       }
     },
     "total": {
-      "confirmed": 24,
+      "confirmed": 34,
       "recovered": 1,
       "tested": 1991
     }
@@ -3844,7 +3861,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T11:22:49+05:30",
+      "last_updated": "2020-06-07T11:24:47+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "https://t.me/indiacovid/6512"
@@ -4457,20 +4474,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 546,
+      "confirmed": 556,
       "deceased": 4,
       "recovered": 105,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T11:22:47+05:30",
+      "last_updated": "2020-06-07T11:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 247168,
+      "confirmed": 247178,
       "deceased": 6950,
       "migrated": 13,
       "recovered": 118800,
