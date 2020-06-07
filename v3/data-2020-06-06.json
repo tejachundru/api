@@ -3403,6 +3403,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "tested": 474
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -3444,15 +3447,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://corona.meghalayagov.in/"
+        "last_updated": "2020-06-06"
       }
     },
     "total": {
       "confirmed": 33,
       "deceased": 1,
       "recovered": 13,
-      "tested": 9592
+      "tested": 10066
     }
   },
   "MN": {
