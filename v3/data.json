@@ -891,7 +891,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:13:51+05:30",
+      "last_updated": "2020-06-07T17:16:47+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/PIB_Patna/status/1269589508980432910"
@@ -2308,7 +2308,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:13:50+05:30",
+      "last_updated": "2020-06-07T17:19:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-06",
@@ -3839,7 +3839,8 @@
   },
   "PY": {
     "delta": {
-      "confirmed": 12
+      "confirmed": 12,
+      "recovered": 1
     },
     "districts": {
       "Karaikal": {
@@ -3856,16 +3857,17 @@
       },
       "Puducherry": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 1
         },
         "total": {
           "confirmed": 113,
-          "recovered": 42
+          "recovered": 43
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:13:55+05:30",
+      "last_updated": "2020-06-07T17:22:50+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
@@ -3873,7 +3875,7 @@
     },
     "total": {
       "confirmed": 119,
-      "recovered": 48,
+      "recovered": 49,
       "tested": 7963
     }
   },
@@ -4807,11 +4809,11 @@
     "delta": {
       "confirmed": 1492,
       "deceased": 8,
-      "recovered": 538,
+      "recovered": 539,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T17:13:46+05:30",
+      "last_updated": "2020-06-07T17:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
@@ -4821,7 +4823,7 @@
       "confirmed": 248114,
       "deceased": 6954,
       "migrated": 13,
-      "recovered": 119195,
+      "recovered": 119196,
       "tested": 4666386
     }
   },
@@ -5487,7 +5489,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:13:53+05:30",
+      "last_updated": "2020-06-07T17:16:49+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
