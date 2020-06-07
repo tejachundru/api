@@ -5902,7 +5902,8 @@
     "delta": {
       "confirmed": 370,
       "deceased": 11,
-      "recovered": 260
+      "recovered": 260,
+      "tested": 10368
     },
     "districts": {
       "Agra": {
@@ -6642,15 +6643,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://t.me/indiacovid/6395?single"
+        "last_updated": "2020-06-06",
+        "source": "https://t.me/indiacovid/6529?single"
       }
     },
     "total": {
       "confirmed": 10103,
       "deceased": 268,
       "recovered": 5908,
-      "tested": 344717
+      "tested": 355085
     }
   },
   "UT": {
@@ -6810,7 +6811,8 @@
     "delta": {
       "confirmed": 435,
       "deceased": 17,
-      "recovered": 207
+      "recovered": 207,
+      "tested": 9771
     },
     "districts": {
       "Alipurduar": {
@@ -7058,15 +7060,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_5th_JUNE_REPORT_FINAL.pdf"
+        "last_updated": "2020-06-06",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_6th_JUNE_REPORT_FINAL1.pdf"
       }
     },
     "total": {
       "confirmed": 7738,
       "deceased": 383,
       "recovered": 3119,
-      "tested": 251517
+      "tested": 261288
     }
   }
 }
