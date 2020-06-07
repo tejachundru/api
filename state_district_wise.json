@@ -7471,25 +7471,25 @@
       },
       "Chengalpattu": {
         "notes": "",
-        "active": 1054,
+        "active": 1053,
         "confirmed": 1853,
-        "deceased": 14,
+        "deceased": 15,
         "recovered": 785,
         "delta": {
           "confirmed": 135,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 22
         }
       },
       "Chennai": {
         "notes": "",
-        "active": 10959,
+        "active": 10944,
         "confirmed": 22111,
-        "deceased": 198,
+        "deceased": 213,
         "recovered": 10954,
         "delta": {
           "confirmed": 1156,
-          "deceased": 0,
+          "deceased": 15,
           "recovered": 382
         }
       },
@@ -7771,13 +7771,13 @@
       },
       "Thiruvallur": {
         "notes": "",
-        "active": 630,
+        "active": 629,
         "confirmed": 1323,
-        "deceased": 11,
+        "deceased": 12,
         "recovered": 682,
         "delta": {
           "confirmed": 55,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 14
         }
       },
@@ -7867,13 +7867,13 @@
       },
       "Vellore": {
         "notes": "",
-        "active": 26,
+        "active": 25,
         "confirmed": 66,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 38,
         "delta": {
           "confirmed": 9,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -7899,18 +7899,6 @@
           "confirmed": 5,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -18,
-        "confirmed": 0,
-        "deceased": 18,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },

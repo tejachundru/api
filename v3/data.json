@@ -4653,22 +4653,24 @@
       "Chengalpattu": {
         "delta": {
           "confirmed": 135,
+          "deceased": 1,
           "recovered": 22
         },
         "total": {
           "confirmed": 1853,
-          "deceased": 14,
+          "deceased": 15,
           "recovered": 785
         }
       },
       "Chennai": {
         "delta": {
           "confirmed": 1156,
+          "deceased": 15,
           "recovered": 382
         },
         "total": {
           "confirmed": 22111,
-          "deceased": 198,
+          "deceased": 213,
           "recovered": 10954
         }
       },
@@ -4891,11 +4893,12 @@
       "Thiruvallur": {
         "delta": {
           "confirmed": 55,
+          "deceased": 1,
           "recovered": 14
         },
         "total": {
           "confirmed": 1323,
-          "deceased": 11,
+          "deceased": 12,
           "recovered": 682
         }
       },
@@ -4969,21 +4972,14 @@
           "recovered": 240
         }
       },
-      "Unknown": {
-        "delta": {
-          "deceased": 18
-        },
-        "total": {
-          "deceased": 18
-        }
-      },
       "Vellore": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "deceased": 1
         },
         "total": {
           "confirmed": 66,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 38
         }
       },
@@ -5010,7 +5006,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T18:42:47+05:30",
+      "last_updated": "2020-06-07T18:46:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-06",
@@ -5094,7 +5090,7 @@
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T18:42:46+05:30",
+      "last_updated": "2020-06-07T18:46:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
