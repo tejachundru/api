@@ -1631,26 +1631,28 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 7,
+      "confirmed": 11,
       "recovered": 20,
       "tested": 1379
     },
     "districts": {
       "Bilaspur": {
         "delta": {
+          "confirmed": 1,
           "recovered": 3
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "recovered": 12
         }
       },
       "Chamba": {
         "delta": {
+          "confirmed": 2,
           "recovered": 4
         },
         "total": {
-          "confirmed": 30,
+          "confirmed": 32,
           "recovered": 19
         }
       },
@@ -1698,8 +1700,11 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 13,
           "deceased": 1,
           "recovered": 8
         }
@@ -1737,7 +1742,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T18:40:48+05:30",
+      "last_updated": "2020-06-07T22:52:49+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-07",
@@ -1745,7 +1750,7 @@
       }
     },
     "total": {
-      "confirmed": 407,
+      "confirmed": 411,
       "deceased": 6,
       "migrated": 3,
       "recovered": 210,
@@ -4370,7 +4375,8 @@
     "delta": {
       "confirmed": 93,
       "deceased": 1,
-      "recovered": 14
+      "recovered": 14,
+      "tested": 8292
     },
     "districts": {
       "Amritsar": {
@@ -4566,15 +4572,15 @@
     "meta": {
       "last_updated": "2020-06-07T19:53:52+05:30",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2006-06-2020.pdf"
+        "last_updated": "2020-06-07",
+        "source": "https://t.me/indiacovid/6585"
       }
     },
     "total": {
       "confirmed": 2608,
       "deceased": 51,
       "recovered": 2106,
-      "tested": 115974
+      "tested": 124266
     }
   },
   "PY": {
@@ -4624,7 +4630,8 @@
     "delta": {
       "confirmed": 262,
       "deceased": 8,
-      "recovered": 253
+      "recovered": 253,
+      "tested": 12304
     },
     "districts": {
       "Ajmer": {
@@ -4981,15 +4988,15 @@
     "meta": {
       "last_updated": "2020-06-07T22:39:47+05:30",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "https://t.me/indiacovid/6512"
+        "last_updated": "2020-06-07",
+        "source": "https://t.me/indiacovid/6619"
       }
     },
     "total": {
       "confirmed": 10599,
       "deceased": 239,
       "recovered": 7754,
-      "tested": 494480
+      "tested": 506784
     }
   },
   "SK": {
@@ -5273,7 +5280,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T22:42:48+05:30",
+      "last_updated": "2020-06-07T22:51:52+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5773,20 +5780,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10535,
+      "confirmed": 10539,
       "deceased": 260,
       "recovered": 5128,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T22:42:46+05:30",
+      "last_updated": "2020-06-07T22:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 257157,
+      "confirmed": 257161,
       "deceased": 7206,
       "migrated": 13,
       "recovered": 123785,
