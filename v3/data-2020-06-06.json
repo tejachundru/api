@@ -1708,7 +1708,8 @@
   "HP": {
     "delta": {
       "confirmed": 6,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 821
     },
     "districts": {
       "Bilaspur": {
@@ -1804,8 +1805,8 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://twitter.com/nhm_hp/status/1268936480069730304?s=19"
+        "last_updated": "2020-06-06",
+        "source": "https://twitter.com/nhm_hp/status/1269298139850313729?s=19"
       }
     },
     "total": {
@@ -1813,13 +1814,14 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 190,
-      "tested": 43688
+      "tested": 44509
     }
   },
   "HR": {
     "delta": {
       "confirmed": 355,
-      "recovered": 71
+      "recovered": 71,
+      "tested": 4236
     },
     "districts": {
       "Ambala": {
@@ -2034,21 +2036,22 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%205-06-2020%20Evenning.pdf"
+        "last_updated": "2020-06-06",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%206-06-2020%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 3952,
       "deceased": 24,
       "recovered": 1280,
-      "tested": 137452
+      "tested": 141688
     }
   },
   "JH": {
     "delta": {
       "confirmed": 185,
-      "recovered": 63
+      "recovered": 63,
+      "tested": 4347
     },
     "districts": {
       "Bokaro": {
@@ -2256,22 +2259,23 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://twitter.com/RanchiPIB/status/1268941454727999488?s=09"
+        "last_updated": "2020-06-06",
+        "source": "https://t.me/indiacovid/6535"
       }
     },
     "total": {
       "confirmed": 1028,
       "deceased": 7,
       "recovered": 473,
-      "tested": 80097
+      "tested": 84444
     }
   },
   "JK": {
     "delta": {
       "confirmed": 143,
       "deceased": 3,
-      "recovered": 40
+      "recovered": 40,
+      "tested": 9623
     },
     "districts": {
       "Anantnag": {
@@ -2470,15 +2474,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://twitter.com/diprjk/status/1268920698040455169?s=19"
+        "last_updated": "2020-06-06",
+        "source": "https://twitter.com/diprjk/status/1269277728114724865?s=19"
       }
     },
     "total": {
       "confirmed": 3467,
       "deceased": 39,
       "recovered": 1126,
-      "tested": 202257
+      "tested": 211880
     }
   },
   "KA": {
@@ -2783,7 +2787,8 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-06"
+        "last_updated": "2020-06-06",
+        "source": "https://t.me/Karnataka_KoViD19_Broadcast/3864"
       }
     },
     "total": {
@@ -6663,7 +6668,8 @@
     "delta": {
       "confirmed": 88,
       "migrated": 1,
-      "recovered": 78
+      "recovered": 78,
+      "tested": 671
     },
     "districts": {
       "Almora": {
@@ -6800,8 +6806,7 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-05",
-        "source": "https://health.uk.gov.in/files/2020.06.05_Health_Bulletin.pdf"
+        "last_updated": "2020-06-06"
       }
     },
     "total": {
@@ -6809,7 +6814,7 @@
       "deceased": 11,
       "migrated": 5,
       "recovered": 422,
-      "tested": 35967
+      "tested": 36638
     }
   },
   "WB": {
