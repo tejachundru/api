@@ -2451,50 +2451,50 @@
     "districtData": {
       "Bilaspur": {
         "notes": "",
-        "active": 12,
+        "active": 9,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Chamba": {
         "notes": "",
-        "active": 15,
+        "active": 11,
         "confirmed": 30,
         "deceased": 0,
-        "recovered": 15,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Hamirpur": {
         "notes": "",
-        "active": 64,
+        "active": 63,
         "confirmed": 123,
         "deceased": 1,
-        "recovered": 58,
+        "recovered": 59,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Kangra": {
         "notes": "",
-        "active": 58,
+        "active": 50,
         "confirmed": 109,
         "deceased": 1,
-        "recovered": 50,
+        "recovered": 58,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Kinnaur": {
@@ -2583,14 +2583,14 @@
       },
       "Una": {
         "notes": "",
-        "active": 16,
+        "active": 13,
         "confirmed": 42,
         "deceased": 0,
-        "recovered": 26,
+        "recovered": 29,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       }
     },
