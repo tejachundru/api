@@ -538,7 +538,7 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 141,
+      "confirmed": 239,
       "deceased": 1,
       "recovered": 107,
       "tested": 3635
@@ -555,11 +555,8 @@
         }
       },
       "Arwal": {
-        "delta": {
-          "confirmed": -1
-        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 54,
           "recovered": 38
         }
       },
@@ -574,10 +571,10 @@
       },
       "Banka": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 131,
+          "confirmed": 132,
           "recovered": 80
         }
       },
@@ -593,17 +590,20 @@
       },
       "Bhagalpur": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 14
         },
         "total": {
-          "confirmed": 240,
+          "confirmed": 245,
           "deceased": 1,
           "recovered": 85
         }
       },
       "Bhojpur": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 103,
+          "confirmed": 111,
           "deceased": 2,
           "recovered": 39
         }
@@ -625,26 +625,30 @@
       },
       "East Champaran": {
         "delta": {
+          "confirmed": 3,
           "recovered": 1
         },
         "total": {
-          "confirmed": 127,
+          "confirmed": 130,
           "deceased": 1,
           "recovered": 66
         }
       },
       "Gaya": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 114,
+          "confirmed": 117,
           "recovered": 36
         }
       },
       "Gopalganj": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 132,
+          "confirmed": 134,
           "recovered": 74
         }
       },
@@ -660,10 +664,11 @@
       },
       "Jehanabad": {
         "delta": {
+          "confirmed": 1,
           "recovered": 16
         },
         "total": {
-          "confirmed": 177,
+          "confirmed": 178,
           "deceased": 1,
           "recovered": 122
         }
@@ -679,19 +684,20 @@
       },
       "Katihar": {
         "delta": {
+          "confirmed": 2,
           "recovered": 4
         },
         "total": {
-          "confirmed": 167,
+          "confirmed": 169,
           "recovered": 79
         }
       },
       "Khagaria": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 278,
+          "confirmed": 279,
           "deceased": 3,
           "recovered": 91
         }
@@ -754,31 +760,31 @@
       },
       "Nalanda": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 123,
+          "confirmed": 124,
           "deceased": 1,
           "recovered": 87
         }
       },
       "Nawada": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 14
         },
         "total": {
-          "confirmed": 132,
+          "confirmed": 139,
           "deceased": 1,
           "recovered": 49
         }
       },
       "Patna": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 6,
           "recovered": 4
         },
         "total": {
-          "confirmed": 275,
+          "confirmed": 279,
           "deceased": 2,
           "recovered": 187
         }
@@ -825,22 +831,22 @@
       },
       "Saran": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 4
         },
         "total": {
-          "confirmed": 102,
+          "confirmed": 103,
           "deceased": 1,
           "recovered": 36
         }
       },
       "Sheikhpura": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 8
         },
         "total": {
-          "confirmed": 110,
+          "confirmed": 111,
           "recovered": 33
         }
       },
@@ -852,26 +858,32 @@
         }
       },
       "Sitamarhi": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 78,
           "deceased": 2,
           "recovered": 33
         }
       },
       "Siwan": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 121,
+          "confirmed": 129,
           "deceased": 2,
           "recovered": 52
         }
       },
       "Supaul": {
         "delta": {
-          "confirmed": 16,
+          "confirmed": 36,
           "recovered": 5
         },
         "total": {
-          "confirmed": 134,
+          "confirmed": 154,
           "recovered": 44
         }
       },
@@ -888,23 +900,24 @@
       },
       "West Champaran": {
         "delta": {
+          "confirmed": 19,
           "recovered": 2
         },
         "total": {
-          "confirmed": 64,
+          "confirmed": 83,
           "recovered": 37
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:42:49+05:30",
+      "last_updated": "2020-06-07T20:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/PIB_Patna/status/1269589508980432910"
       }
     },
     "total": {
-      "confirmed": 4972,
+      "confirmed": 5070,
       "deceased": 30,
       "recovered": 2405,
       "tested": 99108
@@ -5388,20 +5401,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7620,
+      "confirmed": 7718,
       "deceased": 171,
       "recovered": 4081,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T20:01:46+05:30",
+      "last_updated": "2020-06-07T20:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 254242,
+      "confirmed": 254340,
       "deceased": 7117,
       "migrated": 13,
       "recovered": 122738,
