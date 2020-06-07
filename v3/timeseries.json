@@ -2966,14 +2966,15 @@
     "2020-06-06": {
       "delta": {
         "confirmed": 230,
-        "recovered": 117
+        "recovered": 117,
+        "tested": 13576
       },
       "total": {
         "confirmed": 2474,
         "deceased": 4,
         "migrated": 3,
         "recovered": 627,
-        "tested": 133029
+        "tested": 146605
       }
     }
   },

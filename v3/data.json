@@ -276,7 +276,8 @@
   "AS": {
     "delta": {
       "confirmed": 230,
-      "recovered": 117
+      "recovered": 117,
+      "tested": 13576
     },
     "districts": {
       "Airport Quarantine": {
@@ -575,8 +576,7 @@
       "last_updated": "2020-06-07T01:15:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-04",
-        "source": "https://twitter.com/nhm_assam/status/1268576420630073347?s=09"
+        "last_updated": "2020-06-06"
       }
     },
     "total": {
@@ -584,7 +584,7 @@
       "deceased": 4,
       "migrated": 3,
       "recovered": 627,
-      "tested": 133029
+      "tested": 146605
     }
   },
   "BR": {
