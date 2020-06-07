@@ -971,10 +971,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 8,
+        "active": -19,
         "confirmed": 8,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 27,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -8926,12 +8926,12 @@
       },
       "Bageshwar": {
         "notes": "",
-        "active": 16,
-        "confirmed": 27,
+        "active": 22,
+        "confirmed": 33,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -8950,62 +8950,62 @@
       },
       "Champawat": {
         "notes": "",
-        "active": 37,
-        "confirmed": 45,
+        "active": 38,
+        "confirmed": 46,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Dehradun": {
         "notes": "",
-        "active": 277,
-        "confirmed": 358,
-        "deceased": 7,
-        "recovered": 70,
+        "active": 284,
+        "confirmed": 368,
+        "deceased": 9,
+        "recovered": 71,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 10,
+          "deceased": 2,
+          "recovered": 1
         }
       },
       "Haridwar": {
         "notes": "",
-        "active": 71,
-        "confirmed": 108,
+        "active": 85,
+        "confirmed": 122,
         "deceased": 0,
         "recovered": 37,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Nainital": {
         "notes": "",
-        "active": 187,
-        "confirmed": 321,
+        "active": 189,
+        "confirmed": 323,
         "deceased": 1,
         "recovered": 133,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Pauri Garhwal": {
         "notes": "",
-        "active": 27,
+        "active": 26,
         "confirmed": 43,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Pithoragarh": {
@@ -9034,38 +9034,38 @@
       },
       "Tehri Garhwal": {
         "notes": "",
-        "active": 84,
-        "confirmed": 118,
+        "active": 25,
+        "confirmed": 121,
         "deceased": 0,
-        "recovered": 34,
+        "recovered": 96,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 62
         }
       },
       "Udham Singh Nagar": {
         "notes": "",
-        "active": 42,
-        "confirmed": 88,
+        "active": 44,
+        "confirmed": 90,
         "deceased": 0,
         "recovered": 46,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Uttarkashi": {
         "notes": "",
-        "active": 16,
+        "active": 6,
         "confirmed": 23,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       }
     },
