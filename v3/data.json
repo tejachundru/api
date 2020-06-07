@@ -2535,6 +2535,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 15
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -2560,8 +2563,11 @@
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 27,
           "recovered": 5
         }
       },
@@ -2577,8 +2583,11 @@
         }
       },
       "Kangpokpi": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 19
+          "confirmed": 22
         }
       },
       "Noney": {
@@ -2609,14 +2618,20 @@
         }
       },
       "Thoubal": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 10,
           "recovered": 4
         }
       },
       "Ukhrul": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 5,
+          "confirmed": 10,
           "recovered": 2
         }
       },
@@ -2628,14 +2643,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T19:42:50+05:30",
+      "last_updated": "2020-06-07T13:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-05",
         "source": "https://t.me/indiacovid/6412"
       }
     },
     "total": {
-      "confirmed": 157,
+      "confirmed": 172,
       "recovered": 52,
       "tested": 14629
     }
@@ -4490,20 +4505,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 558,
+      "confirmed": 573,
       "deceased": 4,
       "recovered": 106,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T12:37:46+05:30",
+      "last_updated": "2020-06-07T13:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 247180,
+      "confirmed": 247195,
       "deceased": 6950,
       "migrated": 13,
       "recovered": 118763,
