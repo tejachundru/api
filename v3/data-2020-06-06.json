@@ -5460,56 +5460,54 @@
       },
       "Chengalpattu": {
         "delta": {
-          "confirmed": 94,
+          "confirmed": 96,
           "recovered": 74
         },
         "total": {
-          "confirmed": 1717,
+          "confirmed": 1719,
           "deceased": 14,
           "recovered": 763
         }
       },
       "Chennai": {
         "delta": {
-          "confirmed": 1108,
+          "confirmed": 1184,
           "deceased": 19,
           "recovered": 362
         },
         "total": {
-          "confirmed": 20917,
+          "confirmed": 20993,
           "deceased": 198,
           "recovered": 10572
         }
       },
       "Coimbatore": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "recovered": 1
         },
         "total": {
-          "confirmed": 154,
+          "confirmed": 158,
           "deceased": 1,
           "recovered": 145
         }
       },
       "Cuddalore": {
         "delta": {
-          "confirmed": 2,
           "recovered": 4
         },
         "total": {
-          "confirmed": 477,
+          "confirmed": 475,
           "deceased": 1,
           "recovered": 439
         }
       },
       "Dharmapuri": {
         "delta": {
-          "confirmed": 2,
           "recovered": 3
         },
         "total": {
-          "confirmed": 13,
+          "confirmed": 11,
           "recovered": 8
         }
       },
@@ -5525,30 +5523,27 @@
       },
       "Erode": {
         "delta": {
-          "confirmed": -1
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 71,
+          "confirmed": 73,
           "deceased": 1,
           "recovered": 70
         }
       },
       "Kallakurichi": {
-        "delta": {
-          "confirmed": 6
-        },
         "total": {
-          "confirmed": 270,
+          "confirmed": 264,
           "recovered": 153
         }
       },
       "Kancheepuram": {
         "delta": {
-          "confirmed": 12,
+          "confirmed": 20,
           "recovered": 15
         },
         "total": {
-          "confirmed": 492,
+          "confirmed": 500,
           "deceased": 3,
           "recovered": 309
         }
@@ -5566,10 +5561,10 @@
       },
       "Karur": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 4
         },
         "total": {
-          "confirmed": 91,
+          "confirmed": 87,
           "recovered": 78
         }
       },
@@ -5584,21 +5579,21 @@
       },
       "Madurai": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 6,
           "recovered": 33
         },
         "total": {
-          "confirmed": 300,
+          "confirmed": 298,
           "deceased": 3,
           "recovered": 229
         }
       },
       "Nagapattinam": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 86,
+          "confirmed": 76,
           "recovered": 51
         }
       },
@@ -5628,11 +5623,11 @@
       },
       "Pudukkottai": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": -3,
           "recovered": 2
         },
         "total": {
-          "confirmed": 39,
+          "confirmed": 31,
           "deceased": 1,
           "recovered": 20
         }
@@ -5648,41 +5643,35 @@
         }
       },
       "Ramanathapuram": {
-        "delta": {
-          "confirmed": 8
-        },
         "total": {
-          "confirmed": 105,
+          "confirmed": 97,
           "deceased": 1,
           "recovered": 58
         }
       },
       "Ranipet": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": -2,
           "recovered": 2
         },
         "total": {
-          "confirmed": 128,
+          "confirmed": 120,
           "recovered": 94
         }
       },
       "Salem": {
         "delta": {
-          "confirmed": 9,
+          "confirmed": -3,
           "recovered": 24
         },
         "total": {
-          "confirmed": 225,
+          "confirmed": 213,
           "recovered": 92
         }
       },
       "Sivaganga": {
-        "delta": {
-          "confirmed": 4
-        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 35,
           "recovered": 30
         }
       },
@@ -5717,32 +5706,32 @@
       },
       "Thiruvallur": {
         "delta": {
-          "confirmed": 74,
+          "confirmed": 86,
           "recovered": 21
         },
         "total": {
-          "confirmed": 1262,
+          "confirmed": 1274,
           "deceased": 11,
           "recovered": 668
         }
       },
       "Thiruvarur": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": 3,
           "recovered": 4
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 58,
           "recovered": 42
         }
       },
       "Thoothukkudi": {
         "delta": {
-          "confirmed": 25,
+          "confirmed": 3,
           "recovered": 8
         },
         "total": {
-          "confirmed": 337,
+          "confirmed": 315,
           "deceased": 2,
           "recovered": 176
         }
@@ -5759,21 +5748,21 @@
       },
       "Tirunelveli": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 1,
           "recovered": 5
         },
         "total": {
-          "confirmed": 386,
+          "confirmed": 384,
           "deceased": 1,
           "recovered": 328
         }
       },
       "Tirupathur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": -1
         },
         "total": {
-          "confirmed": 38,
+          "confirmed": 36,
           "recovered": 29
         }
       },
@@ -5795,11 +5784,8 @@
         }
       },
       "Vellore": {
-        "delta": {
-          "confirmed": 4
-        },
         "total": {
-          "confirmed": 59,
+          "confirmed": 55,
           "deceased": 2,
           "recovered": 38
         }
@@ -5816,11 +5802,11 @@
       },
       "Virudhunagar": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 1,
           "recovered": 17
         },
         "total": {
-          "confirmed": 150,
+          "confirmed": 144,
           "recovered": 115
         }
       }
