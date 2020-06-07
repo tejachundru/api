@@ -285,9 +285,12 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 80,
-          "recovered": 38
+          "recovered": 40
         }
       },
       "Biswanath": {
@@ -303,9 +306,12 @@
         }
       },
       "Cachar": {
+        "delta": {
+          "recovered": 13
+        },
         "total": {
           "confirmed": 82,
-          "recovered": 65
+          "recovered": 78
         }
       },
       "Charaideo": {
@@ -342,9 +348,12 @@
         }
       },
       "Dibrugarh": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 50,
-          "recovered": 4
+          "recovered": 5
         }
       },
       "Dima Hasao": {
@@ -369,9 +378,13 @@
         }
       },
       "Hailakandi": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 49,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 5
         }
       },
       "Hojai": {
@@ -383,9 +396,12 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 27,
-          "recovered": 26
+          "recovered": 28
         }
       },
       "Kamrup": {
@@ -402,9 +418,12 @@
         }
       },
       "Karbi Anglong": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 11,
-          "recovered": 1
+          "recovered": 5
         }
       },
       "Karimganj": {
@@ -490,13 +509,9 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "recovered": 27
-        },
         "total": {
           "confirmed": 4,
-          "migrated": 3,
-          "recovered": 27
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
@@ -506,7 +521,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T15:51:48+05:30",
+      "last_updated": "2020-06-07T15:58:47+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-06",
@@ -4748,7 +4763,7 @@
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T15:51:46+05:30",
+      "last_updated": "2020-06-07T15:58:45+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
@@ -5424,7 +5439,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T15:51:49+05:30",
+      "last_updated": "2020-06-07T15:54:49+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
