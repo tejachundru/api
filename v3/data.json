@@ -955,6 +955,9 @@
     }
   },
   "CT": {
+    "delta": {
+      "tested": -496
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -1098,18 +1101,23 @@
     "meta": {
       "last_updated": "2020-06-06T20:53:49+05:30",
       "tested": {
-        "last_updated": "2020-06-06",
-        "source": "https://twitter.com/HealthCgGov/status/1269284060750323715/photo/1"
+        "last_updated": "2020-06-07",
+        "source": "https://twitter.com/HealthCgGov/status/1269656689013166080"
       }
     },
     "total": {
       "confirmed": 923,
       "deceased": 4,
       "recovered": 259,
-      "tested": 89392
+      "tested": 88896
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1282,
+      "deceased": 51,
+      "recovered": 335
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1163,10 +1171,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1282,
+          "deceased": 51,
+          "recovered": 335
+        },
         "total": {
-          "confirmed": 26866,
-          "deceased": 760,
-          "recovered": 10664
+          "confirmed": 28148,
+          "deceased": 811,
+          "recovered": 10999
         }
       },
       "West Delhi": {
@@ -1176,7 +1189,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-06T21:42:47+05:30",
+      "last_updated": "2020-06-07T22:02:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-06",
@@ -1184,9 +1197,9 @@
       }
     },
     "total": {
-      "confirmed": 27654,
-      "deceased": 761,
-      "recovered": 10664,
+      "confirmed": 28936,
+      "deceased": 812,
+      "recovered": 10999,
       "tested": 246873
     }
   },
@@ -1963,7 +1976,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T21:52:48+05:30",
+      "last_updated": "2020-06-07T22:01:49+05:30",
       "tested": {
         "last_updated": "2020-06-06",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%206-06-2020%20Evening.pdf"
@@ -5514,23 +5527,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8659,
-      "deceased": 177,
-      "recovered": 4350,
+      "confirmed": 9941,
+      "deceased": 228,
+      "recovered": 4685,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T21:52:46+05:30",
+      "last_updated": "2020-06-07T22:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 255281,
-      "deceased": 7123,
+      "confirmed": 256563,
+      "deceased": 7174,
       "migrated": 13,
-      "recovered": 123007,
+      "recovered": 123342,
       "tested": 4666386
     }
   },
