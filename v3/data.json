@@ -29,8 +29,9 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 130,
-      "deceased": 2
+      "confirmed": 199,
+      "deceased": 2,
+      "recovered": 29
     },
     "districts": {
       "Anantapur": {
@@ -67,9 +68,12 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 131,
-          "recovered": 4
+          "recovered": 5
         }
       },
       "Guntur": {
@@ -107,9 +111,13 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 69,
+          "recovered": 28
+        },
         "total": {
-          "confirmed": 741,
-          "recovered": 274
+          "confirmed": 810,
+          "recovered": 302
         }
       },
       "Prakasam": {
@@ -183,7 +191,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T14:40:48+05:30",
+      "last_updated": "2020-06-07T14:52:47+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-06",
@@ -191,9 +199,9 @@
       }
     },
     "total": {
-      "confirmed": 4590,
+      "confirmed": 4659,
       "deceased": 75,
-      "recovered": 2640,
+      "recovered": 2669,
       "tested": 436335
     }
   },
@@ -4623,23 +4631,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 987,
+      "confirmed": 1056,
       "deceased": 6,
-      "recovered": 121,
+      "recovered": 150,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-07T14:40:46+05:30",
+      "last_updated": "2020-06-07T14:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 247609,
+      "confirmed": 247678,
       "deceased": 6952,
       "migrated": 13,
-      "recovered": 118778,
+      "recovered": 118807,
       "tested": 4666386
     }
   },

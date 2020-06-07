@@ -70,14 +70,14 @@
       {
         "district": "Foreign Evacuees",
         "notes": "",
-        "active": 127,
+        "active": 126,
         "confirmed": 131,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -161,14 +161,14 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 467,
-        "confirmed": 741,
+        "active": 508,
+        "confirmed": 810,
         "deceased": 0,
-        "recovered": 274,
+        "recovered": 302,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 69,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 28
         }
       },
       {
