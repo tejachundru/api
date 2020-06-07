@@ -1302,7 +1302,7 @@
   },
   "GA": {
     "delta": {
-      "confirmed": 33,
+      "confirmed": 37,
       "tested": 2337
     },
     "districts": {
@@ -1314,10 +1314,10 @@
       },
       "South Goa": {
         "delta": {
-          "confirmed": 30
+          "confirmed": 34
         },
         "total": {
-          "confirmed": 197,
+          "confirmed": 235,
           "recovered": 1
         }
       },
@@ -1326,13 +1326,13 @@
           "confirmed": 3
         },
         "total": {
-          "confirmed": 97,
+          "confirmed": 59,
           "recovered": 58
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T19:24:49+05:30",
+      "last_updated": "2020-06-08T00:36:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DHS_Goa/status/1269623215292211201?s=19"
@@ -5897,13 +5897,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10768,
+      "confirmed": 10772,
       "deceased": 261,
       "recovered": 5191,
       "tested": 142069
     },
     "meta": {
-      "last_updated": "2020-06-08T00:24:46+05:30",
+      "last_updated": "2020-06-08T00:36:47+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
