@@ -907,7 +907,8 @@
   "CH": {
     "delta": {
       "confirmed": 5,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 73
     },
     "districts": {
       "Chandigarh": {
@@ -925,15 +926,14 @@
     "meta": {
       "last_updated": "2020-06-08T19:20:53+05:30",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/346"
+        "last_updated": "2020-06-08"
       }
     },
     "total": {
       "confirmed": 319,
       "deceased": 5,
       "recovered": 274,
-      "tested": 5312
+      "tested": 5385
     }
   },
   "CT": {
@@ -1169,7 +1169,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:52:48+05:30",
+      "last_updated": "2020-06-08T21:00:48+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-07",
@@ -1235,7 +1235,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:52:59+05:30",
+      "last_updated": "2020-06-08T21:00:59+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DHS_Goa/status/1269623215292211201?s=19"
@@ -1929,7 +1929,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:52:50+05:30",
+      "last_updated": "2020-06-08T21:00:53+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%207-06-2020%20Evening.pdf"
@@ -2313,7 +2313,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:52:57+05:30",
+      "last_updated": "2020-06-08T21:00:55+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/diprjk/status/1269649914079870976"
@@ -3777,7 +3777,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:53:01+05:30",
+      "last_updated": "2020-06-08T21:01:01+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/MyGovNagaland/status/1269620079034945544/photo/1"
@@ -4337,7 +4337,7 @@
   },
   "RJ": {
     "delta": {
-      "confirmed": 97,
+      "confirmed": 96,
       "deceased": 1,
       "recovered": 60
     },
@@ -4377,10 +4377,10 @@
       },
       "Baran": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 61,
+          "confirmed": 60,
           "deceased": 3,
           "recovered": 8
         }
@@ -4628,14 +4628,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T12:32:47+05:30",
+      "last_updated": "2020-06-08T21:02:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/indiacovid/6619"
       }
     },
     "total": {
-      "confirmed": 10696,
+      "confirmed": 10695,
       "deceased": 241,
       "recovered": 7814,
       "tested": 506784
@@ -5375,21 +5375,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6660,
+      "confirmed": 6659,
       "deceased": 242,
       "migrated": 2,
       "recovered": 4144,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T20:52:46+05:30",
+      "last_updated": "2020-06-08T21:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 264144,
+      "confirmed": 264143,
       "deceased": 7449,
       "migrated": 15,
       "recovered": 127991,
