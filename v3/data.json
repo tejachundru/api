@@ -3012,10 +3012,10 @@
     "districts": {
       "Bishnupur": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 36
         },
         "total": {
-          "confirmed": 6,
+          "confirmed": 40,
           "recovered": 1
         }
       },
@@ -3041,38 +3041,44 @@
       },
       "Imphal West": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 15
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 42,
           "recovered": 5
         }
       },
       "Kakching": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 20
         },
-        "total": {
-          "confirmed": 4
-        }
-      },
-      "Kamjong": {
-        "delta": {
-          "confirmed": 5
-        },
-        "total": {
-          "confirmed": 7,
-          "recovered": 2
-        }
-      },
-      "Kangpokpi": {
         "total": {
           "confirmed": 22
         }
       },
-      "Noney": {
+      "Kamjong": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 10,
+          "recovered": 2
+        }
+      },
+      "Kangpokpi": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 23
+        }
+      },
+      "Noney": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 4,
           "recovered": 1
         }
       },
@@ -3082,8 +3088,11 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Tamenglong": {
@@ -3108,25 +3117,22 @@
       },
       "Ukhrul": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 2
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 63
-        },
         "total": {
-          "confirmed": 94,
+          "confirmed": 31,
           "recovered": 21
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:52:49+05:30",
+      "last_updated": "2020-06-08T19:59:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
@@ -5233,7 +5239,7 @@
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T19:52:46+05:30",
+      "last_updated": "2020-06-08T19:59:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
