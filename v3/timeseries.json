@@ -5730,12 +5730,14 @@
     },
     "2020-06-08": {
       "delta": {
+        "confirmed": 37,
+        "recovered": 25,
         "tested": 4021
       },
       "total": {
-        "confirmed": 1073,
+        "confirmed": 1110,
         "deceased": 4,
-        "recovered": 266,
+        "recovered": 291,
         "tested": 96963
       }
     }
@@ -11296,13 +11298,13 @@
     },
     "2020-06-08": {
       "delta": {
-        "confirmed": 407,
+        "confirmed": 406,
         "deceased": 11,
         "recovered": 226,
         "tested": 4498
       },
       "total": {
-        "confirmed": 4855,
+        "confirmed": 4854,
         "deceased": 39,
         "recovered": 1700,
         "tested": 150220
@@ -18000,11 +18002,14 @@
       }
     },
     "2020-06-08": {
+      "delta": {
+        "tested": 680
+      },
       "total": {
         "confirmed": 36,
         "deceased": 1,
         "recovered": 13,
-        "tested": 10066
+        "tested": 10746
       }
     }
   },
@@ -20317,12 +20322,13 @@
     },
     "2020-06-08": {
       "delta": {
-        "confirmed": 8
+        "confirmed": 8,
+        "tested": 244
       },
       "total": {
         "confirmed": 42,
         "recovered": 1,
-        "tested": 2252
+        "tested": 2496
       }
     }
   },
@@ -23618,12 +23624,13 @@
     "2020-06-08": {
       "delta": {
         "confirmed": 9,
-        "recovered": 4
+        "recovered": 4,
+        "tested": 198
       },
       "total": {
         "confirmed": 128,
         "recovered": 53,
-        "tested": 8274
+        "tested": 8472
       }
     }
   },
@@ -29240,17 +29247,17 @@
     },
     "2020-06-08": {
       "delta": {
-        "confirmed": 8256,
+        "confirmed": 8292,
         "deceased": 266,
         "migrated": 2,
-        "recovered": 5046,
+        "recovered": 5071,
         "tested": 108048
       },
       "total": {
-        "confirmed": 265740,
+        "confirmed": 265776,
         "deceased": 7473,
         "migrated": 15,
-        "recovered": 128894,
+        "recovered": 128919,
         "tested": 4774434
       }
     }
