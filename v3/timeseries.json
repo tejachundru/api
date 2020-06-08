@@ -29120,14 +29120,15 @@
     "2020-06-08": {
       "delta": {
         "confirmed": 600,
-        "recovered": 4
+        "recovered": 4,
+        "tested": 108048
       },
       "total": {
         "confirmed": 258085,
         "deceased": 7207,
         "migrated": 13,
         "recovered": 123852,
-        "tested": 4666386
+        "tested": 4774434
       }
     }
   },
