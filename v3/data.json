@@ -899,7 +899,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T21:51:57+05:30",
+      "last_updated": "2020-06-08T21:53:53+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/PIB_Patna/status/1269960683191443456"
@@ -914,32 +914,30 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 5,
-      "recovered": 1,
+      "confirmed": 6,
       "tested": 73
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 5,
-          "recovered": 1
+          "confirmed": 6
         },
         "total": {
-          "confirmed": 319,
+          "confirmed": 320,
           "deceased": 5,
           "recovered": 274
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:20:53+05:30",
+      "last_updated": "2020-06-08T22:02:53+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
       }
     },
     "total": {
-      "confirmed": 319,
+      "confirmed": 320,
       "deceased": 5,
       "recovered": 274,
       "tested": 5385
@@ -3759,7 +3757,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T21:52:50+05:30",
+      "last_updated": "2020-06-08T22:02:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/healthminmp/status/1269651649427132416/photo/2"
@@ -4829,7 +4827,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T21:51:48+05:30",
+      "last_updated": "2020-06-08T21:53:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/indiacovid/6619"
@@ -5576,21 +5574,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8017,
+      "confirmed": 8018,
       "deceased": 266,
       "migrated": 2,
-      "recovered": 5017,
+      "recovered": 5016,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T21:52:46+05:30",
+      "last_updated": "2020-06-08T22:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 265501,
+      "confirmed": 265502,
       "deceased": 7473,
       "migrated": 15,
       "recovered": 128864,
@@ -5613,7 +5611,8 @@
     "delta": {
       "confirmed": 411,
       "deceased": 8,
-      "recovered": 159
+      "recovered": 159,
+      "tested": 20465
     },
     "districts": {
       "Agra": {
@@ -6333,24 +6332,25 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T21:52:48+05:30",
+      "last_updated": "2020-06-08T22:02:48+05:30",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://t.me/indiacovid/6603?single"
+        "last_updated": "2020-06-08",
+        "source": "https://t.me/indiacovid/6713?single"
       }
     },
     "total": {
       "confirmed": 10947,
       "deceased": 283,
       "recovered": 6344,
-      "tested": 360258
+      "tested": 380723
     }
   },
   "UT": {
     "delta": {
       "confirmed": 56,
       "migrated": 2,
-      "recovered": 186
+      "recovered": 186,
+      "tested": 1967
     },
     "districts": {
       "Almora": {
@@ -6492,8 +6492,8 @@
       "last_updated": "2020-06-08T21:40:54+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://t.me/indiacovid/6554?single"
+        "last_updated": "2020-06-08",
+        "source": "https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf"
       }
     },
     "total": {
@@ -6501,7 +6501,7 @@
       "deceased": 13,
       "migrated": 7,
       "recovered": 714,
-      "tested": 37166
+      "tested": 39133
     }
   },
   "WB": {
@@ -6750,7 +6750,8 @@
     "meta": {
       "last_updated": "2020-06-08T21:40:52+05:30",
       "tested": {
-        "last_updated": "2020-06-08"
+        "last_updated": "2020-06-08",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_8thJune_FINAL.pdf"
       }
     },
     "total": {
