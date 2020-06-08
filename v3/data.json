@@ -207,21 +207,38 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 6
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 35
+          "confirmed": 38
         }
       },
       "East Siang": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Lohit": {
         "total": {
           "confirmed": 2,
           "recovered": 1
+        }
+      },
+      "Lower Dibang Valley": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Namsai": {
@@ -244,6 +261,14 @@
           "confirmed": 1
         }
       },
+      "Tirap": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
       "Upper Siang": {
         "total": {
           "confirmed": 1
@@ -256,14 +281,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T15:21:51+05:30",
+      "last_updated": "2020-06-08T22:12:52+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/356"
       }
     },
     "total": {
-      "confirmed": 51,
+      "confirmed": 57,
       "recovered": 1,
       "tested": 11516
     }
@@ -930,7 +955,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T22:02:53+05:30",
+      "last_updated": "2020-06-08T22:09:52+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
@@ -1604,8 +1629,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 3,
-      "recovered": 4
+      "confirmed": 10,
+      "recovered": 5
     },
     "districts": {
       "Bilaspur": {
@@ -1685,9 +1710,13 @@
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 42,
-          "recovered": 29
+          "confirmed": 49,
+          "recovered": 30
         }
       },
       "Unknown": {
@@ -1697,7 +1726,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:20:52+05:30",
+      "last_updated": "2020-06-08T22:12:50+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-07",
@@ -1705,10 +1734,10 @@
       }
     },
     "total": {
-      "confirmed": 414,
+      "confirmed": 421,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 222,
+      "recovered": 223,
       "tested": 45888
     }
   },
@@ -5509,6 +5538,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 38
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -5535,8 +5567,11 @@
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 38
+        },
         "total": {
-          "confirmed": 292,
+          "confirmed": 330,
           "recovered": 5
         }
       },
@@ -5560,38 +5595,38 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T22:39:51+05:30",
+      "last_updated": "2020-06-08T22:12:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/350"
       }
     },
     "total": {
-      "confirmed": 802,
+      "confirmed": 840,
       "recovered": 192,
       "tested": 35263
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 8018,
+      "confirmed": 8069,
       "deceased": 266,
       "migrated": 2,
-      "recovered": 5016,
+      "recovered": 5017,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T22:02:46+05:30",
+      "last_updated": "2020-06-08T22:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 265502,
+      "confirmed": 265553,
       "deceased": 7473,
       "migrated": 15,
-      "recovered": 128864,
+      "recovered": 128865,
       "tested": 4774434
     }
   },
