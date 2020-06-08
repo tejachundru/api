@@ -971,10 +971,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 124,
+        "active": 5,
         "confirmed": 124,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 119,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1778,14 +1778,14 @@
       },
       "Uttar Bastar Kanker": {
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 13,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "Gaurela Pendra Marwahi": {
@@ -4632,12 +4632,12 @@
       },
       "West Jaintia Hills": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
