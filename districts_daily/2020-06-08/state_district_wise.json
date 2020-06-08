@@ -1538,12 +1538,12 @@
       },
       "Bilaspur": {
         "notes": "",
-        "active": 66,
-        "confirmed": 100,
+        "active": 71,
+        "confirmed": 105,
         "deceased": 1,
         "recovered": 33,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 8
         }
@@ -1598,24 +1598,24 @@
       },
       "Janjgir Champa": {
         "notes": "",
-        "active": 47,
-        "confirmed": 63,
+        "active": 52,
+        "confirmed": 68,
         "deceased": 0,
         "recovered": 16,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jashpur": {
         "notes": "",
-        "active": 70,
-        "confirmed": 78,
+        "active": 71,
+        "confirmed": 79,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 2
         }
@@ -1682,12 +1682,12 @@
       },
       "Mungeli": {
         "notes": "",
-        "active": 44,
-        "confirmed": 97,
+        "active": 53,
+        "confirmed": 106,
         "deceased": 0,
         "recovered": 53,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 1
         }
@@ -1706,38 +1706,38 @@
       },
       "Raigarh": {
         "notes": "",
-        "active": 34,
-        "confirmed": 47,
+        "active": 40,
+        "confirmed": 53,
         "deceased": 0,
         "recovered": 13,
-        "delta": {
-          "confirmed": 1,
-          "deceased": 0,
-          "recovered": 1
-        }
-      },
-      "Raipur": {
-        "notes": "",
-        "active": 78,
-        "confirmed": 89,
-        "deceased": 1,
-        "recovered": 10,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
           "recovered": 1
         }
       },
+      "Raipur": {
+        "notes": "",
+        "active": 79,
+        "confirmed": 90,
+        "deceased": 1,
+        "recovered": 10,
+        "delta": {
+          "confirmed": 8,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
       "Rajnandgaon": {
         "notes": "",
-        "active": 49,
+        "active": 22,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 35,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 34
         }
       },
       "Sukma": {
@@ -1754,24 +1754,24 @@
       },
       "Surajpur": {
         "notes": "",
-        "active": 3,
-        "confirmed": 11,
+        "active": 5,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 1
         }
       },
       "Surguja": {
         "notes": "",
-        "active": 7,
-        "confirmed": 14,
+        "active": 17,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -4853,10 +4853,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 10,
+        "active": 4,
         "confirmed": 31,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 27,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

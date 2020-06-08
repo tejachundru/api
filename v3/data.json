@@ -974,8 +974,8 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 85,
-      "recovered": 42,
+      "confirmed": 124,
+      "recovered": 69,
       "tested": 4021
     },
     "districts": {
@@ -1022,11 +1022,11 @@
       },
       "Bilaspur": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 6,
           "recovered": 8
         },
         "total": {
-          "confirmed": 100,
+          "confirmed": 105,
           "deceased": 1,
           "recovered": 33
         }
@@ -1067,19 +1067,20 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 11
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 68,
           "recovered": 16
         }
       },
       "Jashpur": {
         "delta": {
+          "confirmed": 1,
           "recovered": 2
         },
         "total": {
-          "confirmed": 78,
+          "confirmed": 79,
           "recovered": 8
         }
       },
@@ -1123,11 +1124,11 @@
       },
       "Mungeli": {
         "delta": {
-          "confirmed": 11,
+          "confirmed": 20,
           "recovered": 1
         },
         "total": {
-          "confirmed": 97,
+          "confirmed": 106,
           "recovered": 53
         }
       },
@@ -1141,21 +1142,21 @@
       },
       "Raigarh": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 7,
           "recovered": 1
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 53,
           "recovered": 13
         }
       },
       "Raipur": {
         "delta": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 1
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 90,
           "deceased": 1,
           "recovered": 10
         }
@@ -1163,25 +1164,29 @@
       "Rajnandgaon": {
         "delta": {
           "confirmed": 5,
-          "recovered": 7
+          "recovered": 34
         },
         "total": {
           "confirmed": 57,
-          "recovered": 8
+          "recovered": 35
         }
       },
       "Surajpur": {
         "delta": {
+          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 13,
           "recovered": 8
         }
       },
       "Surguja": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 24,
           "recovered": 7
         }
       },
@@ -1197,16 +1202,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:04:51+05:30",
+      "last_updated": "2020-06-08T23:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
       }
     },
     "total": {
-      "confirmed": 1158,
+      "confirmed": 1197,
       "deceased": 4,
-      "recovered": 308,
+      "recovered": 335,
       "tested": 96963
     }
   },
@@ -3395,7 +3400,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:22:48+05:30",
+      "last_updated": "2020-06-08T23:33:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/Maha_MEDD/status/1269867590207356928?s=19"
@@ -3471,7 +3476,8 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 100
+      "confirmed": 100,
+      "recovered": 6
     },
     "districts": {
       "Bishnupur": {
@@ -3589,14 +3595,17 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 31,
-          "recovered": 21
+          "recovered": 27
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:05:13+05:30",
+      "last_updated": "2020-06-08T23:34:51+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
@@ -3604,7 +3613,7 @@
     },
     "total": {
       "confirmed": 272,
-      "recovered": 52,
+      "recovered": 58,
       "tested": 17028
     }
   },
@@ -5896,24 +5905,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8344,
+      "confirmed": 8383,
       "deceased": 266,
       "migrated": 2,
-      "recovered": 5207,
+      "recovered": 5240,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T23:22:46+05:30",
+      "last_updated": "2020-06-08T23:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 265828,
+      "confirmed": 265867,
       "deceased": 7473,
       "migrated": 15,
-      "recovered": 129055,
+      "recovered": 129088,
       "tested": 4774434
     }
   },
