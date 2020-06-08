@@ -3068,10 +3068,16 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 22,
           "recovered": 8
         }
       },
@@ -3081,8 +3087,11 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 8
         }
       },
       "Mon": {
@@ -3112,14 +3121,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T00:24:48+05:30",
+      "last_updated": "2020-06-08T10:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/MyGovNagaland/status/1269620079034945544/photo/1"
       }
     },
     "total": {
-      "confirmed": 118,
+      "confirmed": 123,
       "recovered": 8,
       "tested": 4371
     }
@@ -4399,19 +4408,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 600,
+      "confirmed": 605,
       "recovered": 4,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T10:05:46+05:30",
+      "last_updated": "2020-06-08T10:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 258085,
+      "confirmed": 258090,
       "deceased": 7207,
       "migrated": 13,
       "recovered": 123852,
