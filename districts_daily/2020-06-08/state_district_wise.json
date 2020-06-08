@@ -62,13 +62,13 @@
       "Foreign Evacuees": {
         "notes": "",
         "active": 126,
-        "confirmed": 131,
+        "confirmed": 132,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Anantapur": {
@@ -145,14 +145,14 @@
       },
       "Other State": {
         "notes": "",
-        "active": 508,
-        "confirmed": 810,
+        "active": 520,
+        "confirmed": 838,
         "deceased": 0,
-        "recovered": 302,
+        "recovered": 318,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 28,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 16
         }
       },
       "Prakasam": {
@@ -241,10 +241,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -9,
-        "confirmed": 0,
+        "active": 82,
+        "confirmed": 125,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 43,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -971,8 +971,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 150,
-        "confirmed": 150,
+        "active": 124,
+        "confirmed": 124,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -4661,12 +4661,12 @@
     "districtData": {
       "Bishnupur": {
         "notes": "",
-        "active": 3,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4685,12 +4685,12 @@
       },
       "Churachandpur": {
         "notes": "",
-        "active": 26,
-        "confirmed": 29,
+        "active": 38,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -4709,12 +4709,12 @@
       },
       "Imphal West": {
         "notes": "",
-        "active": 33,
-        "confirmed": 38,
+        "active": 35,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -4733,24 +4733,24 @@
       },
       "Kakching": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kamjong": {
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -4817,12 +4817,12 @@
       },
       "Tengnoupal": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4841,12 +4841,12 @@
       },
       "Ukhrul": {
         "notes": "",
-        "active": 8,
-        "confirmed": 10,
+        "active": 9,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
