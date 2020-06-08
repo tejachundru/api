@@ -703,24 +703,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 315,
+          "confirmed": 318,
           "deceased": 5,
           "recovered": 273
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T12:37:51+05:30",
+      "last_updated": "2020-06-08T10:02:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/346"
       }
     },
     "total": {
-      "confirmed": 315,
+      "confirmed": 318,
       "deceased": 5,
       "recovered": 273,
       "tested": 5312
@@ -3049,7 +3055,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T09:48:50+05:30",
+      "last_updated": "2020-06-08T09:54:54+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-662020-500pm-762020-500-pm"
@@ -3515,7 +3521,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T09:52:50+05:30",
+      "last_updated": "2020-06-08T09:59:52+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/indiacovid/6576?single"
@@ -4393,18 +4399,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 596,
+      "confirmed": 600,
       "recovered": 4
     },
     "meta": {
-      "last_updated": "2020-06-08T09:52:46+05:30",
+      "last_updated": "2020-06-08T10:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 258082,
+      "confirmed": 258085,
       "deceased": 7207,
       "migrated": 13,
       "recovered": 123852,
@@ -4416,7 +4422,7 @@
       "confirmed": 579
     },
     "meta": {
-      "last_updated": "2020-06-08T09:52:48+05:30",
+      "last_updated": "2020-06-08T09:59:49+05:30",
       "notes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
     },
     "total": {
