@@ -970,8 +970,8 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 80,
-      "recovered": 25,
+      "confirmed": 85,
+      "recovered": 41,
       "tested": 4021
     },
     "districts": {
@@ -1019,12 +1019,12 @@
       "Bilaspur": {
         "delta": {
           "confirmed": 1,
-          "recovered": 7
+          "recovered": 8
         },
         "total": {
           "confirmed": 100,
           "deceased": 1,
-          "recovered": 32
+          "recovered": 33
         }
       },
       "Dhamtari": {
@@ -1072,11 +1072,10 @@
       },
       "Jashpur": {
         "delta": {
-          "confirmed": 1,
           "recovered": 2
         },
         "total": {
-          "confirmed": 79,
+          "confirmed": 78,
           "recovered": 8
         }
       },
@@ -1092,11 +1091,11 @@
       "Korba": {
         "delta": {
           "confirmed": 17,
-          "recovered": 2
+          "recovered": 4
         },
         "total": {
           "confirmed": 125,
-          "recovered": 36
+          "recovered": 38
         }
       },
       "Koriya": {
@@ -1111,20 +1110,29 @@
       },
       "Mahasamund": {
         "delta": {
-          "recovered": 1
+          "recovered": 5
         },
         "total": {
           "confirmed": 57,
-          "recovered": 1
+          "recovered": 5
         }
       },
       "Mungeli": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 11,
+          "recovered": 1
         },
         "total": {
           "confirmed": 97,
-          "recovered": 52
+          "recovered": 53
+        }
+      },
+      "Other State": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Raigarh": {
@@ -1139,21 +1147,23 @@
       },
       "Raipur": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 1
         },
         "total": {
           "confirmed": 89,
           "deceased": 1,
-          "recovered": 9
+          "recovered": 10
         }
       },
       "Rajnandgaon": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 7
         },
         "total": {
           "confirmed": 57,
-          "recovered": 1
+          "recovered": 8
         }
       },
       "Surajpur": {
@@ -1173,25 +1183,26 @@
       },
       "Uttar Bastar Kanker": {
         "delta": {
+          "confirmed": 5,
           "recovered": 1
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 26,
           "recovered": 12
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T22:34:57+05:30",
+      "last_updated": "2020-06-08T22:42:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
       }
     },
     "total": {
-      "confirmed": 1153,
+      "confirmed": 1158,
       "deceased": 4,
-      "recovered": 291,
+      "recovered": 307,
       "tested": 96963
     }
   },
@@ -1698,7 +1709,8 @@
   "HP": {
     "delta": {
       "confirmed": 10,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 528
     },
     "districts": {
       "Bilaspur": {
@@ -1797,8 +1809,8 @@
       "last_updated": "2020-06-08T22:19:53+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://twitter.com/nhm_hp/status/1269610776970563584?s=19"
+        "last_updated": "2020-06-08",
+        "source": "https://twitter.com/nhm_hp/status/1270024823939518464?s=19"
       }
     },
     "total": {
@@ -1806,7 +1818,7 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 223,
-      "tested": 45888
+      "tested": 46416
     }
   },
   "HR": {
@@ -2042,7 +2054,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T22:31:49+05:30",
+      "last_updated": "2020-06-08T22:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Media%20Bulleitin%2008-06-20.pdf"
@@ -2287,7 +2299,8 @@
     "delta": {
       "confirmed": 198,
       "deceased": 4,
-      "recovered": 108
+      "recovered": 108,
+      "tested": 9425
     },
     "districts": {
       "Anantnag": {
@@ -2492,15 +2505,15 @@
     "meta": {
       "last_updated": "2020-06-08T21:00:55+05:30",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://twitter.com/diprjk/status/1269649914079870976"
+        "last_updated": "2020-06-08",
+        "source": "https://twitter.com/diprjk/status/1270009117193768960?s=19"
       }
     },
     "total": {
       "confirmed": 4285,
       "deceased": 45,
       "recovered": 1324,
-      "tested": 218481
+      "tested": 227906
     }
   },
   "KA": {
@@ -5755,24 +5768,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8335,
+      "confirmed": 8340,
       "deceased": 266,
       "migrated": 2,
-      "recovered": 5071,
+      "recovered": 5087,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T22:34:49+05:30",
+      "last_updated": "2020-06-08T22:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 265819,
+      "confirmed": 265824,
       "deceased": 7473,
       "migrated": 15,
-      "recovered": 128919,
+      "recovered": 128935,
       "tested": 4774434
     }
   },

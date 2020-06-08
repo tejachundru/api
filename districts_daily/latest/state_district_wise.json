@@ -1538,14 +1538,14 @@
       },
       "Bilaspur": {
         "notes": "",
-        "active": 67,
+        "active": 66,
         "confirmed": 100,
         "deceased": 1,
-        "recovered": 32,
+        "recovered": 33,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 8
         }
       },
       "Dakshin Bastar Dantewada": {
@@ -1610,12 +1610,12 @@
       },
       "Jashpur": {
         "notes": "",
-        "active": 71,
-        "confirmed": 79,
+        "active": 70,
+        "confirmed": 78,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 2
         }
@@ -1646,14 +1646,14 @@
       },
       "Korba": {
         "notes": "",
-        "active": 89,
+        "active": 87,
         "confirmed": 125,
         "deceased": 0,
-        "recovered": 36,
+        "recovered": 38,
         "delta": {
           "confirmed": 17,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "Koriya": {
@@ -1670,26 +1670,26 @@
       },
       "Mahasamund": {
         "notes": "",
-        "active": 56,
+        "active": 52,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 5
         }
       },
       "Mungeli": {
         "notes": "",
-        "active": 45,
+        "active": 44,
         "confirmed": 97,
         "deceased": 0,
-        "recovered": 52,
+        "recovered": 53,
         "delta": {
           "confirmed": 11,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Narayanpur": {
@@ -1718,26 +1718,26 @@
       },
       "Raipur": {
         "notes": "",
-        "active": 79,
+        "active": 78,
         "confirmed": 89,
         "deceased": 1,
-        "recovered": 9,
+        "recovered": 10,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Rajnandgaon": {
         "notes": "",
-        "active": 56,
+        "active": 49,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 8,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Sukma": {
@@ -1778,12 +1778,12 @@
       },
       "Uttar Bastar Kanker": {
         "notes": "",
-        "active": 9,
-        "confirmed": 21,
+        "active": 14,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 1
         }
@@ -1798,6 +1798,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 3
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     },
