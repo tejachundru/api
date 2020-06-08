@@ -906,31 +906,31 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 4,
+      "confirmed": 5,
       "recovered": 1
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 1
         },
         "total": {
-          "confirmed": 318,
+          "confirmed": 319,
           "deceased": 5,
           "recovered": 274
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T17:03:49+05:30",
+      "last_updated": "2020-06-08T19:12:52+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/346"
       }
     },
     "total": {
-      "confirmed": 318,
+      "confirmed": 319,
       "deceased": 5,
       "recovered": 274,
       "tested": 5312
@@ -1477,7 +1477,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "recovered": 4
     },
     "districts": {
       "Bilaspur": {
@@ -1489,14 +1490,17 @@
       "Chamba": {
         "total": {
           "confirmed": 32,
-          "recovered": 19
+          "recovered": 18
         }
       },
       "Hamirpur": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 123,
           "deceased": 1,
-          "recovered": 67
+          "recovered": 68
         }
       },
       "Kangra": {
@@ -1533,22 +1537,24 @@
       },
       "Sirmaur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 12,
-          "recovered": 3
+          "recovered": 4
         }
       },
       "Solan": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 2
         },
         "total": {
           "confirmed": 34,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 12
+          "recovered": 14
         }
       },
       "Una": {
@@ -1564,7 +1570,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:00:52+05:30",
+      "last_updated": "2020-06-08T19:12:51+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-07",
@@ -1575,7 +1581,7 @@
       "confirmed": 414,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 219,
+      "recovered": 222,
       "tested": 45888
     }
   },
@@ -2369,7 +2375,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:02:48+05:30",
+      "last_updated": "2020-06-08T19:07:49+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-07",
@@ -4583,6 +4589,7 @@
   "TN": {
     "delta": {
       "confirmed": 1562,
+      "deceased": 17,
       "recovered": 528
     },
     "districts": {
@@ -4621,11 +4628,12 @@
       "Chennai": {
         "delta": {
           "confirmed": 1149,
+          "deceased": 12,
           "recovered": 302
         },
         "total": {
           "confirmed": 23298,
-          "deceased": 213,
+          "deceased": 225,
           "recovered": 11256
         }
       },
@@ -4692,11 +4700,12 @@
       "Kancheepuram": {
         "delta": {
           "confirmed": 18,
+          "deceased": 1,
           "recovered": 5
         },
         "total": {
           "confirmed": 534,
-          "deceased": 3,
+          "deceased": 4,
           "recovered": 321
         }
       },
@@ -4803,10 +4812,12 @@
       },
       "Ranipet": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "deceased": 1
         },
         "total": {
           "confirmed": 136,
+          "deceased": 1,
           "recovered": 94
         }
       },
@@ -4863,11 +4874,12 @@
       "Thiruvallur": {
         "delta": {
           "confirmed": 57,
+          "deceased": 2,
           "recovered": 50
         },
         "total": {
           "confirmed": 1386,
-          "deceased": 12,
+          "deceased": 14,
           "recovered": 732
         }
       },
@@ -4949,11 +4961,12 @@
       "Viluppuram": {
         "delta": {
           "confirmed": 4,
+          "deceased": 1,
           "recovered": 2
         },
         "total": {
           "confirmed": 384,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 327
         }
       },
@@ -4969,7 +4982,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:00:47+05:30",
+      "last_updated": "2020-06-08T19:12:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-07",
@@ -4978,7 +4991,7 @@
     },
     "total": {
       "confirmed": 33229,
-      "deceased": 272,
+      "deceased": 289,
       "recovered": 17527,
       "tested": 592970
     }
@@ -5049,24 +5062,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2010,
-      "deceased": 6,
+      "confirmed": 2011,
+      "deceased": 23,
       "migrated": 2,
-      "recovered": 1447,
+      "recovered": 1451,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T19:02:46+05:30",
+      "last_updated": "2020-06-08T19:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 259496,
-      "deceased": 7213,
+      "confirmed": 259497,
+      "deceased": 7230,
       "migrated": 15,
-      "recovered": 125295,
+      "recovered": 125298,
       "tested": 4774434
     }
   },
