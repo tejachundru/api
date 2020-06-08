@@ -575,12 +575,12 @@
       },
       "Barpeta": {
         "notes": "",
-        "active": 40,
-        "confirmed": 80,
+        "active": 45,
+        "confirmed": 85,
         "deceased": 0,
         "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -863,12 +863,12 @@
       },
       "Nagaon": {
         "notes": "",
-        "active": 85,
-        "confirmed": 107,
+        "active": 92,
+        "confirmed": 114,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -2571,12 +2571,12 @@
       },
       "Solan": {
         "notes": "",
-        "active": 16,
-        "confirmed": 32,
+        "active": 18,
+        "confirmed": 34,
         "deceased": 1,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
