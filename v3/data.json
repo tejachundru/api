@@ -212,7 +212,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 12
+      "confirmed": 38
     },
     "districts": {
       "Airport Quarantine": {
@@ -232,6 +232,14 @@
         "total": {
           "confirmed": 85,
           "recovered": 40
+        }
+      },
+      "Bishnupur": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Biswanath": {
@@ -260,6 +268,14 @@
       "Chirang": {
         "total": {
           "confirmed": 33
+        }
+      },
+      "Churachandpur": {
+        "delta": {
+          "confirmed": 12
+        },
+        "total": {
+          "confirmed": 12
         }
       },
       "Darrang": {
@@ -315,10 +331,34 @@
           "confirmed": 237
         }
       },
+      "Imphal West": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Jorhat": {
         "total": {
           "confirmed": 27,
           "recovered": 28
+        }
+      },
+      "Kakching": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
+      "Kamjong": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 5
         }
       },
       "Kamrup": {
@@ -406,6 +446,14 @@
           "recovered": 1
         }
       },
+      "Tengnoupal": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
+        }
+      },
       "Tinsukia": {
         "total": {
           "confirmed": 68
@@ -415,6 +463,14 @@
         "total": {
           "confirmed": 65,
           "recovered": 2
+        }
+      },
+      "Ukhrul": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Unknown": {
@@ -430,7 +486,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T12:38:49+05:30",
+      "last_updated": "2020-06-08T14:34:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -438,7 +494,7 @@
       }
     },
     "total": {
-      "confirmed": 2694,
+      "confirmed": 2720,
       "deceased": 4,
       "migrated": 3,
       "recovered": 637,
@@ -2619,6 +2675,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 11
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -2644,8 +2703,11 @@
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 38,
           "recovered": 5
         }
       },
@@ -2712,14 +2774,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T13:33:48+05:30",
+      "last_updated": "2020-06-08T14:34:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
       }
     },
     "total": {
-      "confirmed": 172,
+      "confirmed": 183,
       "recovered": 52,
       "tested": 17028
     }
@@ -4587,20 +4649,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -393,
+      "confirmed": -356,
       "deceased": 1,
       "recovered": 64,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T14:03:46+05:30",
+      "last_updated": "2020-06-08T14:34:45+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 257092,
+      "confirmed": 257129,
       "deceased": 7208,
       "migrated": 13,
       "recovered": 123912,
