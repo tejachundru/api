@@ -2185,27 +2185,14 @@
       {
         "district": "South Goa",
         "notes": "",
-        "active": 294,
-        "confirmed": 309,
+        "active": 263,
+        "confirmed": 324,
         "deceased": 0,
-        "recovered": 15,
+        "recovered": 61,
         "delta": {
-          "confirmed": 30,
+          "confirmed": 45,
           "deceased": 0,
-          "recovered": 2
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -31,
-        "confirmed": 15,
-        "deceased": 0,
-        "recovered": 46,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 48
         }
       }
     ]

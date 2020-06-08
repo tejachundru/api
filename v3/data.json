@@ -1219,18 +1219,18 @@
       },
       "South Goa": {
         "delta": {
-          "confirmed": 30,
-          "recovered": 2
+          "confirmed": 45,
+          "recovered": 48
         },
         "total": {
-          "confirmed": 309,
-          "recovered": 15
+          "confirmed": 324,
+          "recovered": 61
         }
       },
       "Unknown": {
-        "total": {
-          "confirmed": 15,
-          "recovered": 46
+        "delta": {
+          "confirmed": -15,
+          "recovered": -46
         }
       }
     },
@@ -4628,7 +4628,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T21:02:48+05:30",
+      "last_updated": "2020-06-08T21:10:47+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/indiacovid/6619"
@@ -5382,7 +5382,7 @@
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T21:02:46+05:30",
+      "last_updated": "2020-06-08T21:10:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
