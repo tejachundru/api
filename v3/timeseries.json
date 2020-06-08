@@ -5727,13 +5727,13 @@
     },
     "2020-06-08": {
       "delta": {
-        "tested": -344
+        "tested": 4021
       },
       "total": {
         "confirmed": 1073,
         "deceased": 4,
         "recovered": 266,
-        "tested": 92598
+        "tested": 96963
       }
     }
   },
@@ -11295,13 +11295,14 @@
       "delta": {
         "confirmed": 407,
         "deceased": 11,
-        "recovered": 226
+        "recovered": 226,
+        "tested": 4498
       },
       "total": {
         "confirmed": 4855,
         "deceased": 39,
         "recovered": 1700,
-        "tested": 145722
+        "tested": 150220
       }
     }
   },
@@ -19675,12 +19676,14 @@
     },
     "2020-06-08": {
       "delta": {
-        "confirmed": 237
+        "confirmed": 237,
+        "deceased": 2,
+        "recovered": 205
       },
       "total": {
         "confirmed": 9638,
-        "deceased": 412,
-        "recovered": 6331,
+        "deceased": 414,
+        "recovered": 6536,
         "tested": 208514
       }
     }
@@ -29220,17 +29223,17 @@
     },
     "2020-06-08": {
       "delta": {
-        "confirmed": 7606,
-        "deceased": 256,
+        "confirmed": 8017,
+        "deceased": 266,
         "migrated": 2,
-        "recovered": 4653,
+        "recovered": 5017,
         "tested": 108048
       },
       "total": {
-        "confirmed": 265090,
-        "deceased": 7463,
+        "confirmed": 265501,
+        "deceased": 7473,
         "migrated": 15,
-        "recovered": 128500,
+        "recovered": 128864,
         "tested": 4774434
       }
     }
@@ -30532,10 +30535,15 @@
       }
     },
     "2020-06-08": {
+      "delta": {
+        "confirmed": 411,
+        "deceased": 8,
+        "recovered": 159
+      },
       "total": {
-        "confirmed": 10536,
-        "deceased": 275,
-        "recovered": 6185,
+        "confirmed": 10947,
+        "deceased": 283,
+        "recovered": 6344,
         "tested": 360258
       }
     }
@@ -32514,13 +32522,14 @@
       "delta": {
         "confirmed": 426,
         "deceased": 9,
-        "recovered": 162
+        "recovered": 162,
+        "tested": 9024
       },
       "total": {
         "confirmed": 8613,
         "deceased": 405,
         "recovered": 3465,
-        "tested": 271074
+        "tested": 280098
       }
     }
   }
