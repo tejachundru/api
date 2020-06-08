@@ -4504,6 +4504,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 783,
+        "confirmed": 2553,
+        "deceased": 109,
+        "recovered": 1661,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MH"

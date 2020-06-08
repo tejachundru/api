@@ -2688,6 +2688,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 2553,
+      "deceased": 109,
+      "recovered": 1661,
       "tested": 12227
     },
     "districts": {
@@ -2915,6 +2918,18 @@
           "recovered": 4836
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 2553,
+          "deceased": 109,
+          "recovered": 1661
+        },
+        "total": {
+          "confirmed": 2553,
+          "deceased": 109,
+          "recovered": 1661
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 11,
@@ -2938,16 +2953,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T19:53:47+05:30",
+      "last_updated": "2020-06-08T20:12:47+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/Maha_MEDD/status/1269867590207356928?s=19"
       }
     },
     "total": {
-      "confirmed": 85975,
-      "deceased": 3060,
-      "recovered": 39314,
+      "confirmed": 88528,
+      "deceased": 3169,
+      "recovered": 40975,
       "tested": 565290
     }
   },
@@ -3132,7 +3147,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:59:50+05:30",
+      "last_updated": "2020-06-08T20:05:13+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
@@ -5232,24 +5247,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2607,
-      "deceased": 56,
+      "confirmed": 5160,
+      "deceased": 165,
       "migrated": 2,
-      "recovered": 1794,
+      "recovered": 3455,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T19:59:46+05:30",
+      "last_updated": "2020-06-08T20:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 260093,
-      "deceased": 7263,
+      "confirmed": 262646,
+      "deceased": 7372,
       "migrated": 15,
-      "recovered": 125641,
+      "recovered": 127302,
       "tested": 4774434
     }
   },
