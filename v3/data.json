@@ -545,7 +545,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:02:50+05:30",
+      "last_updated": "2020-06-08T23:04:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -1197,7 +1197,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:02:52+05:30",
+      "last_updated": "2020-06-08T23:04:51+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
@@ -3338,7 +3338,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:02:55+05:30",
+      "last_updated": "2020-06-08T23:04:54+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/363"
@@ -4030,7 +4030,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "tested": 348
     },
     "districts": {
       "Dimapur": {
@@ -4098,14 +4099,13 @@
     "meta": {
       "last_updated": "2020-06-08T21:01:01+05:30",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://twitter.com/MyGovNagaland/status/1269620079034945544/photo/1"
+        "last_updated": "2020-06-08"
       }
     },
     "total": {
       "confirmed": 122,
       "recovered": 8,
-      "tested": 4371
+      "tested": 4719
     }
   },
   "OR": {
@@ -5784,7 +5784,7 @@
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T23:02:46+05:30",
+      "last_updated": "2020-06-08T23:04:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
