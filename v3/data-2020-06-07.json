@@ -205,16 +205,16 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 2,
+      "confirmed": 3,
       "tested": 255
     },
     "districts": {
       "Changlang": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 34
+          "confirmed": 35
         }
       },
       "East Siang": {
@@ -266,7 +266,7 @@
       }
     },
     "total": {
-      "confirmed": 50,
+      "confirmed": 51,
       "recovered": 1,
       "tested": 11516
     }
@@ -5852,7 +5852,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10883,
+      "confirmed": 10884,
       "deceased": 261,
       "recovered": 5191,
       "tested": 142069
@@ -5864,7 +5864,7 @@
       }
     },
     "total": {
-      "confirmed": 257485,
+      "confirmed": 257486,
       "deceased": 7207,
       "migrated": 13,
       "recovered": 123848,
