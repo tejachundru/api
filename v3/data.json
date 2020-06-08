@@ -797,22 +797,24 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "recovered": 1
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         },
         "total": {
           "confirmed": 318,
           "deceased": 5,
-          "recovered": 273
+          "recovered": 274
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T10:05:51+05:30",
+      "last_updated": "2020-06-08T16:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/346"
@@ -821,7 +823,7 @@
     "total": {
       "confirmed": 318,
       "deceased": 5,
-      "recovered": 273,
+      "recovered": 274,
       "tested": 5312
     }
   },
@@ -4696,11 +4698,11 @@
       "confirmed": -35,
       "deceased": 1,
       "migrated": 2,
-      "recovered": 354,
+      "recovered": 355,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T16:10:46+05:30",
+      "last_updated": "2020-06-08T16:52:45+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
@@ -4710,7 +4712,7 @@
       "confirmed": 257451,
       "deceased": 7208,
       "migrated": 15,
-      "recovered": 124202,
+      "recovered": 124203,
       "tested": 4774434
     }
   },
