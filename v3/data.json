@@ -35,24 +35,34 @@
     },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 288,
+          "confirmed": 306,
           "deceased": 4,
           "recovered": 173
         }
       },
       "Chittoor": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 299,
+          "confirmed": 303,
           "deceased": 4,
           "recovered": 213
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 275,
+          "confirmed": 281,
           "deceased": 2,
-          "recovered": 109
+          "recovered": 114
         }
       },
       "Foreign Evacuees": {
@@ -66,24 +76,36 @@
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 558,
+          "confirmed": 566,
           "deceased": 9,
-          "recovered": 390
+          "recovered": 393
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 19,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 551,
+          "confirmed": 570,
           "deceased": 23,
-          "recovered": 342
+          "recovered": 353
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 772,
+          "confirmed": 776,
           "deceased": 28,
-          "recovered": 598
+          "recovered": 603
         }
       },
       "Other State": {
@@ -97,62 +119,80 @@
         }
       },
       "Prakasam": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 85,
-          "recovered": 67
+          "confirmed": 86,
+          "recovered": 69
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 17
+        },
         "total": {
-          "confirmed": 335,
+          "confirmed": 352,
           "deceased": 4,
           "recovered": 188
         }
       },
       "Srikakulam": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 32,
+          "confirmed": 33,
           "recovered": 11
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 125,
-          "recovered": 34
-        },
         "total": {
-          "confirmed": 125,
-          "recovered": 43
+          "recovered": 9
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 15,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 128,
+          "confirmed": 143,
           "deceased": 1,
-          "recovered": 75
+          "recovered": 83
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 45,
           "recovered": 13
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 21
+        },
         "total": {
-          "confirmed": 188,
+          "confirmed": 209,
           "recovered": 60
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 164,
+          "confirmed": 173,
           "recovered": 114
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T14:56:48+05:30",
+      "last_updated": "2020-06-08T17:28:49+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-08",
@@ -461,7 +501,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T17:22:48+05:30",
+      "last_updated": "2020-06-08T17:30:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -4715,7 +4755,7 @@
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T17:22:46+05:30",
+      "last_updated": "2020-06-08T17:30:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
