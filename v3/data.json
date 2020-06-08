@@ -1556,9 +1556,10 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:42:48+05:30",
+      "last_updated": "2020-06-08T19:48:49+05:30",
       "tested": {
-        "last_updated": "2020-06-08"
+        "last_updated": "2020-06-08",
+        "source": "https://twitter.com/GujHFWDept/status/1269993110874083336"
       }
     },
     "total": {
@@ -3006,7 +3007,7 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 37
+      "confirmed": 100
     },
     "districts": {
       "Bishnupur": {
@@ -3115,21 +3116,24 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 63
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 94,
           "recovered": 21
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T14:56:50+05:30",
+      "last_updated": "2020-06-08T19:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
       }
     },
     "total": {
-      "confirmed": 209,
+      "confirmed": 272,
       "recovered": 52,
       "tested": 17028
     }
@@ -3624,7 +3628,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:41:51+05:30",
+      "last_updated": "2020-06-08T19:44:51+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/MyGovNagaland/status/1269620079034945544/photo/1"
@@ -5222,21 +5226,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2544,
+      "confirmed": 2607,
       "deceased": 56,
       "migrated": 2,
       "recovered": 1794,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T19:42:46+05:30",
+      "last_updated": "2020-06-08T19:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 260030,
+      "confirmed": 260093,
       "deceased": 7263,
       "migrated": 15,
       "recovered": 125641,
