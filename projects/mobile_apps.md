@@ -21,3 +21,5 @@
 - [Covid-19 India Android App](https://tinyurl.com/covid19indiask) (by Sachin K [@sachinkcrp](https://github.com/sachinkcrp))
 
 - [COVID19 India](https://github.com/iamnishanth/Covid19India) (by Nishanth [@iamNishanth](https://github.com/iamnishanth))
+
+- [C-Meter India](https://drive.google.com/open?id=13F6h7XeTkcMBoSPbzoAg-xnZXqCohFOx) (by Niranj Patel [@CapDroid](https://github.com/CapDroid))
