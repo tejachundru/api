@@ -4101,7 +4101,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 11,
+      "confirmed": 9,
       "tested": 310
     },
     "districts": {
@@ -4120,8 +4120,11 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 3
         }
       },
       "Mon": {
@@ -4157,7 +4160,7 @@
       }
     },
     "total": {
-      "confirmed": 118,
+      "confirmed": 116,
       "recovered": 8,
       "tested": 4371
     }
@@ -5852,7 +5855,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10884,
+      "confirmed": 10882,
       "deceased": 261,
       "recovered": 5190,
       "tested": 142069
@@ -5864,7 +5867,7 @@
       }
     },
     "total": {
-      "confirmed": 257486,
+      "confirmed": 257484,
       "deceased": 7207,
       "migrated": 13,
       "recovered": 123847,
