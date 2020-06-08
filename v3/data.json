@@ -516,7 +516,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T18:12:50+05:30",
+      "last_updated": "2020-06-08T18:19:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -533,17 +533,20 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 105
+      "confirmed": 105,
+      "deceased": 1,
+      "recovered": 137
     },
     "districts": {
       "Araria": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 1
         },
         "total": {
           "confirmed": 78,
           "deceased": 1,
-          "recovered": 28
+          "recovered": 29
         }
       },
       "Arwal": {
@@ -556,9 +559,12 @@
         }
       },
       "Aurangabad": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 85,
-          "recovered": 46
+          "recovered": 53
         }
       },
       "Banka": {
@@ -575,10 +581,13 @@
         }
       },
       "Bhagalpur": {
+        "delta": {
+          "recovered": 44
+        },
         "total": {
           "confirmed": 245,
           "deceased": 1,
-          "recovered": 85
+          "recovered": 129
         }
       },
       "Bhojpur": {
@@ -601,8 +610,12 @@
         }
       },
       "Darbhanga": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 130,
+          "deceased": 1,
           "recovered": 54
         }
       },
@@ -624,31 +637,41 @@
       },
       "Gopalganj": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 1
         },
         "total": {
           "confirmed": 136,
-          "recovered": 74
+          "recovered": 75
         }
       },
       "Jamui": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 46,
           "deceased": 1,
-          "recovered": 19
+          "recovered": 23
         }
       },
       "Jehanabad": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 178,
           "deceased": 1,
-          "recovered": 122
+          "recovered": 123
         }
       },
       "Kaimur": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 102,
-          "recovered": 51
+          "recovered": 56
         }
       },
       "Katihar": {
@@ -661,10 +684,13 @@
         }
       },
       "Khagaria": {
+        "delta": {
+          "recovered": 19
+        },
         "total": {
           "confirmed": 279,
           "deceased": 3,
-          "recovered": 91
+          "recovered": 110
         }
       },
       "Kishanganj": {
@@ -677,9 +703,12 @@
         }
       },
       "Lakhisarai": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 67,
-          "recovered": 21
+          "recovered": 30
         }
       },
       "Madhepura": {
@@ -713,12 +742,13 @@
       },
       "Muzaffarpur": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 4
         },
         "total": {
           "confirmed": 112,
           "deceased": 1,
-          "recovered": 31
+          "recovered": 35
         }
       },
       "Nalanda": {
@@ -729,20 +759,24 @@
         }
       },
       "Nawada": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 139,
           "deceased": 1,
-          "recovered": 49
+          "recovered": 58
         }
       },
       "Patna": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 8
         },
         "total": {
           "confirmed": 280,
           "deceased": 2,
-          "recovered": 187
+          "recovered": 195
         }
       },
       "Purnia": {
@@ -753,12 +787,13 @@
       },
       "Rohtas": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         },
         "total": {
           "confirmed": 238,
           "deceased": 1,
-          "recovered": 185
+          "recovered": 186
         }
       },
       "Saharsa": {
@@ -772,19 +807,23 @@
       },
       "Samastipur": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 9
         },
         "total": {
           "confirmed": 133,
           "deceased": 1,
-          "recovered": 54
+          "recovered": 63
         }
       },
       "Saran": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 103,
           "deceased": 1,
-          "recovered": 36
+          "recovered": 45
         }
       },
       "Sheikhpura": {
@@ -812,12 +851,13 @@
       },
       "Siwan": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 11,
+          "recovered": 6
         },
         "total": {
           "confirmed": 140,
           "deceased": 2,
-          "recovered": 52
+          "recovered": 58
         }
       },
       "Supaul": {
@@ -850,7 +890,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T14:03:48+05:30",
+      "last_updated": "2020-06-08T18:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/PIB_Patna/status/1269589508980432910"
@@ -858,8 +898,8 @@
     },
     "total": {
       "confirmed": 5175,
-      "deceased": 30,
-      "recovered": 2405,
+      "deceased": 31,
+      "recovered": 2542,
       "tested": 99108
     }
   },
@@ -2425,7 +2465,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T18:12:52+05:30",
+      "last_updated": "2020-06-08T18:19:51+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-07",
@@ -4813,13 +4853,13 @@
   "TT": {
     "delta": {
       "confirmed": 139,
-      "deceased": 2,
+      "deceased": 3,
       "migrated": 2,
-      "recovered": 395,
+      "recovered": 532,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T18:12:46+05:30",
+      "last_updated": "2020-06-08T18:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
@@ -4827,9 +4867,9 @@
     },
     "total": {
       "confirmed": 257625,
-      "deceased": 7209,
+      "deceased": 7210,
       "migrated": 15,
-      "recovered": 124243,
+      "recovered": 124380,
       "tested": 4774434
     }
   },
