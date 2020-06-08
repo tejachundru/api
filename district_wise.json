@@ -1,11 +1,11 @@
 {
 	"districts": [
 		{
-			"active": "8250",
-			"confirmed": "8250",
+			"active": "8829",
+			"confirmed": "8829",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "579",
+			"deltaconfirmed": "579",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unassigned",
@@ -9325,11 +9325,11 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "0",
-			"confirmed": "4",
+			"active": "1",
+			"confirmed": "5",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Mahe",
@@ -9343,19 +9343,19 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "70",
-			"confirmed": "113",
+			"active": "74",
+			"confirmed": "121",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"district": "Puducherry",
 			"districtkey": "PY_Puducherry",
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "43",
+			"recovered": "47",
 			"slno": "483",
 			"state": "Puducherry",
 			"statecode": "PY"

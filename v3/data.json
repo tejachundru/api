@@ -3049,7 +3049,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T09:42:48+05:30",
+      "last_updated": "2020-06-08T09:48:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-662020-500pm-762020-500-pm"
@@ -3483,6 +3483,10 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 9,
+      "recovered": 4
+    },
     "districts": {
       "Karaikal": {
         "total": {
@@ -3491,28 +3495,35 @@
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 4
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 113,
-          "recovered": 43
+          "confirmed": 121,
+          "recovered": 47
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-07T17:33:49+05:30",
+      "last_updated": "2020-06-08T09:52:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/indiacovid/6576?single"
       }
     },
     "total": {
-      "confirmed": 119,
-      "recovered": 49,
+      "confirmed": 128,
+      "recovered": 53,
       "tested": 8274
     }
   },
@@ -4382,30 +4393,34 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8
+      "confirmed": 596,
+      "recovered": 4
     },
     "meta": {
-      "last_updated": "2020-06-08T09:42:46+05:30",
+      "last_updated": "2020-06-08T09:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
       }
     },
     "total": {
-      "confirmed": 257494,
+      "confirmed": 258082,
       "deceased": 7207,
       "migrated": 13,
-      "recovered": 123848,
+      "recovered": 123852,
       "tested": 4666386
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 579
+    },
     "meta": {
-      "last_updated": "2020-06-07T09:44:48+05:30",
+      "last_updated": "2020-06-08T09:52:48+05:30",
       "notes": "MoHFW website reports that these are the \"cases that are being reassigned to states\""
     },
     "total": {
-      "confirmed": 8610
+      "confirmed": 9189
     }
   },
   "UP": {
