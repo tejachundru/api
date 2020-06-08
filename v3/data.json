@@ -270,7 +270,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 12,
+      "confirmed": 95,
       "recovered": 29
     },
     "districts": {
@@ -294,8 +294,11 @@
         }
       },
       "Biswanath": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 46,
           "recovered": 7
         }
       },
@@ -307,10 +310,11 @@
       },
       "Cachar": {
         "delta": {
+          "confirmed": 7,
           "recovered": 4
         },
         "total": {
-          "confirmed": 82,
+          "confirmed": 89,
           "recovered": 82
         }
       },
@@ -325,16 +329,20 @@
         }
       },
       "Darrang": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 65
+          "confirmed": 75
         }
       },
       "Dhemaji": {
         "delta": {
+          "confirmed": 1,
           "recovered": 1
         },
         "total": {
-          "confirmed": 50,
+          "confirmed": 51,
           "recovered": 6
         }
       },
@@ -387,17 +395,21 @@
         }
       },
       "Kamrup": {
+        "delta": {
+          "confirmed": 26
+        },
         "total": {
-          "confirmed": 120,
+          "confirmed": 146,
           "recovered": 21
         }
       },
       "Kamrup Metropolitan": {
         "delta": {
+          "confirmed": 1,
           "recovered": 21
         },
         "total": {
-          "confirmed": 404,
+          "confirmed": 405,
           "deceased": 3,
           "recovered": 311
         }
@@ -423,8 +435,11 @@
         }
       },
       "Lakhimpur": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 67,
           "recovered": 6
         }
       },
@@ -441,10 +456,10 @@
       },
       "Nagaon": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 37
         },
         "total": {
-          "confirmed": 114,
+          "confirmed": 144,
           "recovered": 22
         }
       },
@@ -501,7 +516,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T17:30:49+05:30",
+      "last_updated": "2020-06-08T18:12:50+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -509,7 +524,7 @@
       }
     },
     "total": {
-      "confirmed": 2694,
+      "confirmed": 2777,
       "deceased": 4,
       "migrated": 3,
       "recovered": 666,
@@ -2259,7 +2274,9 @@
   },
   "KL": {
     "delta": {
-      "confirmed": 91
+      "confirmed": 91,
+      "deceased": 1,
+      "recovered": 11
     },
     "districts": {
       "Alappuzha": {
@@ -2290,21 +2307,23 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 2
         },
         "total": {
           "confirmed": 265,
           "deceased": 2,
-          "recovered": 145
+          "recovered": 147
         }
       },
       "Kasaragod": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 5
         },
         "total": {
           "confirmed": 337,
-          "recovered": 219
+          "recovered": 224
         }
       },
       "Kollam": {
@@ -2354,12 +2373,13 @@
       },
       "Palakkad": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 232,
           "deceased": 1,
-          "recovered": 65
+          "recovered": 67
         }
       },
       "Pathanamthitta": {
@@ -2383,27 +2403,29 @@
       },
       "Thrissur": {
         "delta": {
-          "confirmed": 27
+          "confirmed": 27,
+          "deceased": 1
         },
         "total": {
           "confirmed": 164,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 40
         }
       },
       "Wayanad": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 2
         },
         "total": {
           "confirmed": 44,
           "deceased": 1,
-          "recovered": 23
+          "recovered": 25
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T18:03:48+05:30",
+      "last_updated": "2020-06-08T18:12:52+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-07",
@@ -2412,8 +2434,8 @@
     },
     "total": {
       "confirmed": 2006,
-      "deceased": 16,
-      "recovered": 803,
+      "deceased": 17,
+      "recovered": 814,
       "tested": 111930
     }
   },
@@ -4790,24 +4812,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 56,
-      "deceased": 1,
+      "confirmed": 139,
+      "deceased": 2,
       "migrated": 2,
-      "recovered": 384,
+      "recovered": 395,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T18:03:46+05:30",
+      "last_updated": "2020-06-08T18:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 257542,
-      "deceased": 7208,
+      "confirmed": 257625,
+      "deceased": 7209,
       "migrated": 15,
-      "recovered": 124232,
+      "recovered": 124243,
       "tested": 4774434
     }
   },
