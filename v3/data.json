@@ -3465,15 +3465,15 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 6
     },
     "districts": {
       "Dimapur": {
         "delta": {
-          "confirmed": 2
+          "confirmed": -8
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 12,
           "recovered": 8
         }
       },
@@ -3496,8 +3496,11 @@
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 53
+          "confirmed": 62
         }
       },
       "Phek": {
@@ -3506,25 +3509,36 @@
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 8
         }
       },
       "Wokha": {
         "total": {
           "confirmed": 5
         }
+      },
+      "Zunheboto": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T10:54:48+05:30",
+      "last_updated": "2020-06-08T19:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/MyGovNagaland/status/1269620079034945544/photo/1"
       }
     },
     "total": {
-      "confirmed": 123,
+      "confirmed": 124,
       "recovered": 8,
       "tested": 4371
     }
@@ -4017,7 +4031,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:24:48+05:30",
+      "last_updated": "2020-06-08T19:33:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://t.me/indiacovid/6585"
@@ -5115,21 +5129,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2066,
+      "confirmed": 2067,
       "deceased": 25,
       "migrated": 2,
       "recovered": 1473,
       "tested": 108048
     },
     "meta": {
-      "last_updated": "2020-06-08T19:24:46+05:30",
+      "last_updated": "2020-06-08T19:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 259552,
+      "confirmed": 259553,
       "deceased": 7232,
       "migrated": 15,
       "recovered": 125320,
