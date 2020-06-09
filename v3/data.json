@@ -3146,7 +3146,7 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 85
+      "confirmed": 146
     },
     "districts": {
       "Angul": {
@@ -3382,10 +3382,18 @@
           "confirmed": 118,
           "recovered": 57
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 61
+        },
+        "total": {
+          "confirmed": 61
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T10:42:47+05:30",
+      "last_updated": "2020-06-09T10:52:47+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-08",
@@ -3393,7 +3401,7 @@
       }
     },
     "total": {
-      "confirmed": 3079,
+      "confirmed": 3140,
       "deceased": 11,
       "recovered": 1993,
       "tested": 179415
@@ -4463,19 +4471,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1057,
+      "confirmed": 1118,
       "recovered": 1,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T10:42:46+05:30",
+      "last_updated": "2020-06-09T10:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 266985,
+      "confirmed": 267046,
       "deceased": 7473,
       "migrated": 15,
       "recovered": 129107,
