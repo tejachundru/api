@@ -2672,6 +2672,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2681,6 +2684,14 @@
         }
       },
       "North Garo Hills": {
+        "total": {
+          "confirmed": 1
+        }
+      },
+      "Ribhoi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 1
         }
@@ -2712,14 +2723,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:04:54+05:30",
+      "last_updated": "2020-06-09T17:44:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/363"
       }
     },
     "total": {
-      "confirmed": 39,
+      "confirmed": 40,
       "deceased": 1,
       "recovered": 13,
       "tested": 10746
@@ -4763,20 +4774,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1715,
+      "confirmed": 1716,
       "deceased": 8,
       "recovered": 260,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T17:22:46+05:30",
+      "last_updated": "2020-06-09T17:44:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 267643,
+      "confirmed": 267644,
       "deceased": 7481,
       "migrated": 15,
       "recovered": 129366,
