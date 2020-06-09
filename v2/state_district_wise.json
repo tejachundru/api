@@ -9693,12 +9693,12 @@
       {
         "district": "Almora",
         "notes": "",
-        "active": 10,
-        "confirmed": 73,
+        "active": 11,
+        "confirmed": 74,
         "deceased": 1,
         "recovered": 62,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9706,12 +9706,12 @@
       {
         "district": "Bageshwar",
         "notes": "",
-        "active": 17,
-        "confirmed": 35,
+        "active": 20,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -9719,14 +9719,14 @@
       {
         "district": "Chamoli",
         "notes": "",
-        "active": 18,
+        "active": 11,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 16,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       {
@@ -9745,25 +9745,25 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 250,
-        "confirmed": 375,
+        "active": 230,
+        "confirmed": 382,
         "deceased": 9,
-        "recovered": 112,
+        "recovered": 139,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 27
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 97,
-        "confirmed": 144,
+        "active": 101,
+        "confirmed": 148,
         "deceased": 0,
         "recovered": 45,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -9771,12 +9771,12 @@
       {
         "district": "Nainital",
         "notes": "",
-        "active": 107,
-        "confirmed": 324,
+        "active": 111,
+        "confirmed": 328,
         "deceased": 1,
         "recovered": 216,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -9784,12 +9784,12 @@
       {
         "district": "Pauri Garhwal",
         "notes": "",
-        "active": 30,
-        "confirmed": 47,
+        "active": 34,
+        "confirmed": 51,
         "deceased": 1,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -9797,12 +9797,12 @@
       {
         "district": "Pithoragarh",
         "notes": "",
-        "active": 23,
-        "confirmed": 44,
+        "active": 30,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -9810,12 +9810,12 @@
       {
         "district": "Rudraprayag",
         "notes": "",
-        "active": 21,
-        "confirmed": 24,
+        "active": 25,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -9823,12 +9823,12 @@
       {
         "district": "Tehri Garhwal",
         "notes": "",
-        "active": 51,
-        "confirmed": 149,
+        "active": 94,
+        "confirmed": 192,
         "deceased": 0,
         "recovered": 98,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 43,
           "deceased": 0,
           "recovered": 0
         }
@@ -9849,14 +9849,14 @@
       {
         "district": "Uttarkashi",
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 23,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
