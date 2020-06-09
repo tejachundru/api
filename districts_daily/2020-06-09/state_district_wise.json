@@ -2893,13 +2893,13 @@
     "districtData": {
       "Bokaro": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 26,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 20,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -7034,24 +7034,24 @@
       },
       "Hyderabad": {
         "notes": "",
-        "active": 1900,
-        "confirmed": 2228,
+        "active": 2043,
+        "confirmed": 2371,
         "deceased": 23,
         "recovered": 305,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 143,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jagtial": {
         "notes": "",
-        "active": 10,
-        "confirmed": 12,
+        "active": 11,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7130,24 +7130,24 @@
       },
       "Komaram Bheem": {
         "notes": "",
-        "active": 11,
-        "confirmed": 13,
+        "active": 12,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mahabubabad": {
         "notes": "",
-        "active": 3,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7178,24 +7178,24 @@
       },
       "Medak": {
         "notes": "",
-        "active": 8,
-        "confirmed": 12,
+        "active": 10,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Medchal Malkajgiri": {
         "notes": "",
-        "active": 65,
-        "confirmed": 75,
+        "active": 75,
+        "confirmed": 85,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -7286,36 +7286,36 @@
       },
       "Rajanna Sircilla": {
         "notes": "",
-        "active": 3,
-        "confirmed": 5,
+        "active": 4,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Ranga Reddy": {
         "notes": "",
-        "active": 148,
-        "confirmed": 167,
+        "active": 163,
+        "confirmed": 182,
         "deceased": 2,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sangareddy": {
         "notes": "",
-        "active": 15,
-        "confirmed": 21,
+        "active": 17,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7370,12 +7370,12 @@
       },
       "Warangal Rural": {
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7406,9 +7406,9 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -941,
-        "confirmed": 357,
-        "deceased": 107,
+        "active": -860,
+        "confirmed": 449,
+        "deceased": 118,
         "recovered": 1191,
         "delta": {
           "confirmed": 0,
@@ -8926,12 +8926,12 @@
       },
       "Bageshwar": {
         "notes": "",
-        "active": 20,
-        "confirmed": 38,
+        "active": 22,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -8962,24 +8962,24 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 230,
-        "confirmed": 382,
+        "active": 244,
+        "confirmed": 396,
         "deceased": 9,
         "recovered": 139,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 27
         }
       },
       "Haridwar": {
         "notes": "",
-        "active": 101,
-        "confirmed": 148,
+        "active": 104,
+        "confirmed": 151,
         "deceased": 0,
         "recovered": 45,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -8998,14 +8998,14 @@
       },
       "Pauri Garhwal": {
         "notes": "",
-        "active": 34,
+        "active": 28,
         "confirmed": 51,
         "deceased": 1,
-        "recovered": 16,
+        "recovered": 22,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Pithoragarh": {
@@ -9034,12 +9034,12 @@
       },
       "Tehri Garhwal": {
         "notes": "",
-        "active": 94,
-        "confirmed": 192,
+        "active": 123,
+        "confirmed": 221,
         "deceased": 0,
         "recovered": 98,
         "delta": {
-          "confirmed": 43,
+          "confirmed": 72,
           "deceased": 0,
           "recovered": 0
         }
@@ -9058,12 +9058,12 @@
       },
       "Uttarkashi": {
         "notes": "",
-        "active": 5,
-        "confirmed": 23,
+        "active": 6,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 1
         }
