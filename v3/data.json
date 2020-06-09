@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -12,17 +15,25 @@
           "confirmed": 32,
           "recovered": 32
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-05-07T22:24:57+05:30",
+      "last_updated": "2020-06-09T23:52:54+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/indiacovid/6803?single"
       }
     },
     "total": {
-      "confirmed": 33,
+      "confirmed": 34,
       "recovered": 33,
       "tested": 9341
     }
@@ -1187,6 +1198,9 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1366
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1240,8 +1254,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1366
+        },
         "total": {
-          "confirmed": 29155,
+          "confirmed": 30521,
           "deceased": 873,
           "recovered": 11357
         }
@@ -1261,7 +1278,7 @@
       }
     },
     "total": {
-      "confirmed": 29943,
+      "confirmed": 31309,
       "deceased": 874,
       "recovered": 11357,
       "tested": 255615
@@ -3451,7 +3468,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:42:51+05:30",
+      "last_updated": "2020-06-09T23:52:52+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/380"
@@ -3577,7 +3594,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:42:50+05:30",
+      "last_updated": "2020-06-09T23:52:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
@@ -5925,7 +5942,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:42:48+05:30",
+      "last_updated": "2020-06-09T23:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/382"
@@ -5940,20 +5957,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8738,
+      "confirmed": 10105,
       "deceased": 241,
       "recovered": 5142,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T23:42:46+05:30",
+      "last_updated": "2020-06-09T23:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 274758,
+      "confirmed": 276125,
       "deceased": 7719,
       "migrated": 15,
       "recovered": 134161,

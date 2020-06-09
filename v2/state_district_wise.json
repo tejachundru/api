@@ -60,6 +60,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -2121,10 +2134,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 16925,
-        "confirmed": 29155,
-        "deceased": 873,
-        "recovered": 11357,
+        "active": 17756,
+        "confirmed": 30521,
+        "deceased": 904,
+        "recovered": 11861,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
