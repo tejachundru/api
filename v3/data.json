@@ -3198,6 +3198,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 29
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -3216,13 +3219,19 @@
         }
       },
       "Lawngtlai": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Lunglei": {
+        "delta": {
+          "confirmed": 28
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 30
         }
       },
       "Mamit": {
@@ -3242,14 +3251,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T09:54:54+05:30",
+      "last_updated": "2020-06-09T17:12:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-762020-500pm-862020-500-pm"
       }
     },
     "total": {
-      "confirmed": 42,
+      "confirmed": 71,
       "recovered": 1,
       "tested": 2496
     }
@@ -4743,20 +4752,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1686,
+      "confirmed": 1715,
       "deceased": 8,
       "recovered": 260,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T16:52:46+05:30",
+      "last_updated": "2020-06-09T17:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 267614,
+      "confirmed": 267643,
       "deceased": 7481,
       "migrated": 15,
       "recovered": 129366,
