@@ -3515,10 +3515,10 @@
       },
       "Bidar": {
         "notes": "",
-        "active": 134,
+        "active": 141,
         "confirmed": 279,
         "deceased": 6,
-        "recovered": 139,
+        "recovered": 132,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
@@ -3539,10 +3539,10 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 41,
+        "active": 40,
         "confirmed": 152,
         "deceased": 3,
-        "recovered": 108,
+        "recovered": 109,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
@@ -3575,10 +3575,10 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 117,
+        "active": 118,
         "confirmed": 210,
         "deceased": 6,
-        "recovered": 86,
+        "recovered": 85,
         "delta": {
           "confirmed": 23,
           "deceased": 0,
@@ -3599,10 +3599,10 @@
       },
       "Dharwad": {
         "notes": "",
-        "active": 29,
+        "active": 27,
         "confirmed": 66,
         "deceased": 0,
-        "recovered": 37,
+        "recovered": 39,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
@@ -3623,10 +3623,10 @@
       },
       "Hassan": {
         "notes": "",
-        "active": 62,
+        "active": 61,
         "confirmed": 211,
         "deceased": 0,
-        "recovered": 149,
+        "recovered": 150,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3779,10 +3779,10 @@
       },
       "Udupi": {
         "notes": "",
-        "active": 628,
+        "active": 712,
         "confirmed": 947,
         "deceased": 1,
-        "recovered": 318,
+        "recovered": 234,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3803,10 +3803,10 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 78,
+        "active": 67,
         "confirmed": 204,
         "deceased": 6,
-        "recovered": 120,
+        "recovered": 131,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
@@ -3815,10 +3815,10 @@
       },
       "Yadgir": {
         "notes": "",
-        "active": 549,
+        "active": 550,
         "confirmed": 642,
         "deceased": 1,
-        "recovered": 92,
+        "recovered": 91,
         "delta": {
           "confirmed": 61,
           "deceased": 0,
@@ -5516,7 +5516,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": -11,
+          "confirmed": -9,
           "deceased": 0,
           "recovered": 0
         }
@@ -5588,7 +5588,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 28,
+          "confirmed": 43,
           "deceased": 0,
           "recovered": 0
         }
@@ -6162,26 +6162,26 @@
     "districtData": {
       "Amritsar": {
         "notes": "",
-        "active": 128,
-        "confirmed": 481,
-        "deceased": 9,
-        "recovered": 344,
+        "active": 135,
+        "confirmed": 502,
+        "deceased": 11,
+        "recovered": 356,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 21,
+          "deceased": 2,
+          "recovered": 12
         }
       },
       "Barnala": {
         "notes": "",
         "active": 4,
-        "confirmed": 26,
+        "confirmed": 27,
         "deceased": 1,
-        "recovered": 21,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bathinda": {
@@ -6198,26 +6198,26 @@
       },
       "Faridkot": {
         "notes": "",
-        "active": 13,
-        "confirmed": 74,
+        "active": 12,
+        "confirmed": 73,
         "deceased": 0,
         "recovered": 61,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Fatehgarh Sahib": {
         "notes": "",
-        "active": 12,
+        "active": 7,
         "confirmed": 70,
         "deceased": 0,
-        "recovered": 58,
+        "recovered": 63,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Fazilka": {
@@ -6258,24 +6258,24 @@
       },
       "Hoshiarpur": {
         "notes": "",
-        "active": 14,
+        "active": 5,
         "confirmed": 135,
         "deceased": 5,
-        "recovered": 116,
+        "recovered": 125,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Jalandhar": {
         "notes": "",
-        "active": 69,
-        "confirmed": 307,
+        "active": 73,
+        "confirmed": 311,
         "deceased": 8,
         "recovered": 230,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -6294,12 +6294,12 @@
       },
       "Ludhiana": {
         "notes": "",
-        "active": 81,
-        "confirmed": 251,
+        "active": 96,
+        "confirmed": 266,
         "deceased": 10,
         "recovered": 160,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -6330,96 +6330,96 @@
       },
       "Pathankot": {
         "notes": "",
-        "active": 33,
-        "confirmed": 91,
+        "active": 36,
+        "confirmed": 94,
         "deceased": 4,
         "recovered": 54,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Patiala": {
         "notes": "",
-        "active": 25,
-        "confirmed": 138,
+        "active": 24,
+        "confirmed": 139,
         "deceased": 3,
-        "recovered": 110,
+        "recovered": 112,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Rupnagar": {
         "notes": "",
-        "active": 11,
+        "active": 2,
         "confirmed": 71,
         "deceased": 1,
-        "recovered": 59,
+        "recovered": 68,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "S.A.S. Nagar": {
         "notes": "",
-        "active": 20,
-        "confirmed": 128,
+        "active": 25,
+        "confirmed": 133,
         "deceased": 3,
         "recovered": 105,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sangrur": {
         "notes": "",
-        "active": 15,
-        "confirmed": 111,
+        "active": 20,
+        "confirmed": 116,
         "deceased": 0,
         "recovered": 96,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Shahid Bhagat Singh Nagar": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 109,
         "deceased": 1,
-        "recovered": 100,
+        "recovered": 101,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sri Muktsar Sahib": {
         "notes": "",
-        "active": 4,
-        "confirmed": 70,
+        "active": 5,
+        "confirmed": 71,
         "deceased": 0,
         "recovered": 66,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tarn Taran": {
         "notes": "",
-        "active": 4,
-        "confirmed": 159,
+        "active": 5,
+        "confirmed": 160,
         "deceased": 1,
         "recovered": 154,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

@@ -2218,7 +2218,7 @@
         "total": {
           "confirmed": 279,
           "deceased": 6,
-          "recovered": 139
+          "recovered": 132
         }
       },
       "Chamarajanagara": {
@@ -2237,7 +2237,7 @@
         "total": {
           "confirmed": 152,
           "deceased": 3,
-          "recovered": 108
+          "recovered": 109
         }
       },
       "Chikkamagaluru": {
@@ -2261,7 +2261,7 @@
           "confirmed": 210,
           "deceased": 6,
           "migrated": 1,
-          "recovered": 86
+          "recovered": 85
         }
       },
       "Davanagere": {
@@ -2281,7 +2281,7 @@
         },
         "total": {
           "confirmed": 66,
-          "recovered": 37
+          "recovered": 39
         }
       },
       "Gadag": {
@@ -2297,7 +2297,7 @@
         },
         "total": {
           "confirmed": 211,
-          "recovered": 149
+          "recovered": 150
         }
       },
       "Haveri": {
@@ -2405,7 +2405,7 @@
         "total": {
           "confirmed": 947,
           "deceased": 1,
-          "recovered": 318
+          "recovered": 234
         }
       },
       "Uttara Kannada": {
@@ -2425,7 +2425,7 @@
         "total": {
           "confirmed": 204,
           "deceased": 6,
-          "recovered": 120
+          "recovered": 131
         }
       },
       "Yadgir": {
@@ -2435,12 +2435,12 @@
         "total": {
           "confirmed": 642,
           "deceased": 1,
-          "recovered": 92
+          "recovered": 91
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T18:20:48+05:30",
+      "last_updated": "2020-06-09T19:12:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-08",
@@ -2451,7 +2451,7 @@
       "confirmed": 5921,
       "deceased": 66,
       "migrated": 2,
-      "recovered": 2683,
+      "recovered": 2605,
       "tested": 393221
     }
   },
@@ -3472,15 +3472,15 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 29
+      "confirmed": 46
     },
     "districts": {
       "Aizawl": {
         "delta": {
-          "confirmed": -11
+          "confirmed": -9
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 1
         }
       },
@@ -3512,10 +3512,10 @@
       },
       "Lunglei": {
         "delta": {
-          "confirmed": 28
+          "confirmed": 43
         },
         "total": {
-          "confirmed": 30
+          "confirmed": 45
         }
       },
       "Mamit": {
@@ -3535,14 +3535,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T19:04:55+05:30",
+      "last_updated": "2020-06-09T19:11:05+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-762020-500pm-862020-500-pm"
       }
     },
     "total": {
-      "confirmed": 71,
+      "confirmed": 88,
       "recovered": 1,
       "tested": 2496
     }
@@ -3912,19 +3912,33 @@
     }
   },
   "PB": {
+    "delta": {
+      "confirmed": 56,
+      "deceased": 2,
+      "recovered": 39
+    },
     "districts": {
       "Amritsar": {
+        "delta": {
+          "confirmed": 21,
+          "deceased": 2,
+          "recovered": 12
+        },
         "total": {
-          "confirmed": 481,
-          "deceased": 9,
-          "recovered": 344
+          "confirmed": 502,
+          "deceased": 11,
+          "recovered": 356
         }
       },
       "Barnala": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 27,
           "deceased": 1,
-          "recovered": 21
+          "recovered": 22
         }
       },
       "Bathinda": {
@@ -3934,15 +3948,21 @@
         }
       },
       "Faridkot": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 73,
           "recovered": 61
         }
       },
       "Fatehgarh Sahib": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 70,
-          "recovered": 58
+          "recovered": 63
         }
       },
       "Fazilka": {
@@ -3966,15 +3986,21 @@
         }
       },
       "Hoshiarpur": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 135,
           "deceased": 5,
-          "recovered": 116
+          "recovered": 125
         }
       },
       "Jalandhar": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 307,
+          "confirmed": 311,
           "deceased": 8,
           "recovered": 230
         }
@@ -3987,8 +4013,11 @@
         }
       },
       "Ludhiana": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 251,
+          "confirmed": 266,
           "deceased": 10,
           "recovered": 160
         }
@@ -4006,71 +4035,96 @@
         }
       },
       "Pathankot": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 91,
+          "confirmed": 94,
           "deceased": 4,
           "recovered": 54
         }
       },
       "Patiala": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 138,
+          "confirmed": 139,
           "deceased": 3,
-          "recovered": 110
+          "recovered": 112
         }
       },
       "Rupnagar": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 71,
           "deceased": 1,
-          "recovered": 59
+          "recovered": 68
         }
       },
       "S.A.S. Nagar": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 128,
+          "confirmed": 133,
           "deceased": 3,
           "recovered": 105
         }
       },
       "Sangrur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 111,
+          "confirmed": 116,
           "recovered": 96
         }
       },
       "Shahid Bhagat Singh Nagar": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 109,
           "deceased": 1,
-          "recovered": 100
+          "recovered": 101
         }
       },
       "Sri Muktsar Sahib": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 70,
+          "confirmed": 71,
           "recovered": 66
         }
       },
       "Tarn Taran": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 159,
+          "confirmed": 160,
           "deceased": 1,
           "recovered": 154
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T19:36:50+05:30",
+      "last_updated": "2020-06-09T19:12:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2008-06-2020.pdf"
       }
     },
     "total": {
-      "confirmed": 2663,
-      "deceased": 53,
-      "recovered": 2128,
+      "confirmed": 2719,
+      "deceased": 55,
+      "recovered": 2167,
       "tested": 129821
     }
   },
@@ -5078,7 +5132,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T19:04:51+05:30",
+      "last_updated": "2020-06-09T19:10:53+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-08",
@@ -5158,23 +5212,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3896,
-      "deceased": 33,
-      "recovered": 1562,
+      "confirmed": 3969,
+      "deceased": 35,
+      "recovered": 1601,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T19:04:46+05:30",
+      "last_updated": "2020-06-09T19:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 269824,
-      "deceased": 7506,
+      "confirmed": 269897,
+      "deceased": 7508,
       "migrated": 15,
-      "recovered": 130659,
+      "recovered": 130620,
       "tested": 4916116
     }
   },

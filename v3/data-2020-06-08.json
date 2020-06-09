@@ -2546,7 +2546,7 @@
     "delta": {
       "confirmed": 308,
       "deceased": 3,
-      "recovered": 387,
+      "recovered": 309,
       "tested": 8779
     },
     "districts": {
@@ -2598,19 +2598,23 @@
       },
       "Bidar": {
         "delta": {
-          "confirmed": 48
+          "confirmed": 48,
+          "recovered": -7
         },
         "total": {
           "confirmed": 270,
           "deceased": 6,
-          "recovered": 97
+          "recovered": 90
         }
       },
       "Chikkaballapura": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 150,
           "deceased": 3,
-          "recovered": 91
+          "recovered": 92
         }
       },
       "Chikkamagaluru": {
@@ -2627,13 +2631,14 @@
       },
       "Dakshina Kannada": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": -1
         },
         "total": {
           "confirmed": 187,
           "deceased": 6,
           "migrated": 1,
-          "recovered": 76
+          "recovered": 75
         }
       },
       "Davanagere": {
@@ -2646,11 +2651,11 @@
       "Dharwad": {
         "delta": {
           "confirmed": 4,
-          "recovered": 6
+          "recovered": 8
         },
         "total": {
           "confirmed": 64,
-          "recovered": 37
+          "recovered": 39
         }
       },
       "Gadag": {
@@ -2666,11 +2671,11 @@
       "Hassan": {
         "delta": {
           "confirmed": 3,
-          "recovered": 16
+          "recovered": 17
         },
         "total": {
           "confirmed": 211,
-          "recovered": 121
+          "recovered": 122
         }
       },
       "Haveri": {
@@ -2777,12 +2782,12 @@
       "Udupi": {
         "delta": {
           "confirmed": 45,
-          "recovered": 215
+          "recovered": 131
         },
         "total": {
           "confirmed": 947,
           "deceased": 1,
-          "recovered": 318
+          "recovered": 234
         }
       },
       "Uttara Kannada": {
@@ -2793,23 +2798,23 @@
       },
       "Vijayapura": {
         "delta": {
-          "recovered": 29
+          "recovered": 40
         },
         "total": {
           "confirmed": 202,
           "deceased": 6,
-          "recovered": 97
+          "recovered": 108
         }
       },
       "Yadgir": {
         "delta": {
           "confirmed": 66,
-          "recovered": 23
+          "recovered": 22
         },
         "total": {
           "confirmed": 581,
           "deceased": 1,
-          "recovered": 92
+          "recovered": 91
         }
       }
     },
@@ -2823,7 +2828,7 @@
       "confirmed": 5760,
       "deceased": 64,
       "migrated": 2,
-      "recovered": 2519,
+      "recovered": 2441,
       "tested": 393221
     }
   },
@@ -5902,7 +5907,7 @@
       "confirmed": 8444,
       "deceased": 266,
       "migrated": 2,
-      "recovered": 5249,
+      "recovered": 5171,
       "tested": 108048
     },
     "meta": {
@@ -5915,7 +5920,7 @@
       "confirmed": 265928,
       "deceased": 7473,
       "migrated": 15,
-      "recovered": 129097,
+      "recovered": 129019,
       "tested": 4774434
     }
   },
