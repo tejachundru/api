@@ -255,7 +255,7 @@
     "delta": {
       "confirmed": 102,
       "deceased": 1,
-      "recovered": 301
+      "recovered": 313
     },
     "districts": {
       "Airport Quarantine": {
@@ -452,18 +452,22 @@
         }
       },
       "Morigaon": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 49,
-          "recovered": 10
+          "recovered": 19
         }
       },
       "Nagaon": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 11,
+          "recovered": 3
         },
         "total": {
           "confirmed": 163,
-          "recovered": 22
+          "recovered": 25
         }
       },
       "Nalbari": {
@@ -535,7 +539,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T20:46:49+05:30",
+      "last_updated": "2020-06-09T23:12:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-07",
@@ -546,7 +550,7 @@
       "confirmed": 2938,
       "deceased": 5,
       "migrated": 3,
-      "recovered": 1086,
+      "recovered": 1098,
       "tested": 153326
     }
   },
@@ -1307,7 +1311,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:02:48+05:30",
+      "last_updated": "2020-06-09T23:11:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/DHS_Goa/status/1270001344963686402?s=19"
@@ -2241,7 +2245,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:01:51+05:30",
+      "last_updated": "2020-06-09T23:04:51+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/indiacovid/6728"
@@ -4641,7 +4645,8 @@
     "delta": {
       "confirmed": 369,
       "deceased": 9,
-      "recovered": 211
+      "recovered": 211,
+      "tested": 11681
     },
     "districts": {
       "Ajmer": {
@@ -5010,15 +5015,14 @@
     "meta": {
       "last_updated": "2020-06-09T22:41:47+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/indiacovid/6714"
+        "last_updated": "2020-06-09"
       }
     },
     "total": {
       "confirmed": 11245,
       "deceased": 255,
       "recovered": 8328,
-      "tested": 518350
+      "tested": 530031
     }
   },
   "SK": {
@@ -5318,7 +5322,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:01:48+05:30",
+      "last_updated": "2020-06-09T23:04:47+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5810,11 +5814,11 @@
     "delta": {
       "confirmed": 8459,
       "deceased": 234,
-      "recovered": 4937,
+      "recovered": 4949,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T23:02:46+05:30",
+      "last_updated": "2020-06-09T23:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
@@ -5824,7 +5828,7 @@
       "confirmed": 274479,
       "deceased": 7712,
       "migrated": 15,
-      "recovered": 133956,
+      "recovered": 133968,
       "tested": 4916116
     }
   },
@@ -6769,7 +6773,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:01:49+05:30",
+      "last_updated": "2020-06-09T23:04:50+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
