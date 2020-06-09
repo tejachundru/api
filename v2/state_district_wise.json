@@ -5987,12 +5987,12 @@
       {
         "district": "Aizawl",
         "notes": "",
-        "active": 20,
-        "confirmed": 21,
+        "active": 9,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -11,
           "deceased": 0,
           "recovered": 0
         }
@@ -6039,12 +6039,12 @@
       {
         "district": "Kolasib",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }

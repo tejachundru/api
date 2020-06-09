@@ -3203,8 +3203,11 @@
     },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": -11
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 10,
           "recovered": 1
         }
       },
@@ -3216,6 +3219,14 @@
       "Khawzawl": {
         "total": {
           "confirmed": 2
+        }
+      },
+      "Kolasib": {
+        "delta": {
+          "confirmed": 11
+        },
+        "total": {
+          "confirmed": 11
         }
       },
       "Lawngtlai": {
