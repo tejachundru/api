@@ -308,11 +308,12 @@
       },
       "Barpeta": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 15
         },
         "total": {
           "confirmed": 90,
-          "recovered": 40
+          "recovered": 55
         }
       },
       "Biswanath": {
@@ -326,11 +327,12 @@
       },
       "Bongaigaon": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 14,
-          "recovered": 5
+          "recovered": 7
         }
       },
       "Cachar": {
@@ -402,9 +404,12 @@
         }
       },
       "Golaghat": {
+        "delta": {
+          "recovered": 45
+        },
         "total": {
           "confirmed": 220,
-          "recovered": 42
+          "recovered": 87
         }
       },
       "Hailakandi": {
@@ -420,9 +425,12 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "recovered": 26
+        },
         "total": {
           "confirmed": 27,
-          "recovered": 28
+          "recovered": 54
         }
       },
       "Kamrup": {
@@ -437,21 +445,22 @@
       "Kamrup Metropolitan": {
         "delta": {
           "confirmed": 2,
-          "recovered": 21
+          "recovered": 25
         },
         "total": {
           "confirmed": 406,
           "deceased": 3,
-          "recovered": 311
+          "recovered": 315
         }
       },
       "Karbi Anglong": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 12,
-          "recovered": 5
+          "recovered": 7
         }
       },
       "Karimganj": {
@@ -464,8 +473,12 @@
         }
       },
       "Kokrajhar": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 57
+          "confirmed": 57,
+          "recovered": 10
         }
       },
       "Lakhimpur": {
@@ -516,11 +529,12 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 9
         },
         "total": {
           "confirmed": 40,
-          "recovered": 26
+          "recovered": 35
         }
       },
       "South Salmara Mankachar": {
@@ -530,8 +544,12 @@
         }
       },
       "Tinsukia": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 68
+          "confirmed": 68,
+          "recovered": 6
         }
       },
       "Udalguri": {
@@ -541,13 +559,9 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "recovered": 119
-        },
         "total": {
           "confirmed": 120,
-          "migrated": 3,
-          "recovered": 119
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {

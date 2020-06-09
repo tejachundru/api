@@ -242,7 +242,7 @@
       "Barpeta": {
         "total": {
           "confirmed": 90,
-          "recovered": 40
+          "recovered": 55
         }
       },
       "Biswanath": {
@@ -254,7 +254,7 @@
       "Bongaigaon": {
         "total": {
           "confirmed": 14,
-          "recovered": 5
+          "recovered": 7
         }
       },
       "Cachar": {
@@ -311,7 +311,7 @@
       "Golaghat": {
         "total": {
           "confirmed": 220,
-          "recovered": 42
+          "recovered": 87
         }
       },
       "Hailakandi": {
@@ -329,7 +329,7 @@
       "Jorhat": {
         "total": {
           "confirmed": 27,
-          "recovered": 28
+          "recovered": 54
         }
       },
       "Kamrup": {
@@ -342,13 +342,13 @@
         "total": {
           "confirmed": 406,
           "deceased": 3,
-          "recovered": 311
+          "recovered": 315
         }
       },
       "Karbi Anglong": {
         "total": {
           "confirmed": 12,
-          "recovered": 5
+          "recovered": 7
         }
       },
       "Karimganj": {
@@ -359,7 +359,8 @@
       },
       "Kokrajhar": {
         "total": {
-          "confirmed": 57
+          "confirmed": 57,
+          "recovered": 10
         }
       },
       "Lakhimpur": {
@@ -405,7 +406,7 @@
       "Sonitpur": {
         "total": {
           "confirmed": 40,
-          "recovered": 26
+          "recovered": 35
         }
       },
       "South Salmara Mankachar": {
@@ -416,7 +417,8 @@
       },
       "Tinsukia": {
         "total": {
-          "confirmed": 68
+          "confirmed": 68,
+          "recovered": 6
         }
       },
       "Udalguri": {
@@ -428,8 +430,7 @@
       "Unknown": {
         "total": {
           "confirmed": 120,
-          "migrated": 3,
-          "recovered": 119
+          "migrated": 3
         }
       },
       "West Karbi Anglong": {
@@ -4035,7 +4036,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T09:12:48+05:30",
+      "last_updated": "2020-06-09T09:22:48+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -4396,7 +4397,7 @@
       "recovered": 1
     },
     "meta": {
-      "last_updated": "2020-06-09T09:12:46+05:30",
+      "last_updated": "2020-06-09T09:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
