@@ -739,7 +739,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T13:12:50+05:30",
+      "last_updated": "2020-06-09T13:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
@@ -2272,6 +2272,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 14004
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2522,15 +2525,15 @@
     "meta": {
       "last_updated": "2020-06-08T23:36:48+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/Maha_MEDD/status/1269867590207356928?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/Maha_MEDD/status/1270228148299300865?s=19"
       }
     },
     "total": {
       "confirmed": 88529,
       "deceased": 3169,
       "recovered": 40975,
-      "tested": 565290
+      "tested": 579294
     }
   },
   "ML": {
@@ -2690,7 +2693,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T13:12:51+05:30",
+      "last_updated": "2020-06-09T13:22:49+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
@@ -3185,7 +3188,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 146
+      "confirmed": 146,
+      "tested": 2969
     },
     "districts": {
       "Angul": {
@@ -3435,15 +3439,15 @@
       "last_updated": "2020-06-09T11:03:48+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/358?single"
+        "last_updated": "2020-06-09",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/376?single"
       }
     },
     "total": {
       "confirmed": 3140,
       "deceased": 11,
       "recovered": 1993,
-      "tested": 179415
+      "tested": 182384
     }
   },
   "PB": {
@@ -4577,7 +4581,7 @@
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T13:12:46+05:30",
+      "last_updated": "2020-06-09T13:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
