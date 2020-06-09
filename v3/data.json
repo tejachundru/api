@@ -739,7 +739,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T13:22:48+05:30",
+      "last_updated": "2020-06-09T13:24:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
@@ -2592,7 +2592,8 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 10
+      "confirmed": 10,
+      "recovered": 6
     },
     "districts": {
       "Bishnupur": {
@@ -2686,14 +2687,17 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 31,
-          "recovered": 27
+          "recovered": 33
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T13:22:49+05:30",
+      "last_updated": "2020-06-09T13:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
@@ -2701,7 +2705,7 @@
     },
     "total": {
       "confirmed": 282,
-      "recovered": 58,
+      "recovered": 64,
       "tested": 17028
     }
   },
@@ -4577,11 +4581,11 @@
     "delta": {
       "confirmed": 1321,
       "deceased": 5,
-      "recovered": 66,
+      "recovered": 72,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T13:22:46+05:30",
+      "last_updated": "2020-06-09T13:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
@@ -4591,7 +4595,7 @@
       "confirmed": 267249,
       "deceased": 7478,
       "migrated": 15,
-      "recovered": 129172,
+      "recovered": 129178,
       "tested": 4916116
     }
   },
