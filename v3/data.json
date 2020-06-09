@@ -28,11 +28,19 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 216,
+      "deceased": 2,
+      "recovered": 64
+    },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 306,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 173
         }
       },
@@ -51,9 +59,12 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "recovered": 12
+        },
         "total": {
           "confirmed": 132,
-          "recovered": 6
+          "recovered": 18
         }
       },
       "Guntur": {
@@ -64,9 +75,12 @@
         }
       },
       "Krishna": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 570,
-          "deceased": 23,
+          "deceased": 24,
           "recovered": 353
         }
       },
@@ -78,9 +92,13 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 69,
+          "recovered": 36
+        },
         "total": {
-          "confirmed": 838,
-          "recovered": 318
+          "confirmed": 907,
+          "recovered": 354
         }
       },
       "Prakasam": {
@@ -103,8 +121,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 147,
+          "recovered": 16
+        },
         "total": {
-          "recovered": 9
+          "confirmed": 147,
+          "recovered": 16
         }
       },
       "Visakhapatnam": {
@@ -134,7 +157,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T20:18:48+05:30",
+      "last_updated": "2020-06-09T18:22:48+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-08",
@@ -142,9 +165,9 @@
       }
     },
     "total": {
-      "confirmed": 4813,
-      "deceased": 75,
-      "recovered": 2720,
+      "confirmed": 5029,
+      "deceased": 77,
+      "recovered": 2775,
       "tested": 468276
     }
   },
@@ -874,7 +897,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T18:12:54+05:30",
+      "last_updated": "2020-06-09T18:20:49+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/PIB_Patna/status/1270328755978813441"
@@ -2395,7 +2418,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T18:12:51+05:30",
+      "last_updated": "2020-06-09T18:20:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-08",
@@ -4991,23 +5014,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1981,
-      "deceased": 12,
-      "recovered": 700,
+      "confirmed": 2197,
+      "deceased": 14,
+      "recovered": 764,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T18:12:49+05:30",
+      "last_updated": "2020-06-09T18:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 267909,
-      "deceased": 7485,
+      "confirmed": 268125,
+      "deceased": 7487,
       "migrated": 15,
-      "recovered": 129806,
+      "recovered": 129861,
       "tested": 4916116
     }
   },

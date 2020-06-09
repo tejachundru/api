@@ -29,7 +29,7 @@
   "AP": {
     "delta": {
       "confirmed": 154,
-      "recovered": 51,
+      "recovered": 42,
       "tested": 14246
     },
     "districts": {
@@ -147,8 +147,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "recovered": 9
+        "delta": {
+          "recovered": -9
         }
       },
       "Visakhapatnam": {
@@ -199,7 +199,7 @@
     "total": {
       "confirmed": 4813,
       "deceased": 75,
-      "recovered": 2720,
+      "recovered": 2711,
       "tested": 468276
     }
   },
@@ -5902,7 +5902,7 @@
       "confirmed": 8444,
       "deceased": 266,
       "migrated": 2,
-      "recovered": 5258,
+      "recovered": 5249,
       "tested": 108048
     },
     "meta": {
@@ -5915,7 +5915,7 @@
       "confirmed": 265928,
       "deceased": 7473,
       "migrated": 15,
-      "recovered": 129106,
+      "recovered": 129097,
       "tested": 4774434
     }
   },
