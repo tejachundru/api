@@ -723,24 +723,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 320,
+          "confirmed": 321,
           "deceased": 5,
           "recovered": 274
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T22:15:54+05:30",
+      "last_updated": "2020-06-09T09:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
       }
     },
     "total": {
-      "confirmed": 320,
+      "confirmed": 321,
       "deceased": 5,
       "recovered": 274,
       "tested": 5385
@@ -3068,10 +3074,16 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 12,
+          "confirmed": 16,
           "recovered": 8
         }
       },
@@ -3081,8 +3093,11 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 6
+          "confirmed": 7
         }
       },
       "Mon": {
@@ -3117,14 +3132,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T07:31:48+05:30",
+      "last_updated": "2020-06-09T09:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/MyGovNagaland/status/1270010455717634048/photo/1"
       }
     },
     "total": {
-      "confirmed": 122,
+      "confirmed": 127,
       "recovered": 8,
       "tested": 4719
     }
@@ -4036,7 +4051,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T09:22:48+05:30",
+      "last_updated": "2020-06-09T09:24:51+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -4394,17 +4409,18 @@
   },
   "TT": {
     "delta": {
+      "confirmed": 6,
       "recovered": 1
     },
     "meta": {
-      "last_updated": "2020-06-09T09:22:46+05:30",
+      "last_updated": "2020-06-09T09:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
       }
     },
     "total": {
-      "confirmed": 266020,
+      "confirmed": 266026,
       "deceased": 7478,
       "migrated": 15,
       "recovered": 129489,
