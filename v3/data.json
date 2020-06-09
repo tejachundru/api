@@ -2245,7 +2245,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:34:49+05:30",
+      "last_updated": "2020-06-09T23:40:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/indiacovid/6728"
@@ -3397,7 +3397,7 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 4,
       "tested": 501
     },
     "districts": {
@@ -3427,8 +3427,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 8
         }
       },
       "West Garo Hills": {
@@ -3448,14 +3451,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T17:54:53+05:30",
+      "last_updated": "2020-06-09T23:42:51+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/380"
       }
     },
     "total": {
-      "confirmed": 40,
+      "confirmed": 43,
       "deceased": 1,
       "recovered": 13,
       "tested": 11247
@@ -3463,7 +3466,7 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 10,
+      "confirmed": 32,
       "recovered": 6
     },
     "districts": {
@@ -3474,8 +3477,11 @@
         }
       },
       "Chandel": {
-        "total": {
+        "delta": {
           "confirmed": 2
+        },
+        "total": {
+          "confirmed": 4
         }
       },
       "Churachandpur": {
@@ -3511,8 +3517,11 @@
         }
       },
       "Kangpokpi": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 23
+          "confirmed": 43
         }
       },
       "Noney": {
@@ -3568,14 +3577,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T13:43:49+05:30",
+      "last_updated": "2020-06-09T23:42:50+05:30",
       "tested": {
         "last_updated": "2020-06-07",
         "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
       }
     },
     "total": {
-      "confirmed": 282,
+      "confirmed": 304,
       "recovered": 64,
       "tested": 17028
     }
@@ -4171,7 +4180,8 @@
     "meta": {
       "last_updated": "2020-06-09T09:43:50+05:30",
       "tested": {
-        "last_updated": "2020-06-09"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/MyGovNagaland/status/1270336368707690498/photo/1"
       }
     },
     "total": {
@@ -5162,7 +5172,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:34:51+05:30",
+      "last_updated": "2020-06-09T23:40:53+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/381"
@@ -5848,6 +5858,7 @@
   "TR": {
     "delta": {
       "confirmed": 26,
+      "deceased": 1,
       "tested": 1119
     },
     "districts": {
@@ -5880,16 +5891,19 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 24
+          "confirmed": 18
         },
         "total": {
-          "confirmed": 354,
+          "confirmed": 348,
           "recovered": 5
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 74,
           "recovered": 2
         }
       },
@@ -5900,14 +5914,18 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 61,
+          "deceased": 1,
           "recovered": 7
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T22:03:50+05:30",
+      "last_updated": "2020-06-09T23:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/382"
@@ -5915,27 +5933,28 @@
     },
     "total": {
       "confirmed": 866,
+      "deceased": 1,
       "recovered": 192,
       "tested": 38572
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 8713,
-      "deceased": 240,
+      "confirmed": 8738,
+      "deceased": 241,
       "recovered": 5142,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T23:34:46+05:30",
+      "last_updated": "2020-06-09T23:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 274733,
-      "deceased": 7718,
+      "confirmed": 274758,
+      "deceased": 7719,
       "migrated": 15,
       "recovered": 134161,
       "tested": 4916116
