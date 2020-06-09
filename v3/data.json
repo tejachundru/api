@@ -941,6 +941,9 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 14
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -949,8 +952,11 @@
         }
       },
       "Baloda Bazar": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 117,
+          "confirmed": 120,
           "recovered": 14
         }
       },
@@ -961,8 +967,11 @@
         }
       },
       "Bametara": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 24,
+          "confirmed": 25,
           "recovered": 14
         }
       },
@@ -1005,8 +1014,11 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 69,
           "recovered": 16
         }
       },
@@ -1058,15 +1070,21 @@
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 90,
+          "confirmed": 97,
           "deceased": 1,
           "recovered": 10
         }
       },
       "Rajnandgaon": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 57,
+          "confirmed": 59,
           "recovered": 35
         }
       },
@@ -1090,14 +1108,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T23:43:49+05:30",
+      "last_updated": "2020-06-09T18:42:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
       }
     },
     "total": {
-      "confirmed": 1197,
+      "confirmed": 1211,
       "deceased": 4,
       "recovered": 335,
       "tested": 96963
@@ -5014,20 +5032,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2197,
+      "confirmed": 2211,
       "deceased": 14,
       "recovered": 764,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T18:34:46+05:30",
+      "last_updated": "2020-06-09T18:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 268125,
+      "confirmed": 268139,
       "deceased": 7487,
       "migrated": 15,
       "recovered": 129861,
