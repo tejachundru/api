@@ -3315,7 +3315,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T21:02:47+05:30",
+      "last_updated": "2020-06-09T21:12:47+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/Maha_MEDD/status/1270228148299300865?s=19"
@@ -3330,7 +3330,8 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 501
     },
     "districts": {
       "East Khasi Hills": {
@@ -3382,15 +3383,15 @@
     "meta": {
       "last_updated": "2020-06-09T17:54:53+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/363"
+        "last_updated": "2020-06-09",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/380"
       }
     },
     "total": {
       "confirmed": 40,
       "deceased": 1,
       "recovered": 13,
-      "tested": 10746
+      "tested": 11247
     }
   },
   "MN": {
@@ -5627,7 +5628,7 @@
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T21:02:46+05:30",
+      "last_updated": "2020-06-09T21:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
@@ -6177,7 +6178,8 @@
   "UT": {
     "delta": {
       "confirmed": 77,
-      "recovered": 35
+      "recovered": 35,
+      "tested": 1131
     },
     "districts": {
       "Almora": {
@@ -6309,8 +6311,8 @@
       "last_updated": "2020-06-09T15:54:49+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://health.uk.gov.in/files/2020.06.08_Health_Bulletin.pdf"
+        "last_updated": "2020-06-09",
+        "source": "https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf"
       }
     },
     "total": {
@@ -6318,7 +6320,7 @@
       "deceased": 13,
       "migrated": 7,
       "recovered": 749,
-      "tested": 39133
+      "tested": 40264
     }
   },
   "WB": {
