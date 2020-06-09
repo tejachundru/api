@@ -548,7 +548,7 @@
   },
   "BR": {
     "delta": {
-      "confirmed": 117,
+      "confirmed": 122,
       "deceased": 2,
       "recovered": 228,
       "tested": 3270
@@ -709,8 +709,11 @@
         }
       },
       "Katihar": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 174,
+          "confirmed": 176,
           "recovered": 79
         }
       },
@@ -904,11 +907,11 @@
       },
       "Supaul": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 6,
           "recovered": 3
         },
         "total": {
-          "confirmed": 163,
+          "confirmed": 166,
           "recovered": 47
         }
       },
@@ -930,14 +933,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T18:20:49+05:30",
+      "last_updated": "2020-06-09T20:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/PIB_Patna/status/1270328755978813441"
       }
     },
     "total": {
-      "confirmed": 5364,
+      "confirmed": 5369,
       "deceased": 33,
       "recovered": 2770,
       "tested": 105588
@@ -1654,7 +1657,8 @@
   "HP": {
     "delta": {
       "confirmed": 16,
-      "recovered": 14
+      "recovered": 14,
+      "tested": 1239
     },
     "districts": {
       "Bilaspur": {
@@ -1752,8 +1756,8 @@
       "last_updated": "2020-06-09T17:55:49+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/nhm_hp/status/1270024823939518464?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/nhm_hp/status/1270325505217232899?s=19"
       }
     },
     "total": {
@@ -1761,14 +1765,15 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 237,
-      "tested": 46416
+      "tested": 47655
     }
   },
   "HR": {
     "delta": {
       "confirmed": 137,
       "deceased": 2,
-      "recovered": 13
+      "recovered": 13,
+      "tested": 3472
     },
     "districts": {
       "Ambala": {
@@ -1960,15 +1965,15 @@
     "meta": {
       "last_updated": "2020-06-09T15:01:48+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Media%20Bulleitin%2008-06-20.pdf"
+        "last_updated": "2020-06-09",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%209-06-2020%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 4991,
       "deceased": 41,
       "recovered": 1713,
-      "tested": 150220
+      "tested": 153692
     }
   },
   "JH": {
@@ -2163,7 +2168,8 @@
     "delta": {
       "confirmed": 61,
       "deceased": 3,
-      "recovered": 182
+      "recovered": 182,
+      "tested": 7910
     },
     "districts": {
       "Anantnag": {
@@ -2365,15 +2371,15 @@
     "meta": {
       "last_updated": "2020-06-09T20:03:56+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/diprjk/status/1270009117193768960?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/diprjk/status/1270353659843362816?s=19"
       }
     },
     "total": {
       "confirmed": 4346,
       "deceased": 48,
       "recovered": 1506,
-      "tested": 227906
+      "tested": 235816
     }
   },
   "KA": {
@@ -5443,20 +5449,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4948,
+      "confirmed": 4953,
       "deceased": 81,
       "recovered": 2361,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T20:15:46+05:30",
+      "last_updated": "2020-06-09T20:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 270876,
+      "confirmed": 270881,
       "deceased": 7554,
       "migrated": 15,
       "recovered": 131380,
