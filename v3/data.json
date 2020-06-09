@@ -1492,6 +1492,11 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 137,
+      "deceased": 2,
+      "recovered": 13
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1501,8 +1506,11 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 81,
           "recovered": 30
         }
       },
@@ -1513,15 +1521,23 @@
         }
       },
       "Faridabad": {
+        "delta": {
+          "confirmed": 41,
+          "deceased": 1,
+          "recovered": 13
+        },
         "total": {
-          "confirmed": 773,
-          "deceased": 13,
-          "recovered": 183
+          "confirmed": 814,
+          "deceased": 14,
+          "recovered": 196
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 45,
           "recovered": 15
         }
       },
@@ -1532,8 +1548,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 67
+        },
         "total": {
-          "confirmed": 2165,
+          "confirmed": 2232,
           "deceased": 9,
           "recovered": 579
         }
@@ -1557,8 +1576,11 @@
         }
       },
       "Jind": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 42,
+          "confirmed": 53,
           "deceased": 3,
           "recovered": 26
         }
@@ -1577,8 +1599,11 @@
         }
       },
       "Kurukshetra": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 54,
           "recovered": 30
         }
       },
@@ -1601,29 +1626,41 @@
         }
       },
       "Panchkula": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 34,
+          "confirmed": 36,
           "recovered": 26
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 85,
+          "confirmed": 86,
           "deceased": 4,
           "recovered": 56
         }
       },
       "Rewari": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 48,
+          "confirmed": 53,
           "deceased": 1,
           "recovered": 12
         }
       },
       "Rohtak": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 177,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 82
         }
       },
@@ -1648,16 +1685,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T22:35:48+05:30",
+      "last_updated": "2020-06-09T14:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Media%20Bulleitin%2008-06-20.pdf"
       }
     },
     "total": {
-      "confirmed": 4854,
-      "deceased": 39,
-      "recovered": 1700,
+      "confirmed": 4991,
+      "deceased": 41,
+      "recovered": 1713,
       "tested": 150220
     }
   },
@@ -4677,23 +4714,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1472,
-      "deceased": 6,
-      "recovered": 72,
+      "confirmed": 1609,
+      "deceased": 8,
+      "recovered": 85,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T14:37:46+05:30",
+      "last_updated": "2020-06-09T14:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 267400,
-      "deceased": 7479,
+      "confirmed": 267537,
+      "deceased": 7481,
       "migrated": 15,
-      "recovered": 129178,
+      "recovered": 129191,
       "tested": 4916116
     }
   },
