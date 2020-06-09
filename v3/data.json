@@ -1392,7 +1392,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 8
+      "confirmed": 16,
+      "recovered": 14
     },
     "districts": {
       "Bilaspur": {
@@ -1408,17 +1409,25 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 123,
+          "confirmed": 124,
           "deceased": 1,
-          "recovered": 68
+          "recovered": 78
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 109,
+          "confirmed": 115,
           "deceased": 1,
-          "recovered": 59
+          "recovered": 63
         }
       },
       "Kinnaur": {
@@ -1433,8 +1442,11 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "deceased": 2,
           "recovered": 9
         }
@@ -1476,7 +1488,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T12:12:48+05:30",
+      "last_updated": "2020-06-09T17:52:49+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-08",
@@ -1484,10 +1496,10 @@
       }
     },
     "total": {
-      "confirmed": 429,
+      "confirmed": 437,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 223,
+      "recovered": 237,
       "tested": 46416
     }
   },
@@ -2723,7 +2735,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T17:44:50+05:30",
+      "last_updated": "2020-06-09T17:51:52+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/363"
@@ -4774,23 +4786,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1716,
+      "confirmed": 1724,
       "deceased": 8,
-      "recovered": 260,
+      "recovered": 274,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T17:44:46+05:30",
+      "last_updated": "2020-06-09T17:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 267644,
+      "confirmed": 267652,
       "deceased": 7481,
       "migrated": 15,
-      "recovered": 129366,
+      "recovered": 129380,
       "tested": 4916116
     }
   },
