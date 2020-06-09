@@ -1180,26 +1180,26 @@
 			"totalrecovered": "129019"
 		},
 		{
-			"dailyconfirmed": "10013",
+			"dailyconfirmed": "10126",
 			"dailydeceased": "272",
-			"dailyrecovered": "5646",
+			"dailyrecovered": "5648",
 			"date": "09 June ",
-			"totalconfirmed": "276034",
+			"totalconfirmed": "276147",
 			"totaldeceased": "7749",
-			"totalrecovered": "134665"
+			"totalrecovered": "134667"
 		}
 	],
 	"statewise": [
 		{
-			"active": "133603",
-			"confirmed": "276033",
+			"active": "133714",
+			"confirmed": "276146",
 			"deaths": "7750",
-			"deltaconfirmed": "10013",
+			"deltaconfirmed": "10126",
 			"deltadeaths": "272",
-			"deltarecovered": "5646",
-			"lastupdatedtime": "10/06/2020 00:05:46",
+			"deltarecovered": "5648",
+			"lastupdatedtime": "10/06/2020 00:22:46",
 			"migratedother": "15",
-			"recovered": "134665",
+			"recovered": "134667",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1429,13 +1429,13 @@
 			"statenotes": "Two non-covid deaths reported in state dashboard are included in the deceased count"
 		},
 		{
-			"active": "1832",
-			"confirmed": "2938",
+			"active": "1945",
+			"confirmed": "3051",
 			"deaths": "5",
-			"deltaconfirmed": "102",
+			"deltaconfirmed": "215",
 			"deltadeaths": "1",
 			"deltarecovered": "313",
-			"lastupdatedtime": "09/06/2020 23:18:48",
+			"lastupdatedtime": "10/06/2020 00:22:48",
 			"migratedother": "3",
 			"recovered": "1098",
 			"state": "Assam",
@@ -1597,15 +1597,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "119",
+			"active": "117",
 			"confirmed": "127",
 			"deaths": "0",
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"lastupdatedtime": "09/06/2020 09:43:50",
 			"migratedother": "0",
-			"recovered": "8",
+			"recovered": "10",
 			"state": "Nagaland",
 			"statecode": "NL",
 			"statenotes": ""
