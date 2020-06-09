@@ -8371,19 +8371,19 @@
 			"statecode": "NL"
 		},
 		{
-			"active": "8",
-			"confirmed": "33",
+			"active": "61",
+			"confirmed": "61",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "61",
+			"deltaconfirmed": "61",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
-			"district": "Angul",
-			"districtkey": "OR_Angul",
-			"districtnotes": "",
+			"district": "NDRF-ODRF",
+			"districtkey": "OR_NDRF-ODRF",
+			"districtnotes": "Returned from West Bengal Amphan duty",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "25",
+			"recovered": "0",
 			"slno": "0",
 			"state": "Odisha",
 			"statecode": "OR"
@@ -14095,8 +14095,8 @@
 			"statecode": "NL"
 		},
 		{
-			"active": "53",
-			"confirmed": "28",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -14107,7 +14107,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "-25",
+			"recovered": "0",
 			"slno": "754",
 			"state": "Odisha",
 			"statecode": "OR"

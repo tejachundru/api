@@ -5783,6 +5783,18 @@
   },
   "Odisha": {
     "districtData": {
+      "NDRF-ODRF": {
+        "notes": "Returned from West Bengal Amphan duty",
+        "active": 61,
+        "confirmed": 61,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 61,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Angul": {
         "notes": "",
         "active": 8,
@@ -6141,18 +6153,6 @@
           "confirmed": 7,
           "deceased": 0,
           "recovered": 8
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 53,
-        "confirmed": 28,
-        "deceased": 0,
-        "recovered": -25,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },

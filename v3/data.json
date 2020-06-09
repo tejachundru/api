@@ -1639,7 +1639,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T20:11:47+05:30",
+      "last_updated": "2020-06-09T20:15:48+05:30",
       "tested": {
         "last_updated": "2020-06-09"
       }
@@ -4041,6 +4041,17 @@
           "recovered": 16
         }
       },
+      "NDRF-ODRF": {
+        "delta": {
+          "confirmed": 61
+        },
+        "meta": {
+          "notes": "Returned from West Bengal Amphan duty"
+        },
+        "total": {
+          "confirmed": 61
+        }
+      },
       "Nabarangapur": {
         "total": {
           "confirmed": 2,
@@ -4102,14 +4113,6 @@
         "total": {
           "confirmed": 118,
           "recovered": 65
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 61
-        },
-        "total": {
-          "confirmed": 61
         }
       }
     },
@@ -5446,7 +5449,7 @@
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T20:11:46+05:30",
+      "last_updated": "2020-06-09T20:15:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
