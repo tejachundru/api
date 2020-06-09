@@ -5192,11 +5192,6 @@
     }
   },
   "TG": {
-    "delta": {
-      "confirmed": 92,
-      "deceased": 5,
-      "recovered": 393
-    },
     "districts": {
       "Adilabad": {
         "total": {
@@ -5380,15 +5375,10 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 92,
-          "deceased": 5,
-          "recovered": 393
-        },
         "total": {
-          "confirmed": 449,
-          "deceased": 112,
-          "recovered": 1584
+          "confirmed": 357,
+          "deceased": 107,
+          "recovered": 1191
         }
       },
       "Vikarabad": {
@@ -5422,9 +5412,9 @@
       }
     },
     "total": {
-      "confirmed": 3742,
-      "deceased": 142,
-      "recovered": 2135,
+      "confirmed": 3650,
+      "deceased": 137,
+      "recovered": 1742,
       "tested": 23388
     }
   },
@@ -5909,10 +5899,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8536,
-      "deceased": 271,
+      "confirmed": 8444,
+      "deceased": 266,
       "migrated": 2,
-      "recovered": 5651,
+      "recovered": 5258,
       "tested": 108048
     },
     "meta": {
@@ -5922,10 +5912,10 @@
       }
     },
     "total": {
-      "confirmed": 266020,
-      "deceased": 7478,
+      "confirmed": 265928,
+      "deceased": 7473,
       "migrated": 15,
-      "recovered": 129499,
+      "recovered": 129106,
       "tested": 4774434
     }
   },
