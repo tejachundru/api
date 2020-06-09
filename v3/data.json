@@ -26,7 +26,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:52:54+05:30",
+      "last_updated": "2020-06-10T00:05:51+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/indiacovid/6803?single"
@@ -1199,7 +1199,10 @@
   },
   "DL": {
     "delta": {
-      "confirmed": 1366
+      "confirmed": 1366,
+      "deceased": 31,
+      "recovered": 504,
+      "tested": 5464
     },
     "districts": {
       "Central Delhi": {
@@ -1255,12 +1258,14 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 1366
+          "confirmed": 1366,
+          "deceased": 31,
+          "recovered": 504
         },
         "total": {
           "confirmed": 30521,
-          "deceased": 873,
-          "recovered": 11357
+          "deceased": 904,
+          "recovered": 11861
         }
       },
       "West Delhi": {
@@ -1270,18 +1275,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-08T21:00:48+05:30",
+      "last_updated": "2020-06-10T00:05:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/indiacovid/6717?single"
+        "last_updated": "2020-06-09",
+        "source": "https://t.me/indiacovid/6835?single"
       }
     },
     "total": {
       "confirmed": 31309,
-      "deceased": 874,
-      "recovered": 11357,
-      "tested": 255615
+      "deceased": 905,
+      "recovered": 11861,
+      "tested": 261079
     }
   },
   "DN": {
@@ -3484,7 +3489,8 @@
   "MN": {
     "delta": {
       "confirmed": 32,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 1584
     },
     "districts": {
       "Bishnupur": {
@@ -3596,21 +3602,22 @@
     "meta": {
       "last_updated": "2020-06-09T23:52:50+05:30",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://twitter.com/DiprManipur/status/1269635097407352832/photo/2"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/DiprManipur/status/1270387760239689731?s=19"
       }
     },
     "total": {
       "confirmed": 304,
       "recovered": 64,
-      "tested": 17028
+      "tested": 18612
     }
   },
   "MP": {
     "delta": {
       "confirmed": 211,
       "deceased": 6,
-      "recovered": 193
+      "recovered": 193,
+      "tested": 5742
     },
     "districts": {
       "Agar Malwa": {
@@ -4046,15 +4053,15 @@
     "meta": {
       "last_updated": "2020-06-09T23:34:47+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/healthminmp/status/1270010531617923078?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/healthminmp/status/1270402959436910594?s=19"
       }
     },
     "total": {
       "confirmed": 9849,
       "deceased": 420,
       "recovered": 6729,
-      "tested": 215194
+      "tested": 220936
     }
   },
   "MZ": {
@@ -5957,36 +5964,36 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10105,
-      "deceased": 241,
-      "recovered": 5142,
+      "confirmed": 10013,
+      "deceased": 272,
+      "recovered": 5646,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T23:52:46+05:30",
+      "last_updated": "2020-06-10T00:05:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 276125,
-      "deceased": 7719,
+      "confirmed": 276033,
+      "deceased": 7750,
       "migrated": 15,
-      "recovered": 134161,
+      "recovered": 134665,
       "tested": 4916116
     }
   },
   "UN": {
     "delta": {
-      "confirmed": 966
+      "confirmed": 874
     },
     "meta": {
-      "last_updated": "2020-06-09T10:04:47+05:30",
+      "last_updated": "2020-06-10T00:05:48+05:30",
       "notes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\""
     },
     "total": {
-      "confirmed": 8803
+      "confirmed": 8711
     }
   },
   "UP": {
