@@ -734,12 +734,12 @@
         "total": {
           "confirmed": 321,
           "deceased": 5,
-          "recovered": 274
+          "recovered": 285
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T09:42:48+05:30",
+      "last_updated": "2020-06-09T09:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
@@ -748,7 +748,7 @@
     "total": {
       "confirmed": 321,
       "deceased": 5,
-      "recovered": 274,
+      "recovered": 285,
       "tested": 5385
     }
   },
@@ -3132,7 +3132,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T09:42:49+05:30",
+      "last_updated": "2020-06-09T09:43:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/MyGovNagaland/status/1270010455717634048/photo/1"
@@ -4409,31 +4409,35 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6,
-      "recovered": 1
+      "confirmed": 972,
+      "recovered": 1,
+      "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-09T09:42:46+05:30",
+      "last_updated": "2020-06-09T09:52:46+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
+        "last_updated": "2020-06-09",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 266026,
+      "confirmed": 266992,
       "deceased": 7478,
       "migrated": 15,
-      "recovered": 129489,
-      "tested": 4774434
+      "recovered": 129500,
+      "tested": 4916116
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 966
+    },
     "meta": {
-      "last_updated": "2020-06-08T13:05:48+05:30",
+      "last_updated": "2020-06-09T09:52:47+05:30",
       "notes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\""
     },
     "total": {
-      "confirmed": 7837
+      "confirmed": 8803
     }
   },
   "UP": {

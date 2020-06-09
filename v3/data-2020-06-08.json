@@ -967,17 +967,19 @@
   "CH": {
     "delta": {
       "confirmed": 6,
+      "recovered": 11,
       "tested": 73
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 11
         },
         "total": {
           "confirmed": 320,
           "deceased": 5,
-          "recovered": 274
+          "recovered": 285
         }
       }
     },
@@ -990,7 +992,7 @@
     "total": {
       "confirmed": 320,
       "deceased": 5,
-      "recovered": 274,
+      "recovered": 285,
       "tested": 5385
     }
   },
@@ -5910,7 +5912,7 @@
       "confirmed": 8536,
       "deceased": 271,
       "migrated": 2,
-      "recovered": 5640,
+      "recovered": 5651,
       "tested": 108048
     },
     "meta": {
@@ -5923,7 +5925,7 @@
       "confirmed": 266020,
       "deceased": 7478,
       "migrated": 15,
-      "recovered": 129488,
+      "recovered": 129499,
       "tested": 4774434
     }
   },

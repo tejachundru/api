@@ -1173,24 +1173,24 @@
 		{
 			"dailyconfirmed": "8536",
 			"dailydeceased": "271",
-			"dailyrecovered": "5640",
+			"dailyrecovered": "5651",
 			"date": "08 June ",
 			"totalconfirmed": "266021",
 			"totaldeceased": "7477",
-			"totalrecovered": "129488"
+			"totalrecovered": "129499"
 		}
 	],
 	"statewise": [
 		{
-			"active": "129044",
-			"confirmed": "266026",
+			"active": "129999",
+			"confirmed": "266992",
 			"deaths": "7478",
-			"deltaconfirmed": "6",
+			"deltaconfirmed": "972",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "09/06/2020 09:42:46",
+			"lastupdatedtime": "09/06/2020 09:52:46",
 			"migratedother": "15",
-			"recovered": "129489",
+			"recovered": "129500",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1308,13 +1308,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "7837",
-			"confirmed": "7837",
+			"active": "8803",
+			"confirmed": "8803",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "966",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/06/2020 13:05:48",
+			"lastupdatedtime": "09/06/2020 09:52:47",
 			"migratedother": "0",
 			"recovered": "0",
 			"state": "State Unassigned",
@@ -1546,15 +1546,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "42",
+			"active": "31",
 			"confirmed": "321",
 			"deaths": "5",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/06/2020 09:42:48",
+			"lastupdatedtime": "09/06/2020 09:52:49",
 			"migratedother": "0",
-			"recovered": "274",
+			"recovered": "285",
 			"state": "Chandigarh",
 			"statecode": "CH",
 			"statenotes": ""
@@ -1594,7 +1594,7 @@
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/06/2020 09:42:49",
+			"lastupdatedtime": "09/06/2020 09:43:50",
 			"migratedother": "0",
 			"recovered": "8",
 			"state": "Nagaland",
@@ -2974,6 +2974,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "4774434",
 			"updatetimestamp": "08/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "141682",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/374",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "4916116",
+			"updatetimestamp": "09/06/2020 09:00:00"
 		}
 	]
 }
