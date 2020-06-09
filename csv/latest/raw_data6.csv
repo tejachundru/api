@@ -7107,61 +7107,116 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 55736,,09/06/2020,,,,Bametara,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1270337217261699074,,,,,,85106
 55737,,09/06/2020,,,,Janjgir Champa,Chhattisgarh,CT,1,Hospitalized,,,https://twitter.com/HealthCgGov/status/1270337217261699074,,,,,,85107
 55738,,09/06/2020,,,,Durg,Chhattisgarh,CT,1,Deceased,,,https://twitter.com/HealthCgGov/status/1270337217261699074,,,,,,85108
-55739,,09/06/2020,,,,Ariyalur,,,3,Hospitalized,,,,,,,,,85109
-55740,,09/06/2020,,,,Chengalpattu,,,158,Hospitalized,,,,,,,,,85110
-55741,,09/06/2020,,,,Chennai,,,1247,Hospitalized,,,,,,,,,85111
-55742,,09/06/2020,,,,Coimbatore,,,5,Hospitalized,,,,,,,,,85112
-55743,,09/06/2020,,,,Dharmapuri,,,1,Hospitalized,,,,,,,,,85113
-55744,,09/06/2020,,,,Dindigul,,,6,Hospitalized,,,,,,,,,85114
-55745,,09/06/2020,,,,Erode,,,-2,Hospitalized,,,,,,,,,85115
-55746,,09/06/2020,,,,Kallakurichi,,,3,Hospitalized,,,,,,,,,85116
-55747,,09/06/2020,,,,Kancheepuram,,,33,Hospitalized,,,,,,,,,85117
-55748,,09/06/2020,,,,Kanyakumari,,,1,Hospitalized,,,,,,,,,85118
-55749,,09/06/2020,,,,Madurai,,,16,Hospitalized,,,,,,,,,85119
-55750,,09/06/2020,,,,Nagapattinam,,,7,Hospitalized,,,,,,,,,85120
-55751,,09/06/2020,,,,Perambalur,,,1,Hospitalized,,,,,,,,,85121
-55752,,09/06/2020,,,,Pudukkottai,,,4,Hospitalized,,,,,,,,,85122
-55753,,09/06/2020,,,,Ramanathapuram,,,6,Hospitalized,,,,,,,,,85123
-55754,,09/06/2020,,,,Ranipet,,,1,Hospitalized,,,,,,,,,85124
-55755,,09/06/2020,,,,Salem,,,-10,Hospitalized,,,,,,,,,85125
-55756,,09/06/2020,,,,Thanjavur,,,8,Hospitalized,,,,,,,,,85126
-55757,,09/06/2020,,,,Theni,,,-1,Hospitalized,,,,,,,,,85127
-55758,,09/06/2020,,,,Thiruvallur,,,90,Hospitalized,,,,,,,,,85128
-55759,,09/06/2020,,,,Tiruvannamalai,,,19,Hospitalized,,,,,,,,,85129
-55760,,09/06/2020,,,,Thiruvarur,,,7,Hospitalized,,,,,,,,,85130
-55761,,09/06/2020,,,,Thoothukkudi,,,10,Hospitalized,,,,,,,,,85131
-55762,,09/06/2020,,,,Tirunelveli,,,10,Hospitalized,,,,,,,,,85132
-55763,,09/06/2020,,,,Tiruchirappalli,,,4,Hospitalized,,,,,,,,,85133
-55764,,09/06/2020,,,,Vellore,,,16,Hospitalized,,,,,,,,,85134
-55765,,09/06/2020,,,,Viluppuram,,,1,Hospitalized,,,,,,,,,85135
-55766,,09/06/2020,,,,Virudhunagar,,,1,Hospitalized,,,,,,,,,85136
-55767,,09/06/2020,,,,Airport Quarantine,,,8,Hospitalized,,,,,,,,,85137
-55768,,09/06/2020,,,,Railway Quarantine,,,28,Hospitalized,,,,,,,,,85138
-55769,,09/06/2020,,,,,,,4,Hospitalized,,,,,,,,,85139
-55770,,09/06/2020,,,,Chengalpattu,,,95,Recovered,,,,,,,,,85140
-55771,,09/06/2020,,,,Chennai,,,474,Recovered,,,,,,,,,85141
-55772,,09/06/2020,,,,Cuddalore,,,3,Recovered,,,,,,,,,85142
-55773,,09/06/2020,,,,Dindigul,,,3,Recovered,,,,,,,,,85143
-55774,,09/06/2020,,,,Kallakurichi,,,1,Recovered,,,,,,,,,85144
-55775,,09/06/2020,,,,Kancheepuram,,,21,Recovered,,,,,,,,,85145
-55776,,09/06/2020,,,,Kanyakumari,,,2,Recovered,,,,,,,,,85146
-55777,,09/06/2020,,,,Karur,,,2,Recovered,,,,,,,,,85147
-55778,,09/06/2020,,,,Madurai,,,1,Recovered,,,,,,,,,85148
-55779,,09/06/2020,,,,Pudukkottai,,,1,Recovered,,,,,,,,,85149
-55780,,09/06/2020,,,,Ramanathapuram,,,1,Recovered,,,,,,,,,85150
-55781,,09/06/2020,,,,Salem,,,23,Recovered,,,,,,,,,85151
-55782,,09/06/2020,,,,Thiruvallur,,,39,Recovered,,,,,,,,,85152
-55783,,09/06/2020,,,,Tiruvannamalai,,,58,Recovered,,,,,,,,,85153
-55784,,09/06/2020,,,,Thoothukkudi,,,17,Recovered,,,,,,,,,85154
-55785,,09/06/2020,,,,Tirunelveli,,,2,Recovered,,,,,,,,,85155
-55786,,09/06/2020,,,,Vellore,,,3,Recovered,,,,,,,,,85156
-55787,,09/06/2020,,,,Virudhunagar,,,7,Recovered,,,,,,,,,85157
-55788,,09/06/2020,,,,Railway Quarantine,,,40,Recovered,,,,,,,,,85158
-55789,,09/06/2020,,,,Airport Quarantine,,,5,Recovered,,,,,,,,,85159
-55790,,09/06/2020,,,,,,,,,,,,,,,,,85160
-55791,,09/06/2020,,,,,,,,,,,,,,,,,85161
-55792,,09/06/2020,,,,,,,,,,,,,,,,,85162
-55793,,09/06/2020,,,,,,,,,,,,,,,,,85163
+55739,,09/06/2020,,,,Ariyalur,Tamil Nadu,TN,3,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85109
+55740,,09/06/2020,,,,Chengalpattu,Tamil Nadu,TN,158,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85110
+55741,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1247,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85111
+55742,,09/06/2020,,,,Coimbatore,Tamil Nadu,TN,5,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85112
+55743,,09/06/2020,,,,Dharmapuri,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85113
+55744,,09/06/2020,,,,Dindigul,Tamil Nadu,TN,6,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85114
+55745,,09/06/2020,,,,Erode,Tamil Nadu,TN,-2,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85115
+55746,,09/06/2020,,,,Kallakurichi,Tamil Nadu,TN,3,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85116
+55747,,09/06/2020,,,,Kancheepuram,Tamil Nadu,TN,33,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85117
+55748,,09/06/2020,,,,Kanyakumari,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85118
+55749,,09/06/2020,,,,Madurai,Tamil Nadu,TN,16,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85119
+55750,,09/06/2020,,,,Nagapattinam,Tamil Nadu,TN,7,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85120
+55751,,09/06/2020,,,,Perambalur,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85121
+55752,,09/06/2020,,,,Pudukkottai,Tamil Nadu,TN,4,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85122
+55753,,09/06/2020,,,,Ramanathapuram,Tamil Nadu,TN,6,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85123
+55754,,09/06/2020,,,,Ranipet,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85124
+55755,,09/06/2020,,,,Salem,Tamil Nadu,TN,-10,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85125
+55756,,09/06/2020,,,,Thanjavur,Tamil Nadu,TN,8,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85126
+55757,,09/06/2020,,,,Theni,Tamil Nadu,TN,-1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85127
+55758,,09/06/2020,,,,Thiruvallur,Tamil Nadu,TN,90,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85128
+55759,,09/06/2020,,,,Tiruvannamalai,Tamil Nadu,TN,19,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85129
+55760,,09/06/2020,,,,Thiruvarur,Tamil Nadu,TN,7,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85130
+55761,,09/06/2020,,,,Thoothukkudi,Tamil Nadu,TN,10,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85131
+55762,,09/06/2020,,,,Tirunelveli,Tamil Nadu,TN,10,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85132
+55763,,09/06/2020,,,,Tiruchirappalli,Tamil Nadu,TN,4,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85133
+55764,,09/06/2020,,,,Vellore,Tamil Nadu,TN,16,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85134
+55765,,09/06/2020,,,,Viluppuram,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85135
+55766,,09/06/2020,,,,Virudhunagar,Tamil Nadu,TN,1,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85136
+55767,,09/06/2020,,,,Airport Quarantine,Tamil Nadu,TN,8,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85137
+55768,,09/06/2020,,,,Railway Quarantine,Tamil Nadu,TN,28,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85138
+55769,,09/06/2020,,,,Airport Quarantine,Tamil Nadu,TN,4,Hospitalized,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85139
+55770,,09/06/2020,,,,Chengalpattu,Tamil Nadu,TN,95,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85140
+55771,,09/06/2020,,,,Chennai,Tamil Nadu,TN,474,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85141
+55772,,09/06/2020,,,,Cuddalore,Tamil Nadu,TN,3,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85142
+55773,,09/06/2020,,,,Dindigul,Tamil Nadu,TN,3,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85143
+55774,,09/06/2020,,,,Kallakurichi,Tamil Nadu,TN,1,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85144
+55775,,09/06/2020,,,,Kancheepuram,Tamil Nadu,TN,21,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85145
+55776,,09/06/2020,,,,Kanyakumari,Tamil Nadu,TN,2,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85146
+55777,,09/06/2020,,,,Karur,Tamil Nadu,TN,2,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85147
+55778,,09/06/2020,,,,Madurai,Tamil Nadu,TN,1,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85148
+55779,,09/06/2020,,,,Pudukkottai,Tamil Nadu,TN,1,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85149
+55780,,09/06/2020,,,,Ramanathapuram,Tamil Nadu,TN,1,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85150
+55781,,09/06/2020,,,,Salem,Tamil Nadu,TN,23,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85151
+55782,,09/06/2020,,,,Thiruvallur,Tamil Nadu,TN,39,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85152
+55783,,09/06/2020,,,,Tiruvannamalai,Tamil Nadu,TN,58,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85153
+55784,,09/06/2020,,,,Thoothukkudi,Tamil Nadu,TN,17,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85154
+55785,,09/06/2020,,,,Tirunelveli,Tamil Nadu,TN,2,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85155
+55786,,09/06/2020,,,,Vellore,Tamil Nadu,TN,3,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85156
+55787,,09/06/2020,,,,Virudhunagar,Tamil Nadu,TN,7,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85157
+55788,,09/06/2020,,,,Railway Quarantine,Tamil Nadu,TN,40,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85158
+55789,,09/06/2020,,,,Airport Quarantine,Tamil Nadu,TN,5,Recovered,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85159
+55790,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85160
+55791,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85161
+55792,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85162
+55793,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,85163
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Chennai,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Kancheepuram,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Thiruvallur,Tamil Nadu,TN,1,Deceased,,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf,,,,,,
+,,09/06/2020,,,,Rajnandgaon,,,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Balod,,,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Kabeerdham,,,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Raipur,,,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Mahasamund,,,4,Recovered,,,,,,,,,
+,,09/06/2020,,,,Raigarh,,,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Mungeli,,,3,Recovered,,,,,,,,,
+,,09/06/2020,,,,Lunglei,Mizoram,MZ,15,Hospitalized,,,https://twitter.com/dipr_mizoram/status/1270345341272031235?s=20,,,,,,
+,,09/06/2020,,,,Aizawl,Mizoram,MZ,2,Hospitalized,,,https://twitter.com/dipr_mizoram/status/1270345341272031235?s=20,,,,,,
+,,09/06/2020,,,,Amritsar,Punjab,PB,21,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Jalandhar,Punjab,PB,4,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Ludhiana,Punjab,PB,15,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Tarn Taran,Punjab,PB,1,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Patiala,Punjab,PB,1,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,S.A.S. Nagar,Punjab,PB,5,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Sangrur,Punjab,PB,5,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Pathankot,Punjab,PB,3,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Faridkot,Punjab,PB,-1,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Sri Muktsar Sahib,Punjab,PB,1,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Barnala,Punjab,PB,1,Hospitalized,,,,,,,,,
+,,09/06/2020,,,,Amritsar,Punjab,PB,12,Recovered,,,,,,,,,
+,,09/06/2020,,,,Patiala,Punjab,PB,2,Recovered,,,,,,,,,
+,,09/06/2020,,,,Hoshiarpur,Punjab,PB,9,Recovered,,,,,,,,,
+,,09/06/2020,,,,Shahid Bhagat Singh Nagar,Punjab,PB,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Rupnagar,Punjab,PB,9,Recovered,,,,,,,,,
+,,09/06/2020,,,,Fatehgarh Sahib,Punjab,PB,5,Recovered,,,,,,,,,
+,,09/06/2020,,,,Barnala,Punjab,PB,1,Recovered,,,,,,,,,
+,,09/06/2020,,,,Amritsar,Punjab,PB,2,Deceased,,,,,,,,,
+,,08/06/2020,,,,Bidar,,,-7,Recovered,,,,,,,,,
+,,08/06/2020,,,,Chikkaballapura,,,1,Recovered,,,,,,,,,
+,,08/06/2020,,,,Dakshina Kannada,,,-1,Recovered,,,,,,,,,
+,,08/06/2020,,,,Dharwad,,,2,Recovered,,,,,,,,,
+,,08/06/2020,,,,Hassan,,,1,Recovered,,,,,,,,,
+,,08/06/2020,,,,Udupi,,,-84,Recovered,,,,,,,,,
+,,08/06/2020,,,,Vijayapura,,,11,Recovered,,,,,,,,,
+,,08/06/2020,,,,Yadgir,,,-1,Recovered,,,,,,,,,
+,,09/06/2020,,,,,,,,,,,,,,,,,
+,,09/06/2020,,,,,,,,,,,,,,,,,
+,,09/06/2020,,,,,,,,,,,,,,,,,
+,,09/06/2020,,,,,,,,,,,,,,,,,
+,,09/06/2020,,,,,,,,,,,,,,,,,
 ,,09/06/2020,,,,,,,,,,,,,,,,,
 ,,09/06/2020,,,,,,,,,,,,,,,,,
 ,,09/06/2020,,,,,,,,,,,,,,,,,
