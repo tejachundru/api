@@ -1748,6 +1748,9 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 7
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -1781,8 +1784,11 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 192,
+          "confirmed": 194,
           "recovered": 42
         }
       },
@@ -1880,8 +1886,11 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 25,
+          "confirmed": 30,
           "recovered": 6
         }
       },
@@ -1899,14 +1908,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:40:48+05:30",
+      "last_updated": "2020-06-10T13:56:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/indiacovid/6728"
       }
     },
     "total": {
-      "confirmed": 1416,
+      "confirmed": 1423,
       "deceased": 8,
       "recovered": 559,
       "tested": 92325
@@ -4774,20 +4783,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1323,
+      "confirmed": 1330,
       "deceased": 2,
       "recovered": 296,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T13:36:46+05:30",
+      "last_updated": "2020-06-10T13:56:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 277322,
+      "confirmed": 277329,
       "deceased": 7752,
       "migrated": 15,
       "recovered": 134949,
