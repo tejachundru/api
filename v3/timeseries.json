@@ -1665,13 +1665,14 @@
       "delta": {
         "confirmed": 365,
         "deceased": 1,
-        "recovered": 110
+        "recovered": 110,
+        "tested": 15355
       },
       "total": {
         "confirmed": 5247,
         "deceased": 78,
         "recovered": 2869,
-        "tested": 483361
+        "tested": 498716
       }
     }
   },
