@@ -983,10 +983,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -176,
+        "active": -175,
         "confirmed": 126,
         "deceased": 1,
-        "recovered": 301,
+        "recovered": 300,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1461,12 +1461,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 36,
-        "confirmed": 326,
+        "active": 37,
+        "confirmed": 327,
         "deceased": 5,
         "recovered": 285,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

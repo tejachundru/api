@@ -432,7 +432,7 @@
           "confirmed": 122,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 301
+          "recovered": 300
         }
       },
       "West Karbi Anglong": {
@@ -442,7 +442,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T00:27:48+05:30",
+      "last_updated": "2020-06-10T10:12:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
@@ -453,7 +453,7 @@
       "confirmed": 3051,
       "deceased": 5,
       "migrated": 3,
-      "recovered": 1098,
+      "recovered": 1097,
       "tested": 169842
     }
   },
@@ -726,24 +726,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 326,
+          "confirmed": 327,
           "deceased": 5,
           "recovered": 285
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T19:38:53+05:30",
+      "last_updated": "2020-06-10T10:12:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
       }
     },
     "total": {
-      "confirmed": 326,
+      "confirmed": 327,
       "deceased": 5,
       "recovered": 285,
       "tested": 5385
@@ -3093,7 +3099,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T10:02:52+05:30",
+      "last_updated": "2020-06-10T10:04:54+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-862020-500pm-962020-500-pm"
@@ -3162,7 +3168,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T10:02:50+05:30",
+      "last_updated": "2020-06-10T10:09:50+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/MyGovNagaland/status/1270336368707690498/photo/1"
@@ -4461,20 +4467,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 522
+      "confirmed": 523
     },
     "meta": {
-      "last_updated": "2020-06-10T10:02:46+05:30",
+      "last_updated": "2020-06-10T10:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 275302,
+      "confirmed": 275303,
       "deceased": 7719,
       "migrated": 15,
-      "recovered": 134166,
+      "recovered": 134165,
       "tested": 4916116
     }
   },
@@ -4483,7 +4489,7 @@
       "confirmed": 516
     },
     "meta": {
-      "last_updated": "2020-06-10T10:02:48+05:30",
+      "last_updated": "2020-06-10T10:04:48+05:30",
       "notes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\""
     },
     "total": {
