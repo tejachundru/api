@@ -858,6 +858,10 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 29,
+      "recovered": 4
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -922,15 +926,22 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 26
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 95,
           "recovered": 16
         }
       },
       "Jashpur": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 79,
-          "recovered": 8
+          "confirmed": 80,
+          "recovered": 12
         }
       },
       "Kabeerdham": {
@@ -994,8 +1005,11 @@
         }
       },
       "Surguja": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 24,
+          "confirmed": 26,
           "recovered": 7
         }
       },
@@ -1007,16 +1021,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T19:38:51+05:30",
+      "last_updated": "2020-06-10T13:12:49+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
       }
     },
     "total": {
-      "confirmed": 1211,
+      "confirmed": 1240,
       "deceased": 5,
-      "recovered": 347,
+      "recovered": 351,
       "tested": 96963
     }
   },
@@ -1397,6 +1411,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 8
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1450,23 +1468,33 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 20,
+          "confirmed": 22,
           "recovered": 4
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 34,
+          "confirmed": 35,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 14
+          "recovered": 17
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 49,
-          "recovered": 30
+          "recovered": 35
         }
       },
       "Unknown": {
@@ -1476,7 +1504,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T17:55:49+05:30",
+      "last_updated": "2020-06-10T13:12:51+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-09",
@@ -1484,10 +1512,10 @@
       }
     },
     "total": {
-      "confirmed": 437,
+      "confirmed": 440,
       "deceased": 6,
       "migrated": 3,
-      "recovered": 237,
+      "recovered": 245,
       "tested": 47655
     }
   },
@@ -3287,7 +3315,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 110
+      "confirmed": 110,
+      "tested": 3017
     },
     "districts": {
       "Angul": {
@@ -3537,15 +3566,15 @@
       "last_updated": "2020-06-10T10:40:49+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/376?single"
+        "last_updated": "2020-06-10",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/390?single"
       }
     },
     "total": {
       "confirmed": 3250,
       "deceased": 11,
       "recovered": 2133,
-      "tested": 182384
+      "tested": 185401
     }
   },
   "PB": {
@@ -4687,23 +4716,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 926,
+      "confirmed": 958,
       "deceased": 1,
-      "recovered": 174,
+      "recovered": 186,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T12:42:46+05:30",
+      "last_updated": "2020-06-10T13:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 277072,
+      "confirmed": 277104,
       "deceased": 7751,
       "migrated": 15,
-      "recovered": 134843,
+      "recovered": 134855,
       "tested": 5061332
     }
   },
