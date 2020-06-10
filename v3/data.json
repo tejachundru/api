@@ -3093,7 +3093,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T09:52:52+05:30",
+      "last_updated": "2020-06-10T10:02:52+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-862020-500pm-962020-500-pm"
@@ -3106,6 +3106,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3119,8 +3122,11 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 2
         }
       },
@@ -3156,14 +3162,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T00:27:51+05:30",
+      "last_updated": "2020-06-10T10:02:50+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/MyGovNagaland/status/1270336368707690498/photo/1"
       }
     },
     "total": {
-      "confirmed": 127,
+      "confirmed": 128,
       "recovered": 10,
       "tested": 4896
     }
@@ -4455,17 +4461,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 521
+      "confirmed": 522
     },
     "meta": {
-      "last_updated": "2020-06-10T09:52:46+05:30",
+      "last_updated": "2020-06-10T10:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 275301,
+      "confirmed": 275302,
       "deceased": 7719,
       "migrated": 15,
       "recovered": 134166,
@@ -4477,7 +4483,7 @@
       "confirmed": 516
     },
     "meta": {
-      "last_updated": "2020-06-10T09:52:50+05:30",
+      "last_updated": "2020-06-10T10:02:48+05:30",
       "notes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\""
     },
     "total": {
