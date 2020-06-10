@@ -1204,6 +1204,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1366,
+      "deceased": 31,
+      "recovered": 504
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1257,10 +1262,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1366,
+          "deceased": 31,
+          "recovered": 504
+        },
         "total": {
-          "confirmed": 29155,
-          "deceased": 873,
-          "recovered": 11357
+          "confirmed": 30521,
+          "deceased": 904,
+          "recovered": 11861
         }
       },
       "West Delhi": {
@@ -1276,9 +1286,9 @@
       }
     },
     "total": {
-      "confirmed": 29943,
-      "deceased": 874,
-      "recovered": 11357,
+      "confirmed": 31309,
+      "deceased": 905,
+      "recovered": 11861,
       "tested": 255615
     }
   },
@@ -5927,9 +5937,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8852,
-      "deceased": 241,
-      "recovered": 5128,
+      "confirmed": 10218,
+      "deceased": 272,
+      "recovered": 5632,
       "tested": 141682
     },
     "meta": {
@@ -5939,10 +5949,10 @@
       }
     },
     "total": {
-      "confirmed": 274780,
-      "deceased": 7719,
+      "confirmed": 276146,
+      "deceased": 7750,
       "migrated": 15,
-      "recovered": 134165,
+      "recovered": 134669,
       "tested": 4916116
     }
   },
