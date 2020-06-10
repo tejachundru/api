@@ -4793,19 +4793,19 @@
     "delta": {
       "confirmed": 277,
       "deceased": 6,
-      "recovered": 381,
+      "recovered": 363,
       "tested": 11566
     },
     "districts": {
       "Ajmer": {
         "delta": {
           "confirmed": 3,
-          "recovered": 21
+          "recovered": 3
         },
         "total": {
           "confirmed": 368,
           "deceased": 9,
-          "recovered": 331
+          "recovered": 313
         }
       },
       "Alwar": {
@@ -5163,7 +5163,7 @@
     "total": {
       "confirmed": 10876,
       "deceased": 246,
-      "recovered": 8135,
+      "recovered": 8117,
       "tested": 518350
     }
   },
@@ -5201,6 +5201,7 @@
   },
   "TG": {
     "delta": {
+      "confirmed": 92,
       "deceased": 5
     },
     "districts": {
@@ -5387,10 +5388,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 92,
           "deceased": 5
         },
         "total": {
-          "confirmed": 357,
+          "confirmed": 449,
           "deceased": 112,
           "recovered": 1191
         }
@@ -5426,7 +5428,7 @@
       }
     },
     "total": {
-      "confirmed": 3650,
+      "confirmed": 3742,
       "deceased": 142,
       "recovered": 1742,
       "tested": 23388
@@ -5913,10 +5915,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8444,
+      "confirmed": 8536,
       "deceased": 271,
       "migrated": 2,
-      "recovered": 5189,
+      "recovered": 5171,
       "tested": 108048
     },
     "meta": {
@@ -5926,10 +5928,10 @@
       }
     },
     "total": {
-      "confirmed": 265928,
+      "confirmed": 266020,
       "deceased": 7478,
       "migrated": 15,
-      "recovered": 129037,
+      "recovered": 129019,
       "tested": 4774434
     }
   },

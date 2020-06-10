@@ -2107,6 +2107,24 @@
 			"statecode": "CH"
 		},
 		{
+			"active": "1",
+			"confirmed": "1",
+			"deceased": "0",
+			"deltaactive": "0",
+			"deltaconfirmed": "0",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
+			"district": "Other State",
+			"districtkey": "CT_Other State",
+			"districtnotes": "",
+			"lastupdated": "",
+			"migratedother": "0",
+			"recovered": "0",
+			"slno": "114",
+			"state": "Chhattisgarh",
+			"statecode": "CT"
+		},
+		{
 			"active": "20",
 			"confirmed": "41",
 			"deceased": "0",
@@ -13753,8 +13771,8 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

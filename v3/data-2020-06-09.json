@@ -4746,14 +4746,15 @@
     "delta": {
       "confirmed": 369,
       "deceased": 9,
-      "recovered": 193,
+      "recovered": 211,
       "tested": 11681
     },
     "districts": {
       "Ajmer": {
         "delta": {
           "confirmed": 9,
-          "deceased": 2
+          "deceased": 2,
+          "recovered": 18
         },
         "total": {
           "confirmed": 377,
@@ -5178,7 +5179,7 @@
   },
   "TG": {
     "delta": {
-      "confirmed": 270,
+      "confirmed": 178,
       "deceased": 6
     },
     "districts": {
@@ -5392,7 +5393,6 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 92,
           "deceased": 6
         },
         "total": {
@@ -5930,9 +5930,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10071,
+      "confirmed": 9979,
       "deceased": 272,
-      "recovered": 5616,
+      "recovered": 5634,
       "tested": 141682
     },
     "meta": {

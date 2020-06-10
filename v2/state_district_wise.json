@@ -1593,6 +1593,19 @@
     "statecode": "CT",
     "districtData": [
       {
+        "district": "Other State",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Balod",
         "notes": "",
         "active": 20,
@@ -1950,19 +1963,6 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
