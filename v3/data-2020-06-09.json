@@ -2043,7 +2043,8 @@
     "delta": {
       "confirmed": 126,
       "deceased": 1,
-      "recovered": 40
+      "recovered": 40,
+      "tested": 2774
     },
     "districts": {
       "Bokaro": {
@@ -2257,15 +2258,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/indiacovid/6728"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/FOBGumla/status/1270400929062203392?s=09"
       }
     },
     "total": {
       "confirmed": 1416,
       "deceased": 8,
       "recovered": 559,
-      "tested": 92325
+      "tested": 95099
     }
   },
   "JK": {
