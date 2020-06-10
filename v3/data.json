@@ -2505,6 +2505,9 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 7
+    },
     "districts": {
       "Kargil": {
         "total": {
@@ -2513,8 +2516,11 @@
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 54,
+          "confirmed": 61,
           "deceased": 1,
           "recovered": 37
         }
@@ -2528,7 +2534,7 @@
       }
     },
     "total": {
-      "confirmed": 108,
+      "confirmed": 115,
       "deceased": 1,
       "recovered": 50,
       "tested": 10249
@@ -4928,20 +4934,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1515,
+      "confirmed": 1522,
       "deceased": 6,
       "recovered": 821,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T17:24:46+05:30",
+      "last_updated": "2020-06-10T17:45:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 277514,
+      "confirmed": 277521,
       "deceased": 7756,
       "migrated": 15,
       "recovered": 135474,
