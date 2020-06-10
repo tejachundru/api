@@ -33,114 +33,171 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 365,
+      "deceased": 1,
+      "recovered": 110
+    },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 45,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 306,
+          "confirmed": 351,
           "deceased": 5,
-          "recovered": 173
+          "recovered": 174
         }
       },
       "Chittoor": {
+        "delta": {
+          "confirmed": 24,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 303,
+          "confirmed": 327,
           "deceased": 4,
-          "recovered": 213
+          "recovered": 221
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 11,
+          "deceased": 1,
+          "recovered": 32
+        },
         "total": {
-          "confirmed": 281,
-          "deceased": 2,
-          "recovered": 114
+          "confirmed": 292,
+          "deceased": 3,
+          "recovered": 146
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 56
+        },
         "total": {
-          "confirmed": 132,
+          "confirmed": 188,
           "recovered": 18
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 14,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 566,
+          "confirmed": 580,
           "deceased": 9,
-          "recovered": 393
+          "recovered": 401
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 37,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 570,
+          "confirmed": 607,
           "deceased": 24,
-          "recovered": 353
+          "recovered": 358
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 57,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 776,
+          "confirmed": 833,
           "deceased": 28,
-          "recovered": 603
+          "recovered": 613
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 26,
+          "recovered": 22
+        },
         "total": {
-          "confirmed": 907,
-          "recovered": 354
+          "confirmed": 933,
+          "recovered": 376
         }
       },
       "Prakasam": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 86,
-          "recovered": 69
+          "confirmed": 95,
+          "recovered": 76
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 352,
+          "confirmed": 354,
           "deceased": 4,
-          "recovered": 188
+          "recovered": 192
         }
       },
       "Srikakulam": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 33,
+          "confirmed": 34,
           "recovered": 11
         }
       },
-      "Unknown": {
-        "total": {
-          "confirmed": 147,
-          "recovered": 16
-        }
-      },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 24,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 143,
+          "confirmed": 167,
           "deceased": 1,
-          "recovered": 83
+          "recovered": 90
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 45,
-          "recovered": 13
+          "confirmed": 48,
+          "recovered": 18
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 40,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 209,
-          "recovered": 60
+          "confirmed": 249,
+          "recovered": 61
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 16
+        },
         "total": {
-          "confirmed": 173,
+          "confirmed": 189,
           "recovered": 114
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T18:34:48+05:30",
+      "last_updated": "2020-06-10T13:26:49+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-09",
@@ -148,9 +205,9 @@
       }
     },
     "total": {
-      "confirmed": 5029,
-      "deceased": 77,
-      "recovered": 2775,
+      "confirmed": 5247,
+      "deceased": 78,
+      "recovered": 2869,
       "tested": 483361
     }
   },
@@ -1021,7 +1078,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T13:12:49+05:30",
+      "last_updated": "2020-06-10T13:25:51+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
@@ -1504,7 +1561,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T13:12:51+05:30",
+      "last_updated": "2020-06-10T13:25:54+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-09",
@@ -4716,23 +4773,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 958,
-      "deceased": 1,
-      "recovered": 186,
+      "confirmed": 1323,
+      "deceased": 2,
+      "recovered": 296,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T13:12:46+05:30",
+      "last_updated": "2020-06-10T13:26:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 277104,
-      "deceased": 7751,
+      "confirmed": 277322,
+      "deceased": 7752,
       "migrated": 15,
-      "recovered": 134855,
+      "recovered": 134949,
       "tested": 5061332
     }
   },
