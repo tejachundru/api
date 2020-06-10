@@ -3025,7 +3025,7 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 7
     },
     "districts": {
       "Bishnupur": {
@@ -3083,8 +3083,11 @@
         }
       },
       "Pherzawl": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Senapati": {
@@ -3123,14 +3126,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T15:05:52+05:30",
+      "last_updated": "2020-06-10T19:42:50+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/DiprManipur/status/1270387760239689731?s=19"
       }
     },
     "total": {
-      "confirmed": 309,
+      "confirmed": 311,
       "recovered": 64,
       "tested": 18612
     }
@@ -5268,20 +5271,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3723,
+      "confirmed": 3725,
       "deceased": 30,
       "recovered": 2210,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T19:25:46+05:30",
+      "last_updated": "2020-06-10T19:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 279722,
+      "confirmed": 279724,
       "deceased": 7780,
       "migrated": 15,
       "recovered": 136863,
