@@ -555,6 +555,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -2,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "AR"
@@ -6467,14 +6479,14 @@
       },
       "Puducherry": {
         "notes": "",
-        "active": 75,
-        "confirmed": 124,
+        "active": 82,
+        "confirmed": 136,
         "deceased": 0,
-        "recovered": 49,
+        "recovered": 54,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Yanam": {
