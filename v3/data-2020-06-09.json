@@ -410,11 +410,12 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 17,
+          "deceased": 1
         },
         "total": {
           "confirmed": 423,
-          "deceased": 3,
+          "deceased": 4,
           "recovered": 315
         }
       },
@@ -534,12 +535,10 @@
       "Unknown": {
         "delta": {
           "confirmed": 2,
-          "deceased": 1,
           "recovered": 300
         },
         "total": {
           "confirmed": 122,
-          "deceased": 1,
           "migrated": 3,
           "recovered": 300
         }
