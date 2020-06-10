@@ -1163,6 +1163,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1501,
+      "deceased": 79,
+      "recovered": 384
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1216,10 +1221,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1501,
+          "deceased": 79,
+          "recovered": 384
+        },
         "total": {
-          "confirmed": 30521,
-          "deceased": 904,
-          "recovered": 11861
+          "confirmed": 32022,
+          "deceased": 983,
+          "recovered": 12245
         }
       },
       "West Delhi": {
@@ -1229,7 +1239,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T11:15:48+05:30",
+      "last_updated": "2020-06-10T21:34:50+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-09",
@@ -1237,9 +1247,9 @@
       }
     },
     "total": {
-      "confirmed": 31309,
-      "deceased": 905,
-      "recovered": 11861,
+      "confirmed": 32810,
+      "deceased": 984,
+      "recovered": 12245,
       "tested": 261079
     }
   },
@@ -5052,7 +5062,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T21:22:51+05:30",
+      "last_updated": "2020-06-10T21:32:54+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/indiacovid/6822"
@@ -5815,23 +5825,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8755,
-      "deceased": 249,
-      "recovered": 5447,
+      "confirmed": 10258,
+      "deceased": 328,
+      "recovered": 5831,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T21:22:46+05:30",
+      "last_updated": "2020-06-10T21:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 284754,
-      "deceased": 7999,
+      "confirmed": 286257,
+      "deceased": 8078,
       "migrated": 15,
-      "recovered": 140100,
+      "recovered": 140484,
       "tested": 5061332
     }
   },
@@ -6371,7 +6381,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 23,
+      "confirmed": 25,
       "deceased": 2,
       "recovered": 53
     },
@@ -6410,12 +6420,12 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 7,
           "deceased": 2,
           "recovered": 22
         },
         "total": {
-          "confirmed": 402,
+          "confirmed": 403,
           "deceased": 11,
           "migrated": 4,
           "recovered": 161
@@ -6459,8 +6469,11 @@
         }
       },
       "Rudraprayag": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "recovered": 3
         }
       },
@@ -6499,7 +6512,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T15:35:49+05:30",
+      "last_updated": "2020-06-10T21:34:52+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
@@ -6507,7 +6520,7 @@
       }
     },
     "total": {
-      "confirmed": 1560,
+      "confirmed": 1562,
       "deceased": 15,
       "migrated": 7,
       "recovered": 808,
