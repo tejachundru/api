@@ -547,7 +547,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:41:48+05:30",
+      "last_updated": "2020-06-11T00:45:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
@@ -1006,8 +1006,8 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 29,
-      "recovered": 4
+      "confirmed": 51,
+      "recovered": 55
     },
     "districts": {
       "Balod": {
@@ -1023,26 +1023,38 @@
         }
       },
       "Balrampur": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 22,
+          "confirmed": 32,
           "recovered": 8
         }
       },
       "Bametara": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 14
         }
       },
       "Bastar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 1
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 105,
+          "confirmed": 106,
           "deceased": 1,
           "recovered": 33
         }
@@ -1054,8 +1066,11 @@
         }
       },
       "Durg": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 43,
           "deceased": 2,
           "recovered": 11
         }
@@ -1098,14 +1113,20 @@
         }
       },
       "Korba": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 125,
+          "confirmed": 127,
           "recovered": 38
         }
       },
       "Koriya": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 45,
+          "confirmed": 46,
           "recovered": 7
         }
       },
@@ -1116,8 +1137,11 @@
         }
       },
       "Mungeli": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 106,
+          "confirmed": 108,
           "recovered": 56
         }
       },
@@ -1133,8 +1157,11 @@
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 97,
+          "confirmed": 99,
           "deceased": 1,
           "recovered": 11
         }
@@ -1160,6 +1187,14 @@
           "recovered": 7
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 51
+        },
+        "total": {
+          "recovered": 51
+        }
+      },
       "Uttar Bastar Kanker": {
         "total": {
           "confirmed": 26,
@@ -1168,16 +1203,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T13:25:51+05:30",
+      "last_updated": "2020-06-11T00:52:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
       }
     },
     "total": {
-      "confirmed": 1240,
+      "confirmed": 1262,
       "deceased": 5,
-      "recovered": 351,
+      "recovered": 402,
       "tested": 96963
     }
   },
@@ -1818,7 +1853,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:41:51+05:30",
+      "last_updated": "2020-06-11T00:45:55+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-10",
@@ -6012,7 +6047,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:42:49+05:30",
+      "last_updated": "2020-06-11T00:49:49+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/395"
@@ -6027,23 +6062,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11134,
+      "confirmed": 11156,
       "deceased": 356,
-      "recovered": 6275,
+      "recovered": 6326,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-11T00:42:46+05:30",
+      "last_updated": "2020-06-11T00:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 287133,
+      "confirmed": 287155,
       "deceased": 8106,
       "migrated": 15,
-      "recovered": 140928,
+      "recovered": 140979,
       "tested": 5061332
     }
   },
