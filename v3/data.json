@@ -1006,7 +1006,8 @@
   "CT": {
     "delta": {
       "confirmed": 29,
-      "recovered": 4
+      "recovered": 4,
+      "tested": -2387
     },
     "districts": {
       "Balod": {
@@ -1169,15 +1170,15 @@
     "meta": {
       "last_updated": "2020-06-10T13:25:51+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
+        "last_updated": "2020-06-10",
+        "source": "https://twitter.com/TS_SinghDeo/status/1270743596749041671/photo/1"
       }
     },
     "total": {
       "confirmed": 1240,
       "deceased": 5,
       "recovered": 351,
-      "tested": 96963
+      "tested": 94576
     }
   },
   "DL": {
@@ -4770,7 +4771,8 @@
   "PY": {
     "delta": {
       "confirmed": 12,
-      "recovered": 5
+      "recovered": 5,
+      "tested": -2798
     },
     "districts": {
       "Karaikal": {
@@ -4799,14 +4801,14 @@
     "meta": {
       "last_updated": "2020-06-10T22:33:52+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
+        "last_updated": "2020-06-10",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
       "confirmed": 144,
       "recovered": 60,
-      "tested": 11752
+      "tested": 8954
     }
   },
   "RJ": {
