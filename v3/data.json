@@ -1212,9 +1212,6 @@
   },
   "DL": {
     "delta": {
-      "confirmed": 1366,
-      "deceased": 31,
-      "recovered": 504,
       "tested": 5464
     },
     "districts": {
@@ -1270,15 +1267,10 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 1366,
-          "deceased": 31,
-          "recovered": 504
-        },
         "total": {
-          "confirmed": 30521,
-          "deceased": 904,
-          "recovered": 11861
+          "confirmed": 29155,
+          "deceased": 873,
+          "recovered": 11357
         }
       },
       "West Delhi": {
@@ -1288,7 +1280,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T00:05:47+05:30",
+      "last_updated": "2020-06-10T06:31:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
         "last_updated": "2020-06-09",
@@ -1296,9 +1288,9 @@
       }
     },
     "total": {
-      "confirmed": 31309,
-      "deceased": 905,
-      "recovered": 11861,
+      "confirmed": 29943,
+      "deceased": 874,
+      "recovered": 11357,
       "tested": 261079
     }
   },
@@ -4794,15 +4786,14 @@
     "delta": {
       "confirmed": 369,
       "deceased": 9,
-      "recovered": 211,
+      "recovered": 193,
       "tested": 11681
     },
     "districts": {
       "Ajmer": {
         "delta": {
           "confirmed": 9,
-          "deceased": 2,
-          "recovered": 18
+          "deceased": 2
         },
         "total": {
           "confirmed": 377,
@@ -5229,7 +5220,7 @@
   },
   "TG": {
     "delta": {
-      "confirmed": 178,
+      "confirmed": 270,
       "deceased": 6
     },
     "districts": {
@@ -5443,6 +5434,7 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 92,
           "deceased": 6
         },
         "total": {
@@ -5984,23 +5976,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10126,
-      "deceased": 272,
-      "recovered": 5651,
+      "confirmed": 8852,
+      "deceased": 241,
+      "recovered": 5129,
       "tested": 141682
     },
     "meta": {
-      "last_updated": "2020-06-10T00:43:46+05:30",
+      "last_updated": "2020-06-10T06:31:46+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
       }
     },
     "total": {
-      "confirmed": 276146,
-      "deceased": 7750,
+      "confirmed": 274780,
+      "deceased": 7719,
       "migrated": 15,
-      "recovered": 134670,
+      "recovered": 134166,
       "tested": 4916116
     }
   },
