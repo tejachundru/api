@@ -6256,12 +6256,12 @@
         "delta": {
           "confirmed": 19,
           "deceased": 1,
-          "recovered": 26
+          "recovered": 27
         },
         "total": {
           "confirmed": 746,
           "deceased": 9,
-          "recovered": 452
+          "recovered": 453
         }
       },
       "Ghaziabad": {
@@ -6383,8 +6383,11 @@
         }
       },
       "Kanpur Dehat": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 40,
           "deceased": 1,
           "recovered": 12
         }
@@ -6686,16 +6689,6 @@
           "recovered": 68
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 1,
-          "recovered": 1
-        },
-        "total": {
-          "confirmed": 1,
-          "recovered": 1
-        }
-      },
       "Unnao": {
         "delta": {
           "confirmed": 2
@@ -6735,7 +6728,8 @@
     "delta": {
       "confirmed": 25,
       "deceased": 2,
-      "recovered": 76
+      "recovered": 76,
+      "tested": 608
     },
     "districts": {
       "Almora": {
@@ -6872,8 +6866,8 @@
       "last_updated": "2020-06-10T21:55:53+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf"
+        "last_updated": "2020-06-10",
+        "source": "https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf"
       }
     },
     "total": {
@@ -6881,14 +6875,15 @@
       "deceased": 15,
       "migrated": 7,
       "recovered": 831,
-      "tested": 40264
+      "tested": 40872
     }
   },
   "WB": {
     "delta": {
       "confirmed": 343,
       "deceased": 17,
-      "recovered": 159
+      "recovered": 159,
+      "tested": 9519
     },
     "districts": {
       "Alipurduar": {
@@ -7138,15 +7133,15 @@
     "meta": {
       "last_updated": "2020-06-10T19:59:49+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_JUNE_REPORT_FINAL.pdf"
+        "last_updated": "2020-06-10",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 9328,
       "deceased": 432,
       "recovered": 3779,
-      "tested": 287900
+      "tested": 297419
     }
   }
 }
