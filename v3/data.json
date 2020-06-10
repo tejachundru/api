@@ -2064,13 +2064,16 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 7,
+      "confirmed": 42,
       "tested": 401
     },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 28,
           "deceased": 2,
           "recovered": 20
         }
@@ -2134,8 +2137,11 @@
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 123,
+          "confirmed": 130,
           "recovered": 75
         }
       },
@@ -2146,8 +2152,11 @@
         }
       },
       "Khunti": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 14,
+          "confirmed": 16,
           "recovered": 4
         }
       },
@@ -2165,20 +2174,29 @@
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 36,
           "recovered": 14
         }
       },
       "Pakur": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 17,
+          "confirmed": 29,
           "recovered": 5
         }
       },
       "Palamu": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 38,
           "recovered": 27
         }
       },
@@ -2224,14 +2242,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T13:56:49+05:30",
+      "last_updated": "2020-06-10T23:02:49+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/FOBGumla/status/1270626995416764416?s=19"
       }
     },
     "total": {
-      "confirmed": 1423,
+      "confirmed": 1458,
       "deceased": 8,
       "recovered": 559,
       "tested": 95500
@@ -2760,7 +2778,8 @@
     "delta": {
       "confirmed": 65,
       "deceased": 1,
-      "recovered": 57
+      "recovered": 57,
+      "tested": 4918
     },
     "districts": {
       "Alappuzha": {
@@ -2920,15 +2939,14 @@
       "last_updated": "2020-06-10T19:11:50+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-09.pdf"
+        "last_updated": "2020-06-10"
       }
     },
     "total": {
       "confirmed": 2162,
       "deceased": 18,
       "recovered": 905,
-      "tested": 126088
+      "tested": 131006
     }
   },
   "LA": {
@@ -4482,7 +4500,8 @@
   "PB": {
     "delta": {
       "confirmed": 86,
-      "recovered": 65
+      "recovered": 65,
+      "tested": 8124
     },
     "districts": {
       "Amritsar": {
@@ -4695,15 +4714,15 @@
     "meta": {
       "last_updated": "2020-06-10T18:38:49+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2009-06-2020.pdf"
+        "last_updated": "2020-06-10",
+        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2010-06-2020.pdf"
       }
     },
     "total": {
       "confirmed": 2805,
       "deceased": 55,
       "recovered": 2232,
-      "tested": 136343
+      "tested": 144467
     }
   },
   "PY": {
@@ -5124,6 +5143,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "tested": 346
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -5150,14 +5172,14 @@
     "meta": {
       "last_updated": "2020-06-10T00:43:48+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/381"
+        "last_updated": "2020-06-10",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/396"
       }
     },
     "total": {
       "confirmed": 13,
       "recovered": 3,
-      "tested": 5815
+      "tested": 6161
     }
   },
   "TG": {
@@ -5944,20 +5966,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10799,
+      "confirmed": 10834,
       "deceased": 356,
       "recovered": 6238,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T22:33:46+05:30",
+      "last_updated": "2020-06-10T23:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 286798,
+      "confirmed": 286833,
       "deceased": 8106,
       "migrated": 15,
       "recovered": 140891,
