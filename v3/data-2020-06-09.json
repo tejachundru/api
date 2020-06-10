@@ -1207,7 +1207,8 @@
     "delta": {
       "confirmed": 1366,
       "deceased": 31,
-      "recovered": 504
+      "recovered": 504,
+      "tested": 5464
     },
     "districts": {
       "Central Delhi": {
@@ -1281,15 +1282,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/indiacovid/6717?single"
+        "last_updated": "2020-06-09",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-09.pdf"
       }
     },
     "total": {
       "confirmed": 31309,
       "deceased": 905,
       "recovered": 11861,
-      "tested": 255615
+      "tested": 261079
     }
   },
   "DN": {
@@ -1315,7 +1316,8 @@
   },
   "GA": {
     "delta": {
-      "confirmed": 29
+      "confirmed": 29,
+      "tested": 739
     },
     "districts": {
       "North Goa": {
@@ -1336,14 +1338,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/DHS_Goa/status/1270001344963686402?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/DHS_Goa/status/1270384327809855491?s=19"
       }
     },
     "total": {
       "confirmed": 359,
       "recovered": 67,
-      "tested": 31455
+      "tested": 32194
     }
   },
   "GJ": {

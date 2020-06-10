@@ -985,18 +985,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T11:12:48+05:30",
+      "last_updated": "2020-06-10T11:15:48+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/indiacovid/6717?single"
+        "last_updated": "2020-06-09",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-09.pdf"
       }
     },
     "total": {
       "confirmed": 31309,
       "deceased": 905,
       "recovered": 11861,
-      "tested": 255615
+      "tested": 261079
     }
   },
   "DN": {
@@ -1039,14 +1039,14 @@
     "meta": {
       "last_updated": "2020-06-09T23:15:52+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/DHS_Goa/status/1270001344963686402?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/DHS_Goa/status/1270384327809855491?s=19"
       }
     },
     "total": {
       "confirmed": 359,
       "recovered": 67,
-      "tested": 31455
+      "tested": 32194
     }
   },
   "GJ": {
@@ -4525,7 +4525,7 @@
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T11:12:46+05:30",
+      "last_updated": "2020-06-10T11:15:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
