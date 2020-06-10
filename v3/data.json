@@ -1006,6 +1006,7 @@
   "CT": {
     "delta": {
       "confirmed": 51,
+      "deceased": 1,
       "recovered": 55
     },
     "districts": {
@@ -1066,11 +1067,12 @@
       },
       "Durg": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "deceased": 1
         },
         "total": {
           "confirmed": 43,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 11
         }
       },
@@ -1202,7 +1204,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:59:52+05:30",
+      "last_updated": "2020-06-11T01:12:50+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
@@ -1210,7 +1212,7 @@
     },
     "total": {
       "confirmed": 1262,
-      "deceased": 5,
+      "deceased": 6,
       "recovered": 402,
       "tested": 96963
     }
@@ -6062,12 +6064,12 @@
   "TT": {
     "delta": {
       "confirmed": 11156,
-      "deceased": 356,
+      "deceased": 357,
       "recovered": 6326,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-11T00:59:47+05:30",
+      "last_updated": "2020-06-11T01:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
@@ -6075,7 +6077,7 @@
     },
     "total": {
       "confirmed": 287155,
-      "deceased": 8106,
+      "deceased": 8107,
       "migrated": 15,
       "recovered": 140979,
       "tested": 5061332
