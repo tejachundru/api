@@ -2021,10 +2021,22 @@
       },
       "South Goa": {
         "notes": "",
-        "active": 292,
-        "confirmed": 353,
+        "active": 316,
+        "confirmed": 377,
         "deceased": 0,
         "recovered": 61,
+        "delta": {
+          "confirmed": 24,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -7046,24 +7058,24 @@
       },
       "Hyderabad": {
         "notes": "",
-        "active": 2043,
-        "confirmed": 2371,
+        "active": 2186,
+        "confirmed": 2514,
         "deceased": 23,
         "recovered": 305,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 143,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jagtial": {
         "notes": "",
-        "active": 11,
-        "confirmed": 13,
+        "active": 14,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -7118,12 +7130,12 @@
       },
       "Karimnagar": {
         "notes": "",
-        "active": 7,
-        "confirmed": 23,
+        "active": 9,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7166,12 +7178,12 @@
       },
       "Mahabubnagar": {
         "notes": "",
-        "active": 19,
-        "confirmed": 27,
+        "active": 23,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -7190,24 +7202,24 @@
       },
       "Medak": {
         "notes": "",
-        "active": 10,
-        "confirmed": 14,
+        "active": 13,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Medchal Malkajgiri": {
         "notes": "",
-        "active": 75,
-        "confirmed": 85,
+        "active": 86,
+        "confirmed": 96,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -7226,12 +7238,12 @@
       },
       "Nagarkurnool": {
         "notes": "",
-        "active": 4,
-        "confirmed": 6,
+        "active": 6,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -7274,12 +7286,12 @@
       },
       "Nizamabad": {
         "notes": "",
-        "active": 32,
-        "confirmed": 62,
+        "active": 33,
+        "confirmed": 63,
         "deceased": 0,
         "recovered": 30,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7310,36 +7322,36 @@
       },
       "Ranga Reddy": {
         "notes": "",
-        "active": 163,
-        "confirmed": 182,
+        "active": 171,
+        "confirmed": 190,
         "deceased": 2,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sangareddy": {
         "notes": "",
-        "active": 17,
-        "confirmed": 23,
+        "active": 28,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Siddipet": {
         "notes": "",
-        "active": 2,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7358,12 +7370,12 @@
       },
       "Vikarabad": {
         "notes": "",
-        "active": 24,
-        "confirmed": 40,
+        "active": 25,
+        "confirmed": 41,
         "deceased": 1,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7418,10 +7430,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -860,
-        "confirmed": 449,
-        "deceased": 118,
-        "recovered": 1191,
+        "active": -942,
+        "confirmed": 450,
+        "deceased": 126,
+        "recovered": 1266,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
