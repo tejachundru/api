@@ -6508,14 +6508,14 @@
       },
       "Banswara": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 90,
         "deceased": 2,
-        "recovered": 83,
+        "recovered": 84,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Baran": {
@@ -6556,25 +6556,25 @@
       },
       "Bhilwara": {
         "notes": "",
-        "active": 45,
+        "active": 43,
         "confirmed": 181,
         "deceased": 3,
-        "recovered": 133,
+        "recovered": 135,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Bikaner": {
         "notes": "",
-        "active": 23,
+        "active": 22,
         "confirmed": 117,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 90,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -6616,14 +6616,14 @@
       },
       "Churu": {
         "notes": "",
-        "active": 73,
+        "active": 72,
         "confirmed": 175,
         "deceased": 1,
-        "recovered": 101,
+        "recovered": 102,
         "delta": {
           "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Dausa": {
@@ -6712,14 +6712,14 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 429,
+        "active": 402,
         "confirmed": 2411,
-        "deceased": 118,
-        "recovered": 1864,
+        "deceased": 119,
+        "recovered": 1890,
         "delta": {
           "confirmed": 51,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 26
         }
       },
       "Jaisalmer": {
@@ -6748,26 +6748,26 @@
       },
       "Jhalawar": {
         "notes": "",
-        "active": 90,
+        "active": 87,
         "confirmed": 335,
         "deceased": 0,
-        "recovered": 245,
+        "recovered": 248,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Jhunjhunu": {
         "notes": "",
-        "active": 34,
+        "active": 33,
         "confirmed": 184,
         "deceased": 1,
-        "recovered": 149,
+        "recovered": 150,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Jodhpur": {
@@ -6796,50 +6796,50 @@
       },
       "Kota": {
         "notes": "",
-        "active": 73,
+        "active": 65,
         "confirmed": 535,
         "deceased": 18,
-        "recovered": 444,
+        "recovered": 452,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Nagaur": {
         "notes": "",
-        "active": 77,
+        "active": 74,
         "confirmed": 520,
         "deceased": 9,
-        "recovered": 434,
+        "recovered": 437,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Other State": {
         "notes": "",
-        "active": 36,
+        "active": 35,
         "confirmed": 50,
-        "deceased": 14,
+        "deceased": 15,
         "recovered": 0,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Pali": {
         "notes": "",
-        "active": 227,
+        "active": 220,
         "confirmed": 685,
         "deceased": 7,
-        "recovered": 451,
+        "recovered": 458,
         "delta": {
           "confirmed": 44,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Pratapgarh": {
@@ -6916,14 +6916,14 @@
       },
       "Udaipur": {
         "notes": "",
-        "active": 69,
+        "active": 54,
         "confirmed": 590,
         "deceased": 1,
-        "recovered": 520,
+        "recovered": 535,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       }
     },
