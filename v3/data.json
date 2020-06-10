@@ -3440,6 +3440,7 @@
   "OR": {
     "delta": {
       "confirmed": 110,
+      "recovered": 149,
       "tested": 3017
     },
     "districts": {
@@ -3451,18 +3452,22 @@
       },
       "Balangir": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 11
         },
         "total": {
           "confirmed": 124,
-          "recovered": 69
+          "recovered": 80
         }
       },
       "Balasore": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 197,
           "deceased": 1,
-          "recovered": 152
+          "recovered": 159
         }
       },
       "Bargarh": {
@@ -3476,30 +3481,33 @@
       },
       "Bhadrak": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 5
         },
         "total": {
           "confirmed": 152,
-          "recovered": 130
+          "recovered": 135
         }
       },
       "Boudh": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 35,
-          "recovered": 33
+          "recovered": 34
         }
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 20
+          "confirmed": 20,
+          "recovered": 2
         },
         "total": {
           "confirmed": 209,
           "deceased": 1,
-          "recovered": 117
+          "recovered": 119
         }
       },
       "Deogarh": {
@@ -3524,25 +3532,32 @@
         }
       },
       "Ganjam": {
+        "delta": {
+          "recovered": 57
+        },
         "total": {
           "confirmed": 649,
           "deceased": 4,
-          "recovered": 441
+          "recovered": 498
         }
       },
       "Jagatsinghpur": {
         "delta": {
-          "confirmed": 33
+          "confirmed": 33,
+          "recovered": 8
         },
         "total": {
           "confirmed": 130,
-          "recovered": 68
+          "recovered": 76
         }
       },
       "Jajpur": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 326,
-          "recovered": 280
+          "recovered": 287
         }
       },
       "Jharsuguda": {
@@ -3571,39 +3586,43 @@
       },
       "Kendrapara": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 5
         },
         "total": {
           "confirmed": 170,
-          "recovered": 156
+          "recovered": 161
         }
       },
       "Kendujhar": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 3
         },
         "total": {
           "confirmed": 46,
-          "recovered": 22
+          "recovered": 25
         }
       },
       "Khordha": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 26
         },
         "total": {
           "confirmed": 290,
           "deceased": 5,
-          "recovered": 157
+          "recovered": 183
         }
       },
       "Koraput": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 17,
-          "recovered": 7
+          "recovered": 8
         }
       },
       "Malkangiri": {
@@ -3637,11 +3656,12 @@
       },
       "Nayagarh": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 7
         },
         "total": {
           "confirmed": 97,
-          "recovered": 68
+          "recovered": 75
         }
       },
       "Nuapada": {
@@ -3652,11 +3672,12 @@
       },
       "Puri": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 5
         },
         "total": {
           "confirmed": 115,
-          "recovered": 87
+          "recovered": 92
         }
       },
       "Rayagada": {
@@ -3680,9 +3701,12 @@
         }
       },
       "Sundargarh": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 118,
-          "recovered": 65
+          "recovered": 69
         }
       }
     },
@@ -3697,7 +3721,7 @@
     "total": {
       "confirmed": 3250,
       "deceased": 11,
-      "recovered": 2133,
+      "recovered": 2282,
       "tested": 185401
     }
   },
@@ -4842,7 +4866,7 @@
     "delta": {
       "confirmed": 1514,
       "deceased": 5,
-      "recovered": 458,
+      "recovered": 607,
       "tested": 145216
     },
     "meta": {
@@ -4856,7 +4880,7 @@
       "confirmed": 277513,
       "deceased": 7755,
       "migrated": 15,
-      "recovered": 135111,
+      "recovered": 135260,
       "tested": 5061332
     }
   },

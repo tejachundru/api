@@ -22380,12 +22380,13 @@
     "2020-06-10": {
       "delta": {
         "confirmed": 110,
+        "recovered": 149,
         "tested": 3017
       },
       "total": {
         "confirmed": 3250,
         "deceased": 11,
-        "recovered": 2133,
+        "recovered": 2282,
         "tested": 185401
       }
     }
@@ -30014,14 +30015,14 @@
       "delta": {
         "confirmed": 1514,
         "deceased": 5,
-        "recovered": 458,
+        "recovered": 607,
         "tested": 145216
       },
       "total": {
         "confirmed": 277513,
         "deceased": 7755,
         "migrated": 15,
-        "recovered": 135111,
+        "recovered": 135260,
         "tested": 5061332
       }
     }
