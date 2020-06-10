@@ -219,15 +219,24 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 38
+          "confirmed": 41
         }
       },
       "East Siang": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Lohit": {
@@ -279,14 +288,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T07:37:48+05:30",
+      "last_updated": "2020-06-10T22:02:50+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/387"
       }
     },
     "total": {
-      "confirmed": 57,
+      "confirmed": 61,
       "recovered": 2,
       "tested": 12455
     }
@@ -1306,7 +1315,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T21:52:54+05:30",
+      "last_updated": "2020-06-10T21:56:51+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/DHS_Goa/status/1270720947784278020?s=19"
@@ -3364,7 +3373,8 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 258
     },
     "districts": {
       "East Khasi Hills": {
@@ -3416,15 +3426,15 @@
     "meta": {
       "last_updated": "2020-06-10T14:35:49+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/380"
+        "last_updated": "2020-06-10",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/393"
       }
     },
     "total": {
       "confirmed": 44,
       "deceased": 1,
       "recovered": 13,
-      "tested": 11247
+      "tested": 11505
     }
   },
   "MN": {
@@ -5406,7 +5416,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T21:52:52+05:30",
+      "last_updated": "2020-06-10T21:56:48+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5899,20 +5909,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10752,
+      "confirmed": 10756,
       "deceased": 356,
       "recovered": 6231,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T21:52:46+05:30",
+      "last_updated": "2020-06-10T22:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 286751,
+      "confirmed": 286755,
       "deceased": 8106,
       "migrated": 15,
       "recovered": 140884,
@@ -6675,7 +6685,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T21:51:49+05:30",
+      "last_updated": "2020-06-10T21:55:48+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/indiacovid/6832?single"
@@ -6826,7 +6836,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T21:51:55+05:30",
+      "last_updated": "2020-06-10T21:55:53+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
