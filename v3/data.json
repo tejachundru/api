@@ -185,7 +185,8 @@
   },
   "AR": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 443
     },
     "districts": {
       "Changlang": {
@@ -252,21 +253,22 @@
     "meta": {
       "last_updated": "2020-06-09T07:37:48+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/373"
+        "last_updated": "2020-06-09",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/387"
       }
     },
     "total": {
       "confirmed": 57,
       "recovered": 2,
-      "tested": 12012
+      "tested": 12455
     }
   },
   "AS": {
     "delta": {
       "confirmed": 215,
       "deceased": 1,
-      "recovered": 313
+      "recovered": 313,
+      "tested": 16516
     },
     "districts": {
       "Airport Quarantine": {
@@ -566,8 +568,8 @@
       "last_updated": "2020-06-10T00:27:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-07",
-        "source": "https://twitter.com/nhm_assam/status/1269669639807741953?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/nhm_assam/status/1270384053586259968?s=19"
       }
     },
     "total": {
@@ -575,7 +577,7 @@
       "deceased": 5,
       "migrated": 3,
       "recovered": 1098,
-      "tested": 153326
+      "tested": 169842
     }
   },
   "BR": {
@@ -1211,9 +1213,6 @@
     }
   },
   "DL": {
-    "delta": {
-      "tested": 5464
-    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1283,15 +1282,15 @@
       "last_updated": "2020-06-10T06:36:47+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/indiacovid/6835?single"
+        "last_updated": "2020-06-08",
+        "source": "https://t.me/indiacovid/6717?single"
       }
     },
     "total": {
       "confirmed": 29943,
       "deceased": 874,
       "recovered": 11357,
-      "tested": 261079
+      "tested": 255615
     }
   },
   "DN": {
