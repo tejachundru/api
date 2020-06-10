@@ -904,7 +904,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T16:22:50+05:30",
+      "last_updated": "2020-06-10T16:34:51+05:30",
       "tested": {
         "last_updated": "2020-06-08",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/360"
@@ -4799,6 +4799,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "recovered": 46
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -4836,6 +4839,14 @@
           "recovered": 2
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 46
+        },
+        "total": {
+          "recovered": 46
+        }
+      },
       "Unokoti": {
         "total": {
           "confirmed": 50,
@@ -4851,7 +4862,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:52:48+05:30",
+      "last_updated": "2020-06-10T16:35:49+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/382"
@@ -4860,7 +4871,7 @@
     "total": {
       "confirmed": 866,
       "deceased": 1,
-      "recovered": 192,
+      "recovered": 238,
       "tested": 38572
     }
   },
@@ -4868,11 +4879,11 @@
     "delta": {
       "confirmed": 1515,
       "deceased": 5,
-      "recovered": 611,
+      "recovered": 657,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T16:22:46+05:30",
+      "last_updated": "2020-06-10T16:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
@@ -4882,7 +4893,7 @@
       "confirmed": 277514,
       "deceased": 7755,
       "migrated": 15,
-      "recovered": 135264,
+      "recovered": 135310,
       "tested": 5061332
     }
   },
