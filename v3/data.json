@@ -4752,7 +4752,8 @@
     "delta": {
       "confirmed": 355,
       "deceased": 4,
-      "recovered": 241
+      "recovered": 241,
+      "tested": 13281
     },
     "districts": {
       "Ajmer": {
@@ -5112,15 +5113,14 @@
     "meta": {
       "last_updated": "2020-06-10T21:35:51+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/indiacovid/6822"
+        "last_updated": "2020-06-10"
       }
     },
     "total": {
       "confirmed": 11600,
       "deceased": 259,
       "recovered": 8569,
-      "tested": 530031
+      "tested": 543312
     }
   },
   "SK": {
@@ -5450,7 +5450,8 @@
     "delta": {
       "confirmed": 1927,
       "deceased": 19,
-      "recovered": 1008
+      "recovered": 1008,
+      "tested": 17675
     },
     "districts": {
       "Airport Quarantine": {
@@ -5836,21 +5837,22 @@
       "last_updated": "2020-06-10T19:04:49+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09.06.2020.pdf"
+        "last_updated": "2020-06-10",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-10-06-20-COVID-19-6-PM.pdf"
       }
     },
     "total": {
       "confirmed": 36841,
       "deceased": 326,
       "recovered": 19333,
-      "tested": 621171
+      "tested": 638846
     }
   },
   "TR": {
     "delta": {
       "confirmed": 31,
-      "recovered": 46
+      "recovered": 46,
+      "tested": 1455
     },
     "districts": {
       "Dhalai": {
@@ -5929,15 +5931,15 @@
     "meta": {
       "last_updated": "2020-06-10T22:22:50+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/382"
+        "last_updated": "2020-06-10",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/395"
       }
     },
     "total": {
       "confirmed": 897,
       "deceased": 1,
       "recovered": 238,
-      "tested": 38572
+      "tested": 40027
     }
   },
   "TT": {
@@ -5978,7 +5980,8 @@
     "delta": {
       "confirmed": 275,
       "deceased": 20,
-      "recovered": 302
+      "recovered": 302,
+      "tested": 13351
     },
     "districts": {
       "Agra": {
@@ -6713,15 +6716,15 @@
     "meta": {
       "last_updated": "2020-06-10T21:55:48+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://t.me/indiacovid/6832?single"
+        "last_updated": "2020-06-10",
+        "source": "https://t.me/indiacovid/6913?single"
       }
     },
     "total": {
       "confirmed": 11610,
       "deceased": 321,
       "recovered": 6971,
-      "tested": 391286
+      "tested": 404637
     }
   },
   "UT": {
