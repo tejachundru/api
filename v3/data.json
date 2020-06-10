@@ -1184,7 +1184,8 @@
     "delta": {
       "confirmed": 1501,
       "deceased": 79,
-      "recovered": 384
+      "recovered": 384,
+      "tested": 5077
     },
     "districts": {
       "Central Delhi": {
@@ -1260,18 +1261,21 @@
       "last_updated": "2020-06-10T21:45:49+05:30",
       "notes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-09.pdf"
+        "last_updated": "2020-06-10",
+        "source": "https://t.me/indiacovid/6908?single"
       }
     },
     "total": {
       "confirmed": 32810,
       "deceased": 984,
       "recovered": 12245,
-      "tested": 261079
+      "tested": 266156
     }
   },
   "DN": {
+    "delta": {
+      "tested": 902
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
@@ -1283,14 +1287,13 @@
     "meta": {
       "last_updated": "2020-06-08T23:54:49+05:30",
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/DnhPublicity/status/1270018242111778817?s=19"
+        "last_updated": "2020-06-10"
       }
     },
     "total": {
       "confirmed": 22,
       "recovered": 2,
-      "tested": 16277
+      "tested": 17179
     }
   },
   "GA": {
@@ -2242,7 +2245,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T23:12:48+05:30",
+      "last_updated": "2020-06-10T23:14:50+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/FOBGumla/status/1270626995416764416?s=19"
@@ -5973,7 +5976,7 @@
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T23:12:46+05:30",
+      "last_updated": "2020-06-10T23:14:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
