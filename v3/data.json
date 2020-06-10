@@ -2713,10 +2713,16 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 20,
           "deceased": 1,
           "recovered": 13
         }
@@ -2758,14 +2764,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-09T23:52:52+05:30",
+      "last_updated": "2020-06-10T14:22:50+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/380"
       }
     },
     "total": {
-      "confirmed": 43,
+      "confirmed": 44,
       "deceased": 1,
       "recovered": 13,
       "tested": 11247
@@ -4784,20 +4790,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1330,
+      "confirmed": 1331,
       "deceased": 2,
       "recovered": 296,
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T13:56:46+05:30",
+      "last_updated": "2020-06-10T14:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 277329,
+      "confirmed": 277330,
       "deceased": 7752,
       "migrated": 15,
       "recovered": 134949,
