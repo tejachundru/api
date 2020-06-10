@@ -631,10 +631,11 @@
       },
       "East Champaran": {
         "delta": {
+          "confirmed": 3,
           "recovered": 6
         },
         "total": {
-          "confirmed": 131,
+          "confirmed": 134,
           "deceased": 1,
           "recovered": 72
         }
@@ -650,8 +651,11 @@
         }
       },
       "Gopalganj": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 148,
+          "confirmed": 146,
           "recovered": 101
         }
       },
@@ -806,11 +810,11 @@
       },
       "Rohtas": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 3,
           "recovered": 6
         },
         "total": {
-          "confirmed": 261,
+          "confirmed": 258,
           "deceased": 1,
           "recovered": 196
         }
@@ -871,11 +875,11 @@
       },
       "Sitamarhi": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": 8,
           "recovered": 2
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 86,
           "deceased": 2,
           "recovered": 35
         }
@@ -919,7 +923,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T17:13:51+05:30",
+      "last_updated": "2020-06-10T17:21:48+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://twitter.com/PIB_Patna/status/1270328755978813441"
@@ -4930,7 +4934,7 @@
       "tested": 145216
     },
     "meta": {
-      "last_updated": "2020-06-10T17:13:46+05:30",
+      "last_updated": "2020-06-10T17:21:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
