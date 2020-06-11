@@ -1565,7 +1565,8 @@
   "HP": {
     "delta": {
       "confirmed": 7,
-      "recovered": 12
+      "recovered": 12,
+      "tested": 1301
     },
     "districts": {
       "Bilaspur": {
@@ -1666,8 +1667,8 @@
       "last_updated": "2020-06-11T18:31:57+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://twitter.com/nhm_hp/status/1270748054833037312?s=19"
+        "last_updated": "2020-06-11",
+        "source": "https://twitter.com/nhm_hp/status/1271058853736509442?s=19"
       }
     },
     "total": {
@@ -1675,7 +1676,7 @@
       "deceased": 7,
       "migrated": 3,
       "recovered": 262,
-      "tested": 48922
+      "tested": 50223
     }
   },
   "HR": {
@@ -2488,7 +2489,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:34:49+05:30",
+      "last_updated": "2020-06-11T18:38:49+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-10",
@@ -5088,7 +5089,7 @@
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T18:34:46+05:30",
+      "last_updated": "2020-06-11T18:38:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
