@@ -1181,6 +1181,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1877,
+      "deceased": 101,
+      "recovered": 486
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1234,10 +1239,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1877,
+          "deceased": 101,
+          "recovered": 486
+        },
         "total": {
-          "confirmed": 32022,
-          "deceased": 983,
-          "recovered": 12245
+          "confirmed": 33899,
+          "deceased": 1084,
+          "recovered": 12731
         }
       },
       "West Delhi": {
@@ -1255,9 +1265,9 @@
       }
     },
     "total": {
-      "confirmed": 32810,
-      "deceased": 984,
-      "recovered": 12245,
+      "confirmed": 34687,
+      "deceased": 1085,
+      "recovered": 12731,
       "tested": 266156
     }
   },
@@ -1277,7 +1287,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T20:12:50+05:30",
+      "last_updated": "2020-06-11T20:15:51+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/DnhPublicity/status/1270767797304508421/photo/1"
@@ -4337,7 +4347,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T20:11:51+05:30",
+      "last_updated": "2020-06-11T20:14:50+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2010-06-2020.pdf"
@@ -5471,23 +5481,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4362,
-      "deceased": 112,
-      "recovered": 3047,
+      "confirmed": 6239,
+      "deceased": 213,
+      "recovered": 3533,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T20:12:46+05:30",
+      "last_updated": "2020-06-11T20:15:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 291517,
-      "deceased": 8220,
+      "confirmed": 293394,
+      "deceased": 8321,
       "migrated": 15,
-      "recovered": 144026,
+      "recovered": 144512,
       "tested": 5213140
     }
   },
@@ -6670,7 +6680,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T20:12:47+05:30",
+      "last_updated": "2020-06-11T20:15:48+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_JUNE_REPORT_FINAL.pdf"
