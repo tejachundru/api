@@ -261,8 +261,12 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 2
         }
       },
       "Tawang": {
@@ -273,14 +277,6 @@
       "Tirap": {
         "total": {
           "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "recovered": 2
-        },
-        "total": {
-          "recovered": 2
         }
       },
       "Upper Siang": {
