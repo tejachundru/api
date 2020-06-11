@@ -309,6 +309,7 @@
   "AS": {
     "delta": {
       "confirmed": 235,
+      "deceased": 1,
       "recovered": 152
     },
     "districts": {
@@ -528,10 +529,12 @@
       "Unknown": {
         "delta": {
           "confirmed": 193,
+          "deceased": 1,
           "recovered": 152
         },
         "total": {
           "confirmed": 315,
+          "deceased": 1,
           "migrated": 3,
           "recovered": 452
         }
@@ -550,7 +553,7 @@
     },
     "total": {
       "confirmed": 3286,
-      "deceased": 5,
+      "deceased": 6,
       "migrated": 3,
       "recovered": 1249,
       "tested": 169842
@@ -6009,7 +6012,7 @@
   "TT": {
     "delta": {
       "confirmed": 11156,
-      "deceased": 357,
+      "deceased": 358,
       "recovered": 6326,
       "tested": 145216
     },
@@ -6021,7 +6024,7 @@
     },
     "total": {
       "confirmed": 287155,
-      "deceased": 8107,
+      "deceased": 8108,
       "migrated": 15,
       "recovered": 140979,
       "tested": 5061332

@@ -518,6 +518,7 @@
       "Unknown": {
         "total": {
           "confirmed": 315,
+          "deceased": 1,
           "migrated": 3,
           "recovered": 452
         }
@@ -532,7 +533,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T12:59:49+05:30",
+      "last_updated": "2020-06-11T15:42:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
@@ -541,7 +542,7 @@
     },
     "total": {
       "confirmed": 3320,
-      "deceased": 5,
+      "deceased": 6,
       "migrated": 3,
       "recovered": 1249,
       "tested": 169842
@@ -916,7 +917,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T15:34:49+05:30",
+      "last_updated": "2020-06-11T15:41:50+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/ANI/status/1271014249989468160?s=19"
@@ -4883,7 +4884,7 @@
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T15:34:46+05:30",
+      "last_updated": "2020-06-11T15:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
@@ -4891,7 +4892,7 @@
     },
     "total": {
       "confirmed": 287754,
-      "deceased": 8115,
+      "deceased": 8116,
       "migrated": 15,
       "recovered": 141129,
       "tested": 5213140
