@@ -7933,37 +7933,37 @@
       "Dhalai": {
         "notes": "",
         "active": 30,
-        "confirmed": 200,
+        "confirmed": 201,
         "deceased": 0,
-        "recovered": 170,
+        "recovered": 171,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gomati": {
         "notes": "",
-        "active": 68,
-        "confirmed": 95,
+        "active": 66,
+        "confirmed": 96,
         "deceased": 0,
-        "recovered": 27,
+        "recovered": 30,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Khowai": {
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "North Tripura": {
@@ -7980,62 +7980,50 @@
       },
       "Sipahijala": {
         "notes": "",
-        "active": 346,
-        "confirmed": 355,
+        "active": 337,
+        "confirmed": 369,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 32,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 23
         }
       },
       "South Tripura": {
         "notes": "",
-        "active": 71,
-        "confirmed": 75,
+        "active": 69,
+        "confirmed": 76,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Unokoti": {
         "notes": "",
-        "active": 51,
+        "active": 50,
         "confirmed": 52,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "West Tripura": {
         "notes": "",
-        "active": 69,
-        "confirmed": 78,
+        "active": 63,
+        "confirmed": 79,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -39,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 39,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       }
     },
@@ -8998,26 +8986,26 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 231,
-        "confirmed": 419,
+        "active": 223,
+        "confirmed": 432,
         "deceased": 11,
-        "recovered": 173,
+        "recovered": 194,
         "delta": {
-          "confirmed": 16,
+          "confirmed": 29,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 25
         }
       },
       "Haridwar": {
         "notes": "",
-        "active": 113,
-        "confirmed": 169,
+        "active": 93,
+        "confirmed": 170,
         "deceased": 0,
-        "recovered": 54,
+        "recovered": 75,
         "delta": {
-          "confirmed": 15,
+          "confirmed": 16,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 21
         }
       },
       "Nainital": {
@@ -9046,14 +9034,14 @@
       },
       "Pithoragarh": {
         "notes": "",
-        "active": 30,
+        "active": 24,
         "confirmed": 51,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 27,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Rudraprayag": {
@@ -9070,14 +9058,14 @@
       },
       "Tehri Garhwal": {
         "notes": "",
-        "active": 155,
-        "confirmed": 253,
+        "active": 157,
+        "confirmed": 256,
         "deceased": 0,
-        "recovered": 98,
+        "recovered": 99,
         "delta": {
-          "confirmed": 30,
+          "confirmed": 33,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Udham Singh Nagar": {
@@ -9094,12 +9082,12 @@
       },
       "Uttarkashi": {
         "notes": "",
-        "active": 3,
-        "confirmed": 25,
+        "active": 4,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
