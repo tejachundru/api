@@ -33,6 +33,9 @@
     }
   },
   "AP": {
+    "delta": {
+      "tested": 11602
+    },
     "districts": {
       "Anantapur": {
         "total": {
@@ -137,15 +140,15 @@
       "last_updated": "2020-06-10T13:36:49+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://twitter.com/ArogyaAndhra/status/1270611674018443264?s=19"
+        "last_updated": "2020-06-11",
+        "source": "https://twitter.com/ArogyaAndhra/status/1270967454634700800"
       }
     },
     "total": {
       "confirmed": 5247,
       "deceased": 78,
       "recovered": 2869,
-      "tested": 498716
+      "tested": 510318
     }
   },
   "AR": {
@@ -227,6 +230,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 15
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -380,8 +386,11 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 198,
+          "confirmed": 213,
           "recovered": 25
         }
       },
@@ -440,7 +449,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:45:49+05:30",
+      "last_updated": "2020-06-11T12:52:48+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
@@ -448,7 +457,7 @@
       }
     },
     "total": {
-      "confirmed": 3286,
+      "confirmed": 3301,
       "deceased": 5,
       "migrated": 3,
       "recovered": 1249,
@@ -952,7 +961,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T12:42:48+05:30",
+      "last_updated": "2020-06-11T12:51:51+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/TS_SinghDeo/status/1270743596749041671/photo/1"
@@ -1445,7 +1454,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T12:42:51+05:30",
+      "last_updated": "2020-06-11T12:51:53+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-10",
@@ -4648,20 +4657,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10,
+      "confirmed": 25,
       "deceased": 6,
       "recovered": 36,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T12:42:46+05:30",
+      "last_updated": "2020-06-11T12:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 287165,
+      "confirmed": 287180,
       "deceased": 8113,
       "migrated": 15,
       "recovered": 141015,
