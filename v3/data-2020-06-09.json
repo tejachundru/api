@@ -994,7 +994,8 @@
     "delta": {
       "confirmed": 14,
       "deceased": 1,
-      "recovered": 12
+      "recovered": 12,
+      "tested": 461
     },
     "districts": {
       "Balod": {
@@ -1181,15 +1182,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-08",
-        "source": "https://twitter.com/HealthCgGov/status/1270017135322910725?s=19"
+        "last_updated": "2020-06-09",
+        "source": "https://twitter.com/HealthCgGov/status/1270337217261699074/photo/1"
       }
     },
     "total": {
       "confirmed": 1211,
       "deceased": 5,
       "recovered": 347,
-      "tested": 96963
+      "tested": 93059
     }
   },
   "DL": {
