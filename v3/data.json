@@ -2048,51 +2048,75 @@
     }
   },
   "JK": {
+    "delta": {
+      "confirmed": 67
+    },
     "districts": {
       "Anantnag": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 470,
+          "confirmed": 483,
           "deceased": 5,
           "recovered": 305
         }
       },
       "Bandipora": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 229,
+          "confirmed": 233,
           "deceased": 1,
           "recovered": 136
         }
       },
       "Baramulla": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 495,
+          "confirmed": 497,
           "deceased": 10,
           "recovered": 122
         }
       },
       "Budgam": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 211,
+          "confirmed": 214,
           "deceased": 2,
           "recovered": 79
         }
       },
       "Doda": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 46,
           "deceased": 1,
           "recovered": 2
         }
       },
       "Ganderbal": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 58,
+          "confirmed": 59,
           "recovered": 26
         }
       },
       "Jammu": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 242,
+          "confirmed": 253,
           "deceased": 3,
           "recovered": 105
         }
@@ -2110,35 +2134,50 @@
         }
       },
       "Kulgam": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 568,
+          "confirmed": 570,
           "deceased": 7,
           "recovered": 161
         }
       },
       "Kupwara": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 374,
+          "confirmed": 375,
           "deceased": 3,
           "recovered": 232
         }
       },
       "Pulwama": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 190,
+          "confirmed": 199,
           "deceased": 2,
           "recovered": 20
         }
       },
       "Punch": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 85,
+          "confirmed": 91,
           "recovered": 9
         }
       },
       "Rajouri": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 57,
+          "confirmed": 58,
           "recovered": 13
         }
       },
@@ -2168,29 +2207,35 @@
         }
       },
       "Srinagar": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 488,
+          "confirmed": 496,
           "deceased": 12,
           "recovered": 151
         }
       },
       "Udhampur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 150,
+          "confirmed": 153,
           "deceased": 1,
           "recovered": 35
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T20:53:52+05:30",
+      "last_updated": "2020-06-11T19:12:48+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/diprjk/status/1270724245983596546?s=09"
       }
     },
     "total": {
-      "confirmed": 4507,
+      "confirmed": 4574,
       "deceased": 51,
       "recovered": 1671,
       "tested": 241891
@@ -2656,7 +2701,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T19:02:52+05:30",
+      "last_updated": "2020-06-11T19:12:50+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-10",
@@ -5220,7 +5265,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T19:02:54+05:30",
+      "last_updated": "2020-06-11T19:12:53+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/395"
@@ -5235,20 +5280,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2781,
+      "confirmed": 2848,
       "deceased": 35,
       "recovered": 1975,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T19:02:46+05:30",
+      "last_updated": "2020-06-11T19:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 289936,
+      "confirmed": 290003,
       "deceased": 8143,
       "migrated": 15,
       "recovered": 142954,
