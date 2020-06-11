@@ -5845,26 +5845,26 @@
       },
       "Balangir": {
         "notes": "",
-        "active": 44,
+        "active": 37,
         "confirmed": 124,
         "deceased": 0,
-        "recovered": 80,
+        "recovered": 87,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Balasore": {
         "notes": "",
-        "active": 37,
+        "active": 33,
         "confirmed": 197,
         "deceased": 1,
-        "recovered": 159,
+        "recovered": 163,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Bargarh": {
@@ -5905,14 +5905,14 @@
       },
       "Cuttack": {
         "notes": "",
-        "active": 96,
+        "active": 91,
         "confirmed": 216,
         "deceased": 1,
-        "recovered": 119,
+        "recovered": 124,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Deogarh": {
@@ -5953,26 +5953,26 @@
       },
       "Ganjam": {
         "notes": "",
-        "active": 150,
+        "active": 133,
         "confirmed": 652,
         "deceased": 4,
-        "recovered": 498,
+        "recovered": 515,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       },
       "Jagatsinghpur": {
         "notes": "",
-        "active": 54,
+        "active": 48,
         "confirmed": 130,
         "deceased": 0,
-        "recovered": 76,
+        "recovered": 82,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Jajpur": {
@@ -5989,38 +5989,38 @@
       },
       "Jharsuguda": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Kalahandi": {
         "notes": "",
-        "active": 23,
+        "active": 18,
         "confirmed": 38,
         "deceased": 0,
-        "recovered": 15,
+        "recovered": 20,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Kandhamal": {
         "notes": "",
-        "active": 30,
+        "active": 27,
         "confirmed": 52,
         "deceased": 0,
-        "recovered": 22,
+        "recovered": 25,
         "delta": {
           "confirmed": 15,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Kendrapara": {
@@ -6049,14 +6049,14 @@
       },
       "Khordha": {
         "notes": "",
-        "active": 118,
+        "active": 115,
         "confirmed": 307,
         "deceased": 6,
-        "recovered": 183,
+        "recovered": 186,
         "delta": {
           "confirmed": 17,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Koraput": {
@@ -6085,14 +6085,14 @@
       },
       "Mayurbhanj": {
         "notes": "",
-        "active": 76,
+        "active": 72,
         "confirmed": 92,
         "deceased": 0,
-        "recovered": 16,
+        "recovered": 20,
         "delta": {
           "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Nabarangapur": {
@@ -6157,14 +6157,14 @@
       },
       "Sambalpur": {
         "notes": "",
-        "active": 6,
+        "active": 3,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 15,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Subarnapur": {
@@ -6181,10 +6181,22 @@
       },
       "Sundargarh": {
         "notes": "",
-        "active": 49,
+        "active": 44,
         "confirmed": 118,
         "deceased": 0,
-        "recovered": 69,
+        "recovered": 74,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 5
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -9,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
