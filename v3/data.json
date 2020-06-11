@@ -533,7 +533,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T15:53:50+05:30",
+      "last_updated": "2020-06-11T19:02:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-09",
@@ -2508,7 +2508,8 @@
   "KL": {
     "delta": {
       "confirmed": 83,
-      "deceased": 1
+      "deceased": 1,
+      "recovered": 62
     },
     "districts": {
       "Alappuzha": {
@@ -2520,12 +2521,13 @@
       },
       "Ernakulam": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 6
         },
         "total": {
           "confirmed": 89,
           "deceased": 1,
-          "recovered": 41
+          "recovered": 47
         }
       },
       "Idukki": {
@@ -2537,31 +2539,34 @@
       "Kannur": {
         "delta": {
           "confirmed": 7,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 8
         },
         "total": {
           "confirmed": 281,
           "deceased": 3,
-          "recovered": 160
+          "recovered": 168
         }
       },
       "Kasaragod": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 5
         },
         "total": {
           "confirmed": 349,
-          "recovered": 235
+          "recovered": 240
         }
       },
       "Kollam": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 2
         },
         "total": {
           "confirmed": 141,
           "deceased": 1,
-          "recovered": 34
+          "recovered": 36
         }
       },
       "Kottayam": {
@@ -2576,22 +2581,24 @@
       },
       "Kozhikode": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 3
         },
         "total": {
           "confirmed": 133,
           "deceased": 1,
-          "recovered": 59
+          "recovered": 62
         }
       },
       "Malappuram": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 2
         },
         "total": {
           "confirmed": 240,
           "deceased": 3,
-          "recovered": 59
+          "recovered": 61
         }
       },
       "Other State": {
@@ -2601,12 +2608,13 @@
       },
       "Palakkad": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "recovered": 13
         },
         "total": {
           "confirmed": 265,
           "deceased": 1,
-          "recovered": 67
+          "recovered": 80
         }
       },
       "Pathanamthitta": {
@@ -2619,20 +2627,24 @@
         }
       },
       "Thiruvananthapuram": {
+        "delta": {
+          "recovered": 16
+        },
         "total": {
           "confirmed": 121,
           "deceased": 3,
-          "recovered": 47
+          "recovered": 63
         }
       },
       "Thrissur": {
         "delta": {
-          "confirmed": 25
+          "confirmed": 25,
+          "recovered": 7
         },
         "total": {
           "confirmed": 204,
           "deceased": 3,
-          "recovered": 44
+          "recovered": 51
         }
       },
       "Wayanad": {
@@ -2644,7 +2656,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:23:50+05:30",
+      "last_updated": "2020-06-11T19:02:52+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-10",
@@ -2654,7 +2666,7 @@
     "total": {
       "confirmed": 2245,
       "deceased": 19,
-      "recovered": 905,
+      "recovered": 967,
       "tested": 131006
     }
   },
@@ -5130,7 +5142,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:52:48+05:30",
+      "last_updated": "2020-06-11T18:59:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-10",
@@ -5145,6 +5157,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "recovered": 39
+    },
     "districts": {
       "Dhalai": {
         "total": {
@@ -5182,6 +5197,14 @@
           "recovered": 4
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 39
+        },
+        "total": {
+          "recovered": 39
+        }
+      },
       "Unokoti": {
         "total": {
           "confirmed": 52,
@@ -5197,7 +5220,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:55:51+05:30",
+      "last_updated": "2020-06-11T19:02:54+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/395"
@@ -5206,7 +5229,7 @@
     "total": {
       "confirmed": 897,
       "deceased": 1,
-      "recovered": 239,
+      "recovered": 278,
       "tested": 40027
     }
   },
@@ -5214,11 +5237,11 @@
     "delta": {
       "confirmed": 2781,
       "deceased": 35,
-      "recovered": 1874,
+      "recovered": 1975,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T18:52:46+05:30",
+      "last_updated": "2020-06-11T19:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
@@ -5228,7 +5251,7 @@
       "confirmed": 289936,
       "deceased": 8143,
       "migrated": 15,
-      "recovered": 142853,
+      "recovered": 142954,
       "tested": 5213140
     }
   },
