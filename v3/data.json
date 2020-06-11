@@ -3041,6 +3041,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 9
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -3092,17 +3095,25 @@
         "total": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 9
+        },
+        "total": {
+          "confirmed": 9
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T10:04:54+05:30",
+      "last_updated": "2020-06-11T09:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-09",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-862020-500pm-962020-500-pm"
       }
     },
     "total": {
-      "confirmed": 93,
+      "confirmed": 102,
       "recovered": 1,
       "tested": 2747
     }
@@ -3164,7 +3175,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T09:21:49+05:30",
+      "last_updated": "2020-06-11T09:25:49+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/MyGovNagaland/status/1270716415624896513/photo/1"
@@ -4463,17 +4474,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 11
     },
     "meta": {
-      "last_updated": "2020-06-11T09:21:46+05:30",
+      "last_updated": "2020-06-11T09:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 287157,
+      "confirmed": 287166,
       "deceased": 8107,
       "migrated": 15,
       "recovered": 140979,
