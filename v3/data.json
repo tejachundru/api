@@ -4025,7 +4025,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 9,
+      "tested": 405
     },
     "districts": {
       "Aizawl": {
@@ -4089,14 +4090,14 @@
     "meta": {
       "last_updated": "2020-06-11T09:42:50+05:30",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-862020-500pm-962020-500-pm"
+        "last_updated": "2020-06-11",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1062020-500pm-1162020-500-pm"
       }
     },
     "total": {
       "confirmed": 102,
       "recovered": 1,
-      "tested": 2747
+      "tested": 3152
     }
   },
   "NL": {
@@ -4675,6 +4676,9 @@
     }
   },
   "PY": {
+    "delta": {
+      "tested": 296
+    },
     "districts": {
       "Karaikal": {
         "total": {
@@ -4698,14 +4702,13 @@
     "meta": {
       "last_updated": "2020-06-10T22:33:52+05:30",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "last_updated": "2020-06-11"
       }
     },
     "total": {
       "confirmed": 144,
       "recovered": 60,
-      "tested": 8954
+      "tested": 9250
     }
   },
   "RJ": {
@@ -5387,7 +5390,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T22:52:52+05:30",
+      "last_updated": "2020-06-11T23:01:55+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5897,7 +5900,7 @@
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T22:52:46+05:30",
+      "last_updated": "2020-06-11T23:01:47+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"

@@ -21263,12 +21263,13 @@
     },
     "2020-06-11": {
       "delta": {
-        "confirmed": 9
+        "confirmed": 9,
+        "tested": 405
       },
       "total": {
         "confirmed": 102,
         "recovered": 1,
-        "tested": 2747
+        "tested": 3152
       }
     }
   },
@@ -24714,10 +24715,13 @@
       }
     },
     "2020-06-11": {
+      "delta": {
+        "tested": 296
+      },
       "total": {
         "confirmed": 144,
         "recovered": 60,
-        "tested": 8954
+        "tested": 9250
       }
     }
   },
