@@ -1317,11 +1317,17 @@
     }
   },
   "GJ": {
+    "delta": {
+      "deceased": 38
+    },
     "districts": {
       "Ahmedabad": {
+        "delta": {
+          "deceased": 25
+        },
         "total": {
           "confirmed": 15305,
-          "deceased": 1092,
+          "deceased": 1117,
           "recovered": 10644
         }
       },
@@ -1333,23 +1339,32 @@
         }
       },
       "Anand": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 119,
-          "deceased": 11,
+          "deceased": 12,
           "recovered": 95
         }
       },
       "Aravalli": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 130,
-          "deceased": 10,
+          "deceased": 11,
           "recovered": 115
         }
       },
       "Banaskantha": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 145,
-          "deceased": 7,
+          "deceased": 8,
           "recovered": 107
         }
       },
@@ -1361,9 +1376,12 @@
         }
       },
       "Bhavnagar": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 154,
-          "deceased": 11,
+          "deceased": 12,
           "recovered": 109
         }
       },
@@ -1426,9 +1444,12 @@
         }
       },
       "Kheda": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 110,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 63
         }
       },
@@ -1454,8 +1475,12 @@
         }
       },
       "Morbi": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 6,
+          "deceased": 1,
           "recovered": 4
         }
       },
@@ -1486,9 +1511,12 @@
         }
       },
       "Patan": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 107,
-          "deceased": 7,
+          "deceased": 8,
           "recovered": 73
         }
       },
@@ -1514,16 +1542,22 @@
         }
       },
       "Surat": {
+        "delta": {
+          "deceased": 4
+        },
         "total": {
           "confirmed": 2281,
-          "deceased": 86,
+          "deceased": 90,
           "recovered": 1512
         }
       },
       "Surendranagar": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 60,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 33
         }
       },
@@ -1541,15 +1575,18 @@
         }
       },
       "Valsad": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 57,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 29
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T20:20:49+05:30",
+      "last_updated": "2020-06-11T19:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/GujHFWDept/status/1270722750429061122"
@@ -1557,7 +1594,7 @@
     },
     "total": {
       "confirmed": 21554,
-      "deceased": 1347,
+      "deceased": 1385,
       "recovered": 14743,
       "tested": 266404
     }
@@ -5300,12 +5337,12 @@
   "TT": {
     "delta": {
       "confirmed": 3326,
-      "deceased": 60,
+      "deceased": 98,
       "recovered": 2445,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T19:34:46+05:30",
+      "last_updated": "2020-06-11T19:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
@@ -5313,7 +5350,7 @@
     },
     "total": {
       "confirmed": 290481,
-      "deceased": 8168,
+      "deceased": 8206,
       "migrated": 15,
       "recovered": 143424,
       "tested": 5213140
@@ -6093,7 +6130,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T19:34:48+05:30",
+      "last_updated": "2020-06-11T19:40:48+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/indiacovid/6913?single"
