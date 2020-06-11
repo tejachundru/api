@@ -1198,26 +1198,26 @@
 			"totalrecovered": "140928"
 		},
 		{
-			"dailyconfirmed": "11017",
+			"dailyconfirmed": "11128",
 			"dailydeceased": "393",
-			"dailyrecovered": "6043",
+			"dailyrecovered": "6044",
 			"date": "11 June ",
-			"totalconfirmed": "298173",
+			"totalconfirmed": "298284",
 			"totaldeceased": "8500",
-			"totalrecovered": "146971"
+			"totalrecovered": "146972"
 		}
 	],
 	"statewise": [
 		{
-			"active": "142685",
-			"confirmed": "298172",
+			"active": "142795",
+			"confirmed": "298283",
 			"deaths": "8501",
-			"deltaconfirmed": "11017",
+			"deltaconfirmed": "11128",
 			"deltadeaths": "393",
-			"deltarecovered": "6043",
-			"lastupdatedtime": "11/06/2020 23:59:47",
+			"deltarecovered": "6044",
+			"lastupdatedtime": "12/06/2020 00:12:46",
 			"migratedother": "15",
-			"recovered": "146971",
+			"recovered": "146972",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1447,15 +1447,15 @@
 			"statenotes": "Two non-covid deaths reported in state dashboard are included in the deceased count"
 		},
 		{
-			"active": "1879",
-			"confirmed": "3320",
+			"active": "1989",
+			"confirmed": "3431",
 			"deaths": "6",
-			"deltaconfirmed": "34",
+			"deltaconfirmed": "145",
 			"deltadeaths": "0",
-			"deltarecovered": "183",
-			"lastupdatedtime": "11/06/2020 23:37:55",
+			"deltarecovered": "184",
+			"lastupdatedtime": "12/06/2020 00:12:49",
 			"migratedother": "3",
-			"recovered": "1432",
+			"recovered": "1433",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count"
