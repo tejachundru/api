@@ -919,7 +919,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T17:48:48+05:30",
+      "last_updated": "2020-06-11T23:06:48+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/PIB_Patna/status/1271033210844049409"
@@ -4103,7 +4103,8 @@
   "NL": {
     "delta": {
       "confirmed": 2,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 447
     },
     "districts": {
       "Dimapur": {
@@ -4163,14 +4164,13 @@
     "meta": {
       "last_updated": "2020-06-11T17:48:53+05:30",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://twitter.com/MyGovNagaland/status/1270716415624896513/photo/1"
+        "last_updated": "2020-06-11"
       }
     },
     "total": {
       "confirmed": 130,
       "recovered": 29,
-      "tested": 5220
+      "tested": 5667
     }
   },
   "OR": {
@@ -4702,7 +4702,8 @@
     "meta": {
       "last_updated": "2020-06-10T22:33:52+05:30",
       "tested": {
-        "last_updated": "2020-06-11"
+        "last_updated": "2020-06-11",
+        "source": "https://t.me/indiacovid/7027?single"
       }
     },
     "total": {
@@ -5390,7 +5391,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T23:01:55+05:30",
+      "last_updated": "2020-06-11T23:03:48+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -5407,7 +5408,8 @@
     "delta": {
       "confirmed": 1875,
       "deceased": 23,
-      "recovered": 1372
+      "recovered": 1372,
+      "tested": 16829
     },
     "districts": {
       "Airport Quarantine": {
@@ -5804,15 +5806,15 @@
       "last_updated": "2020-06-11T18:59:47+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-10-06-20-COVID-19-6-PM.pdf"
+        "last_updated": "2020-06-11",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-11.-06.-20-COVID-19-6-PM.pdf"
       }
     },
     "total": {
       "confirmed": 38716,
       "deceased": 349,
       "recovered": 20705,
-      "tested": 638846
+      "tested": 655675
     }
   },
   "TR": {
@@ -5900,7 +5902,7 @@
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T23:01:47+05:30",
+      "last_updated": "2020-06-11T23:06:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
@@ -6704,7 +6706,8 @@
   "UT": {
     "delta": {
       "confirmed": 75,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 1016
     },
     "districts": {
       "Almora": {
@@ -6826,8 +6829,8 @@
       "last_updated": "2020-06-11T15:12:48+05:30",
       "notes": "Four migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://health.uk.gov.in/files/2020.06.10_Health_Bulletin.pdf"
+        "last_updated": "2020-06-11",
+        "source": "https://health.uk.gov.in/files/2020.06.11_Health_Bulletin.pdf"
       }
     },
     "total": {
@@ -6835,14 +6838,15 @@
       "deceased": 15,
       "migrated": 7,
       "recovered": 837,
-      "tested": 40872
+      "tested": 41888
     }
   },
   "WB": {
     "delta": {
       "confirmed": 440,
       "deceased": 10,
-      "recovered": 209
+      "recovered": 209,
+      "tested": 9522
     },
     "districts": {
       "Alipurduar": {
@@ -7095,15 +7099,15 @@
     "meta": {
       "last_updated": "2020-06-11T20:23:51+05:30",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_JUNE_REPORT_FINAL.pdf"
+        "last_updated": "2020-06-11",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_11th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 9768,
       "deceased": 442,
       "recovered": 3988,
-      "tested": 297419
+      "tested": 306941
     }
   }
 }
