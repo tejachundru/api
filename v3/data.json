@@ -755,7 +755,7 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 96
+      "confirmed": 97
     },
     "districts": {
       "Balod": {
@@ -931,8 +931,11 @@
         }
       },
       "Surguja": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 27,
           "recovered": 7
         }
       },
@@ -949,14 +952,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T12:34:49+05:30",
+      "last_updated": "2020-06-11T12:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/TS_SinghDeo/status/1270743596749041671/photo/1"
       }
     },
     "total": {
-      "confirmed": 1358,
+      "confirmed": 1359,
       "deceased": 6,
       "recovered": 402,
       "tested": 94576
@@ -1345,6 +1348,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 7,
+      "recovered": 9
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1353,16 +1360,23 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 32,
-          "recovered": 20
+          "confirmed": 34,
+          "recovered": 21
         }
       },
       "Hamirpur": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 124,
           "deceased": 1,
-          "recovered": 78
+          "recovered": 85
         }
       },
       "Kangra": {
@@ -1404,16 +1418,23 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 35,
+          "confirmed": 37,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 17
+          "recovered": 18
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 54,
+          "confirmed": 57,
           "recovered": 35
         }
       },
@@ -1424,7 +1445,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T00:45:55+05:30",
+      "last_updated": "2020-06-11T12:42:51+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-10",
@@ -1432,10 +1453,10 @@
       }
     },
     "total": {
-      "confirmed": 451,
+      "confirmed": 458,
       "deceased": 7,
       "migrated": 3,
-      "recovered": 250,
+      "recovered": 259,
       "tested": 48922
     }
   },
@@ -4627,23 +4648,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2,
+      "confirmed": 10,
       "deceased": 6,
-      "recovered": 27,
+      "recovered": 36,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T12:34:46+05:30",
+      "last_updated": "2020-06-11T12:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 287157,
+      "confirmed": 287165,
       "deceased": 8113,
       "migrated": 15,
-      "recovered": 141006,
+      "recovered": 141015,
       "tested": 5213140
     }
   },
