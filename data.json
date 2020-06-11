@@ -1206,7 +1206,7 @@
 			"deltaconfirmed": "9846",
 			"deltadeaths": "365",
 			"deltarecovered": "5095",
-			"lastupdatedtime": "11/06/2020 21:02:46",
+			"lastupdatedtime": "11/06/2020 21:04:46",
 			"migratedother": "15",
 			"recovered": "146074",
 			"state": "Total",
@@ -1220,7 +1220,7 @@
 			"deltaconfirmed": "3607",
 			"deltadeaths": "152",
 			"deltarecovered": "1562",
-			"lastupdatedtime": "11/06/2020 21:02:48",
+			"lastupdatedtime": "11/06/2020 21:04:48",
 			"migratedother": "0",
 			"recovered": "46078",
 			"state": "Maharashtra",
@@ -1253,7 +1253,7 @@
 			"recovered": "12731",
 			"state": "Delhi",
 			"statecode": "DL",
-			"statenotes": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced"
+			"statenotes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day."
 		},
 		{
 			"active": "5573",
@@ -1270,20 +1270,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2791",
-			"confirmed": "11651",
-			"deaths": "264",
-			"deltaconfirmed": "51",
-			"deltadeaths": "5",
-			"deltarecovered": "27",
-			"lastupdatedtime": "11/06/2020 11:13:49",
-			"migratedother": "0",
-			"recovered": "8596",
-			"state": "Rajasthan",
-			"statecode": "RJ",
-			"statenotes": ""
-		},
-		{
 			"active": "4451",
 			"confirmed": "12088",
 			"deaths": "345",
@@ -1295,6 +1281,20 @@
 			"recovered": "7292",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
+			"statenotes": ""
+		},
+		{
+			"active": "2791",
+			"confirmed": "11651",
+			"deaths": "264",
+			"deltaconfirmed": "51",
+			"deltadeaths": "5",
+			"deltarecovered": "27",
+			"lastupdatedtime": "11/06/2020 11:13:49",
+			"migratedother": "0",
+			"recovered": "8596",
+			"state": "Rajasthan",
+			"statecode": "RJ",
 			"statenotes": ""
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\""
+			"statenotes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\""
 		},
 		{
 			"active": "3195",
@@ -1564,20 +1564,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "34",
-			"confirmed": "332",
-			"deaths": "5",
-			"deltaconfirmed": "4",
-			"deltadeaths": "0",
-			"deltarecovered": "4",
-			"lastupdatedtime": "11/06/2020 15:41:50",
-			"migratedother": "0",
-			"recovered": "293",
-			"state": "Chandigarh",
-			"statecode": "CH",
-			"statenotes": ""
-		},
-		{
 			"active": "278",
 			"confirmed": "342",
 			"deaths": "0",
@@ -1589,6 +1575,20 @@
 			"recovered": "64",
 			"state": "Manipur",
 			"statecode": "MN",
+			"statenotes": ""
+		},
+		{
+			"active": "34",
+			"confirmed": "332",
+			"deaths": "5",
+			"deltaconfirmed": "4",
+			"deltadeaths": "0",
+			"deltarecovered": "4",
+			"lastupdatedtime": "11/06/2020 15:41:50",
+			"migratedother": "0",
+			"recovered": "293",
+			"state": "Chandigarh",
+			"statecode": "CH",
 			"statenotes": ""
 		},
 		{
@@ -1606,20 +1606,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "101",
-			"confirmed": "130",
-			"deaths": "0",
-			"deltaconfirmed": "2",
-			"deltadeaths": "0",
-			"deltarecovered": "7",
-			"lastupdatedtime": "11/06/2020 17:48:53",
-			"migratedother": "0",
-			"recovered": "29",
-			"state": "Nagaland",
-			"statecode": "NL",
-			"statenotes": ""
-		},
-		{
 			"active": "80",
 			"confirmed": "135",
 			"deaths": "1",
@@ -1631,6 +1617,20 @@
 			"recovered": "54",
 			"state": "Ladakh",
 			"statecode": "LA",
+			"statenotes": ""
+		},
+		{
+			"active": "101",
+			"confirmed": "130",
+			"deaths": "0",
+			"deltaconfirmed": "2",
+			"deltadeaths": "0",
+			"deltarecovered": "7",
+			"lastupdatedtime": "11/06/2020 17:48:53",
+			"migratedother": "0",
+			"recovered": "29",
+			"state": "Nagaland",
+			"statecode": "NL",
 			"statenotes": ""
 		},
 		{
