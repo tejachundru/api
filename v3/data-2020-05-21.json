@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "tested": 85
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -16,14 +19,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-05-16",
-        "source": "https://t.me/indiacovid/4925"
+        "last_updated": "2020-05-21",
+        "source": "https://dhs.andaman.gov.in/NewEvents/263.pdf"
       }
     },
     "total": {
       "confirmed": 33,
       "recovered": 33,
-      "tested": 6677
+      "tested": 7167
     }
   },
   "AP": {
