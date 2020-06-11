@@ -898,7 +898,8 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "tested": 104
     },
     "districts": {
       "Chandigarh": {
@@ -915,15 +916,15 @@
     "meta": {
       "last_updated": "2020-06-11T10:55:54+05:30",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/401"
+        "last_updated": "2020-06-11",
+        "source": "https://twitter.com/ANI/status/1271014249989468160?s=19"
       }
     },
     "total": {
       "confirmed": 332,
       "deceased": 5,
       "recovered": 289,
-      "tested": 5532
+      "tested": 5636
     }
   },
   "CT": {
