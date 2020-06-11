@@ -862,10 +862,10 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 104,
-        "confirmed": 423,
+        "active": 202,
+        "confirmed": 545,
         "deceased": 4,
-        "recovered": 315,
+        "recovered": 339,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1070,10 +1070,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -134,
-        "confirmed": 319,
+        "active": -232,
+        "confirmed": 197,
         "deceased": 1,
-        "recovered": 452,
+        "recovered": 428,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3846,13 +3846,13 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 260,
+        "active": 258,
         "confirmed": 581,
-        "deceased": 21,
+        "deceased": 23,
         "recovered": 299,
         "delta": {
           "confirmed": 17,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 1
         }
       },
@@ -4093,13 +4093,13 @@
       {
         "district": "Raichur",
         "notes": "",
-        "active": 291,
+        "active": 290,
         "confirmed": 374,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 82,
         "delta": {
           "confirmed": 15,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },

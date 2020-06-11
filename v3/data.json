@@ -419,9 +419,9 @@
       },
       "Kamrup Metropolitan": {
         "total": {
-          "confirmed": 423,
+          "confirmed": 545,
           "deceased": 4,
-          "recovered": 315
+          "recovered": 339
         }
       },
       "Karbi Anglong": {
@@ -517,10 +517,10 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 315,
+          "confirmed": 193,
           "deceased": 1,
           "migrated": 3,
-          "recovered": 452
+          "recovered": 428
         }
       },
       "West Karbi Anglong": {
@@ -1663,7 +1663,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:22:50+05:30",
+      "last_updated": "2020-06-11T18:31:57+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-10",
@@ -2197,6 +2197,7 @@
   "KA": {
     "delta": {
       "confirmed": 204,
+      "deceased": 3,
       "recovered": 114
     },
     "districts": {
@@ -2237,11 +2238,12 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 17,
+          "deceased": 2,
           "recovered": 1
         },
         "total": {
           "confirmed": 581,
-          "deceased": 21,
+          "deceased": 23,
           "migrated": 1,
           "recovered": 299
         }
@@ -2409,11 +2411,12 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 15,
+          "deceased": 1
         },
         "total": {
           "confirmed": 374,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 82
         }
       },
@@ -2485,7 +2488,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:22:48+05:30",
+      "last_updated": "2020-06-11T18:34:49+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-10",
@@ -2494,7 +2497,7 @@
     },
     "total": {
       "confirmed": 6245,
-      "deceased": 69,
+      "deceased": 72,
       "migrated": 2,
       "recovered": 2976,
       "tested": 408506
@@ -2639,7 +2642,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:16:38+05:30",
+      "last_updated": "2020-06-11T18:23:50+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-10",
@@ -5080,12 +5083,12 @@
   "TT": {
     "delta": {
       "confirmed": 906,
-      "deceased": 9,
+      "deceased": 12,
       "recovered": 502,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T18:22:46+05:30",
+      "last_updated": "2020-06-11T18:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
@@ -5093,7 +5096,7 @@
     },
     "total": {
       "confirmed": 288061,
-      "deceased": 8117,
+      "deceased": 8120,
       "migrated": 15,
       "recovered": 141481,
       "tested": 5213140

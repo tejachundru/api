@@ -411,13 +411,14 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 17,
-          "deceased": 1
+          "confirmed": 139,
+          "deceased": 1,
+          "recovered": 24
         },
         "total": {
-          "confirmed": 423,
+          "confirmed": 545,
           "deceased": 4,
-          "recovered": 315
+          "recovered": 339
         }
       },
       "Karbi Anglong": {
@@ -535,13 +536,12 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 2,
-          "recovered": 300
+          "confirmed": -120,
+          "recovered": 276
         },
         "total": {
-          "confirmed": 122,
           "migrated": 3,
-          "recovered": 300
+          "recovered": 276
         }
       },
       "West Karbi Anglong": {
