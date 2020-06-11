@@ -1000,13 +1000,8 @@
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
-          "confirmed": 22,
+          "confirmed": 27,
           "recovered": 2
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 5
         }
       }
     },
@@ -4474,17 +4469,17 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11
+      "confirmed": -285
     },
     "meta": {
-      "last_updated": "2020-06-11T09:42:46+05:30",
+      "last_updated": "2020-06-11T10:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
       }
     },
     "total": {
-      "confirmed": 287166,
+      "confirmed": 286870,
       "deceased": 8107,
       "migrated": 15,
       "recovered": 140979,
@@ -4492,12 +4487,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -296
+    },
     "meta": {
-      "last_updated": "2020-06-10T10:04:48+05:30",
+      "last_updated": "2020-06-11T10:02:48+05:30",
       "notes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\""
     },
     "total": {
-      "confirmed": 9227
+      "confirmed": 8931
     }
   },
   "UP": {

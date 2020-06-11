@@ -1308,17 +1308,12 @@
     },
     "districts": {
       "Dadra and Nagar Haveli": {
-        "total": {
-          "confirmed": 22,
-          "recovered": 2
-        }
-      },
-      "Unknown": {
         "delta": {
           "confirmed": 5
         },
         "total": {
-          "confirmed": 5
+          "confirmed": 27,
+          "recovered": 2
         }
       }
     },
