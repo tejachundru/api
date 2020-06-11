@@ -3047,8 +3047,11 @@
     },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 13,
+          "confirmed": 21,
           "recovered": 1
         }
       },
@@ -3078,8 +3081,11 @@
         }
       },
       "Mamit": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 8
+          "confirmed": 9
         }
       },
       "Saiha": {
@@ -3095,14 +3101,6 @@
       "Serchhip": {
         "total": {
           "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 9
-        },
-        "total": {
-          "confirmed": 9
         }
       }
     },
