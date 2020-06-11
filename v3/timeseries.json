@@ -571,12 +571,13 @@
     },
     "2020-06-09": {
       "delta": {
-        "confirmed": 1
+        "confirmed": 1,
+        "tested": 518
       },
       "total": {
         "confirmed": 34,
         "recovered": 33,
-        "tested": 9341
+        "tested": 9859
       }
     },
     "2020-06-10": {
@@ -586,7 +587,7 @@
       "total": {
         "confirmed": 35,
         "recovered": 33,
-        "tested": 9341
+        "tested": 9859
       }
     }
   },
