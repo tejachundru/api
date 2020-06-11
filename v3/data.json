@@ -754,6 +754,9 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 96
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -774,8 +777,11 @@
         }
       },
       "Bametara": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 26,
+          "confirmed": 27,
           "recovered": 14
         }
       },
@@ -786,8 +792,11 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 40
+        },
         "total": {
-          "confirmed": 106,
+          "confirmed": 146,
           "deceased": 1,
           "recovered": 33
         }
@@ -799,8 +808,11 @@
         }
       },
       "Durg": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 46,
           "deceased": 3,
           "recovered": 11
         }
@@ -830,14 +842,20 @@
         }
       },
       "Kabeerdham": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 81,
+          "confirmed": 83,
           "recovered": 14
         }
       },
       "Korba": {
+        "delta": {
+          "confirmed": 25
+        },
         "total": {
-          "confirmed": 127,
+          "confirmed": 152,
           "recovered": 38
         }
       },
@@ -848,14 +866,20 @@
         }
       },
       "Mahasamund": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 57,
+          "confirmed": 64,
           "recovered": 9
         }
       },
       "Mungeli": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 108,
+          "confirmed": 110,
           "recovered": 56
         }
       },
@@ -871,21 +895,38 @@
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 99,
+          "confirmed": 104,
           "deceased": 1,
           "recovered": 11
         }
       },
       "Rajnandgaon": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 59,
+          "confirmed": 62,
           "recovered": 36
         }
       },
-      "Surajpur": {
+      "Rayagada": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 13,
+          "confirmed": 7
+        }
+      },
+      "Surajpur": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 14,
           "recovered": 8
         }
       },
@@ -908,14 +949,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T01:24:48+05:30",
+      "last_updated": "2020-06-11T12:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/TS_SinghDeo/status/1270743596749041671/photo/1"
       }
     },
     "total": {
-      "confirmed": 1262,
+      "confirmed": 1358,
       "deceased": 6,
       "recovered": 402,
       "tested": 94576
@@ -4586,20 +4627,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -94,
+      "confirmed": 2,
       "deceased": 6,
       "recovered": 27,
       "tested": 151808
     },
     "meta": {
-      "last_updated": "2020-06-11T11:25:46+05:30",
+      "last_updated": "2020-06-11T12:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 287061,
+      "confirmed": 287157,
       "deceased": 8113,
       "migrated": 15,
       "recovered": 141006,
