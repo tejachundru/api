@@ -1286,9 +1286,20 @@
   "DN": {
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 22,
+          "confirmed": 20,
           "recovered": 2
+        }
+      },
+      "Daman": {
+        "delta": {
+          "confirmed": 2
+        },
+        "total": {
+          "confirmed": 2
         }
       }
     },

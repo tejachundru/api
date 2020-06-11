@@ -64,8 +64,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2140,8 +2140,8 @@
       {
         "district": "Dadra and Nagar Haveli",
         "notes": "",
-        "active": 26,
-        "confirmed": 28,
+        "active": 24,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -2153,8 +2153,8 @@
       {
         "district": "Daman",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5059,10 +5059,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 8,
+        "active": 3,
         "confirmed": 8,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5117,12 +5117,12 @@
       {
         "district": "Imphal East",
         "notes": "",
-        "active": 3,
-        "confirmed": 15,
+        "active": 4,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5130,12 +5130,12 @@
       {
         "district": "Imphal West",
         "notes": "",
-        "active": 50,
-        "confirmed": 55,
+        "active": 51,
+        "confirmed": 56,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -5156,12 +5156,12 @@
       {
         "district": "Kakching",
         "notes": "",
-        "active": 24,
-        "confirmed": 24,
+        "active": 26,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -5195,12 +5195,12 @@
       {
         "district": "Noney",
         "notes": "",
-        "active": 12,
-        "confirmed": 13,
+        "active": 18,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -5221,12 +5221,12 @@
       {
         "district": "Senapati",
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -5273,12 +5273,12 @@
       {
         "district": "Ukhrul",
         "notes": "",
-        "active": 13,
-        "confirmed": 15,
+        "active": 15,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -5286,10 +5286,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -2,
+        "active": -11,
         "confirmed": 31,
         "deceased": 0,
-        "recovered": 33,
+        "recovered": 42,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -7096,13 +7096,13 @@
       {
         "district": "Baran",
         "notes": "",
-        "active": 26,
+        "active": 25,
         "confirmed": 62,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 33,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },

@@ -2827,8 +2827,8 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "26",
-			"confirmed": "28",
+			"active": "24",
+			"confirmed": "26",
 			"deceased": "0",
 			"deltaactive": "1",
 			"deltaconfirmed": "1",
@@ -2845,8 +2845,8 @@
 			"statecode": "DN"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6805,11 +6805,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "3",
-			"confirmed": "15",
+			"active": "4",
+			"confirmed": "16",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Imphal East",
@@ -6823,11 +6823,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "50",
-			"confirmed": "55",
+			"active": "51",
+			"confirmed": "56",
 			"deceased": "0",
-			"deltaactive": "13",
-			"deltaconfirmed": "13",
+			"deltaactive": "14",
+			"deltaconfirmed": "14",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Imphal West",
@@ -6859,11 +6859,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "24",
-			"confirmed": "24",
+			"active": "26",
+			"confirmed": "26",
 			"deceased": "0",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kakching",
@@ -6913,11 +6913,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "12",
-			"confirmed": "13",
+			"active": "18",
+			"confirmed": "19",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "6",
+			"deltaconfirmed": "6",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Noney",
@@ -6949,11 +6949,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "19",
+			"confirmed": "19",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "12",
+			"deltaconfirmed": "12",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Senapati",
@@ -7021,11 +7021,11 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "13",
-			"confirmed": "15",
+			"active": "15",
+			"confirmed": "17",
 			"deceased": "0",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ukhrul",
@@ -9469,12 +9469,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "26",
+			"active": "25",
 			"confirmed": "62",
-			"deceased": "3",
-			"deltaactive": "1",
+			"deceased": "4",
+			"deltaactive": "0",
 			"deltaconfirmed": "1",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Baran",
 			"districtkey": "RJ_Baran",
@@ -13663,8 +13663,8 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "5",
+			"confirmed": "5",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -14041,7 +14041,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "-2",
+			"active": "-11",
 			"confirmed": "31",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -14053,13 +14053,13 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "33",
+			"recovered": "42",
 			"slno": "750",
 			"state": "Manipur",
 			"statecode": "MN"
 		},
 		{
-			"active": "8",
+			"active": "3",
 			"confirmed": "8",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -14071,7 +14071,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "0",
+			"recovered": "5",
 			"slno": "751",
 			"state": "Meghalaya",
 			"statecode": "ML"
