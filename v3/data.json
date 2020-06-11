@@ -286,7 +286,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 34
+      "confirmed": 34,
+      "tested": 11266
     },
     "districts": {
       "Airport Quarantine": {
@@ -532,8 +533,8 @@
       "last_updated": "2020-06-11T19:02:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-09",
-        "source": "https://twitter.com/nhm_assam/status/1270384053586259968?s=19"
+        "last_updated": "2020-06-11",
+        "source": "https://twitter.com/nhm_assam/status/1271119946899025921"
       }
     },
     "total": {
@@ -541,7 +542,7 @@
       "deceased": 6,
       "migrated": 3,
       "recovered": 1249,
-      "tested": 169842
+      "tested": 181108
     }
   },
   "BR": {
@@ -966,7 +967,8 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 97
+      "confirmed": 97,
+      "tested": -1946
     },
     "districts": {
       "Balod": {
@@ -1160,15 +1162,15 @@
     "meta": {
       "last_updated": "2020-06-11T12:51:51+05:30",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://twitter.com/TS_SinghDeo/status/1270743596749041671/photo/1"
+        "last_updated": "2020-06-11",
+        "source": "https://twitter.com/HealthCgGov/status/1271113163908321280/photo/2"
       }
     },
     "total": {
       "confirmed": 1359,
       "deceased": 6,
       "recovered": 402,
-      "tested": 94576
+      "tested": 92630
     }
   },
   "DL": {
