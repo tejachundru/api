@@ -215,7 +215,8 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "tested": 444
     },
     "districts": {
       "Changlang": {
@@ -298,14 +299,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/400"
+        "last_updated": "2020-06-11",
+        "source": "http://covid19.itanagarsmartcity.in/covidstatus.php"
       }
     },
     "total": {
       "confirmed": 67,
       "recovered": 4,
-      "tested": 13035
+      "tested": 13479
     }
   },
   "AS": {
