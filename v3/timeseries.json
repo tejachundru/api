@@ -31008,15 +31008,15 @@
     "2020-06-12": {
       "delta": {
         "confirmed": 8747,
-        "deceased": 230,
-        "recovered": 6013,
+        "deceased": 250,
+        "recovered": 6252,
         "tested": 150305
       },
       "total": {
         "confirmed": 307039,
-        "deceased": 8732,
+        "deceased": 8752,
         "migrated": 22,
-        "recovered": 152985,
+        "recovered": 153224,
         "tested": 5363445
       }
     }
@@ -32408,13 +32408,14 @@
     "2020-06-12": {
       "delta": {
         "confirmed": 528,
-        "recovered": 78,
+        "deceased": 20,
+        "recovered": 317,
         "tested": 14932
       },
       "total": {
         "confirmed": 12616,
-        "deceased": 345,
-        "recovered": 7370,
+        "deceased": 365,
+        "recovered": 7609,
         "tested": 435601
       }
     }
