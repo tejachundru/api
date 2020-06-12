@@ -3058,10 +3058,16 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 21,
+          "confirmed": 22,
           "recovered": 1
         }
       },
@@ -3096,8 +3102,11 @@
         }
       },
       "Saiha": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Saitual": {
@@ -3112,21 +3121,22 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T09:42:50+05:30",
+      "last_updated": "2020-06-12T08:34:50+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1062020-500pm-1162020-500-pm"
       }
     },
     "total": {
-      "confirmed": 102,
+      "confirmed": 104,
       "recovered": 1,
       "tested": 3152
     }
   },
   "NL": {
     "delta": {
-      "confirmed": 17
+      "confirmed": 17,
+      "recovered": 1
     },
     "districts": {
       "Dimapur": {
@@ -3169,6 +3179,14 @@
           "confirmed": 8
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 1
+        },
+        "total": {
+          "recovered": 1
+        }
+      },
       "Wokha": {
         "total": {
           "confirmed": 5
@@ -3181,7 +3199,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T08:28:48+05:30",
+      "last_updated": "2020-06-12T08:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/MyGovNagaland/status/1271101014603489281/photo/1"
@@ -3189,7 +3207,7 @@
     },
     "total": {
       "confirmed": 147,
-      "recovered": 29,
+      "recovered": 30,
       "tested": 5667
     }
   },
@@ -4483,20 +4501,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17
+      "confirmed": 19,
+      "recovered": 1
     },
     "meta": {
-      "last_updated": "2020-06-12T08:28:46+05:30",
+      "last_updated": "2020-06-12T08:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 298300,
+      "confirmed": 298302,
       "deceased": 8502,
       "migrated": 15,
-      "recovered": 146972,
+      "recovered": 146973,
       "tested": 5213140
     }
   },

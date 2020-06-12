@@ -7993,11 +7993,11 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "20",
-			"confirmed": "21",
+			"active": "21",
+			"confirmed": "22",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Aizawl",
@@ -8137,11 +8137,11 @@
 			"statecode": "MZ"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Saiha",
@@ -14095,7 +14095,7 @@
 			"statecode": "MZ"
 		},
 		{
-			"active": "0",
+			"active": "-1",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -14107,7 +14107,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "753",
 			"state": "Nagaland",
 			"statecode": "NL"
