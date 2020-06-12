@@ -1742,7 +1742,8 @@
     "delta": {
       "confirmed": 366,
       "deceased": 6,
-      "recovered": 214
+      "recovered": 214,
+      "tested": 4534
     },
     "districts": {
       "Ambala": {
@@ -1968,15 +1969,15 @@
     "meta": {
       "last_updated": "2020-06-12T20:35:20+05:30",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%2011-06-20%20evening.pdf"
+        "last_updated": "2020-06-12",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-06-2020%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 6334,
       "deceased": 70,
       "recovered": 2475,
-      "tested": 162967
+      "tested": 167501
     }
   },
   "JH": {
@@ -2381,7 +2382,8 @@
     "meta": {
       "last_updated": "2020-06-12T20:54:48+05:30",
       "tested": {
-        "last_updated": "2020-06-12"
+        "last_updated": "2020-06-12",
+        "source": "https://twitter.com/diprjk/status/1271454237545783297?s=19"
       }
     },
     "total": {
@@ -3385,7 +3387,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:56:51+05:30",
+      "last_updated": "2020-06-12T21:00:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/425"
@@ -4550,7 +4552,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:56:49+05:30",
+      "last_updated": "2020-06-12T20:58:50+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7071?single"
@@ -4958,7 +4960,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:56:54+05:30",
+      "last_updated": "2020-06-12T20:58:57+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/423"
@@ -5711,7 +5713,7 @@
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T20:56:46+05:30",
+      "last_updated": "2020-06-12T21:00:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
@@ -5738,6 +5740,9 @@
     }
   },
   "UP": {
+    "delta": {
+      "tested": 14932
+    },
     "districts": {
       "Agra": {
         "total": {
@@ -6249,15 +6254,15 @@
     "meta": {
       "last_updated": "2020-06-11T19:40:48+05:30",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://t.me/indiacovid/6974?single"
+        "last_updated": "2020-06-12",
+        "source": "https://t.me/indiacovid/7094?single"
       }
     },
     "total": {
       "confirmed": 12088,
       "deceased": 345,
       "recovered": 7292,
-      "tested": 420669
+      "tested": 435601
     }
   },
   "UT": {
