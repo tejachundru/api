@@ -197,7 +197,7 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 5,
+      "confirmed": 2,
       "tested": 311
     },
     "districts": {
@@ -223,20 +223,12 @@
           "confirmed": 1
         }
       },
-      "Pakke Kessang": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Papum Pare": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 7
+          "confirmed": 5
         }
       },
       "Tawang": {
@@ -262,7 +254,7 @@
       }
     },
     "total": {
-      "confirmed": 27,
+      "confirmed": 24,
       "recovered": 1,
       "tested": 9079
     }
@@ -5579,7 +5571,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8815,
+      "confirmed": 8812,
       "deceased": 222,
       "recovered": 4531,
       "tested": 128868
@@ -5591,7 +5583,7 @@
       }
     },
     "total": {
-      "confirmed": 207186,
+      "confirmed": 207183,
       "deceased": 5830,
       "migrated": 11,
       "recovered": 100275,

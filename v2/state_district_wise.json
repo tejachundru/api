@@ -466,8 +466,8 @@
       {
         "district": "Pakke Kessang",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": -1,
+        "confirmed": 0,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -479,8 +479,8 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 5,
-        "confirmed": 7,
+        "active": 3,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 2,
         "delta": {

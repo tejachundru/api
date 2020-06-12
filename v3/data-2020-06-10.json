@@ -257,7 +257,6 @@
       },
       "Pakke Kessang": {
         "total": {
-          "confirmed": 1,
           "recovered": 1
         }
       },
@@ -266,7 +265,7 @@
           "recovered": 2
         },
         "total": {
-          "confirmed": 7,
+          "confirmed": 5,
           "recovered": 2
         }
       },
@@ -298,7 +297,7 @@
       }
     },
     "total": {
-      "confirmed": 61,
+      "confirmed": 58,
       "recovered": 4,
       "tested": 13035
     }
@@ -6018,7 +6017,7 @@
       }
     },
     "total": {
-      "confirmed": 287157,
+      "confirmed": 287154,
       "deceased": 8108,
       "migrated": 15,
       "recovered": 140928,
