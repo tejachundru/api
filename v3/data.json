@@ -911,31 +911,31 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 2,
+      "confirmed": 3,
       "recovered": 2
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 2
         },
         "total": {
-          "confirmed": 334,
+          "confirmed": 335,
           "deceased": 5,
           "recovered": 295
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T15:41:50+05:30",
+      "last_updated": "2020-06-12T19:12:50+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/ANI/status/1271014249989468160?s=19"
       }
     },
     "total": {
-      "confirmed": 334,
+      "confirmed": 335,
       "deceased": 5,
       "recovered": 295,
       "tested": 5636
@@ -2458,7 +2458,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T19:02:48+05:30",
+      "last_updated": "2020-06-12T19:10:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-11",
@@ -5255,20 +5255,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2536,
+      "confirmed": 2537,
       "deceased": 36,
       "recovered": 2527,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T19:02:46+05:30",
+      "last_updated": "2020-06-12T19:12:48+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
       }
     },
     "total": {
-      "confirmed": 300821,
+      "confirmed": 300822,
       "deceased": 8538,
       "migrated": 15,
       "recovered": 149499,
