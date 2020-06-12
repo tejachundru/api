@@ -9732,14 +9732,14 @@
       {
         "district": "Almora",
         "notes": "",
-        "active": 6,
+        "active": 2,
         "confirmed": 74,
         "deceased": 1,
-        "recovered": 67,
+        "recovered": 71,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -9758,12 +9758,12 @@
       {
         "district": "Chamoli",
         "notes": "",
-        "active": 9,
-        "confirmed": 37,
+        "active": 12,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -9784,25 +9784,25 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 223,
-        "confirmed": 432,
-        "deceased": 11,
-        "recovered": 194,
+        "active": 230,
+        "confirmed": 447,
+        "deceased": 14,
+        "recovered": 199,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 15,
+          "deceased": 3,
+          "recovered": 5
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 93,
-        "confirmed": 170,
+        "active": 99,
+        "confirmed": 176,
         "deceased": 0,
         "recovered": 75,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -9849,12 +9849,12 @@
       {
         "district": "Rudraprayag",
         "notes": "",
-        "active": 32,
-        "confirmed": 35,
+        "active": 39,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -9862,12 +9862,12 @@
       {
         "district": "Tehri Garhwal",
         "notes": "",
-        "active": 157,
-        "confirmed": 256,
+        "active": 158,
+        "confirmed": 257,
         "deceased": 0,
         "recovered": 99,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9875,12 +9875,12 @@
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 20,
-        "confirmed": 99,
+        "active": 25,
+        "confirmed": 104,
         "deceased": 0,
         "recovered": 79,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
