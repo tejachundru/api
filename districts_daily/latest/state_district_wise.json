@@ -1449,12 +1449,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 35,
-        "confirmed": 335,
+        "active": 45,
+        "confirmed": 345,
         "deceased": 5,
         "recovered": 295,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 2
         }
@@ -5660,8 +5660,8 @@
     "districtData": {
       "Dimapur": {
         "notes": "",
-        "active": 26,
-        "confirmed": 45,
+        "active": 20,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 19,
         "delta": {
@@ -5684,8 +5684,8 @@
       },
       "Kohima": {
         "notes": "",
-        "active": 4,
-        "confirmed": 14,
+        "active": 2,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 10,
         "delta": {
@@ -5732,8 +5732,8 @@
       },
       "Peren": {
         "notes": "",
-        "active": 64,
-        "confirmed": 64,
+        "active": 63,
+        "confirmed": 63,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5792,10 +5792,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -1,
+        "active": -20,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
