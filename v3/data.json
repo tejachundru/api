@@ -2273,6 +2273,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 15731
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2525,15 +2528,15 @@
     "meta": {
       "last_updated": "2020-06-11T21:04:48+05:30",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://twitter.com/Maha_MEDD/status/1270958181422792704?s=19"
+        "last_updated": "2020-06-12",
+        "source": "https://twitter.com/Maha_MEDD/status/1271316085543849986?s=19"
       }
     },
     "total": {
       "confirmed": 97648,
       "deceased": 3590,
       "recovered": 46078,
-      "tested": 610790
+      "tested": 626521
     }
   },
   "ML": {
@@ -3220,7 +3223,8 @@
   "OR": {
     "delta": {
       "confirmed": 112,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 7166
     },
     "districts": {
       "Angul": {
@@ -3477,15 +3481,15 @@
       "last_updated": "2020-06-12T11:21:47+05:30",
       "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/405?single"
+        "last_updated": "2020-06-12",
+        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "total": {
       "confirmed": 3498,
       "deceased": 13,
       "recovered": 2354,
-      "tested": 185410
+      "tested": 192576
     }
   },
   "PB": {
@@ -3688,7 +3692,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T12:02:48+05:30",
+      "last_updated": "2020-06-12T12:10:48+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/indiacovid/7027?single"
@@ -4046,7 +4050,8 @@
     "meta": {
       "last_updated": "2020-06-12T08:49:48+05:30",
       "tested": {
-        "last_updated": "2020-06-11"
+        "last_updated": "2020-06-11",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "total": {
@@ -4641,7 +4646,7 @@
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T12:02:45+05:30",
+      "last_updated": "2020-06-12T12:10:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
