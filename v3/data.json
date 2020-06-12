@@ -1405,7 +1405,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T13:22:49+05:30",
+      "last_updated": "2020-06-12T13:34:50+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-11",
@@ -1591,6 +1591,9 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 8
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -1624,8 +1627,11 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 219,
+          "confirmed": 225,
           "recovered": 50
         }
       },
@@ -1704,8 +1710,11 @@
         }
       },
       "Ramgarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 97,
+          "confirmed": 98,
           "recovered": 10
         }
       },
@@ -1723,33 +1732,42 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": -19
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 33,
           "recovered": 6
         }
       },
       "Simdega": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 211,
+          "confirmed": 229,
           "recovered": 34
         }
       },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 39,
           "recovered": 6
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T23:45:51+05:30",
+      "last_updated": "2020-06-12T13:35:49+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/FOBGumla/status/1271118926617800706"
       }
     },
     "total": {
-      "confirmed": 1599,
+      "confirmed": 1607,
       "deceased": 8,
       "recovered": 630,
       "tested": 99931
@@ -4649,20 +4667,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -359,
+      "confirmed": -351,
       "deceased": 6,
       "recovered": 78,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T13:22:46+05:30",
+      "last_updated": "2020-06-12T13:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
       }
     },
     "total": {
-      "confirmed": 297926,
+      "confirmed": 297934,
       "deceased": 8508,
       "migrated": 15,
       "recovered": 147050,
@@ -4675,7 +4693,7 @@
     },
     "meta": {
       "last_updated": "2020-06-12T09:50:47+05:30",
-      "notes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\""
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 616 cases were decreased from this category today by MoHFW. We are reflecting the same change."
     },
     "total": {
       "confirmed": 8315

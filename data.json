@@ -1209,13 +1209,13 @@
 	],
 	"statewise": [
 		{
-			"active": "142353",
-			"confirmed": "297926",
+			"active": "142361",
+			"confirmed": "297934",
 			"deaths": "8508",
-			"deltaconfirmed": "-359",
+			"deltaconfirmed": "-351",
 			"deltadeaths": "6",
 			"deltarecovered": "78",
-			"lastupdatedtime": "12/06/2020 13:22:46",
+			"lastupdatedtime": "12/06/2020 13:35:46",
 			"migratedother": "15",
 			"recovered": "147050",
 			"state": "Total",
@@ -1346,7 +1346,7 @@
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\""
+			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 616 cases were decreased from this category today by MoHFW. We are reflecting the same change."
 		},
 		{
 			"active": "3195",
@@ -1503,13 +1503,13 @@
 			"statenotes": "7 Migrated cases reduced from Active count"
 		},
 		{
-			"active": "961",
-			"confirmed": "1599",
+			"active": "969",
+			"confirmed": "1607",
 			"deaths": "8",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/06/2020 23:45:51",
+			"lastupdatedtime": "12/06/2020 13:35:49",
 			"migratedother": "0",
 			"recovered": "630",
 			"state": "Jharkhand",
@@ -1551,7 +1551,7 @@
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/06/2020 13:22:49",
+			"lastupdatedtime": "12/06/2020 13:34:50",
 			"migratedother": "3",
 			"recovered": "276",
 			"state": "Himachal Pradesh",
