@@ -1019,7 +1019,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T09:52:49+05:30",
+      "last_updated": "2020-06-12T10:01:49+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/DnhPublicity/status/1270767797304508421/photo/1"
@@ -4514,13 +4514,13 @@
   "TT": {
     "delta": {
       "confirmed": -574,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T09:52:46+05:30",
+      "last_updated": "2020-06-12T10:01:46+05:30",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
+        "last_updated": "2020-06-12"
       }
     },
     "total": {
@@ -4528,7 +4528,7 @@
       "deceased": 8502,
       "migrated": 15,
       "recovered": 146973,
-      "tested": 5213140
+      "tested": 5363445
     }
   },
   "UN": {
