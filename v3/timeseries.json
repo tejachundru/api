@@ -18450,13 +18450,14 @@
     "2020-06-12": {
       "delta": {
         "confirmed": 3493,
-        "recovered": 18,
+        "deceased": 127,
+        "recovered": 1718,
         "tested": 15731
       },
       "total": {
         "confirmed": 101141,
-        "deceased": 3590,
-        "recovered": 46096,
+        "deceased": 3717,
+        "recovered": 47796,
         "tested": 626521
       }
     }
@@ -30982,15 +30983,15 @@
     "2020-06-12": {
       "delta": {
         "confirmed": 7537,
-        "deceased": 88,
-        "recovered": 3457,
+        "deceased": 215,
+        "recovered": 5157,
         "tested": 150305
       },
       "total": {
         "confirmed": 305822,
-        "deceased": 8590,
+        "deceased": 8717,
         "migrated": 15,
-        "recovered": 150429,
+        "recovered": 152129,
         "tested": 5363445
       }
     }
