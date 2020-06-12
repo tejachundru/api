@@ -13983,13 +13983,14 @@
       "delta": {
         "confirmed": 156,
         "deceased": 1,
-        "recovered": 266
+        "recovered": 266,
+        "tested": 6792
       },
       "total": {
         "confirmed": 4730,
         "deceased": 53,
         "recovered": 2086,
-        "tested": 247267
+        "tested": 254059
       }
     }
   },
@@ -15227,14 +15228,15 @@
       "delta": {
         "confirmed": 271,
         "deceased": 7,
-        "recovered": 464
+        "recovered": 464,
+        "tested": 9835
       },
       "total": {
         "confirmed": 6516,
         "deceased": 79,
         "migrated": 2,
         "recovered": 3440,
-        "tested": 416506
+        "tested": 426341
       }
     }
   },
@@ -17249,13 +17251,14 @@
     "2020-06-12": {
       "delta": {
         "confirmed": 104,
-        "recovered": 8
+        "recovered": 8,
+        "tested": 131
       },
       "total": {
         "confirmed": 239,
         "deceased": 1,
         "recovered": 62,
-        "tested": 10855
+        "tested": 10986
       }
     }
   },
@@ -24257,13 +24260,13 @@
     },
     "2020-06-12": {
       "delta": {
-        "confirmed": 99,
+        "confirmed": 36,
         "deceased": 4,
         "recovered": 23,
         "tested": 11050
       },
       "total": {
-        "confirmed": 2986,
+        "confirmed": 2923,
         "deceased": 63,
         "recovered": 2282,
         "tested": 165548
@@ -26581,10 +26584,10 @@
     },
     "2020-06-12": {
       "delta": {
-        "confirmed": 14
+        "confirmed": 50
       },
       "total": {
-        "confirmed": 27,
+        "confirmed": 63,
         "recovered": 3,
         "tested": 6692
       }
@@ -30991,13 +30994,13 @@
     },
     "2020-06-12": {
       "delta": {
-        "confirmed": 7693,
+        "confirmed": 7666,
         "deceased": 216,
         "recovered": 5423,
         "tested": 150305
       },
       "total": {
-        "confirmed": 305978,
+        "confirmed": 305951,
         "deceased": 8718,
         "migrated": 15,
         "recovered": 152395,
