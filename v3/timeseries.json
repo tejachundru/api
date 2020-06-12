@@ -6140,13 +6140,14 @@
     "2020-06-12": {
       "delta": {
         "confirmed": 31,
-        "recovered": 123
+        "recovered": 123,
+        "tested": 2373
       },
       "total": {
         "confirmed": 1429,
         "deceased": 6,
         "recovered": 544,
-        "tested": 96230
+        "tested": 98603
       }
     }
   },

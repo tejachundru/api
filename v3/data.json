@@ -973,7 +973,8 @@
   "CT": {
     "delta": {
       "confirmed": 31,
-      "recovered": 123
+      "recovered": 123,
+      "tested": 2373
     },
     "districts": {
       "Balod": {
@@ -1183,15 +1184,14 @@
     "meta": {
       "last_updated": "2020-06-12T21:25:54+05:30",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://twitter.com/HealthCgGov/status/1271113163908321280/photo/2"
+        "last_updated": "2020-06-12"
       }
     },
     "total": {
       "confirmed": 1429,
       "deceased": 6,
       "recovered": 544,
-      "tested": 96230
+      "tested": 98603
     }
   },
   "DL": {
@@ -5550,7 +5550,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T22:34:48+05:30",
+      "last_updated": "2020-06-12T22:35:48+05:30",
       "tested": {
         "last_updated": "2020-05-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
@@ -6083,7 +6083,7 @@
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T22:34:46+05:30",
+      "last_updated": "2020-06-12T22:35:45+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
