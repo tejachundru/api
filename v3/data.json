@@ -1603,7 +1603,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T18:11:50+05:30",
+      "last_updated": "2020-06-12T18:15:57+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-11",
@@ -2383,7 +2383,8 @@
   "KL": {
     "delta": {
       "confirmed": 78,
-      "deceased": 1
+      "deceased": 1,
+      "recovered": 32
     },
     "districts": {
       "Alappuzha": {
@@ -2398,71 +2399,78 @@
       },
       "Ernakulam": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 4
         },
         "total": {
           "confirmed": 94,
           "deceased": 1,
-          "recovered": 47
+          "recovered": 51
         }
       },
       "Idukki": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 4
         },
         "total": {
           "confirmed": 54,
-          "recovered": 26
+          "recovered": 30
         }
       },
       "Kannur": {
         "delta": {
           "confirmed": 3,
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 284,
           "deceased": 4,
-          "recovered": 168
+          "recovered": 170
         }
       },
       "Kasaragod": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         },
         "total": {
           "confirmed": 353,
-          "recovered": 240
+          "recovered": 241
         }
       },
       "Kollam": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 7
         },
         "total": {
           "confirmed": 145,
           "deceased": 1,
-          "recovered": 36
+          "recovered": 43
         }
       },
       "Kottayam": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 89,
           "deceased": 1,
-          "recovered": 43
+          "recovered": 44
         }
       },
       "Kozhikode": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 2
         },
         "total": {
           "confirmed": 137,
           "deceased": 1,
-          "recovered": 62
+          "recovered": 64
         }
       },
       "Malappuram": {
@@ -2482,12 +2490,13 @@
       },
       "Palakkad": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 6
         },
         "total": {
           "confirmed": 270,
           "deceased": 1,
-          "recovered": 80
+          "recovered": 86
         }
       },
       "Pathanamthitta": {
@@ -2501,22 +2510,24 @@
       },
       "Thiruvananthapuram": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "total": {
           "confirmed": 122,
           "deceased": 3,
-          "recovered": 63
+          "recovered": 64
         }
       },
       "Thrissur": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "recovered": 4
         },
         "total": {
           "confirmed": 218,
           "deceased": 3,
-          "recovered": 51
+          "recovered": 55
         }
       },
       "Wayanad": {
@@ -2528,7 +2539,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T18:11:48+05:30",
+      "last_updated": "2020-06-12T18:22:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-11",
@@ -2538,7 +2549,7 @@
     "total": {
       "confirmed": 2323,
       "deceased": 20,
-      "recovered": 967,
+      "recovered": 999,
       "tested": 135974
     }
   },
@@ -5010,11 +5021,11 @@
     "delta": {
       "confirmed": 283,
       "deceased": 11,
-      "recovered": 689,
+      "recovered": 721,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T18:11:46+05:30",
+      "last_updated": "2020-06-12T18:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
@@ -5024,7 +5035,7 @@
       "confirmed": 298568,
       "deceased": 8513,
       "migrated": 15,
-      "recovered": 147661,
+      "recovered": 147693,
       "tested": 5363445
     }
   },
