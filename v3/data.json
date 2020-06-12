@@ -3135,16 +3135,16 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 17,
+      "confirmed": 26,
       "recovered": 1
     },
     "districts": {
       "Dimapur": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 23
         },
         "total": {
-          "confirmed": 33,
+          "confirmed": 39,
           "recovered": 19
         }
       },
@@ -3154,8 +3154,11 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 10
         }
       },
@@ -3165,8 +3168,11 @@
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 62
+          "confirmed": 63
         }
       },
       "Phek": {
@@ -3199,14 +3205,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T08:44:48+05:30",
+      "last_updated": "2020-06-12T09:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/MyGovNagaland/status/1271101014603489281/photo/1"
       }
     },
     "total": {
-      "confirmed": 147,
+      "confirmed": 156,
       "recovered": 30,
       "tested": 5667
     }
@@ -4507,18 +4513,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 33,
+      "confirmed": 42,
       "recovered": 1
     },
     "meta": {
-      "last_updated": "2020-06-12T08:49:46+05:30",
+      "last_updated": "2020-06-12T09:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 298316,
+      "confirmed": 298325,
       "deceased": 8502,
       "migrated": 15,
       "recovered": 146973,
