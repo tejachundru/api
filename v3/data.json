@@ -889,7 +889,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T17:01:48+05:30",
+      "last_updated": "2020-06-12T17:04:50+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/PIB_Patna/status/1271033210844049409"
@@ -903,12 +903,26 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 2
+    },
     "districts": {
       "Chandigarh": {
         "total": {
           "confirmed": 332,
           "deceased": 5,
           "recovered": 293
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
+        "total": {
+          "confirmed": 2,
+          "recovered": 2
         }
       }
     },
@@ -920,9 +934,9 @@
       }
     },
     "total": {
-      "confirmed": 332,
+      "confirmed": 334,
       "deceased": 5,
-      "recovered": 293,
+      "recovered": 295,
       "tested": 5636
     }
   },
@@ -4938,23 +4952,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 197,
+      "confirmed": 199,
       "deceased": 10,
-      "recovered": 572,
+      "recovered": 574,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T17:01:46+05:30",
+      "last_updated": "2020-06-12T17:04:47+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
       }
     },
     "total": {
-      "confirmed": 298482,
+      "confirmed": 298484,
       "deceased": 8512,
       "migrated": 15,
-      "recovered": 147544,
+      "recovered": 147546,
       "tested": 5363445
     }
   },
