@@ -909,20 +909,14 @@
     },
     "districts": {
       "Chandigarh": {
-        "total": {
-          "confirmed": 332,
-          "deceased": 5,
-          "recovered": 293
-        }
-      },
-      "Unknown": {
         "delta": {
           "confirmed": 2,
           "recovered": 2
         },
         "total": {
-          "confirmed": 2,
-          "recovered": 2
+          "confirmed": 334,
+          "deceased": 5,
+          "recovered": 295
         }
       }
     },
