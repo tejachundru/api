@@ -508,7 +508,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T17:52:49+05:30",
+      "last_updated": "2020-06-12T17:57:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-11",
@@ -1504,7 +1504,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 11,
+      "recovered": 10
     },
     "districts": {
       "Bilaspur": {
@@ -1514,23 +1515,34 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 34,
-          "recovered": 23
+          "confirmed": 35,
+          "recovered": 24
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 126,
+          "confirmed": 131,
           "deceased": 1,
-          "recovered": 85
+          "recovered": 92
         }
       },
       "Kangra": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 126,
           "deceased": 1,
-          "recovered": 67
+          "recovered": 69
         }
       },
       "Kinnaur": {
@@ -1591,7 +1603,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T13:37:50+05:30",
+      "last_updated": "2020-06-12T18:02:50+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-11",
@@ -1599,10 +1611,10 @@
       }
     },
     "total": {
-      "confirmed": 475,
+      "confirmed": 481,
       "deceased": 7,
       "migrated": 3,
-      "recovered": 276,
+      "recovered": 286,
       "tested": 50222
     }
   },
@@ -2369,64 +2381,96 @@
     }
   },
   "KL": {
+    "delta": {
+      "confirmed": 78,
+      "deceased": 1
+    },
     "districts": {
       "Alappuzha": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 107,
+          "confirmed": 120,
           "deceased": 1,
           "recovered": 24
         }
       },
       "Ernakulam": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 94,
           "deceased": 1,
           "recovered": 47
         }
       },
       "Idukki": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 53,
+          "confirmed": 54,
           "recovered": 26
         }
       },
       "Kannur": {
+        "delta": {
+          "confirmed": 3,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 281,
-          "deceased": 3,
+          "confirmed": 284,
+          "deceased": 4,
           "recovered": 168
         }
       },
       "Kasaragod": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 349,
+          "confirmed": 353,
           "recovered": 240
         }
       },
       "Kollam": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 141,
+          "confirmed": 145,
           "deceased": 1,
           "recovered": 36
         }
       },
       "Kottayam": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 86,
+          "confirmed": 89,
           "deceased": 1,
           "recovered": 43
         }
       },
       "Kozhikode": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 133,
+          "confirmed": 137,
           "deceased": 1,
           "recovered": 62
         }
       },
       "Malappuram": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 240,
+          "confirmed": 254,
           "deceased": 3,
           "recovered": 61
         }
@@ -2437,28 +2481,40 @@
         }
       },
       "Palakkad": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 265,
+          "confirmed": 270,
           "deceased": 1,
           "recovered": 80
         }
       },
       "Pathanamthitta": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 120,
+          "confirmed": 127,
           "recovered": 35
         }
       },
       "Thiruvananthapuram": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 121,
+          "confirmed": 122,
           "deceased": 3,
           "recovered": 63
         }
       },
       "Thrissur": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 204,
+          "confirmed": 218,
           "deceased": 3,
           "recovered": 51
         }
@@ -2472,7 +2528,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T19:13:51+05:30",
+      "last_updated": "2020-06-12T18:02:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-11",
@@ -2480,8 +2536,8 @@
       }
     },
     "total": {
-      "confirmed": 2245,
-      "deceased": 19,
+      "confirmed": 2323,
+      "deceased": 20,
       "recovered": 967,
       "tested": 135974
     }
@@ -4952,23 +5008,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 199,
-      "deceased": 10,
-      "recovered": 679,
+      "confirmed": 283,
+      "deceased": 11,
+      "recovered": 689,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T17:52:46+05:30",
+      "last_updated": "2020-06-12T18:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
       }
     },
     "total": {
-      "confirmed": 298484,
-      "deceased": 8512,
+      "confirmed": 298568,
+      "deceased": 8513,
       "migrated": 15,
-      "recovered": 147651,
+      "recovered": 147661,
       "tested": 5363445
     }
   },
