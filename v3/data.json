@@ -527,7 +527,8 @@
     "delta": {
       "confirmed": 95,
       "deceased": 1,
-      "recovered": 230
+      "recovered": 230,
+      "tested": 3446
     },
     "districts": {
       "Araria": {
@@ -897,15 +898,15 @@
     "meta": {
       "last_updated": "2020-06-12T17:04:50+05:30",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://twitter.com/PIB_Patna/status/1271033210844049409"
+        "last_updated": "2020-06-12",
+        "source": "https://twitter.com/PIB_Patna/status/1271399345762390016"
       }
     },
     "total": {
       "confirmed": 6043,
       "deceased": 35,
       "recovered": 3316,
-      "tested": 113225
+      "tested": 116671
     }
   },
   "CH": {
@@ -2159,6 +2160,7 @@
   "KA": {
     "delta": {
       "confirmed": 271,
+      "deceased": 7,
       "recovered": 464
     },
     "districts": {
@@ -2202,11 +2204,12 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 36
+          "confirmed": 36,
+          "deceased": 4
         },
         "total": {
           "confirmed": 617,
-          "deceased": 23,
+          "deceased": 27,
           "migrated": 1,
           "recovered": 299
         }
@@ -2297,30 +2300,33 @@
       },
       "Hassan": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "deceased": 1
         },
         "total": {
           "confirmed": 225,
+          "deceased": 1,
           "recovered": 160
         }
       },
       "Haveri": {
         "delta": {
-          "recovered": 6
+          "recovered": 7
         },
         "total": {
           "confirmed": 22,
-          "recovered": 20
+          "recovered": 21
         }
       },
       "Kalaburagi": {
         "delta": {
           "confirmed": 20,
+          "deceased": 2,
           "recovered": 60
         },
         "total": {
           "confirmed": 816,
-          "deceased": 8,
+          "deceased": 10,
           "recovered": 345
         }
       },
@@ -2420,14 +2426,6 @@
           "recovered": 474
         }
       },
-      "Unknown": {
-        "delta": {
-          "recovered": 2
-        },
-        "total": {
-          "recovered": 2
-        }
-      },
       "Uttara Kannada": {
         "delta": {
           "confirmed": 4,
@@ -2450,17 +2448,17 @@
       },
       "Yadgir": {
         "delta": {
-          "recovered": 128
+          "recovered": 129
         },
         "total": {
           "confirmed": 735,
           "deceased": 1,
-          "recovered": 236
+          "recovered": 237
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T18:53:07+05:30",
+      "last_updated": "2020-06-12T19:02:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-11",
@@ -2469,7 +2467,7 @@
     },
     "total": {
       "confirmed": 6516,
-      "deceased": 72,
+      "deceased": 79,
       "migrated": 2,
       "recovered": 3440,
       "tested": 416506
@@ -3650,7 +3648,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T18:51:51+05:30",
+      "last_updated": "2020-06-12T18:55:59+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/MyGovNagaland/status/1271101014603489281/photo/1"
@@ -5258,12 +5256,12 @@
   "TT": {
     "delta": {
       "confirmed": 2536,
-      "deceased": 29,
+      "deceased": 36,
       "recovered": 2527,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T18:52:46+05:30",
+      "last_updated": "2020-06-12T19:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
@@ -5271,7 +5269,7 @@
     },
     "total": {
       "confirmed": 300821,
-      "deceased": 8531,
+      "deceased": 8538,
       "migrated": 15,
       "recovered": 149499,
       "tested": 5363445

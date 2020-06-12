@@ -3820,13 +3820,13 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 294,
+        "active": 290,
         "confirmed": 617,
-        "deceased": 23,
+        "deceased": 27,
         "recovered": 299,
         "delta": {
           "confirmed": 36,
-          "deceased": 0,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -3950,39 +3950,39 @@
       {
         "district": "Hassan",
         "notes": "",
-        "active": 65,
+        "active": 64,
         "confirmed": 225,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 160,
         "delta": {
           "confirmed": 9,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Haveri",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 22,
         "deceased": 0,
-        "recovered": 20,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 7
         }
       },
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 463,
+        "active": 461,
         "confirmed": 816,
-        "deceased": 8,
+        "deceased": 10,
         "recovered": 345,
         "delta": {
           "confirmed": 20,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 60
         }
       },
@@ -4158,27 +4158,14 @@
       {
         "district": "Yadgir",
         "notes": "",
-        "active": 498,
+        "active": 497,
         "confirmed": 735,
         "deceased": 1,
-        "recovered": 236,
+        "recovered": 237,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 128
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -2,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 129
         }
       }
     ]
