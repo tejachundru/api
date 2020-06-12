@@ -35,7 +35,8 @@
   "AP": {
     "delta": {
       "confirmed": 207,
-      "recovered": 123
+      "recovered": 123,
+      "tested": 11775
     },
     "districts": {
       "Anantapur": {
@@ -192,15 +193,15 @@
       "last_updated": "2020-06-12T14:04:55+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://twitter.com/ArogyaAndhra/status/1270967454634700800"
+        "last_updated": "2020-06-12",
+        "source": "https://twitter.com/ArogyaAndhra/status/1271348981814013953?s=09"
       }
     },
     "total": {
       "confirmed": 5636,
       "deceased": 80,
       "recovered": 3091,
-      "tested": 510318
+      "tested": 522093
     }
   },
   "AR": {
@@ -1296,17 +1297,11 @@
     }
   },
   "DN": {
-    "delta": {
-      "recovered": 2
-    },
     "districts": {
       "Dadra and Nagar Haveli": {
-        "delta": {
-          "recovered": 2
-        },
         "total": {
           "confirmed": 28,
-          "recovered": 4
+          "recovered": 2
         }
       },
       "Daman": {
@@ -1316,7 +1311,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T23:22:50+05:30",
+      "last_updated": "2020-06-12T23:34:50+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://twitter.com/DnhPublicity/status/1270767797304508421/photo/1"
@@ -1324,7 +1319,7 @@
     },
     "total": {
       "confirmed": 30,
-      "recovered": 4,
+      "recovered": 2,
       "tested": 17179
     }
   },
@@ -1720,7 +1715,8 @@
   "HP": {
     "delta": {
       "confirmed": 16,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 460198
     },
     "districts": {
       "Bilaspur": {
@@ -1832,8 +1828,8 @@
       "last_updated": "2020-06-12T21:53:55+05:30",
       "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://twitter.com/nhm_hp/status/1271110874804043776/photo/1"
+        "last_updated": "2020-06-12",
+        "source": "https://twitter.com/nhm_hp/status/1271471425728049152?s=09"
       }
     },
     "total": {
@@ -1841,7 +1837,7 @@
       "deceased": 7,
       "migrated": 10,
       "recovered": 293,
-      "tested": 50222
+      "tested": 510420
     }
   },
   "HR": {
@@ -6096,11 +6092,11 @@
     "delta": {
       "confirmed": 11113,
       "deceased": 388,
-      "recovered": 7161,
+      "recovered": 7159,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T23:22:47+05:30",
+      "last_updated": "2020-06-12T23:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
@@ -6110,7 +6106,7 @@
       "confirmed": 309405,
       "deceased": 8890,
       "migrated": 22,
-      "recovered": 154133,
+      "recovered": 154131,
       "tested": 5363445
     }
   },
