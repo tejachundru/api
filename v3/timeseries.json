@@ -10853,27 +10853,28 @@
     "2020-06-11": {
       "delta": {
         "confirmed": 19,
+        "migrated": 7,
         "recovered": 26,
         "tested": 1300
       },
       "total": {
         "confirmed": 470,
         "deceased": 7,
-        "migrated": 3,
+        "migrated": 10,
         "recovered": 276,
         "tested": 50222
       }
     },
     "2020-06-12": {
       "delta": {
-        "confirmed": 11,
-        "recovered": 10
+        "confirmed": 16,
+        "recovered": 17
       },
       "total": {
-        "confirmed": 481,
+        "confirmed": 486,
         "deceased": 7,
-        "migrated": 3,
-        "recovered": 286,
+        "migrated": 10,
+        "recovered": 293,
         "tested": 50222
       }
     }
@@ -30989,29 +30990,30 @@
       "delta": {
         "confirmed": 11128,
         "deceased": 394,
+        "migrated": 7,
         "recovered": 6044,
         "tested": 151808
       },
       "total": {
         "confirmed": 298285,
         "deceased": 8502,
-        "migrated": 15,
+        "migrated": 22,
         "recovered": 146972,
         "tested": 5213140
       }
     },
     "2020-06-12": {
       "delta": {
-        "confirmed": 7948,
+        "confirmed": 7985,
         "deceased": 221,
-        "recovered": 5717,
+        "recovered": 5776,
         "tested": 150305
       },
       "total": {
-        "confirmed": 306233,
+        "confirmed": 306270,
         "deceased": 8723,
-        "migrated": 15,
-        "recovered": 152689,
+        "migrated": 22,
+        "recovered": 152748,
         "tested": 5363445
       }
     }
@@ -33401,16 +33403,16 @@
     },
     "2020-06-12": {
       "delta": {
-        "confirmed": 37,
+        "confirmed": 69,
         "deceased": 5,
-        "recovered": 9,
+        "recovered": 61,
         "tested": 895
       },
       "total": {
-        "confirmed": 1692,
+        "confirmed": 1724,
         "deceased": 21,
         "migrated": 7,
-        "recovered": 895,
+        "recovered": 947,
         "tested": 42783
       }
     }

@@ -1759,6 +1759,7 @@
   "HP": {
     "delta": {
       "confirmed": 19,
+      "migrated": 7,
       "recovered": 26,
       "tested": 1300
     },
@@ -1838,10 +1839,12 @@
       },
       "Sirmaur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "migrated": 7
         },
         "total": {
           "confirmed": 23,
+          "migrated": 7,
           "recovered": 4
         }
       },
@@ -1882,7 +1885,7 @@
     "total": {
       "confirmed": 470,
       "deceased": 7,
-      "migrated": 3,
+      "migrated": 10,
       "recovered": 276,
       "tested": 50222
     }
@@ -6037,6 +6040,7 @@
     "delta": {
       "confirmed": 11128,
       "deceased": 394,
+      "migrated": 7,
       "recovered": 6044,
       "tested": 151808
     },
@@ -6049,7 +6053,7 @@
     "total": {
       "confirmed": 298285,
       "deceased": 8502,
-      "migrated": 15,
+      "migrated": 22,
       "recovered": 146972,
       "tested": 5213140
     }
