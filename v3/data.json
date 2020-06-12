@@ -290,6 +290,7 @@
   "AS": {
     "delta": {
       "confirmed": 68,
+      "deceased": 2,
       "recovered": 105
     },
     "districts": {
@@ -494,11 +495,12 @@
       "Unknown": {
         "delta": {
           "confirmed": 68,
+          "deceased": 2,
           "recovered": 105
         },
         "total": {
           "confirmed": 372,
-          "deceased": 1,
+          "deceased": 3,
           "migrated": 3,
           "recovered": 717
         }
@@ -510,7 +512,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T19:36:17+05:30",
+      "last_updated": "2020-06-12T19:41:49+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-11",
@@ -519,7 +521,7 @@
     },
     "total": {
       "confirmed": 3499,
-      "deceased": 6,
+      "deceased": 8,
       "migrated": 3,
       "recovered": 1538,
       "tested": 181108
@@ -2676,7 +2678,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T18:01:52+05:30",
+      "last_updated": "2020-06-12T19:41:52+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/indiacovid/6963?single"
@@ -5329,12 +5331,12 @@
   "TT": {
     "delta": {
       "confirmed": 3294,
-      "deceased": 49,
+      "deceased": 51,
       "recovered": 2795,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T19:35:55+05:30",
+      "last_updated": "2020-06-12T19:41:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
@@ -5342,7 +5344,7 @@
     },
     "total": {
       "confirmed": 301579,
-      "deceased": 8551,
+      "deceased": 8553,
       "migrated": 15,
       "recovered": 149767,
       "tested": 5363445
