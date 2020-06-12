@@ -3121,7 +3121,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T08:34:50+05:30",
+      "last_updated": "2020-06-12T08:40:51+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1062020-500pm-1162020-500-pm"
@@ -3199,7 +3199,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T08:34:48+05:30",
+      "last_updated": "2020-06-12T08:40:50+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/MyGovNagaland/status/1271101014603489281/photo/1"
@@ -3886,10 +3886,16 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 14
+    },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 17
         }
       },
       "South Sikkim": {
@@ -3910,13 +3916,13 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-10T00:43:48+05:30",
+      "last_updated": "2020-06-12T08:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-11"
       }
     },
     "total": {
-      "confirmed": 13,
+      "confirmed": 27,
       "recovered": 3,
       "tested": 6692
     }
@@ -4501,18 +4507,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19,
+      "confirmed": 33,
       "recovered": 1
     },
     "meta": {
-      "last_updated": "2020-06-12T08:34:46+05:30",
+      "last_updated": "2020-06-12T08:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
       }
     },
     "total": {
-      "confirmed": 298302,
+      "confirmed": 298316,
       "deceased": 8502,
       "migrated": 15,
       "recovered": 146973,
