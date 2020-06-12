@@ -3467,14 +3467,14 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 15,
+        "active": 10,
         "confirmed": 99,
         "deceased": 1,
-        "recovered": 83,
+        "recovered": 88,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Ballari": {
@@ -3491,14 +3491,14 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 147,
+        "active": 85,
         "confirmed": 303,
         "deceased": 1,
-        "recovered": 155,
+        "recovered": 217,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 62
         }
       },
       "Bengaluru Rural": {
@@ -3527,14 +3527,14 @@
       },
       "Bidar": {
         "notes": "",
-        "active": 121,
+        "active": 99,
         "confirmed": 308,
         "deceased": 6,
-        "recovered": 181,
+        "recovered": 203,
         "delta": {
           "confirmed": 10,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 22
         }
       },
       "Chamarajanagara": {
@@ -3551,14 +3551,14 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 25,
+        "active": 23,
         "confirmed": 152,
         "deceased": 3,
-        "recovered": 124,
+        "recovered": 126,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Chikkamagaluru": {
@@ -3575,38 +3575,38 @@
       },
       "Chitradurga": {
         "notes": "",
-        "active": 20,
+        "active": 4,
         "confirmed": 43,
         "deceased": 0,
-        "recovered": 23,
+        "recovered": 39,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 16
         }
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 130,
+        "active": 113,
         "confirmed": 233,
         "deceased": 6,
-        "recovered": 96,
+        "recovered": 113,
         "delta": {
           "confirmed": 17,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       },
       "Davanagere": {
         "notes": "",
-        "active": 49,
+        "active": 46,
         "confirmed": 223,
         "deceased": 6,
-        "recovered": 168,
+        "recovered": 171,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Dharwad": {
@@ -3623,14 +3623,14 @@
       },
       "Gadag": {
         "notes": "",
-        "active": 12,
+        "active": 11,
         "confirmed": 49,
         "deceased": 2,
-        "recovered": 35,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Hassan": {
@@ -3647,26 +3647,26 @@
       },
       "Haveri": {
         "notes": "",
-        "active": 8,
+        "active": 2,
         "confirmed": 22,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 523,
+        "active": 463,
         "confirmed": 816,
         "deceased": 8,
-        "recovered": 285,
+        "recovered": 345,
         "delta": {
           "confirmed": 20,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 60
         }
       },
       "Kodagu": {
@@ -3767,14 +3767,14 @@
       },
       "Shivamogga": {
         "notes": "",
-        "active": 58,
+        "active": 46,
         "confirmed": 89,
         "deceased": 0,
-        "recovered": 31,
+        "recovered": 43,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       "Tumakuru": {
@@ -3791,26 +3791,26 @@
       },
       "Udupi": {
         "notes": "",
-        "active": 641,
+        "active": 516,
         "confirmed": 991,
         "deceased": 1,
-        "recovered": 349,
+        "recovered": 474,
         "delta": {
           "confirmed": 22,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 125
         }
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 21,
+        "active": 18,
         "confirmed": 103,
         "deceased": 0,
-        "recovered": 82,
+        "recovered": 85,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Vijayapura": {
@@ -3827,10 +3827,22 @@
       },
       "Yadgir": {
         "notes": "",
-        "active": 626,
+        "active": 498,
         "confirmed": 735,
         "deceased": 1,
-        "recovered": 108,
+        "recovered": 236,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 128
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -2,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5660,8 +5672,8 @@
     "districtData": {
       "Dimapur": {
         "notes": "",
-        "active": 20,
-        "confirmed": 39,
+        "active": 26,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 19,
         "delta": {
@@ -5684,8 +5696,8 @@
       },
       "Kohima": {
         "notes": "",
-        "active": 2,
-        "confirmed": 12,
+        "active": 4,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 10,
         "delta": {
@@ -5732,8 +5744,8 @@
       },
       "Peren": {
         "notes": "",
-        "active": 63,
-        "confirmed": 63,
+        "active": 64,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5792,8 +5804,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 8,
-        "confirmed": 9,
+        "active": -1,
+        "confirmed": 0,
         "deceased": 0,
         "recovered": 1,
         "delta": {
