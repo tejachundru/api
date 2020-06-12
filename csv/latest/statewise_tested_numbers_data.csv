@@ -192,16 +192,16 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/05/2020,Assam,70029,Tested,526,62244,,,,,,,,3338,595,332,,,,33849,https://twitter.com/nhm_assam/status/1264971711889453064?s=19,,,0.75%,2.04,2042,133,34293000
 26/05/2020,Assam,72654,Tested,616,66562,,,,,,,,3338,595,332,,,,42489,https://twitter.com/nhm_assam/status/1265318571728666626?s=19,,,0.85%,2.12,2119,118,34293000
 29/05/2020,Assam,92390,Tested,1024,84933,,,,,,,,3338,595,332,,,,45845,https://twitter.com/nhm_assam/status/1266414513097707534?s=19,,,1.11%,2.69,2694,90,34293000
-30/05/2020,Assam,101257,Tested,1185,91248,,,,,,,,3338,595,332,,,,46915,https://twitter.com/nhm_assam/status/1266773074822782979?s=09,,,,,,,
-31/05/2020,Assam,109097,Tested,1272,101006,,,,,,,,3338,595,332,,,,47845,https://twitter.com/nhm_assam/status/1267131741149564928,,,,,,,
-02/06/2020,Assam,120375,Tested,1513,111229,,,,,,,,3338,595,332,,,,49659,https://twitter.com/nhm_assam/status/1267850997898137603,,,,,,,
-03/06/2020,Assam,126726,Tested,1672,117650,,,,,,,,3338,595,332,,,,,https://twitter.com/nhm_assam/status/1268230494988230656?s=19,,,,,,,
-04/06/2020,Assam,133029,Tested,1988,122618,,,,,,,,3338,595,332,,,,51823,https://twitter.com/nhm_assam/status/1268576420630073347?s=09,,,,,,,
-06/06/2020,Assam,146605,Tested,2397,136154,8054,,,,,,,3338,595,332,,,,,https://twitter.com/nhm_assam/status/1269318718305206272/photo/1,,,,,,,
-07/06/2020,Assam,153326,Tested,2565,142192,,,,,,,,3338,595,332,,,,54548,https://twitter.com/nhm_assam/status/1269669639807741953?s=19,,,,,,,
-09/06/2020,Assam,169842,Tested,2937,159760,,,,,,,,3338,595,332,,,,56346,https://twitter.com/nhm_assam/status/1270384053586259968?s=19,,,,,,,
-11/06/2020,Assam,181108,Tested,3319,171070,,,,,,,,3338,595,332,,,,57856,https://twitter.com/nhm_assam/status/1271119946899025921,,,,,,,
-12/06/2020,Assam,188090,Tested,3498,177989,,,,,,,,,595,398,,,,,,,,,,,,
+30/05/2020,Assam,101257,Tested,1185,91248,,,,,,,,3338,595,332,,,,46915,https://twitter.com/nhm_assam/status/1266773074822782979?s=09,,,1.17%,2.95,2953,85,34293000
+31/05/2020,Assam,109097,Tested,1272,101006,,,,,,,,3338,595,332,,,,47845,https://twitter.com/nhm_assam/status/1267131741149564928,,,1.17%,3.18,3181,86,34293000
+02/06/2020,Assam,120375,Tested,1513,111229,,,,,,,,3338,595,332,,,,49659,https://twitter.com/nhm_assam/status/1267850997898137603,,,1.26%,3.51,3510,80,34293000
+03/06/2020,Assam,126726,Tested,1672,117650,,,,,,,,3338,595,332,,,,,https://twitter.com/nhm_assam/status/1268230494988230656?s=19,,,1.32%,3.70,3695,76,34293000
+04/06/2020,Assam,133029,Tested,1988,122618,,,,,,,,3338,595,332,,,,51823,https://twitter.com/nhm_assam/status/1268576420630073347?s=09,,,1.49%,3.88,3879,67,34293000
+06/06/2020,Assam,146605,Tested,2397,136154,8054,,,,,,,3338,595,332,,,,,https://twitter.com/nhm_assam/status/1269318718305206272/photo/1,,,1.64%,4.28,4275,61,34293000
+07/06/2020,Assam,153326,Tested,2565,142192,,,,,,,,3338,595,332,,,,54548,https://twitter.com/nhm_assam/status/1269669639807741953?s=19,,,1.67%,4.47,4471,60,34293000
+09/06/2020,Assam,169842,Tested,2937,159760,,,,,,,,3338,595,332,,,,56346,https://twitter.com/nhm_assam/status/1270384053586259968?s=19,,,1.73%,4.95,4953,58,34293000
+11/06/2020,Assam,181108,Tested,3319,171070,,,,,,,,3338,595,332,,,,57856,https://twitter.com/nhm_assam/status/1271119946899025921,,,1.83%,5.28,5281,55,34293000
+12/06/2020,Assam,188090,Tested,3498,177989,,,27197,Facility,,,,,595,398,,,,57856,https://twitter.com/nhm_assam/status/1271484628436766722/photo/1,,,1.86%,5.48,5485,54,34293000
 05/04/2020,Bihar,3037,Tested,32,2299,706,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1246667952054665216,,,1.05%,0.03,25,95,119520000
 08/04/2020,Bihar,4596,Tested,38,,465,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1247762894063677440,,,0.83%,0.04,38,121,119520000
 09/04/2020,Bihar,4991,Tested,43,,394,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1248176830856626176/photo/1,,,0.86%,0.04,42,116,119520000
@@ -1032,7 +1032,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 09/06/2020,Kerala,126088,Samples Sent,2097,111892,2639,,1913,Hospital,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-09.pdf,,https://t.me/Covid19india_Auxiliary_Test_Data/379?single,1.66%,3.59,3590,60,35125000
 10/06/2020,Kerala,131006,Samples Sent,2162,116425,,,1844,Hospital,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-10.pdf,,https://t.me/Covid19india_Auxiliary_Test_Data/399?single,1.65%,3.73,3730,61,35125000
 11/06/2020,Kerala,135974,Samples Sent,2245,130857,2873,,1922,Hospital,,,,,,,,,,,https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-11.pdf,,,1.65%,3.87,3871,61,35125000
-12/06/2020,Kerala,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/06/2020,Kerala,140457,Samples Sent,2323,134743,3392,,1985,Hospital,,,,,,,,,,,,,,,,,,
 13/04/2020,Ladakh,618,Samples Collected,17,,,,,,,,,,,,,,,,http://newsonair.com/News?title=Ladakh-well-ahead-of-all-states-and-UTs-in-testing-suspects-for-COVID-19&id=385511,,,2.75%,2.11,2109,36,293000
 14/04/2020,Ladakh,760,Samples Collected,17,615,69,,,,,,,,,,,,,,https://twitter.com/DIPR_Leh/status/1250016972072292353?s=09,,,2.24%,2.59,2594,45,293000
 15/04/2020,Ladakh,820,Samples Collected,18,657,86,,154,Facility,,,,,,,,,,,https://twitter.com/ladags/status/1250457259299110914?s=19,,,2.20%,2.80,2799,46,293000
