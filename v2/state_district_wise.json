@@ -7012,12 +7012,12 @@
       {
         "district": "Karaikal",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7038,13 +7038,13 @@
       {
         "district": "Puducherry",
         "notes": "",
-        "active": 84,
+        "active": 83,
         "confirmed": 147,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 61,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },

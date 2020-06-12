@@ -9343,11 +9343,11 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "0",
-			"confirmed": "2",
+			"active": "1",
+			"confirmed": "3",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Karaikal",
@@ -9379,12 +9379,12 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "84",
+			"active": "83",
 			"confirmed": "147",
-			"deceased": "2",
-			"deltaactive": "0",
+			"deceased": "3",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Puducherry",
 			"districtkey": "PY_Puducherry",
