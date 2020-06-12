@@ -2379,7 +2379,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:52:48+05:30",
+      "last_updated": "2020-06-12T20:54:48+05:30",
       "tested": {
         "last_updated": "2020-06-12"
       }
@@ -3325,19 +3325,18 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 3,
-      "recovered": 1,
+      "recovered": 4,
       "tested": 330
     },
     "districts": {
       "East Khasi Hills": {
         "delta": {
-          "confirmed": 2
+          "recovered": 2
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 20,
           "deceased": 1,
-          "recovered": 13
+          "recovered": 15
         }
       },
       "North Garo Hills": {
@@ -3367,10 +3366,11 @@
       },
       "West Garo Hills": {
         "delta": {
-          "confirmed": 1
+          "recovered": 1
         },
         "total": {
-          "confirmed": 6
+          "confirmed": 5,
+          "recovered": 1
         }
       },
       "West Jaintia Hills": {
@@ -3385,16 +3385,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:35:34+05:30",
+      "last_updated": "2020-06-12T20:56:51+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/425"
       }
     },
     "total": {
-      "confirmed": 47,
+      "confirmed": 44,
       "deceased": 1,
-      "recovered": 19,
+      "recovered": 22,
       "tested": 12219
     }
   },
@@ -4550,7 +4550,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:52:51+05:30",
+      "last_updated": "2020-06-12T20:56:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7071?single"
@@ -4958,7 +4958,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:52:53+05:30",
+      "last_updated": "2020-06-12T20:56:54+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/423"
@@ -5705,23 +5705,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7666,
+      "confirmed": 7663,
       "deceased": 216,
-      "recovered": 5423,
+      "recovered": 5426,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T20:52:46+05:30",
+      "last_updated": "2020-06-12T20:56:46+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
       }
     },
     "total": {
-      "confirmed": 305951,
+      "confirmed": 305948,
       "deceased": 8718,
       "migrated": 15,
-      "recovered": 152395,
+      "recovered": 152398,
       "tested": 5363445
     }
   },
