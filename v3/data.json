@@ -303,7 +303,8 @@
     "delta": {
       "confirmed": 68,
       "deceased": 2,
-      "recovered": 152
+      "recovered": 152,
+      "tested": 6982
     },
     "districts": {
       "Airport Quarantine": {
@@ -527,8 +528,7 @@
       "last_updated": "2020-06-12T20:35:22+05:30",
       "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://twitter.com/nhm_assam/status/1271119946899025921"
+        "last_updated": "2020-06-12"
       }
     },
     "total": {
@@ -536,7 +536,7 @@
       "deceased": 8,
       "migrated": 3,
       "recovered": 1585,
-      "tested": 181108
+      "tested": 188090
     }
   },
   "BR": {
@@ -972,7 +972,7 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 31,
+      "confirmed": 47,
       "recovered": 123,
       "tested": 2373
     },
@@ -997,8 +997,11 @@
         }
       },
       "Balrampur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 32,
+          "confirmed": 34,
           "recovered": 8
         }
       },
@@ -1062,17 +1065,21 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 109,
+          "confirmed": 122,
           "recovered": 28
         }
       },
       "Jashpur": {
         "delta": {
+          "confirmed": 1,
           "recovered": 15
         },
         "total": {
-          "confirmed": 82,
+          "confirmed": 83,
           "recovered": 28
         }
       },
@@ -1182,13 +1189,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T21:25:54+05:30",
+      "last_updated": "2020-06-12T22:52:48+05:30",
       "tested": {
-        "last_updated": "2020-06-12"
+        "last_updated": "2020-06-12",
+        "source": "https://twitter.com/HealthCgGov/status/1271464863013863426/photo/1"
       }
     },
     "total": {
-      "confirmed": 1429,
+      "confirmed": 1445,
       "deceased": 6,
       "recovered": 544,
       "tested": 98603
@@ -6077,20 +6085,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11097,
+      "confirmed": 11113,
       "deceased": 388,
       "recovered": 7159,
       "tested": 150305
     },
     "meta": {
-      "last_updated": "2020-06-12T22:35:45+05:30",
+      "last_updated": "2020-06-12T22:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
       }
     },
     "total": {
-      "confirmed": 309389,
+      "confirmed": 309405,
       "deceased": 8890,
       "migrated": 22,
       "recovered": 154131,
