@@ -628,12 +628,12 @@
       {
         "district": "Baksa",
         "notes": "",
-        "active": 20,
-        "confirmed": 20,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -732,12 +732,12 @@
       {
         "district": "Dhemaji",
         "notes": "",
-        "active": 65,
-        "confirmed": 71,
+        "active": 67,
+        "confirmed": 73,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -797,12 +797,12 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 144,
-        "confirmed": 231,
+        "active": 145,
+        "confirmed": 232,
         "deceased": 0,
         "recovered": 87,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -836,12 +836,12 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": -8,
-        "confirmed": 46,
+        "active": -3,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 54,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -875,12 +875,12 @@
       {
         "district": "Karbi Anglong",
         "notes": "",
-        "active": 7,
-        "confirmed": 14,
+        "active": 10,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -953,12 +953,12 @@
       {
         "district": "Nagaon",
         "notes": "",
-        "active": 188,
-        "confirmed": 213,
+        "active": 189,
+        "confirmed": 214,
         "deceased": 0,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1057,12 +1057,12 @@
       {
         "district": "West Karbi Anglong",
         "notes": "",
-        "active": 18,
-        "confirmed": 18,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -9823,13 +9823,13 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 196,
+        "active": 192,
         "confirmed": 456,
-        "deceased": 14,
+        "deceased": 16,
         "recovered": 242,
         "delta": {
           "confirmed": 7,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 19
         }
       },
@@ -9914,13 +9914,13 @@
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 29,
+        "active": 28,
         "confirmed": 108,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 79,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -9933,19 +9933,6 @@
         "recovered": 22,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -3,
-        "confirmed": 0,
-        "deceased": 3,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
