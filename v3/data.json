@@ -2151,70 +2151,6 @@
       "confirmed": 308
     },
     "districts": {
-      "23": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
-        }
-      },
-      "24": {
-        "delta": {
-          "confirmed": 3
-        },
-        "total": {
-          "confirmed": 3
-        }
-      },
-      "28": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
-      "33": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
-      "40": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
-        }
-      },
-      "59": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
-      "6": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
-      "62": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Bagalkote": {
         "delta": {
           "confirmed": 1
@@ -2352,18 +2288,21 @@
         }
       },
       "Kalaburagi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 816,
+          "confirmed": 817,
           "deceased": 10,
           "recovered": 345
         }
       },
-      "Kalaburgi": {
+      "Kalburgi": {
         "delta": {
-          "confirmed": 67
+          "confirmed": 66
         },
         "total": {
-          "confirmed": 67
+          "confirmed": 66
         }
       },
       "Kodagu": {
@@ -2446,10 +2385,10 @@
       },
       "Udupi": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 14
         },
         "total": {
-          "confirmed": 993,
+          "confirmed": 1005,
           "deceased": 1,
           "recovered": 474
         }
@@ -2485,7 +2424,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T18:34:47+05:30",
+      "last_updated": "2020-06-13T18:42:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-12",
@@ -5134,7 +5073,7 @@
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T18:34:46+05:30",
+      "last_updated": "2020-06-13T18:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
