@@ -4656,14 +4656,14 @@
       },
       "West Garo Hills": {
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "West Jaintia Hills": {
@@ -5696,14 +5696,14 @@
     "districtData": {
       "Dimapur": {
         "notes": "",
-        "active": 12,
+        "active": -15,
         "confirmed": 39,
         "deceased": 0,
-        "recovered": 27,
+        "recovered": 54,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 27
         }
       },
       "Kiphire": {

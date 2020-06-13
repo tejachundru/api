@@ -896,7 +896,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:01:49+05:30",
+      "last_updated": "2020-06-13T17:12:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/426"
@@ -2732,6 +2732,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2763,9 +2766,12 @@
         }
       },
       "West Garo Hills": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 5,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "West Jaintia Hills": {
@@ -2780,7 +2786,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T21:00:49+05:30",
+      "last_updated": "2020-06-13T17:12:51+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/425"
@@ -2789,7 +2795,7 @@
     "total": {
       "confirmed": 44,
       "deceased": 1,
-      "recovered": 22,
+      "recovered": 23,
       "tested": 12219
     }
   },
@@ -3329,13 +3335,17 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 7
+      "confirmed": 7,
+      "recovered": 27
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "recovered": 27
+        },
         "total": {
           "confirmed": 39,
-          "recovered": 27
+          "recovered": 54
         }
       },
       "Kiphire": {
@@ -3398,7 +3408,7 @@
     },
     "total": {
       "confirmed": 163,
-      "recovered": 57,
+      "recovered": 84,
       "tested": 6104
     }
   },
@@ -4850,11 +4860,11 @@
       "confirmed": 561,
       "deceased": 5,
       "migrated": 1,
-      "recovered": 657,
+      "recovered": 685,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T17:01:46+05:30",
+      "last_updated": "2020-06-13T17:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -4864,7 +4874,7 @@
       "confirmed": 310156,
       "deceased": 8895,
       "migrated": 23,
-      "recovered": 154896,
+      "recovered": 154924,
       "tested": 5507182
     }
   },
