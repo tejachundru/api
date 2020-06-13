@@ -6568,14 +6568,14 @@
       },
       "Bharatpur": {
         "notes": "",
-        "active": 605,
+        "active": 524,
         "confirmed": 937,
-        "deceased": 11,
-        "recovered": 321,
+        "deceased": 12,
+        "recovered": 401,
         "delta": {
           "confirmed": 39,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 80
         }
       },
       "Bhilwara": {
@@ -6736,13 +6736,13 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 432,
+        "active": 430,
         "confirmed": 2497,
-        "deceased": 123,
+        "deceased": 125,
         "recovered": 1942,
         "delta": {
           "confirmed": 19,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -6796,14 +6796,14 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 535,
+        "active": 457,
         "confirmed": 2076,
         "deceased": 27,
-        "recovered": 1514,
+        "recovered": 1592,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 78
         }
       },
       "Karauli": {
@@ -6820,14 +6820,14 @@
       },
       "Kota": {
         "notes": "",
-        "active": 66,
+        "active": 61,
         "confirmed": 544,
         "deceased": 18,
-        "recovered": 460,
+        "recovered": 465,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Nagaur": {
@@ -6904,14 +6904,14 @@
       },
       "Sikar": {
         "notes": "",
-        "active": 126,
+        "active": 125,
         "confirmed": 348,
         "deceased": 5,
-        "recovered": 217,
+        "recovered": 218,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sirohi": {
@@ -6944,6 +6944,18 @@
         "confirmed": 597,
         "deceased": 1,
         "recovered": 559,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
