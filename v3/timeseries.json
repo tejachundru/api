@@ -22334,8 +22334,11 @@
       }
     },
     "2020-06-13": {
+      "delta": {
+        "confirmed": -1
+      },
       "total": {
-        "confirmed": 164,
+        "confirmed": 163,
         "recovered": 49,
         "tested": 6104
       }
@@ -31297,11 +31300,11 @@
     },
     "2020-06-13": {
       "delta": {
-        "confirmed": 3,
+        "confirmed": -329,
         "tested": 143737
       },
       "total": {
-        "confirmed": 309606,
+        "confirmed": 309274,
         "deceased": 8890,
         "migrated": 22,
         "recovered": 154231,
@@ -31511,8 +31514,11 @@
       }
     },
     "2020-06-13": {
+      "delta": {
+        "confirmed": -331
+      },
       "total": {
-        "confirmed": 8315
+        "confirmed": 7984
       }
     }
   },

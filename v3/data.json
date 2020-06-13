@@ -3139,6 +3139,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": -1
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3178,7 +3181,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": -1
+        },
         "total": {
+          "confirmed": -1,
           "recovered": 20
         }
       },
@@ -3194,14 +3201,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:35:28+05:30",
+      "last_updated": "2020-06-13T10:35:51+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/HealthNagaland/status/1271433843287810048/photo/1"
       }
     },
     "total": {
-      "confirmed": 164,
+      "confirmed": 163,
       "recovered": 49,
       "tested": 6104
     }
@@ -4502,18 +4509,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3,
+      "confirmed": -329,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T07:31:46+05:30",
+      "last_updated": "2020-06-13T10:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 309606,
+      "confirmed": 309274,
       "deceased": 8890,
       "migrated": 22,
       "recovered": 154231,
@@ -4521,12 +4528,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -331
+    },
     "meta": {
-      "last_updated": "2020-06-12T09:50:47+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-06-13T10:35:48+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 331 cases were decreased from this category today by MoHFW. We are reflecting the same change."
     },
     "total": {
-      "confirmed": 8315
+      "confirmed": 7984
     }
   },
   "UP": {

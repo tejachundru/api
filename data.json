@@ -1218,13 +1218,13 @@
 	],
 	"statewise": [
 		{
-			"active": "146463",
-			"confirmed": "309606",
+			"active": "146131",
+			"confirmed": "309274",
 			"deaths": "8890",
-			"deltaconfirmed": "3",
+			"deltaconfirmed": "-329",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/06/2020 07:31:46",
+			"lastupdatedtime": "13/06/2020 10:35:46",
 			"migratedother": "22",
 			"recovered": "154231",
 			"state": "Total",
@@ -1344,18 +1344,18 @@
 			"statenotes": ""
 		},
 		{
-			"active": "8315",
-			"confirmed": "8315",
+			"active": "7984",
+			"confirmed": "7984",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-331",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/06/2020 09:50:47",
+			"lastupdatedtime": "13/06/2020 10:35:48",
 			"migratedother": "0",
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. "
+			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 331 cases were decreased from this category today by MoHFW. We are reflecting the same change."
 		},
 		{
 			"active": "2995",
@@ -1638,13 +1638,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "115",
-			"confirmed": "164",
+			"active": "114",
+			"confirmed": "163",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/06/2020 20:35:28",
+			"lastupdatedtime": "13/06/2020 10:35:51",
 			"migratedother": "0",
 			"recovered": "49",
 			"state": "Nagaland",
