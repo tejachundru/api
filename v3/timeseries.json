@@ -31297,14 +31297,15 @@
     },
     "2020-06-13": {
       "delta": {
-        "confirmed": 3
+        "confirmed": 3,
+        "tested": 143737
       },
       "total": {
         "confirmed": 309606,
         "deceased": 8890,
         "migrated": 22,
         "recovered": 154231,
-        "tested": 5363445
+        "tested": 5507182
       }
     }
   },
