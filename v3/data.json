@@ -209,7 +209,8 @@
   "AR": {
     "delta": {
       "confirmed": 5,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 471
     },
     "districts": {
       "Changlang": {
@@ -293,14 +294,13 @@
     "meta": {
       "last_updated": "2020-06-13T21:44:24+05:30",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/435"
+        "last_updated": "2020-06-13"
       }
     },
     "total": {
       "confirmed": 88,
       "recovered": 6,
-      "tested": 14047
+      "tested": 14518
     }
   },
   "AS": {
@@ -1242,7 +1242,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T23:02:48+05:30",
+      "last_updated": "2020-06-13T23:05:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
@@ -1259,7 +1259,8 @@
     "delta": {
       "confirmed": 2134,
       "deceased": 57,
-      "recovered": 1547
+      "recovered": 1547,
+      "tested": 5776
     },
     "districts": {
       "Central Delhi": {
@@ -1335,15 +1336,15 @@
       "last_updated": "2020-06-13T22:14:19+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://t.me/indiacovid/7115?single"
+        "last_updated": "2020-06-13",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-13.pdf"
       }
     },
     "total": {
       "confirmed": 38958,
       "deceased": 1271,
       "recovered": 14945,
-      "tested": 277463
+      "tested": 283239
     }
   },
   "DN": {
@@ -6029,7 +6030,8 @@
   "TR": {
     "delta": {
       "confirmed": 82,
-      "recovered": 37
+      "recovered": 37,
+      "tested": 3135
     },
     "districts": {
       "Dhalai": {
@@ -6103,15 +6105,14 @@
     "meta": {
       "last_updated": "2020-06-13T22:05:52+05:30",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/430"
+        "last_updated": "2020-06-13"
       }
     },
     "total": {
       "confirmed": 1045,
       "deceased": 1,
       "recovered": 315,
-      "tested": 40837
+      "tested": 43972
     }
   },
   "TT": {
@@ -6123,7 +6124,7 @@
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T23:02:46+05:30",
+      "last_updated": "2020-06-13T23:05:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
