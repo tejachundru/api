@@ -2490,7 +2490,8 @@
   },
   "LA": {
     "delta": {
-      "confirmed": 198
+      "confirmed": 198,
+      "recovered": 10
     },
     "districts": {
       "Kargil": {
@@ -2503,15 +2504,18 @@
         }
       },
       "Leh": {
+        "delta": {
+          "recovered": 10
+        },
         "total": {
           "confirmed": 116,
           "deceased": 1,
-          "recovered": 37
+          "recovered": 47
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:52:50+05:30",
+      "last_updated": "2020-06-13T18:02:51+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://m.facebook.com/114874993303412/posts/188438852613692/"
@@ -2520,7 +2524,7 @@
     "total": {
       "confirmed": 437,
       "deceased": 1,
-      "recovered": 58,
+      "recovered": 68,
       "tested": 10986
     }
   },
@@ -3937,7 +3941,8 @@
   },
   "PY": {
     "delta": {
-      "confirmed": 13
+      "confirmed": 13,
+      "recovered": 5
     },
     "districts": {
       "Karaikal": {
@@ -3954,17 +3959,18 @@
       },
       "Puducherry": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "recovered": 5
         },
         "total": {
           "confirmed": 165,
           "deceased": 3,
-          "recovered": 70
+          "recovered": 75
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:52:49+05:30",
+      "last_updated": "2020-06-13T18:02:49+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/indiacovid/7027?single"
@@ -3973,7 +3979,7 @@
     "total": {
       "confirmed": 176,
       "deceased": 3,
-      "recovered": 76,
+      "recovered": 81,
       "tested": 9250
     }
   },
@@ -4936,11 +4942,11 @@
       "confirmed": 772,
       "deceased": 5,
       "migrated": 1,
-      "recovered": 1055,
+      "recovered": 1070,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T17:52:46+05:30",
+      "last_updated": "2020-06-13T18:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -4950,7 +4956,7 @@
       "confirmed": 310367,
       "deceased": 8895,
       "migrated": 23,
-      "recovered": 155290,
+      "recovered": 155305,
       "tested": 5507182
     }
   },
