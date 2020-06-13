@@ -793,6 +793,24 @@
 			"statecode": "AR"
 		},
 		{
+			"active": "4",
+			"confirmed": "4",
+			"deceased": "0",
+			"deltaactive": "0",
+			"deltaconfirmed": "0",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
+			"district": "Airport Quarantine",
+			"districtkey": "AS_Airport Quarantine",
+			"districtnotes": "",
+			"lastupdated": "",
+			"migratedother": "0",
+			"recovered": "0",
+			"slno": "0",
+			"state": "Assam",
+			"statecode": "AS"
+		},
+		{
 			"active": "20",
 			"confirmed": "20",
 			"deceased": "0",
@@ -2879,6 +2897,24 @@
 			"slno": "143",
 			"state": "Dadra and Nagar Haveli and Daman and Diu",
 			"statecode": "DN"
+		},
+		{
+			"active": "4",
+			"confirmed": "4",
+			"deceased": "0",
+			"deltaactive": "0",
+			"deltaconfirmed": "0",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
+			"district": "Other State",
+			"districtkey": "GA_Other State",
+			"districtnotes": "",
+			"lastupdated": "",
+			"migratedother": "0",
+			"recovered": "0",
+			"slno": "0",
+			"state": "Goa",
+			"statecode": "GA"
 		},
 		{
 			"active": "0",
@@ -13717,8 +13753,8 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "-196",
-			"confirmed": "571",
+			"active": "-200",
+			"confirmed": "567",
 			"deceased": "3",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -13825,8 +13861,8 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "78",
-			"confirmed": "80",
+			"active": "74",
+			"confirmed": "76",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

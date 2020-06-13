@@ -561,6 +561,18 @@
   },
   "Assam": {
     "districtData": {
+      "Airport Quarantine": {
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Baksa": {
         "notes": "",
         "active": 20,
@@ -971,8 +983,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -196,
-        "confirmed": 571,
+        "active": -200,
+        "confirmed": 567,
         "deceased": 3,
         "recovered": 764,
         "delta": {
@@ -2019,6 +2031,18 @@
   },
   "Goa": {
     "districtData": {
+      "Other State": {
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "North Goa": {
         "notes": "",
         "active": 0,
@@ -2045,8 +2069,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 78,
-        "confirmed": 80,
+        "active": 74,
+        "confirmed": 76,
         "deceased": 0,
         "recovered": 2,
         "delta": {

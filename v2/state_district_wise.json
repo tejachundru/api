@@ -613,6 +613,19 @@
     "statecode": "AS",
     "districtData": [
       {
+        "district": "Airport Quarantine",
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Baksa",
         "notes": "",
         "active": 20,
@@ -1057,8 +1070,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -196,
-        "confirmed": 571,
+        "active": -200,
+        "confirmed": 567,
         "deceased": 3,
         "recovered": 764,
         "delta": {
@@ -2196,6 +2209,19 @@
     "statecode": "GA",
     "districtData": [
       {
+        "district": "Other State",
+        "notes": "",
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "North Goa",
         "notes": "",
         "active": 0,
@@ -2224,8 +2250,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 78,
-        "confirmed": 80,
+        "active": 74,
+        "confirmed": 76,
         "deceased": 0,
         "recovered": 2,
         "delta": {
