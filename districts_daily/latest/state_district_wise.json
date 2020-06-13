@@ -1622,26 +1622,26 @@
       },
       "Gariaband": {
         "notes": "",
-        "active": -2,
+        "active": 3,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 12,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 7
-        }
-      },
-      "Janjgir Champa": {
-        "notes": "",
-        "active": 92,
-        "confirmed": 122,
-        "deceased": 0,
-        "recovered": 30,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
           "recovered": 2
+        }
+      },
+      "Janjgir Champa": {
+        "notes": "",
+        "active": 104,
+        "confirmed": 122,
+        "deceased": 0,
+        "recovered": 18,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": -10
         }
       },
       "Jashpur": {
@@ -1682,14 +1682,14 @@
       },
       "Korba": {
         "notes": "",
-        "active": 128,
+        "active": 116,
         "confirmed": 192,
         "deceased": 0,
-        "recovered": 64,
+        "recovered": 76,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 17
         }
       },
       "Koriya": {
@@ -1830,18 +1830,6 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -9,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
