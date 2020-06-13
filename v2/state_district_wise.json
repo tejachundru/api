@@ -7434,12 +7434,12 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 42,
-        "confirmed": 58,
+        "active": 43,
+        "confirmed": 59,
         "deceased": 16,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7542,19 +7542,6 @@
         "confirmed": 597,
         "deceased": 1,
         "recovered": 559,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -3904,8 +3904,11 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 58,
+          "confirmed": 59,
           "deceased": 16
         }
       },
@@ -3973,18 +3976,10 @@
           "deceased": 1,
           "recovered": 559
         }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T11:12:48+05:30",
+      "last_updated": "2020-06-13T11:19:48+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7099"
@@ -4625,7 +4620,7 @@
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T11:12:46+05:30",
+      "last_updated": "2020-06-13T11:19:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
