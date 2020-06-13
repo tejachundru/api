@@ -1321,7 +1321,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:09:48+05:30",
+      "last_updated": "2020-06-13T22:14:19+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-12",
@@ -1370,6 +1370,8 @@
   },
   "GA": {
     "delta": {
+      "confirmed": 60,
+      "recovered": 1,
       "tested": 1425
     },
     "districts": {
@@ -1391,22 +1393,26 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 60,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 76,
-          "recovered": 2
+          "confirmed": 136,
+          "recovered": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:05:54+05:30",
+      "last_updated": "2020-06-13T22:22:50+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/DHS_Goa/status/1271820801881157633/photo/1"
       }
     },
     "total": {
-      "confirmed": 463,
-      "recovered": 69,
+      "confirmed": 523,
+      "recovered": 70,
       "tested": 40723
     }
   },
@@ -1875,7 +1881,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:09:54+05:30",
+      "last_updated": "2020-06-13T22:14:25+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -2338,7 +2344,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:12:48+05:30",
+      "last_updated": "2020-06-13T22:22:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7110"
@@ -3102,6 +3108,7 @@
     "delta": {
       "confirmed": 3427,
       "deceased": 126,
+      "migrated": 13,
       "recovered": 1550,
       "tested": 16536
     },
@@ -3121,11 +3128,13 @@
         "delta": {
           "confirmed": 11,
           "deceased": 1,
+          "migrated": 1,
           "recovered": 4
         },
         "total": {
           "confirmed": 990,
           "deceased": 41,
+          "migrated": 1,
           "recovered": 509
         }
       },
@@ -3188,11 +3197,13 @@
       "Dhule": {
         "delta": {
           "deceased": 1,
+          "migrated": 1,
           "recovered": 31
         },
         "total": {
           "confirmed": 353,
           "deceased": 27,
+          "migrated": 1,
           "recovered": 199
         }
       },
@@ -3271,11 +3282,13 @@
         "delta": {
           "confirmed": 1380,
           "deceased": 77,
+          "migrated": 8,
           "recovered": 795
         },
         "total": {
           "confirmed": 56831,
           "deceased": 2121,
+          "migrated": 8,
           "recovered": 25947
         }
       },
@@ -3370,11 +3383,13 @@
         "delta": {
           "confirmed": 70,
           "deceased": 8,
+          "migrated": 2,
           "recovered": 110
         },
         "total": {
           "confirmed": 1781,
           "deceased": 66,
+          "migrated": 2,
           "recovered": 1148
         }
       },
@@ -3437,11 +3452,13 @@
         "delta": {
           "confirmed": 863,
           "deceased": 13,
+          "migrated": 1,
           "recovered": 173
         },
         "total": {
           "confirmed": 17306,
           "deceased": 426,
+          "migrated": 1,
           "recovered": 6818
         }
       },
@@ -3476,7 +3493,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:35:47+05:30",
+      "last_updated": "2020-06-13T22:22:47+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/Maha_MEDD/status/1271674157898567680?s=19"
@@ -3485,6 +3502,7 @@
     "total": {
       "confirmed": 104568,
       "deceased": 3843,
+      "migrated": 13,
       "recovered": 49346,
       "tested": 643057
     }
@@ -6028,24 +6046,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11536,
+      "confirmed": 11596,
       "deceased": 315,
-      "migrated": 1,
-      "recovered": 7922,
+      "migrated": 14,
+      "recovered": 7923,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T22:12:46+05:30",
+      "last_updated": "2020-06-13T22:22:45+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 321131,
+      "confirmed": 321191,
       "deceased": 9205,
-      "migrated": 24,
-      "recovered": 162157,
+      "migrated": 37,
+      "recovered": 162158,
       "tested": 5507182
     }
   },
@@ -6825,7 +6843,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:09:50+05:30",
+      "last_updated": "2020-06-13T22:14:21+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7094?single"
