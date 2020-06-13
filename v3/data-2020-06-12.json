@@ -2998,18 +2998,18 @@
   "LA": {
     "delta": {
       "confirmed": 104,
-      "recovered": 8,
+      "recovered": 4,
       "tested": 131
     },
     "districts": {
       "Kargil": {
         "delta": {
           "confirmed": 69,
-          "recovered": 8
+          "recovered": 4
         },
         "total": {
           "confirmed": 123,
-          "recovered": 25
+          "recovered": 21
         }
       },
       "Leh": {
@@ -3032,7 +3032,7 @@
     "total": {
       "confirmed": 239,
       "deceased": 1,
-      "recovered": 62,
+      "recovered": 58,
       "tested": 10986
     }
   },
@@ -6053,7 +6053,7 @@
     "delta": {
       "confirmed": 11306,
       "deceased": 388,
-      "recovered": 7267,
+      "recovered": 7263,
       "tested": 150305
     },
     "meta": {
@@ -6066,7 +6066,7 @@
       "confirmed": 309595,
       "deceased": 8890,
       "migrated": 22,
-      "recovered": 154239,
+      "recovered": 154235,
       "tested": 5363445
     }
   },

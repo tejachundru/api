@@ -538,7 +538,7 @@
     },
     "meta": {
       "last_updated": "2020-06-13T16:33:49+05:30",
-      "notes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
+      "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/nhm_assam/status/1271484628436766722/photo/1"
@@ -931,7 +931,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:39:47+05:30",
+      "last_updated": "2020-06-13T17:45:48+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/PIB_Patna/status/1271399345762390016"
@@ -1620,7 +1620,7 @@
     },
     "meta": {
       "last_updated": "2020-06-13T13:29:48+05:30",
-      "notes": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/nhm_hp/status/1271471425728049152?s=09"
@@ -2489,11 +2489,17 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 198
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 198
+        },
         "total": {
-          "confirmed": 123,
-          "recovered": 25
+          "confirmed": 321,
+          "recovered": 21
         }
       },
       "Leh": {
@@ -2505,16 +2511,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T19:45:52+05:30",
+      "last_updated": "2020-06-13T17:52:50+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://m.facebook.com/114874993303412/posts/188438852613692/"
       }
     },
     "total": {
-      "confirmed": 239,
+      "confirmed": 437,
       "deceased": 1,
-      "recovered": 62,
+      "recovered": 58,
       "tested": 10986
     }
   },
@@ -3752,7 +3758,7 @@
     },
     "meta": {
       "last_updated": "2020-06-13T16:05:52+05:30",
-      "notes": "Two non-covid deaths reported in state dashboard are included in the deceased count",
+      "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/437?single"
@@ -3930,6 +3936,9 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 13
+    },
     "districts": {
       "Karaikal": {
         "total": {
@@ -3944,22 +3953,25 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 152,
+          "confirmed": 165,
           "deceased": 3,
           "recovered": 70
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T12:14:47+05:30",
+      "last_updated": "2020-06-13T17:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://t.me/indiacovid/7027?single"
       }
     },
     "total": {
-      "confirmed": 163,
+      "confirmed": 176,
       "deceased": 3,
       "recovered": 76,
       "tested": 9250
@@ -4921,24 +4933,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 561,
+      "confirmed": 772,
       "deceased": 5,
       "migrated": 1,
       "recovered": 1055,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T17:39:46+05:30",
+      "last_updated": "2020-06-13T17:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 310156,
+      "confirmed": 310367,
       "deceased": 8895,
       "migrated": 23,
-      "recovered": 155294,
+      "recovered": 155290,
       "tested": 5507182
     }
   },
