@@ -9823,14 +9823,14 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 185,
+        "active": 196,
         "confirmed": 456,
         "deceased": 14,
-        "recovered": 253,
+        "recovered": 242,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 30
+          "recovered": 19
         }
       },
       {
@@ -9888,27 +9888,27 @@
       {
         "district": "Rudraprayag",
         "notes": "",
-        "active": 12,
+        "active": 20,
         "confirmed": 43,
         "deceased": 0,
-        "recovered": 31,
+        "recovered": 23,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 0
         }
       },
       {
         "district": "Tehri Garhwal",
         "notes": "",
-        "active": 182,
+        "active": 133,
         "confirmed": 281,
         "deceased": 0,
-        "recovered": 99,
+        "recovered": 148,
         "delta": {
           "confirmed": 22,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 49
         }
       },
       {
@@ -9940,10 +9940,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -3,
+        "active": -11,
         "confirmed": 0,
         "deceased": 3,
-        "recovered": 0,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
