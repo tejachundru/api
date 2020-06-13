@@ -4378,12 +4378,12 @@
     },
     "2020-06-13": {
       "delta": {
-        "confirmed": 87,
+        "confirmed": 193,
         "recovered": 370,
         "tested": 3415
       },
       "total": {
-        "confirmed": 6183,
+        "confirmed": 6289,
         "deceased": 35,
         "recovered": 3686,
         "tested": 120086
@@ -19349,13 +19349,14 @@
     },
     "2020-06-13": {
       "delta": {
-        "recovered": 1
+        "recovered": 1,
+        "tested": 341
       },
       "total": {
         "confirmed": 44,
         "deceased": 1,
         "recovered": 23,
-        "tested": 12219
+        "tested": 12560
       }
     }
   },
@@ -21846,12 +21847,13 @@
     },
     "2020-06-13": {
       "delta": {
-        "confirmed": 3
+        "confirmed": 3,
+        "tested": 575
       },
       "total": {
         "confirmed": 107,
         "recovered": 1,
-        "tested": 3152
+        "tested": 3727
       }
     }
   },
@@ -24599,13 +24601,14 @@
       "delta": {
         "confirmed": 77,
         "deceased": 2,
-        "recovered": 45
+        "recovered": 45,
+        "tested": 10985
       },
       "total": {
         "confirmed": 3063,
         "deceased": 65,
         "recovered": 2327,
-        "tested": 165548
+        "tested": 176533
       }
     }
   },
@@ -25405,13 +25408,14 @@
     "2020-06-13": {
       "delta": {
         "confirmed": 13,
-        "recovered": 6
+        "recovered": 6,
+        "tested": 758
       },
       "total": {
         "confirmed": 176,
         "deceased": 3,
         "recovered": 82,
-        "tested": 9250
+        "tested": 10008
       }
     }
   },
@@ -31421,14 +31425,14 @@
     },
     "2020-06-13": {
       "delta": {
-        "confirmed": 8059,
+        "confirmed": 8165,
         "deceased": 219,
         "migrated": 1,
         "recovered": 5362,
         "tested": 143737
       },
       "total": {
-        "confirmed": 317654,
+        "confirmed": 317760,
         "deceased": 9109,
         "migrated": 24,
         "recovered": 159597,
