@@ -62,11 +62,12 @@
       },
       "Foreign Evacuees": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 202,
-          "recovered": 21
+          "recovered": 22
         }
       },
       "Guntur": {
@@ -127,12 +128,12 @@
         "delta": {
           "confirmed": 150,
           "deceased": 2,
-          "recovered": 42
+          "recovered": 41
         },
         "total": {
           "confirmed": 150,
           "deceased": 2,
-          "recovered": 42
+          "recovered": 41
         }
       },
       "Visakhapatnam": {
