@@ -523,11 +523,11 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Lower Dibang Valley",
@@ -3619,11 +3619,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "60",
-			"confirmed": "135",
+			"active": "63",
+			"confirmed": "138",
 			"deceased": "1",
-			"deltaactive": "4",
-			"deltaconfirmed": "7",
+			"deltaactive": "7",
+			"deltaconfirmed": "10",
 			"deltadeceased": "0",
 			"deltarecovered": "3",
 			"district": "Kangra",
@@ -3709,11 +3709,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "4",
-			"confirmed": "15",
+			"active": "8",
+			"confirmed": "19",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Shimla",
@@ -3727,11 +3727,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "15",
-			"confirmed": "26",
+			"active": "16",
+			"confirmed": "27",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Sirmaur",
@@ -3745,11 +3745,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "9",
-			"confirmed": "38",
+			"active": "10",
+			"confirmed": "39",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Solan",
@@ -11611,11 +11611,11 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "398",
-			"confirmed": "430",
+			"active": "442",
+			"confirmed": "474",
 			"deceased": "0",
-			"deltaactive": "34",
-			"deltaconfirmed": "34",
+			"deltaactive": "78",
+			"deltaconfirmed": "78",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Sipahijala",
@@ -13735,8 +13735,8 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -14275,8 +14275,8 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "-28",
-			"confirmed": "9",
+			"active": "-27",
+			"confirmed": "10",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
