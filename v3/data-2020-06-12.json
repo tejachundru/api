@@ -203,15 +203,15 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 19
+      "confirmed": 23
     },
     "districts": {
       "Changlang": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 16
         },
         "total": {
-          "confirmed": 55
+          "confirmed": 59
         }
       },
       "East Siang": {
@@ -290,7 +290,7 @@
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 87,
       "recovered": 4,
       "tested": 13479
     }
@@ -4188,18 +4188,19 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 34,
-      "recovered": 20,
+      "confirmed": 26,
+      "recovered": 28,
       "tested": 437
     },
     "districts": {
       "Dimapur": {
         "delta": {
-          "confirmed": 31
+          "confirmed": 23,
+          "recovered": 8
         },
         "total": {
-          "confirmed": 47,
-          "recovered": 19
+          "confirmed": 39,
+          "recovered": 27
         }
       },
       "Kiphire": {
@@ -4265,8 +4266,8 @@
       }
     },
     "total": {
-      "confirmed": 164,
-      "recovered": 49,
+      "confirmed": 156,
+      "recovered": 57,
       "tested": 6104
     }
   },
@@ -6044,9 +6045,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11314,
+      "confirmed": 11310,
       "deceased": 388,
-      "recovered": 7259,
+      "recovered": 7267,
       "tested": 150305
     },
     "meta": {
@@ -6056,10 +6057,10 @@
       }
     },
     "total": {
-      "confirmed": 309603,
+      "confirmed": 309599,
       "deceased": 8890,
       "migrated": 22,
-      "recovered": 154231,
+      "recovered": 154239,
       "tested": 5363445
     }
   },

@@ -152,7 +152,7 @@
     "districts": {
       "Changlang": {
         "total": {
-          "confirmed": 55
+          "confirmed": 59
         }
       },
       "East Siang": {
@@ -219,14 +219,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T00:35:50+05:30",
+      "last_updated": "2020-06-13T11:34:51+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "http://covid19.itanagarsmartcity.in/covidstatus.php"
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 87,
       "recovered": 4,
       "tested": 13479
     }
@@ -3140,13 +3140,13 @@
   },
   "NL": {
     "delta": {
-      "confirmed": -1
+      "confirmed": 7
     },
     "districts": {
       "Dimapur": {
         "total": {
-          "confirmed": 47,
-          "recovered": 19
+          "confirmed": 39,
+          "recovered": 27
         }
       },
       "Kiphire": {
@@ -3182,10 +3182,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": -1
+          "confirmed": 7
         },
         "total": {
-          "confirmed": -1,
+          "confirmed": 7,
           "recovered": 20
         }
       },
@@ -3201,7 +3201,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T10:39:51+05:30",
+      "last_updated": "2020-06-13T11:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/HealthNagaland/status/1271433843287810048/photo/1"
@@ -3209,7 +3209,7 @@
     },
     "total": {
       "confirmed": 163,
-      "recovered": 49,
+      "recovered": 57,
       "tested": 6104
     }
   },
@@ -4614,23 +4614,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14,
+      "confirmed": 22,
       "deceased": 3,
       "recovered": 164,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T11:19:46+05:30",
+      "last_updated": "2020-06-13T11:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 309617,
+      "confirmed": 309621,
       "deceased": 8893,
       "migrated": 22,
-      "recovered": 154395,
+      "recovered": 154403,
       "tested": 5507182
     }
   },
