@@ -1396,12 +1396,12 @@
       },
       "Sitamarhi": {
         "notes": "",
-        "active": 29,
-        "confirmed": 94,
+        "active": 30,
+        "confirmed": 95,
         "deceased": 2,
         "recovered": 63,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 5
         }
@@ -1452,18 +1452,6 @@
           "confirmed": 9,
           "deceased": 0,
           "recovered": 30
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },
