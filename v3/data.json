@@ -4789,11 +4789,11 @@
     "delta": {
       "confirmed": 536,
       "deceased": 5,
-      "recovered": 261,
+      "recovered": 307,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T15:35:46+05:30",
+      "last_updated": "2020-06-13T15:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -4803,7 +4803,7 @@
       "confirmed": 310131,
       "deceased": 8895,
       "migrated": 22,
-      "recovered": 154500,
+      "recovered": 154546,
       "tested": 5507182
     }
   },
@@ -5344,7 +5344,8 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 35
+      "confirmed": 35,
+      "recovered": 46
     },
     "districts": {
       "Almora": {
@@ -5378,20 +5379,24 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 30
         },
         "total": {
           "confirmed": 456,
           "deceased": 14,
           "migrated": 4,
-          "recovered": 223
+          "recovered": 253
         }
       },
       "Haridwar": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 200,
           "migrated": 2,
-          "recovered": 75
+          "recovered": 83
         }
       },
       "Nainital": {
@@ -5416,11 +5421,12 @@
       },
       "Rudraprayag": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 8
         },
         "total": {
           "confirmed": 43,
-          "recovered": 23
+          "recovered": 31
         }
       },
       "Tehri Garhwal": {
@@ -5455,7 +5461,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T15:35:48+05:30",
+      "last_updated": "2020-06-13T15:42:49+05:30",
       "notes": "7 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -5466,7 +5472,7 @@
       "confirmed": 1759,
       "deceased": 21,
       "migrated": 7,
-      "recovered": 947,
+      "recovered": 993,
       "tested": 42783
     }
   },
