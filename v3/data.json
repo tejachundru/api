@@ -34,7 +34,9 @@
   },
   "AP": {
     "delta": {
-      "confirmed": 186
+      "confirmed": 186,
+      "deceased": 2,
+      "recovered": 42
     },
     "districts": {
       "Anantapur": {
@@ -59,8 +61,11 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 199,
+          "confirmed": 202,
           "recovered": 21
         }
       },
@@ -91,6 +96,14 @@
           "recovered": 471
         }
       },
+      "Other States": {
+        "delta": {
+          "confirmed": 33
+        },
+        "total": {
+          "confirmed": 33
+        }
+      },
       "Prakasam": {
         "total": {
           "confirmed": 99,
@@ -112,10 +125,14 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 186
+          "confirmed": 150,
+          "deceased": 2,
+          "recovered": 42
         },
         "total": {
-          "confirmed": 186
+          "confirmed": 150,
+          "deceased": 2,
+          "recovered": 42
         }
       },
       "Visakhapatnam": {
@@ -145,7 +162,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T13:35:49+05:30",
+      "last_updated": "2020-06-13T13:38:47+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-12",
@@ -154,8 +171,8 @@
     },
     "total": {
       "confirmed": 5822,
-      "deceased": 80,
-      "recovered": 3091,
+      "deceased": 82,
+      "recovered": 3133,
       "tested": 522093
     }
   },
@@ -4703,12 +4720,12 @@
   "TT": {
     "delta": {
       "confirmed": 299,
-      "deceased": 3,
-      "recovered": 165,
+      "deceased": 5,
+      "recovered": 207,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T13:35:47+05:30",
+      "last_updated": "2020-06-13T13:38:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -4716,9 +4733,9 @@
     },
     "total": {
       "confirmed": 309894,
-      "deceased": 8893,
+      "deceased": 8895,
       "migrated": 22,
-      "recovered": 154404,
+      "recovered": 154446,
       "tested": 5507182
     }
   },
