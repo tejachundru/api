@@ -1548,6 +1548,9 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 129
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1557,21 +1560,30 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 12
+        },
         "total": {
-          "confirmed": 86,
+          "confirmed": 98,
           "recovered": 45
         }
       },
       "Charkhi Dadri": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 46,
+          "confirmed": 47,
           "deceased": 1,
           "recovered": 7
         }
       },
       "Faridabad": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 986,
+          "confirmed": 999,
           "deceased": 26,
           "recovered": 348
         }
@@ -1589,8 +1601,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 85
+        },
         "total": {
-          "confirmed": 2922,
+          "confirmed": 3007,
           "deceased": 19,
           "recovered": 976
         }
@@ -1666,8 +1681,11 @@
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 89,
+          "confirmed": 91,
           "deceased": 4,
           "recovered": 61
         }
@@ -1679,8 +1697,11 @@
         }
       },
       "Rohtak": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 257,
+          "confirmed": 270,
           "deceased": 4,
           "recovered": 84
         }
@@ -1692,8 +1713,11 @@
         }
       },
       "Sonipat": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 533,
+          "confirmed": 536,
           "deceased": 6,
           "recovered": 218
         }
@@ -1706,14 +1730,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:35:20+05:30",
+      "last_updated": "2020-06-13T15:22:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-06-2020%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 6334,
+      "confirmed": 6463,
       "deceased": 70,
       "recovered": 2475,
       "tested": 167501
@@ -4763,20 +4787,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 372,
+      "confirmed": 501,
       "deceased": 5,
       "recovered": 261,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T15:03:46+05:30",
+      "last_updated": "2020-06-13T15:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 309967,
+      "confirmed": 310096,
       "deceased": 8895,
       "migrated": 22,
       "recovered": 154500,
