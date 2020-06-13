@@ -548,7 +548,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T23:59:48+05:30",
+      "last_updated": "2020-06-14T00:03:47+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -1008,7 +1008,7 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 67,
+      "confirmed": 105,
       "recovered": 87,
       "tested": 2951
     },
@@ -1024,11 +1024,11 @@
       },
       "Baloda Bazar": {
         "delta": {
-          "confirmed": 9,
+          "confirmed": 13,
           "recovered": 2
         },
         "total": {
-          "confirmed": 131,
+          "confirmed": 135,
           "recovered": 60
         }
       },
@@ -1043,10 +1043,10 @@
       },
       "Bametara": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 11
         },
         "total": {
-          "confirmed": 37,
+          "confirmed": 38,
           "recovered": 19
         }
       },
@@ -1076,17 +1076,20 @@
         }
       },
       "Dhamtari": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 5
         }
       },
       "Durg": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 9
         },
         "total": {
-          "confirmed": 52,
+          "confirmed": 58,
           "deceased": 3,
           "recovered": 19
         }
@@ -1108,10 +1111,11 @@
       },
       "Janjgir Champa": {
         "delta": {
+          "confirmed": 3,
           "recovered": -10
         },
         "total": {
-          "confirmed": 122,
+          "confirmed": 125,
           "recovered": 18
         }
       },
@@ -1160,10 +1164,11 @@
       },
       "Mahasamund": {
         "delta": {
+          "confirmed": 8,
           "recovered": 17
         },
         "total": {
-          "confirmed": 64,
+          "confirmed": 72,
           "recovered": 36
         }
       },
@@ -1189,22 +1194,22 @@
       },
       "Raipur": {
         "delta": {
-          "confirmed": 4,
+          "confirmed": 15,
           "recovered": 9
         },
         "total": {
-          "confirmed": 117,
+          "confirmed": 128,
           "deceased": 1,
           "recovered": 30
         }
       },
       "Rajnandgaon": {
         "delta": {
-          "confirmed": 9,
+          "confirmed": 13,
           "recovered": 9
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 79,
           "recovered": 46
         }
       },
@@ -1244,14 +1249,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T23:13:48+05:30",
+      "last_updated": "2020-06-14T00:12:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
       }
     },
     "total": {
-      "confirmed": 1512,
+      "confirmed": 1550,
       "deceased": 6,
       "recovered": 631,
       "tested": 101554
@@ -5259,7 +5264,7 @@
       "last_updated": "2020-06-13T22:43:50+05:30",
       "tested": {
         "last_updated": "2020-06-13",
-        "source": "https://t.me/indiacovid/7120"
+        "source": "https://twitter.com/ANI/status/1271828965900972034?s=09"
       }
     },
     "total": {
@@ -6121,21 +6126,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11993,
+      "confirmed": 12031,
       "deceased": 309,
       "migrated": 14,
       "recovered": 8091,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T23:59:46+05:30",
+      "last_updated": "2020-06-14T00:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 321588,
+      "confirmed": 321626,
       "deceased": 9199,
       "migrated": 37,
       "recovered": 162326,
