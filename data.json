@@ -1218,15 +1218,15 @@
 	],
 	"statewise": [
 		{
-			"active": "146489",
-			"confirmed": "310760",
+			"active": "146282",
+			"confirmed": "310767",
 			"deaths": "8895",
-			"deltaconfirmed": "1165",
+			"deltaconfirmed": "1172",
 			"deltadeaths": "5",
-			"deltarecovered": "1117",
-			"lastupdatedtime": "13/06/2020 18:42:46",
+			"deltarecovered": "1331",
+			"lastupdatedtime": "13/06/2020 19:02:46",
 			"migratedother": "24",
-			"recovered": "155352",
+			"recovered": "155566",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1358,15 +1358,15 @@
 			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 331 cases were decreased from this category today by MoHFW. We are reflecting the same change."
 		},
 		{
-			"active": "3303",
+			"active": "3094",
 			"confirmed": "6824",
 			"deaths": "79",
 			"deltaconfirmed": "308",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/06/2020 18:42:48",
+			"deltarecovered": "209",
+			"lastupdatedtime": "13/06/2020 19:02:48",
 			"migratedother": "2",
-			"recovered": "3440",
+			"recovered": "3649",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons"
@@ -1554,15 +1554,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "175",
-			"confirmed": "486",
+			"active": "177",
+			"confirmed": "493",
 			"deaths": "7",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
-			"deltarecovered": "1",
-			"lastupdatedtime": "13/06/2020 13:29:48",
+			"deltarecovered": "6",
+			"lastupdatedtime": "13/06/2020 19:02:50",
 			"migratedother": "10",
-			"recovered": "294",
+			"recovered": "299",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed"
