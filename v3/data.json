@@ -1007,7 +1007,7 @@
   "CT": {
     "delta": {
       "confirmed": 67,
-      "recovered": 81,
+      "recovered": 101,
       "tested": 2951
     },
     "districts": {
@@ -1023,11 +1023,11 @@
       "Baloda Bazar": {
         "delta": {
           "confirmed": 9,
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 131,
-          "recovered": 59
+          "recovered": 60
         }
       },
       "Balrampur": {
@@ -1091,11 +1091,11 @@
       },
       "Gariaband": {
         "delta": {
-          "recovered": 4
+          "recovered": 7
         },
         "total": {
           "confirmed": 10,
-          "recovered": 9
+          "recovered": 12
         }
       },
       "Gaurela Pendra Marwahi": {
@@ -1158,11 +1158,11 @@
       },
       "Mahasamund": {
         "delta": {
-          "recovered": 9
+          "recovered": 17
         },
         "total": {
           "confirmed": 64,
-          "recovered": 28
+          "recovered": 36
         }
       },
       "Mungeli": {
@@ -1177,9 +1177,12 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 62,
-          "recovered": 16
+          "recovered": 24
         }
       },
       "Raipur": {
@@ -1231,7 +1234,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T21:46:52+05:30",
+      "last_updated": "2020-06-13T22:42:49+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
@@ -1240,7 +1243,7 @@
     "total": {
       "confirmed": 1512,
       "deceased": 6,
-      "recovered": 625,
+      "recovered": 645,
       "tested": 101554
     }
   },
@@ -3491,7 +3494,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:36:47+05:30",
+      "last_updated": "2020-06-13T22:40:47+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/Maha_MEDD/status/1271674157898567680?s=19"
@@ -5241,7 +5244,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:36:48+05:30",
+      "last_updated": "2020-06-13T22:40:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/indiacovid/7120"
@@ -6108,11 +6111,11 @@
       "confirmed": 11811,
       "deceased": 309,
       "migrated": 14,
-      "recovered": 8085,
+      "recovered": 8105,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T22:36:45+05:30",
+      "last_updated": "2020-06-13T22:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -6122,7 +6125,7 @@
       "confirmed": 321406,
       "deceased": 9199,
       "migrated": 37,
-      "recovered": 162320,
+      "recovered": 162340,
       "tested": 5507182
     }
   },
