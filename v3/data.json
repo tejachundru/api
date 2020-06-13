@@ -537,7 +537,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:34:21+05:30",
+      "last_updated": "2020-06-13T20:35:49+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -952,20 +952,12 @@
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         },
         "total": {
-          "confirmed": 348,
+          "confirmed": 350,
           "deceased": 5,
           "recovered": 295
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 2
-        },
-        "total": {
-          "confirmed": 2
         }
       }
     },
@@ -3188,7 +3180,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:34:18+05:30",
+      "last_updated": "2020-06-13T20:35:47+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/Maha_MEDD/status/1271674157898567680?s=19"
@@ -3270,6 +3262,9 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 64
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -3356,21 +3351,24 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 64
+        },
         "total": {
-          "confirmed": 31,
+          "confirmed": 95,
           "recovered": 42
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T14:33:49+05:30",
+      "last_updated": "2020-06-13T20:42:49+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/DiprManipur/status/1271083028274491393"
       }
     },
     "total": {
-      "confirmed": 385,
+      "confirmed": 449,
       "recovered": 73,
       "tested": 20528
     }
@@ -5538,21 +5536,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7642,
+      "confirmed": 7706,
       "deceased": 211,
       "migrated": 1,
       "recovered": 5034,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T20:33:46+05:30",
+      "last_updated": "2020-06-13T20:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 317237,
+      "confirmed": 317301,
       "deceased": 9101,
       "migrated": 24,
       "recovered": 159269,
