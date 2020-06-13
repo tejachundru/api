@@ -1602,12 +1602,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 45,
-        "confirmed": 345,
+        "active": 48,
+        "confirmed": 348,
         "deceased": 5,
         "recovered": 295,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3859,13 +3859,13 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 321,
+        "active": 319,
         "confirmed": 648,
-        "deceased": 27,
+        "deceased": 29,
         "recovered": 299,
         "delta": {
           "confirmed": 31,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -3924,14 +3924,14 @@
       {
         "district": "Chitradurga",
         "notes": "",
-        "active": 4,
+        "active": 5,
         "confirmed": 43,
         "deceased": 0,
-        "recovered": 39,
+        "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       {
@@ -3963,13 +3963,13 @@
       {
         "district": "Dharwad",
         "notes": "",
-        "active": 62,
+        "active": 61,
         "confirmed": 111,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 48,
         "delta": {
           "confirmed": 20,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 2
         }
       },

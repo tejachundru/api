@@ -946,24 +946,30 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 3
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 345,
+          "confirmed": 348,
           "deceased": 5,
           "recovered": 295
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:14:48+05:30",
+      "last_updated": "2020-06-13T19:22:53+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/426"
       }
     },
     "total": {
-      "confirmed": 345,
+      "confirmed": 348,
       "deceased": 5,
       "recovered": 295,
       "tested": 5708
@@ -1628,7 +1634,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T19:12:52+05:30",
+      "last_updated": "2020-06-13T19:14:52+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-12",
@@ -2157,7 +2163,8 @@
   "KA": {
     "delta": {
       "confirmed": 308,
-      "recovered": 209
+      "deceased": 3,
+      "recovered": 208
     },
     "districts": {
       "Bagalkote": {
@@ -2197,11 +2204,12 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 31
+          "confirmed": 31,
+          "deceased": 2
         },
         "total": {
           "confirmed": 648,
-          "deceased": 27,
+          "deceased": 29,
           "migrated": 1,
           "recovered": 299
         }
@@ -2235,9 +2243,12 @@
         }
       },
       "Chitradurga": {
+        "delta": {
+          "recovered": -1
+        },
         "total": {
           "confirmed": 43,
-          "recovered": 39
+          "recovered": 38
         }
       },
       "Dakshina Kannada": {
@@ -2266,11 +2277,12 @@
       "Dharwad": {
         "delta": {
           "confirmed": 20,
+          "deceased": 1,
           "recovered": 2
         },
         "total": {
           "confirmed": 111,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 48
         }
       },
@@ -2446,7 +2458,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T19:12:50+05:30",
+      "last_updated": "2020-06-13T19:22:50+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-12",
@@ -2455,9 +2467,9 @@
     },
     "total": {
       "confirmed": 6824,
-      "deceased": 79,
+      "deceased": 82,
       "migrated": 2,
-      "recovered": 3649,
+      "recovered": 3648,
       "tested": 426341
     }
   },
@@ -5130,7 +5142,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T19:12:48+05:30",
+      "last_updated": "2020-06-13T19:22:48+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-12",
@@ -5226,24 +5238,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3161,
-      "deceased": 35,
+      "confirmed": 3164,
+      "deceased": 38,
       "migrated": 1,
-      "recovered": 2693,
+      "recovered": 2692,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T19:12:46+05:30",
+      "last_updated": "2020-06-13T19:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 312756,
-      "deceased": 8925,
+      "confirmed": 312759,
+      "deceased": 8928,
       "migrated": 24,
-      "recovered": 156928,
+      "recovered": 156927,
       "tested": 5507182
     }
   },
