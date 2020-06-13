@@ -2809,6 +2809,7 @@
     "delta": {
       "confirmed": 108,
       "deceased": 1,
+      "migrated": 1,
       "recovered": 50,
       "tested": 3751
     },
@@ -2915,11 +2916,13 @@
       "Palakkad": {
         "delta": {
           "confirmed": 11,
+          "migrated": 1,
           "recovered": 30
         },
         "total": {
           "confirmed": 225,
           "deceased": 1,
+          "migrated": 1,
           "recovered": 60
         }
       },
@@ -2969,6 +2972,7 @@
     "total": {
       "confirmed": 1808,
       "deceased": 16,
+      "migrated": 1,
       "recovered": 762,
       "tested": 107796
     }
@@ -5905,7 +5909,7 @@
     "delta": {
       "confirmed": 10408,
       "deceased": 297,
-      "migrated": 1,
+      "migrated": 2,
       "recovered": 5433,
       "tested": 137938
     },
@@ -5918,7 +5922,7 @@
     "total": {
       "confirmed": 246599,
       "deceased": 6946,
-      "migrated": 13,
+      "migrated": 14,
       "recovered": 118657,
       "tested": 4524317
     }
