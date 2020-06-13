@@ -1218,15 +1218,15 @@
 	],
 	"statewise": [
 		{
-			"active": "146542",
+			"active": "146342",
 			"confirmed": "310156",
 			"deaths": "8895",
 			"deltaconfirmed": "561",
 			"deltadeaths": "5",
-			"deltarecovered": "457",
-			"lastupdatedtime": "13/06/2020 16:12:49",
+			"deltarecovered": "657",
+			"lastupdatedtime": "13/06/2020 16:22:46",
 			"migratedother": "23",
-			"recovered": "154696",
+			"recovered": "154896",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1456,15 +1456,15 @@
 			"statenotes": "Two non-covid deaths reported in state dashboard are included in the deceased count"
 		},
 		{
-			"active": "2123",
+			"active": "1923",
 			"confirmed": "3719",
 			"deaths": "8",
 			"deltaconfirmed": "25",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/06/2020 16:12:52",
+			"deltarecovered": "200",
+			"lastupdatedtime": "13/06/2020 16:22:48",
 			"migratedother": "3",
-			"recovered": "1585",
+			"recovered": "1785",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count"
@@ -1504,7 +1504,7 @@
 			"deltaconfirmed": "35",
 			"deltadeaths": "0",
 			"deltarecovered": "76",
-			"lastupdatedtime": "13/06/2020 16:12:55",
+			"lastupdatedtime": "13/06/2020 16:22:50",
 			"migratedother": "8",
 			"recovered": "1023",
 			"state": "Uttarakhand",
