@@ -966,7 +966,8 @@
     "meta": {
       "last_updated": "2020-06-13T20:05:03+05:30",
       "tested": {
-        "last_updated": "2020-06-13"
+        "last_updated": "2020-06-13",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/438"
       }
     },
     "total": {
@@ -1173,7 +1174,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T23:02:48+05:30",
+      "last_updated": "2020-06-13T20:59:52+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/HealthCgGov/status/1271464863013863426/photo/1"
@@ -1301,6 +1302,9 @@
     }
   },
   "GA": {
+    "delta": {
+      "tested": 1425
+    },
     "districts": {
       "North Goa": {
         "total": {
@@ -1329,14 +1333,14 @@
     "meta": {
       "last_updated": "2020-06-12T20:05:54+05:30",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://twitter.com/DHS_Goa/status/1271446730651787265?s=19"
+        "last_updated": "2020-06-13",
+        "source": "https://twitter.com/DHS_Goa/status/1271820801881157633/photo/1"
       }
     },
     "total": {
       "confirmed": 463,
       "recovered": 69,
-      "tested": 39298
+      "tested": 40723
     }
   },
   "GJ": {
@@ -1695,7 +1699,8 @@
   "HP": {
     "delta": {
       "confirmed": 7,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 1317
     },
     "districts": {
       "Bilaspur": {
@@ -1790,8 +1795,8 @@
       "last_updated": "2020-06-13T19:14:52+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://twitter.com/nhm_hp/status/1271471425728049152?s=09"
+        "last_updated": "2020-06-13",
+        "source": "https://twitter.com/nhm_hp/status/1271792951962636289"
       }
     },
     "total": {
@@ -1799,13 +1804,15 @@
       "deceased": 7,
       "migrated": 10,
       "recovered": 299,
-      "tested": 51420
+      "tested": 52737
     }
   },
   "HR": {
     "delta": {
       "confirmed": 129,
-      "deceased": 8
+      "deceased": 8,
+      "recovered": 328,
+      "tested": 4059
     },
     "districts": {
       "Ambala": {
@@ -1817,11 +1824,12 @@
       },
       "Bhiwani": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "recovered": 5
         },
         "total": {
           "confirmed": 98,
-          "recovered": 45
+          "recovered": 50
         }
       },
       "Charkhi Dadri": {
@@ -1846,9 +1854,12 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 60,
-          "recovered": 24
+          "recovered": 29
         }
       },
       "Foreign Evacuees": {
@@ -1860,12 +1871,13 @@
       "Gurugram": {
         "delta": {
           "confirmed": 85,
-          "deceased": 6
+          "deceased": 6,
+          "recovered": 185
         },
         "total": {
           "confirmed": 3007,
           "deceased": 25,
-          "recovered": 976
+          "recovered": 1161
         }
       },
       "Hisar": {
@@ -1882,9 +1894,12 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 119,
-          "recovered": 99
+          "recovered": 100
         }
       },
       "Jind": {
@@ -1895,9 +1910,12 @@
         }
       },
       "Kaithal": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 57,
-          "recovered": 28
+          "recovered": 30
         }
       },
       "Karnal": {
@@ -1908,28 +1926,40 @@
         }
       },
       "Kurukshetra": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 63,
-          "recovered": 37
+          "recovered": 46
         }
       },
       "Mahendragarh": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 113,
-          "recovered": 74
-        }
-      },
-      "Nuh": {
-        "total": {
-          "confirmed": 109,
           "recovered": 85
         }
       },
+      "Nuh": {
+        "delta": {
+          "recovered": 12
+        },
+        "total": {
+          "confirmed": 109,
+          "recovered": 97
+        }
+      },
       "Palwal": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 180,
           "deceased": 1,
-          "recovered": 70
+          "recovered": 79
         }
       },
       "Panchkula": {
@@ -1956,12 +1986,13 @@
       },
       "Rohtak": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "recovered": 44
         },
         "total": {
           "confirmed": 270,
           "deceased": 4,
-          "recovered": 84
+          "recovered": 128
         }
       },
       "Sirsa": {
@@ -1972,12 +2003,13 @@
       },
       "Sonipat": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 45
         },
         "total": {
           "confirmed": 536,
           "deceased": 6,
-          "recovered": 218
+          "recovered": 263
         }
       },
       "Yamunanagar": {
@@ -1988,17 +2020,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:52:48+05:30",
+      "last_updated": "2020-06-13T21:02:48+05:30",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-06-2020%20Evening.pdf"
+        "last_updated": "2020-06-13",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-12.pdf"
       }
     },
     "total": {
       "confirmed": 6463,
       "deceased": 78,
-      "recovered": 2475,
-      "tested": 167501
+      "recovered": 2803,
+      "tested": 171560
     }
   },
   "JH": {
@@ -2791,7 +2823,8 @@
       "last_updated": "2020-06-13T18:21:49+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-13"
+        "last_updated": "2020-06-13",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-13.pdf"
       }
     },
     "total": {
@@ -3406,7 +3439,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:52:49+05:30",
+      "last_updated": "2020-06-13T20:55:54+05:30",
       "tested": {
         "last_updated": "2020-06-11",
         "source": "https://twitter.com/DiprManipur/status/1271083028274491393"
@@ -5584,11 +5617,11 @@
       "confirmed": 7773,
       "deceased": 219,
       "migrated": 1,
-      "recovered": 5034,
+      "recovered": 5362,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T20:52:46+05:30",
+      "last_updated": "2020-06-13T21:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -5598,7 +5631,7 @@
       "confirmed": 317368,
       "deceased": 9109,
       "migrated": 24,
-      "recovered": 159269,
+      "recovered": 159597,
       "tested": 5507182
     }
   },
