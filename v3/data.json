@@ -99,10 +99,12 @@
       },
       "Other States": {
         "delta": {
-          "confirmed": 33
+          "confirmed": 33,
+          "recovered": 18
         },
         "total": {
-          "confirmed": 33
+          "confirmed": 33,
+          "recovered": 18
         }
       },
       "Prakasam": {
@@ -128,12 +130,12 @@
         "delta": {
           "confirmed": 150,
           "deceased": 2,
-          "recovered": 41
+          "recovered": 23
         },
         "total": {
           "confirmed": 150,
           "deceased": 2,
-          "recovered": 41
+          "recovered": 23
         }
       },
       "Visakhapatnam": {
@@ -4099,6 +4101,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "recovered": 2
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -4111,9 +4116,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 39,
-          "recovered": 3
+          "recovered": 5
         }
       },
       "West Sikkim": {
@@ -4123,7 +4131,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T20:58:57+05:30",
+      "last_updated": "2020-06-13T14:02:50+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/424"
@@ -4131,7 +4139,7 @@
     },
     "total": {
       "confirmed": 63,
-      "recovered": 3,
+      "recovered": 5,
       "tested": 5157
     }
   },
@@ -4722,11 +4730,11 @@
     "delta": {
       "confirmed": 299,
       "deceased": 5,
-      "recovered": 207,
+      "recovered": 209,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T13:38:46+05:30",
+      "last_updated": "2020-06-13T14:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
@@ -4736,7 +4744,7 @@
       "confirmed": 309894,
       "deceased": 8895,
       "migrated": 22,
-      "recovered": 154446,
+      "recovered": 154448,
       "tested": 5507182
     }
   },
