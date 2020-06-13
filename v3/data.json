@@ -1321,7 +1321,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:04:47+05:30",
+      "last_updated": "2020-06-13T22:09:48+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-12",
@@ -1875,7 +1875,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:03:51+05:30",
+      "last_updated": "2020-06-13T22:09:54+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -2140,6 +2140,10 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 55,
+      "recovered": 131
+    },
     "districts": {
       "Bokaro": {
         "total": {
@@ -2149,9 +2153,13 @@
         }
       },
       "Chatra": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 32,
-          "recovered": 14
+          "confirmed": 35,
+          "recovered": 18
         }
       },
       "Deoghar": {
@@ -2161,9 +2169,12 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "recovered": 29
+        },
         "total": {
           "confirmed": 114,
-          "recovered": 52
+          "recovered": 81
         }
       },
       "Dumka": {
@@ -2173,20 +2184,30 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 229,
-          "recovered": 50
+          "confirmed": 230,
+          "recovered": 52
         }
       },
       "Garhwa": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 88,
+          "confirmed": 90,
           "recovered": 60
         }
       },
       "Giridih": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 53,
           "deceased": 1,
           "recovered": 31
         }
@@ -2204,9 +2225,12 @@
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "recovered": 14
+        },
         "total": {
           "confirmed": 132,
-          "recovered": 97
+          "recovered": 111
         }
       },
       "Jamtara": {
@@ -2222,16 +2246,23 @@
         }
       },
       "Koderma": {
+        "delta": {
+          "confirmed": 35,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 93,
+          "confirmed": 128,
           "deceased": 1,
-          "recovered": 36
+          "recovered": 42
         }
       },
       "Latehar": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 52,
-          "recovered": 26
+          "recovered": 28
         }
       },
       "Lohardaga": {
@@ -2253,14 +2284,21 @@
         }
       },
       "Ramgarh": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 38
+        },
         "total": {
-          "confirmed": 102,
-          "recovered": 11
+          "confirmed": 108,
+          "recovered": 49
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 164,
+          "confirmed": 165,
           "deceased": 4,
           "recovered": 129
         }
@@ -2272,35 +2310,44 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 33,
+          "confirmed": 36,
           "recovered": 8
         }
       },
       "Simdega": {
+        "delta": {
+          "recovered": 36
+        },
         "total": {
           "confirmed": 232,
-          "recovered": 34
+          "recovered": 70
         }
       },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 43,
+          "confirmed": 46,
           "recovered": 6
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-12T22:24:53+05:30",
+      "last_updated": "2020-06-13T22:12:48+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7110"
       }
     },
     "total": {
-      "confirmed": 1656,
+      "confirmed": 1711,
       "deceased": 8,
-      "recovered": 685,
+      "recovered": 816,
       "tested": 102092
     }
   },
@@ -5966,7 +6013,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:04:51+05:30",
+      "last_updated": "2020-06-13T22:05:52+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/430"
@@ -5981,24 +6028,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11481,
+      "confirmed": 11536,
       "deceased": 315,
       "migrated": 1,
-      "recovered": 7791,
+      "recovered": 7922,
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T22:04:46+05:30",
+      "last_updated": "2020-06-13T22:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 321076,
+      "confirmed": 321131,
       "deceased": 9205,
       "migrated": 24,
-      "recovered": 162026,
+      "recovered": 162157,
       "tested": 5507182
     }
   },
@@ -6035,12 +6082,13 @@
       },
       "Aligarh": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 1
         },
         "total": {
           "confirmed": 255,
           "deceased": 19,
-          "recovered": 139
+          "recovered": 140
         }
       },
       "Ambedkar Nagar": {
@@ -6754,14 +6802,6 @@
           "recovered": 78
         }
       },
-      "Unknown": {
-        "delta": {
-          "recovered": 1
-        },
-        "total": {
-          "recovered": 1
-        }
-      },
       "Unnao": {
         "delta": {
           "recovered": 1
@@ -6785,7 +6825,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:04:49+05:30",
+      "last_updated": "2020-06-13T22:09:50+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://t.me/indiacovid/7094?single"
