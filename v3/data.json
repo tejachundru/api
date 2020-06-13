@@ -40,24 +40,35 @@
     },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 15,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 403,
+          "confirmed": 418,
           "deceased": 5,
-          "recovered": 175
+          "recovered": 177
         }
       },
       "Chittoor": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 345,
+          "confirmed": 350,
           "deceased": 4,
           "recovered": 232
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 19
+        },
         "total": {
-          "confirmed": 309,
+          "confirmed": 320,
           "deceased": 4,
-          "recovered": 172
+          "recovered": 191
         }
       },
       "Foreign Evacuees": {
@@ -71,24 +82,36 @@
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 599,
+          "confirmed": 612,
           "deceased": 9,
           "recovered": 428
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 25,
+          "deceased": 2,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 640,
-          "deceased": 25,
-          "recovered": 365
+          "confirmed": 665,
+          "deceased": 27,
+          "recovered": 369
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 53,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 872,
+          "confirmed": 925,
           "deceased": 28,
-          "recovered": 627
+          "recovered": 634
         }
       },
       "Other State": {
@@ -114,58 +137,77 @@
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 374,
+          "confirmed": 383,
           "deceased": 4,
-          "recovered": 206
+          "recovered": 210
         }
       },
       "Srikakulam": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 34,
+          "confirmed": 39,
           "recovered": 18
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 150,
-          "deceased": 2,
-          "recovered": 23
+          "confirmed": -36,
+          "recovered": -19
         },
         "total": {
-          "confirmed": 150,
-          "deceased": 2,
-          "recovered": 23
+          "confirmed": -36,
+          "recovered": -19
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 192,
+          "confirmed": 201,
           "deceased": 1,
-          "recovered": 101
+          "recovered": 106
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 60,
+          "confirmed": 62,
           "recovered": 19
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 259,
+          "confirmed": 272,
           "recovered": 61
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 26,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 216,
-          "recovered": 114
+          "confirmed": 242,
+          "recovered": 115
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T13:38:47+05:30",
+      "last_updated": "2020-06-13T14:42:48+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-12",
@@ -4743,7 +4785,7 @@
       "tested": 143737
     },
     "meta": {
-      "last_updated": "2020-06-13T14:20:46+05:30",
+      "last_updated": "2020-06-13T14:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
