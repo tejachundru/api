@@ -1224,7 +1224,7 @@
 			"deltaconfirmed": "11811",
 			"deltadeaths": "309",
 			"deltarecovered": "8091",
-			"lastupdatedtime": "13/06/2020 23:05:46",
+			"lastupdatedtime": "13/06/2020 23:13:46",
 			"migratedother": "37",
 			"recovered": "162326",
 			"state": "Total",
@@ -1243,7 +1243,7 @@
 			"recovered": "49346",
 			"state": "Maharashtra",
 			"statecode": "MH",
-			"statenotes": ""
+			"statenotes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts"
 		},
 		{
 			"active": "18881",
@@ -1355,7 +1355,7 @@
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 331 cases were decreased from this category today by MoHFW. We are reflecting the same change."
+			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 331 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day."
 		},
 		{
 			"active": "3092",
@@ -1532,7 +1532,7 @@
 			"deltaconfirmed": "67",
 			"deltadeaths": "0",
 			"deltarecovered": "87",
-			"lastupdatedtime": "13/06/2020 23:05:48",
+			"lastupdatedtime": "13/06/2020 23:13:48",
 			"migratedother": "0",
 			"recovered": "631",
 			"state": "Chhattisgarh",
