@@ -5225,7 +5225,8 @@
     "districts": {
       "East Sikkim": {
         "total": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 3
         }
       },
       "South Sikkim": {
@@ -5235,8 +5236,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 3,
-          "recovered": 3
+          "confirmed": 3
         }
       },
       "West Sikkim": {

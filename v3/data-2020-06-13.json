@@ -5221,10 +5221,12 @@
     "districts": {
       "East Sikkim": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "recovered": 2
         },
         "total": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 5
         }
       },
       "South Sikkim": {
@@ -5237,11 +5239,7 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": -39,
-          "recovered": 2
-        },
-        "total": {
-          "recovered": 5
+          "confirmed": -39
         }
       },
       "West Sikkim": {
