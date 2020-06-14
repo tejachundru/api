@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -14,20 +17,23 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 7
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-11T23:59:57+05:30",
+      "last_updated": "2020-06-14T20:52:50+05:30",
       "tested": {
         "last_updated": "2020-06-10",
         "source": "https://dhs.andaman.gov.in/NewEvents/291.pdf"
       }
     },
     "total": {
-      "confirmed": 38,
+      "confirmed": 40,
       "recovered": 33,
       "tested": 10010
     }
@@ -1677,7 +1683,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T20:42:48+05:30",
+      "last_updated": "2020-06-14T20:43:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/PIBAhmedabad/status/1272178019885514761?s=20"
@@ -3212,7 +3218,7 @@
   "MN": {
     "delta": {
       "confirmed": 9,
-      "recovered": 16
+      "recovered": 18
     },
     "districts": {
       "Bishnupur": {
@@ -3302,11 +3308,11 @@
       "Unknown": {
         "delta": {
           "confirmed": 9,
-          "recovered": 16
+          "recovered": 18
         },
         "total": {
           "confirmed": 104,
-          "recovered": 58
+          "recovered": 60
         }
       }
     },
@@ -3319,7 +3325,7 @@
     },
     "total": {
       "confirmed": 458,
-      "recovered": 89,
+      "recovered": 91,
       "tested": 24046
     }
   },
@@ -5529,24 +5535,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3546,
+      "confirmed": 3548,
       "deceased": 84,
       "migrated": 1,
-      "recovered": 2947,
+      "recovered": 2949,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T20:42:46+05:30",
+      "last_updated": "2020-06-14T20:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 325176,
+      "confirmed": 325178,
       "deceased": 9283,
       "migrated": 38,
-      "recovered": 165274,
+      "recovered": 165276,
       "tested": 5658614
     }
   },
