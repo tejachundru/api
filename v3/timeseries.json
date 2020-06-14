@@ -23715,12 +23715,13 @@
       "delta": {
         "confirmed": 186,
         "deceased": 1,
+        "recovered": 114,
         "tested": 3558
       },
       "total": {
         "confirmed": 3909,
         "deceased": 14,
-        "recovered": 2594,
+        "recovered": 2708,
         "tested": 200014
       }
     }
@@ -31783,14 +31784,14 @@
       "delta": {
         "confirmed": 982,
         "deceased": 5,
-        "recovered": 268,
+        "recovered": 382,
         "tested": 151432
       },
       "total": {
         "confirmed": 322612,
         "deceased": 9204,
         "migrated": 37,
-        "recovered": 162594,
+        "recovered": 162708,
         "tested": 5658614
       }
     }
