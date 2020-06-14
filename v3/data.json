@@ -35,6 +35,7 @@
   "AP": {
     "delta": {
       "confirmed": 294,
+      "deceased": 2,
       "recovered": 131
     },
     "districts": {
@@ -63,11 +64,12 @@
       "East Godavari": {
         "delta": {
           "confirmed": 32,
+          "deceased": 1,
           "recovered": 14
         },
         "total": {
           "confirmed": 352,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 205
         }
       },
@@ -105,11 +107,12 @@
       "Kurnool": {
         "delta": {
           "confirmed": 51,
+          "deceased": 1,
           "recovered": 22
         },
         "total": {
           "confirmed": 976,
-          "deceased": 28,
+          "deceased": 29,
           "recovered": 656
         }
       },
@@ -193,7 +196,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T15:12:47+05:30",
+      "last_updated": "2020-06-14T18:12:47+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-13",
@@ -202,7 +205,7 @@
     },
     "total": {
       "confirmed": 6152,
-      "deceased": 82,
+      "deceased": 84,
       "recovered": 3316,
       "tested": 536570
     }
@@ -5036,13 +5039,13 @@
   "TT": {
     "delta": {
       "confirmed": 1153,
-      "deceased": 8,
+      "deceased": 10,
       "migrated": 1,
       "recovered": 694,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T18:02:46+05:30",
+      "last_updated": "2020-06-14T18:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
@@ -5050,7 +5053,7 @@
     },
     "total": {
       "confirmed": 322783,
-      "deceased": 9207,
+      "deceased": 9209,
       "migrated": 38,
       "recovered": 163020,
       "tested": 5658614
@@ -5715,7 +5718,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T18:02:48+05:30",
+      "last_updated": "2020-06-14T18:12:49+05:30",
       "notes": "9 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-13",
