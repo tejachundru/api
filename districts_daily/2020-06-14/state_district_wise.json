@@ -1482,6 +1482,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "CH"
@@ -7005,14 +7017,14 @@
     "districtData": {
       "East Sikkim": {
         "notes": "",
-        "active": 17,
-        "confirmed": 17,
+        "active": 22,
+        "confirmed": 27,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "North Sikkim": {
@@ -7029,8 +7041,8 @@
       },
       "South Sikkim": {
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -7041,8 +7053,8 @@
       },
       "West Sikkim": {
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 13,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -7053,10 +7065,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 39,
-        "confirmed": 44,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -7519,14 +7531,14 @@
       },
       "Airport Quarantine": {
         "notes": "",
-        "active": 166,
-        "confirmed": 264,
+        "active": 182,
+        "confirmed": 285,
         "deceased": 1,
-        "recovered": 97,
+        "recovered": 102,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Other State": {
@@ -7555,37 +7567,37 @@
       },
       "Chengalpattu": {
         "notes": "",
-        "active": 1532,
-        "confirmed": 2705,
-        "deceased": 23,
+        "active": 1708,
+        "confirmed": 2882,
+        "deceased": 24,
         "recovered": 1150,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 177,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Chennai": {
         "notes": "",
-        "active": 14183,
-        "confirmed": 30444,
-        "deceased": 314,
+        "active": 15605,
+        "confirmed": 31896,
+        "deceased": 344,
         "recovered": 15947,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 1452,
+          "deceased": 30,
           "recovered": 0
         }
       },
       "Coimbatore": {
         "notes": "",
-        "active": 24,
-        "confirmed": 173,
-        "deceased": 0,
+        "active": 26,
+        "confirmed": 176,
+        "deceased": 1,
         "recovered": 149,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 3,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -7603,120 +7615,120 @@
       },
       "Dharmapuri": {
         "notes": "",
-        "active": 16,
-        "confirmed": 26,
+        "active": 17,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Dindigul": {
         "notes": "",
-        "active": 58,
-        "confirmed": 207,
+        "active": 69,
+        "confirmed": 218,
         "deceased": 2,
         "recovered": 147,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Erode": {
         "notes": "",
-        "active": 1,
-        "confirmed": 72,
+        "active": 2,
+        "confirmed": 73,
         "deceased": 1,
         "recovered": 70,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kallakurichi": {
         "notes": "",
-        "active": 83,
-        "confirmed": 330,
+        "active": 97,
+        "confirmed": 344,
         "deceased": 0,
         "recovered": 247,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kancheepuram": {
         "notes": "",
-        "active": 258,
-        "confirmed": 672,
-        "deceased": 6,
+        "active": 294,
+        "confirmed": 709,
+        "deceased": 7,
         "recovered": 408,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 37,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Kanyakumari": {
         "notes": "",
-        "active": 48,
-        "confirmed": 120,
+        "active": 50,
+        "confirmed": 122,
         "deceased": 1,
         "recovered": 71,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Karur": {
         "notes": "",
-        "active": 12,
-        "confirmed": 93,
+        "active": 13,
+        "confirmed": 94,
         "deceased": 0,
         "recovered": 81,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Krishnagiri": {
         "notes": "",
-        "active": 17,
-        "confirmed": 38,
+        "active": 18,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Madurai": {
         "notes": "",
-        "active": 135,
-        "confirmed": 409,
-        "deceased": 3,
+        "active": 151,
+        "confirmed": 426,
+        "deceased": 4,
         "recovered": 271,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 17,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Nagapattinam": {
         "notes": "",
-        "active": 53,
-        "confirmed": 106,
+        "active": 60,
+        "confirmed": 113,
         "deceased": 0,
         "recovered": 53,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -7747,12 +7759,12 @@
       },
       "Perambalur": {
         "notes": "",
-        "active": 4,
-        "confirmed": 145,
+        "active": 5,
+        "confirmed": 146,
         "deceased": 0,
         "recovered": 141,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -7771,214 +7783,226 @@
       },
       "Ramanathapuram": {
         "notes": "",
-        "active": 59,
-        "confirmed": 135,
+        "active": 82,
+        "confirmed": 158,
         "deceased": 1,
         "recovered": 75,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Ranipet": {
         "notes": "",
-        "active": 84,
-        "confirmed": 191,
+        "active": 90,
+        "confirmed": 197,
         "deceased": 1,
         "recovered": 106,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Salem": {
         "notes": "",
-        "active": 35,
-        "confirmed": 222,
+        "active": 42,
+        "confirmed": 229,
         "deceased": 0,
         "recovered": 187,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sivaganga": {
         "notes": "",
-        "active": 36,
-        "confirmed": 75,
+        "active": 51,
+        "confirmed": 90,
         "deceased": 0,
         "recovered": 39,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tenkasi": {
         "notes": "",
-        "active": 28,
-        "confirmed": 118,
+        "active": 44,
+        "confirmed": 134,
         "deceased": 0,
         "recovered": 90,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Thanjavur": {
         "notes": "",
-        "active": 53,
-        "confirmed": 150,
+        "active": 58,
+        "confirmed": 155,
         "deceased": 1,
         "recovered": 96,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Theni": {
         "notes": "",
-        "active": 23,
-        "confirmed": 138,
+        "active": 31,
+        "confirmed": 146,
         "deceased": 2,
         "recovered": 113,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Thiruvallur": {
         "notes": "",
-        "active": 928,
-        "confirmed": 1797,
-        "deceased": 21,
+        "active": 995,
+        "confirmed": 1865,
+        "deceased": 22,
         "recovered": 848,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 68,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Thiruvarur": {
         "notes": "",
-        "active": 69,
-        "confirmed": 120,
+        "active": 77,
+        "confirmed": 128,
         "deceased": 0,
         "recovered": 51,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Thoothukkudi": {
         "notes": "",
-        "active": 131,
-        "confirmed": 427,
+        "active": 102,
+        "confirmed": 398,
         "deceased": 2,
         "recovered": 294,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -29,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tiruchirappalli": {
         "notes": "",
-        "active": 41,
-        "confirmed": 154,
+        "active": 50,
+        "confirmed": 163,
         "deceased": 1,
         "recovered": 112,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tirunelveli": {
         "notes": "",
-        "active": 75,
-        "confirmed": 443,
+        "active": 96,
+        "confirmed": 464,
         "deceased": 1,
         "recovered": 367,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tirupathur": {
         "notes": "",
-        "active": 10,
-        "confirmed": 45,
+        "active": 12,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tiruppur": {
         "notes": "",
-        "active": 1,
-        "confirmed": 115,
+        "active": 2,
+        "confirmed": 116,
         "deceased": 0,
         "recovered": 114,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Tiruvannamalai": {
         "notes": "",
-        "active": 220,
-        "confirmed": 636,
-        "deceased": 3,
+        "active": 254,
+        "confirmed": 671,
+        "deceased": 4,
         "recovered": 413,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 35,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Vellore": {
         "notes": "",
-        "active": 90,
-        "confirmed": 142,
+        "active": 100,
+        "confirmed": 152,
         "deceased": 3,
         "recovered": 49,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Viluppuram": {
         "notes": "",
-        "active": 72,
-        "confirmed": 421,
-        "deceased": 4,
+        "active": 87,
+        "confirmed": 437,
+        "deceased": 5,
         "recovered": 345,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 16,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Virudhunagar": {
         "notes": "",
-        "active": 36,
-        "confirmed": 163,
-        "deceased": 0,
+        "active": 42,
+        "confirmed": 170,
+        "deceased": 1,
         "recovered": 127,
+        "delta": {
+          "confirmed": 7,
+          "deceased": 1,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -1133,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 1133,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
