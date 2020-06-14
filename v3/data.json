@@ -1054,7 +1054,8 @@
   "CT": {
     "delta": {
       "confirmed": 113,
-      "recovered": 84
+      "recovered": 84,
+      "tested": 2341
     },
     "districts": {
       "Balod": {
@@ -1256,15 +1257,15 @@
     "meta": {
       "last_updated": "2020-06-14T22:35:51+05:30",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
+        "last_updated": "2020-06-14",
+        "source": "https://twitter.com/TS_SinghDeo/status/1272218591396368385?s=09"
       }
     },
     "total": {
       "confirmed": 1663,
       "deceased": 6,
       "recovered": 715,
-      "tested": 101554
+      "tested": 103895
     }
   },
   "DL": {
@@ -3687,7 +3688,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:05:47+05:30",
+      "last_updated": "2020-06-14T23:21:51+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/DiprManipur/status/1271819573054943232"
@@ -4334,7 +4335,8 @@
     "meta": {
       "last_updated": "2020-06-14T15:16:48+05:30",
       "tested": {
-        "last_updated": "2020-06-14"
+        "last_updated": "2020-06-14",
+        "source": "https://twitter.com/MyGovNagaland/status/1272177894769389570/photo/1"
       }
     },
     "total": {
@@ -5298,7 +5300,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T23:12:47+05:30",
+      "last_updated": "2020-06-14T23:21:49+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/indiacovid/7252?single"
@@ -6068,7 +6070,8 @@
   "TR": {
     "delta": {
       "confirmed": 33,
-      "recovered": 118
+      "recovered": 118,
+      "tested": 2043
     },
     "districts": {
       "Dhalai": {
@@ -6135,15 +6138,15 @@
     "meta": {
       "last_updated": "2020-06-14T21:45:55+05:30",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/444"
+        "last_updated": "2020-06-14",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/466"
       }
     },
     "total": {
       "confirmed": 1079,
       "deceased": 1,
       "recovered": 433,
-      "tested": 43972
+      "tested": 46015
     }
   },
   "TT": {
@@ -6155,7 +6158,7 @@
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T23:12:46+05:30",
+      "last_updated": "2020-06-14T23:21:47+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
