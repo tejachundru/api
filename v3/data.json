@@ -196,7 +196,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T18:22:48+05:30",
+      "last_updated": "2020-06-14T18:24:48+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-13",
@@ -1563,8 +1563,7 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 12,
-      "recovered": 1
+      "confirmed": 12
     },
     "districts": {
       "Bilaspur": {
@@ -1647,8 +1646,7 @@
       },
       "Una": {
         "delta": {
-          "confirmed": 3,
-          "recovered": 1
+          "confirmed": 3
         },
         "total": {
           "confirmed": 64,
@@ -1662,7 +1660,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T18:01:51+05:30",
+      "last_updated": "2020-06-14T18:34:48+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -2583,7 +2581,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T18:22:50+05:30",
+      "last_updated": "2020-06-14T18:33:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-13",
@@ -5097,11 +5095,11 @@
       "confirmed": 1207,
       "deceased": 10,
       "migrated": 1,
-      "recovered": 750,
+      "recovered": 749,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T18:22:46+05:30",
+      "last_updated": "2020-06-14T18:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"

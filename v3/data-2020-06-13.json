@@ -1753,7 +1753,7 @@
   "HP": {
     "delta": {
       "confirmed": 16,
-      "recovered": 15,
+      "recovered": 16,
       "tested": 1317
     },
     "districts": {
@@ -1850,9 +1850,12 @@
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 61,
-          "recovered": 36
+          "recovered": 37
         }
       },
       "Unknown": {
@@ -1871,7 +1874,7 @@
       "confirmed": 502,
       "deceased": 7,
       "migrated": 10,
-      "recovered": 308,
+      "recovered": 309,
       "tested": 52737
     }
   },
@@ -6068,7 +6071,7 @@
       "confirmed": 12035,
       "deceased": 309,
       "migrated": 14,
-      "recovered": 8091,
+      "recovered": 8092,
       "tested": 143737
     },
     "meta": {
@@ -6081,7 +6084,7 @@
       "confirmed": 321630,
       "deceased": 9199,
       "migrated": 37,
-      "recovered": 162326,
+      "recovered": 162327,
       "tested": 5507182
     }
   },
