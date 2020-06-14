@@ -938,7 +938,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T17:12:48+05:30",
+      "last_updated": "2020-06-14T17:14:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/PIB_Patna/status/1272122915325046786"
@@ -2562,7 +2562,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T17:12:50+05:30",
+      "last_updated": "2020-06-14T17:14:52+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/DIPR_Leh/status/1271779779897733120"
@@ -4022,42 +4022,52 @@
   },
   "PY": {
     "delta": {
+      "confirmed": 18,
+      "deceased": 1,
       "recovered": 9
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 2
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 8,
+          "confirmed": 9,
           "recovered": 5
         }
       },
       "Puducherry": {
         "delta": {
+          "confirmed": 16,
+          "deceased": 1,
           "recovered": 9
         },
         "total": {
-          "confirmed": 165,
-          "deceased": 3,
+          "confirmed": 181,
+          "deceased": 4,
           "recovered": 84
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T18:21:51+05:30",
+      "last_updated": "2020-06-14T17:21:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/indiacovid/7142?single"
       }
     },
     "total": {
-      "confirmed": 176,
-      "deceased": 3,
+      "confirmed": 194,
+      "deceased": 4,
       "recovered": 91,
       "tested": 10008
     }
@@ -5020,21 +5030,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1129,
-      "deceased": 7,
+      "confirmed": 1147,
+      "deceased": 8,
       "recovered": 693,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T17:12:46+05:30",
+      "last_updated": "2020-06-14T17:21:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 322759,
-      "deceased": 9206,
+      "confirmed": 322777,
+      "deceased": 9207,
       "migrated": 37,
       "recovered": 163019,
       "tested": 5658614
