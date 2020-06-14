@@ -3564,9 +3564,13 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 64,
+          "recovered": -2
+        },
         "total": {
-          "confirmed": 41,
-          "recovered": 3
+          "confirmed": 105,
+          "recovered": 18
         }
       },
       "Imphal East": {
@@ -3638,11 +3642,11 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 64
+          "recovered": 2
         },
         "total": {
-          "confirmed": 95,
-          "recovered": 42
+          "confirmed": 31,
+          "recovered": 27
         }
       }
     },
