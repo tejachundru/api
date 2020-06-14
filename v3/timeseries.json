@@ -31798,14 +31798,15 @@
     "2020-06-14": {
       "delta": {
         "confirmed": 1147,
-        "deceased": 8,
+        "deceased": 7,
+        "migrated": 1,
         "recovered": 693,
         "tested": 151432
       },
       "total": {
         "confirmed": 322777,
-        "deceased": 9207,
-        "migrated": 37,
+        "deceased": 9206,
+        "migrated": 38,
         "recovered": 163019,
         "tested": 5658614
       }
@@ -34265,13 +34266,13 @@
     "2020-06-14": {
       "delta": {
         "confirmed": 31,
-        "deceased": 1,
+        "migrated": 1,
         "recovered": 1
       },
       "total": {
         "confirmed": 1816,
-        "deceased": 24,
-        "migrated": 8,
+        "deceased": 23,
+        "migrated": 9,
         "recovered": 1078,
         "tested": 44040
       }
