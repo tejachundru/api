@@ -9130,13 +9130,13 @@
       },
       "Udham Singh Nagar": {
         "notes": "",
-        "active": 32,
+        "active": 31,
         "confirmed": 114,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 81,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -9148,18 +9148,6 @@
         "recovered": 22,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
