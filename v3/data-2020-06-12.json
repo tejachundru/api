@@ -4478,14 +4478,6 @@
           "recovered": 20
         }
       },
-      "NDRF-ODRF": {
-        "delta": {
-          "confirmed": 21
-        },
-        "total": {
-          "confirmed": 75
-        }
-      },
       "Nabarangapur": {
         "total": {
           "confirmed": 2,
@@ -4511,6 +4503,14 @@
       "Other": {
         "total": {
           "confirmed": 61
+        }
+      },
+      "Others": {
+        "delta": {
+          "confirmed": 21
+        },
+        "total": {
+          "confirmed": 75
         }
       },
       "Puri": {
