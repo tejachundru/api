@@ -1235,7 +1235,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T22:22:50+05:30",
+      "last_updated": "2020-06-14T22:35:51+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
@@ -1774,7 +1774,8 @@
     "delta": {
       "confirmed": 16,
       "migrated": 1,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 1209
     },
     "districts": {
       "Bilaspur": {
@@ -1890,8 +1891,8 @@
       "last_updated": "2020-06-14T22:03:51+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://twitter.com/nhm_hp/status/1271792951962636289"
+        "last_updated": "2020-06-14",
+        "source": "https://twitter.com/nhm_hp/status/1272200800089997317"
       }
     },
     "total": {
@@ -1899,14 +1900,15 @@
       "deceased": 7,
       "migrated": 11,
       "recovered": 326,
-      "tested": 52737
+      "tested": 53946
     }
   },
   "HR": {
     "delta": {
       "confirmed": 459,
       "deceased": 10,
-      "recovered": 200
+      "recovered": 200,
+      "tested": 14162
     },
     "districts": {
       "Ambala": {
@@ -2139,15 +2141,15 @@
     "meta": {
       "last_updated": "2020-06-14T21:23:52+05:30",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-12.pdf"
+        "last_updated": "2020-06-14",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-06-2020%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 7208,
       "deceased": 88,
       "recovered": 3003,
-      "tested": 171560
+      "tested": 185722
     }
   },
   "JH": {
@@ -2304,22 +2306,23 @@
     "meta": {
       "last_updated": "2020-06-13T22:23:49+05:30",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://t.me/indiacovid/7110"
+        "last_updated": "2020-06-13",
+        "source": "https://twitter.com/FOBGumla/status/1271846781689552896/photo/1"
       }
     },
     "total": {
       "confirmed": 1711,
       "deceased": 8,
       "recovered": 816,
-      "tested": 102092
+      "tested": 103905
     }
   },
   "JK": {
     "delta": {
       "confirmed": 163,
       "deceased": 4,
-      "recovered": 120
+      "recovered": 120,
+      "tested": 6065
     },
     "districts": {
       "Anantnag": {
@@ -2524,15 +2527,15 @@
     "meta": {
       "last_updated": "2020-06-14T21:34:50+05:30",
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://twitter.com/diprjk/status/1271454237545783297?s=19"
+        "last_updated": "2020-06-14",
+        "source": "https://twitter.com/diprjk/status/1272178184402792449"
       }
     },
     "total": {
       "confirmed": 5041,
       "deceased": 59,
       "recovered": 2389,
-      "tested": 254059
+      "tested": 266163
     }
   },
   "KA": {
@@ -4148,7 +4151,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T22:22:47+05:30",
+      "last_updated": "2020-06-14T22:35:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/healthminmp/status/1272195103864414208"
@@ -6079,7 +6082,7 @@
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T22:22:46+05:30",
+      "last_updated": "2020-06-14T22:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"

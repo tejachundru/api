@@ -2118,8 +2118,7 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-12.pdf"
+        "last_updated": "2020-06-13"
       }
     },
     "total": {
@@ -2132,7 +2131,8 @@
   "JH": {
     "delta": {
       "confirmed": 55,
-      "recovered": 131
+      "recovered": 131,
+      "tested": 1813
     },
     "districts": {
       "Bokaro": {
@@ -2329,22 +2329,23 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://t.me/indiacovid/7110"
+        "last_updated": "2020-06-13",
+        "source": "https://twitter.com/FOBGumla/status/1271846781689552896/photo/1"
       }
     },
     "total": {
       "confirmed": 1711,
       "deceased": 8,
       "recovered": 816,
-      "tested": 102092
+      "tested": 103905
     }
   },
   "JK": {
     "delta": {
       "confirmed": 148,
       "deceased": 2,
-      "recovered": 183
+      "recovered": 183,
+      "tested": 6039
     },
     "districts": {
       "Anantnag": {
@@ -2549,15 +2550,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://twitter.com/diprjk/status/1271454237545783297?s=19"
+        "last_updated": "2020-06-13",
+        "source": "https://twitter.com/diprjk/status/1271830820047646722/photo/2"
       }
     },
     "total": {
       "confirmed": 4878,
       "deceased": 55,
       "recovered": 2269,
-      "tested": 254059
+      "tested": 260098
     }
   },
   "KA": {
