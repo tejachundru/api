@@ -1261,7 +1261,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:22:47+05:30",
+      "last_updated": "2020-06-14T21:34:47+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-13",
@@ -2055,7 +2055,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:22:50+05:30",
+      "last_updated": "2020-06-14T21:23:52+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-12.pdf"
@@ -2440,7 +2440,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:22:52+05:30",
+      "last_updated": "2020-06-14T21:34:50+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://twitter.com/diprjk/status/1271454237545783297?s=19"
@@ -5577,7 +5577,7 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 15,
+      "confirmed": 33,
       "recovered": 118
     },
     "districts": {
@@ -5607,10 +5607,10 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 33
         },
         "total": {
-          "confirmed": 489,
+          "confirmed": 507,
           "recovered": 52
         }
       },
@@ -5643,14 +5643,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:44:59+05:30",
+      "last_updated": "2020-06-14T21:34:53+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/444"
       }
     },
     "total": {
-      "confirmed": 1061,
+      "confirmed": 1079,
       "deceased": 1,
       "recovered": 433,
       "tested": 43972
@@ -5658,21 +5658,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6563,
+      "confirmed": 6584,
       "deceased": 166,
       "migrated": 1,
       "recovered": 4653,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T21:22:46+05:30",
+      "last_updated": "2020-06-14T21:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 328193,
+      "confirmed": 328214,
       "deceased": 9365,
       "migrated": 38,
       "recovered": 166980,
@@ -6216,7 +6216,7 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 31,
+      "confirmed": 34,
       "deceased": 1,
       "migrated": 1,
       "recovered": 1
@@ -6254,10 +6254,10 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 14
         },
         "total": {
-          "confirmed": 472,
+          "confirmed": 475,
           "deceased": 16,
           "migrated": 6,
           "recovered": 244
@@ -6341,7 +6341,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T18:14:50+05:30",
+      "last_updated": "2020-06-14T21:34:52+05:30",
       "notes": "9 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-13",
@@ -6349,7 +6349,7 @@
       }
     },
     "total": {
-      "confirmed": 1816,
+      "confirmed": 1819,
       "deceased": 24,
       "migrated": 9,
       "recovered": 1078,
@@ -6603,7 +6603,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:22:49+05:30",
+      "last_updated": "2020-06-14T21:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_13th_JUNE_REPORT_FINAL.pdf"
