@@ -4795,7 +4795,8 @@
     "delta": {
       "confirmed": 6,
       "deceased": 1,
-      "recovered": 9
+      "recovered": 9,
+      "tested": 408
     },
     "districts": {
       "Karaikal": {
@@ -4828,15 +4829,15 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-11",
-        "source": "https://t.me/indiacovid/7027?single"
+        "last_updated": "2020-06-12",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
       "confirmed": 163,
       "deceased": 3,
       "recovered": 76,
-      "tested": 9250
+      "tested": 9658
     }
   },
   "RJ": {
