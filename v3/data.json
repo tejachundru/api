@@ -2642,7 +2642,7 @@
   },
   "MN": {
     "delta": {
-      "confirmed": 5,
+      "confirmed": 9,
       "recovered": 16
     },
     "districts": {
@@ -2732,24 +2732,24 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": 9,
           "recovered": 16
         },
         "total": {
-          "confirmed": 100,
+          "confirmed": 104,
           "recovered": 58
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T08:38:47+05:30",
+      "last_updated": "2020-06-14T10:02:56+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/DiprManipur/status/1271819573054943232"
       }
     },
     "total": {
-      "confirmed": 454,
+      "confirmed": 458,
       "recovered": 89,
       "tested": 24046
     }
@@ -4560,18 +4560,18 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 15,
+      "confirmed": 19,
       "recovered": 19
     },
     "meta": {
-      "last_updated": "2020-06-14T09:41:46+05:30",
+      "last_updated": "2020-06-14T10:02:53+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 321642,
+      "confirmed": 321646,
       "deceased": 9199,
       "migrated": 37,
       "recovered": 162345,
