@@ -218,6 +218,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 1
+    },
     "districts": {
       "Changlang": {
         "total": {
@@ -272,9 +276,21 @@
           "confirmed": 1
         }
       },
-      "Upper Siang": {
+      "Unknown": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 1
+          "confirmed": 3
+        }
+      },
+      "Upper Siang": {
+        "delta": {
+          "recovered": 1
+        },
+        "total": {
+          "confirmed": 1,
+          "recovered": 1
         }
       },
       "West Kameng": {
@@ -289,15 +305,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T21:44:24+05:30",
+      "last_updated": "2020-06-14T22:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/447"
       }
     },
     "total": {
-      "confirmed": 88,
-      "recovered": 6,
+      "confirmed": 91,
+      "recovered": 7,
       "tested": 14518
     }
   },
@@ -3021,7 +3037,8 @@
       "last_updated": "2020-06-14T18:33:48+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-14"
+        "last_updated": "2020-06-14",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-14.pdf"
       }
     },
     "total": {
@@ -6077,24 +6094,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11106,
+      "confirmed": 11109,
       "deceased": 315,
       "migrated": 2,
-      "recovered": 7137,
+      "recovered": 7138,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T22:35:46+05:30",
+      "last_updated": "2020-06-14T22:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 332736,
+      "confirmed": 332739,
       "deceased": 9514,
       "migrated": 39,
-      "recovered": 169464,
+      "recovered": 169465,
       "tested": 5658614
     }
   },

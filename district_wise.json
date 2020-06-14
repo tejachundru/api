@@ -721,19 +721,19 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Upper Siang",
 			"districtkey": "AR_Upper Siang",
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "38",
 			"state": "Arunachal Pradesh",
 			"statecode": "AR"
@@ -13735,8 +13735,8 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "3",
+			"confirmed": "3",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
