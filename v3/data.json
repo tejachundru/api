@@ -2568,6 +2568,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "recovered": 3
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2585,6 +2588,14 @@
       "Ribhoi": {
         "total": {
           "confirmed": 1
+        }
+      },
+      "South Garo Hills": {
+        "delta": {
+          "recovered": 3
+        },
+        "total": {
+          "recovered": 3
         }
       },
       "South West Garo Hills": {
@@ -2616,7 +2627,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:22:50+05:30",
+      "last_updated": "2020-06-14T09:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/439"
@@ -2625,7 +2636,7 @@
     "total": {
       "confirmed": 44,
       "deceased": 1,
-      "recovered": 23,
+      "recovered": 26,
       "tested": 12560
     }
   },
@@ -3175,6 +3186,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3194,13 +3208,19 @@
         }
       },
       "Mon": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 23
+          "confirmed": 26
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 63
+          "confirmed": 65
         }
       },
       "Phek": {
@@ -3231,14 +3251,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T17:22:49+05:30",
+      "last_updated": "2020-06-14T09:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/MyGovNagaland/status/1271820871309488129/photo/1"
       }
     },
     "total": {
-      "confirmed": 163,
+      "confirmed": 168,
       "recovered": 84,
       "tested": 6466
     }
@@ -4540,21 +4560,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10,
-      "recovered": 16
+      "confirmed": 15,
+      "recovered": 19
     },
     "meta": {
-      "last_updated": "2020-06-14T08:38:46+05:30",
+      "last_updated": "2020-06-14T09:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 321637,
+      "confirmed": 321642,
       "deceased": 9199,
       "migrated": 37,
-      "recovered": 162342,
+      "recovered": 162345,
       "tested": 5507182
     }
   },
