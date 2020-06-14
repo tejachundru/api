@@ -1033,6 +1033,9 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 113
+    },
     "districts": {
       "Balod": {
         "total": {
@@ -1041,14 +1044,20 @@
         }
       },
       "Baloda Bazar": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 135,
+          "confirmed": 138,
           "recovered": 60
         }
       },
       "Balrampur": {
+        "delta": {
+          "confirmed": 28
+        },
         "total": {
-          "confirmed": 37,
+          "confirmed": 65,
           "recovered": 8
         }
       },
@@ -1066,8 +1075,11 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 158,
+          "confirmed": 160,
           "deceased": 1,
           "recovered": 60
         }
@@ -1084,15 +1096,21 @@
         }
       },
       "Durg": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 58,
+          "confirmed": 64,
           "deceased": 3,
           "recovered": 19
         }
       },
       "Gariaband": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 7
         }
       },
@@ -1103,14 +1121,20 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 125,
+          "confirmed": 139,
           "recovered": 18
         }
       },
       "Jashpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 83,
+          "confirmed": 85,
           "recovered": 33
         }
       },
@@ -1126,8 +1150,11 @@
         }
       },
       "Korba": {
+        "delta": {
+          "confirmed": 44
+        },
         "total": {
-          "confirmed": 192,
+          "confirmed": 236,
           "recovered": 76
         }
       },
@@ -1155,14 +1182,20 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 62,
+          "confirmed": 68,
           "recovered": 24
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 128,
+          "confirmed": 134,
           "deceased": 1,
           "recovered": 30
         }
@@ -1193,14 +1226,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T13:52:49+05:30",
+      "last_updated": "2020-06-14T22:12:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
       }
     },
     "total": {
-      "confirmed": 1550,
+      "confirmed": 1663,
       "deceased": 6,
       "recovered": 631,
       "tested": 101554
@@ -1845,7 +1878,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T22:01:51+05:30",
+      "last_updated": "2020-06-14T22:03:51+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -4146,8 +4179,7 @@
     "delta": {
       "confirmed": 186,
       "deceased": 1,
-      "recovered": 114,
-      "tested": 3558
+      "recovered": 114
     },
     "districts": {
       "Angul": {
@@ -4434,17 +4466,12 @@
     },
     "meta": {
       "last_updated": "2020-06-14T15:45:47+05:30",
-      "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
-      "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/449?single"
-      }
+      "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count"
     },
     "total": {
       "confirmed": 3909,
       "deceased": 14,
-      "recovered": 2708,
-      "tested": 200014
+      "recovered": 2708
     }
   },
   "PB": {
@@ -4665,17 +4692,12 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T20:04:49+05:30",
-      "tested": {
-        "last_updated": "2020-06-13",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2013-06-2020.pdf"
-      }
+      "last_updated": "2020-06-14T20:04:49+05:30"
     },
     "total": {
       "confirmed": 3140,
       "deceased": 67,
-      "recovered": 2356,
-      "tested": 176533
+      "recovered": 2356
     }
   },
   "PY": {
@@ -4717,25 +4739,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T17:25:48+05:30",
-      "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
-      }
+      "last_updated": "2020-06-14T17:25:48+05:30"
     },
     "total": {
       "confirmed": 194,
       "deceased": 4,
-      "recovered": 91,
-      "tested": 10008
+      "recovered": 91
     }
   },
   "RJ": {
     "delta": {
       "confirmed": 131,
       "deceased": 4,
-      "recovered": 94,
-      "tested": 13966
+      "recovered": 94
     },
     "districts": {
       "Ajmer": {
@@ -5047,23 +5063,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T10:57:47+05:30",
-      "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/indiacovid/7252?single"
-      }
+      "last_updated": "2020-06-14T10:57:47+05:30"
     },
     "total": {
       "confirmed": 12532,
       "deceased": 286,
-      "recovered": 9431,
-      "tested": 598920
+      "recovered": 9431
     }
   },
   "SK": {
     "delta": {
-      "confirmed": 5,
-      "tested": 287
+      "confirmed": 5
     },
     "districts": {
       "East Sikkim": {
@@ -5092,16 +5102,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T14:39:51+05:30",
-      "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/458"
-      }
+      "last_updated": "2020-06-14T14:39:51+05:30"
     },
     "total": {
       "confirmed": 68,
-      "recovered": 5,
-      "tested": 5664
+      "recovered": 5
     }
   },
   "TG": {
@@ -5381,25 +5386,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T22:01:49+05:30",
-      "tested": {
-        "last_updated": "2020-05-16",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
-      }
+      "last_updated": "2020-06-14T22:03:50+05:30"
     },
     "total": {
       "confirmed": 4974,
       "deceased": 185,
-      "recovered": 2377,
-      "tested": 23388
+      "recovered": 2377
     }
   },
   "TN": {
     "delta": {
       "confirmed": 1974,
       "deceased": 38,
-      "recovered": 1138,
-      "tested": 18782
+      "recovered": 1138
     },
     "districts": {
       "Airport Quarantine": {
@@ -5801,17 +5800,12 @@
     },
     "meta": {
       "last_updated": "2020-06-14T19:35:48+05:30",
-      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
-      "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14.06.2020.pdf"
-      }
+      "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu"
     },
     "total": {
       "confirmed": 44661,
       "deceased": 435,
-      "recovered": 24547,
-      "tested": 710599
+      "recovered": 24547
     }
   },
   "TR": {
@@ -5882,36 +5876,31 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:45:55+05:30",
-      "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/444"
-      }
+      "last_updated": "2020-06-14T21:45:55+05:30"
     },
     "total": {
       "confirmed": 1079,
       "deceased": 1,
-      "recovered": 433,
-      "tested": 43972
+      "recovered": 433
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 10832,
+      "confirmed": 10945,
       "deceased": 303,
       "migrated": 2,
       "recovered": 6753,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T22:02:46+05:30",
+      "last_updated": "2020-06-14T22:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 332462,
+      "confirmed": 332575,
       "deceased": 9502,
       "migrated": 39,
       "recovered": 169080,
@@ -6702,17 +6691,12 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T22:02:47+05:30",
-      "tested": {
-        "last_updated": "2020-06-12",
-        "source": "https://t.me/indiacovid/7094?single"
-      }
+      "last_updated": "2020-06-14T22:08:48+05:30"
     },
     "total": {
       "confirmed": 13615,
       "deceased": 399,
-      "recovered": 8268,
-      "tested": 435601
+      "recovered": 8268
     }
   },
   "UT": {
@@ -6720,8 +6704,7 @@
       "confirmed": 34,
       "deceased": 1,
       "migrated": 1,
-      "recovered": 34,
-      "tested": 1304
+      "recovered": 34
     },
     "districts": {
       "Almora": {
@@ -6855,26 +6838,20 @@
     },
     "meta": {
       "last_updated": "2020-06-14T21:54:52+05:30",
-      "notes": "9 Migrated cases reduced from Active count",
-      "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/indiacovid/7209?single"
-      }
+      "notes": "9 Migrated cases reduced from Active count"
     },
     "total": {
       "confirmed": 1819,
       "deceased": 24,
       "migrated": 9,
-      "recovered": 1111,
-      "tested": 45344
+      "recovered": 1111
     }
   },
   "WB": {
     "delta": {
       "confirmed": 389,
       "deceased": 12,
-      "recovered": 518,
-      "tested": 9026
+      "recovered": 518
     },
     "districts": {
       "Alipurduar": {
@@ -7117,17 +7094,12 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:34:48+05:30",
-      "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_JUNE_REPORT_FINAL.pdf"
-      }
+      "last_updated": "2020-06-14T21:34:48+05:30"
     },
     "total": {
       "confirmed": 11087,
       "deceased": 475,
-      "recovered": 5060,
-      "tested": 333733
+      "recovered": 5060
     }
   }
 }
