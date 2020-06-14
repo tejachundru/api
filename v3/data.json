@@ -251,9 +251,12 @@
         }
       },
       "Biswanath": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 52,
-          "recovered": 7
+          "recovered": 16
         }
       },
       "Bongaigaon": {
@@ -302,9 +305,12 @@
         }
       },
       "Dima Hasao": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 88,
-          "recovered": 7
+          "recovered": 9
         }
       },
       "Goalpara": {
@@ -314,9 +320,12 @@
         }
       },
       "Golaghat": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 232,
-          "recovered": 87
+          "recovered": 88
         }
       },
       "Hailakandi": {
@@ -344,8 +353,11 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 545,
+          "confirmed": 552,
           "deceased": 4,
           "recovered": 339
         }
@@ -357,9 +369,12 @@
         }
       },
       "Karimganj": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 83,
-          "recovered": 16
+          "recovered": 20
         }
       },
       "Kokrajhar": {
@@ -375,14 +390,20 @@
         }
       },
       "Majuli": {
+        "delta": {
+          "confirmed": 9
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 16
         }
       },
       "Morigaon": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 49,
-          "recovered": 19
+          "recovered": 28
         }
       },
       "Nagaon": {
@@ -404,8 +425,12 @@
         }
       },
       "Sivasagar": {
+        "delta": {
+          "recovered": 26
+        },
         "total": {
-          "confirmed": 27
+          "confirmed": 27,
+          "recovered": 26
         }
       },
       "Sonitpur": {
@@ -433,11 +458,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": -16,
+          "recovered": -51
+        },
         "total": {
-          "confirmed": 749,
+          "confirmed": 733,
           "deceased": 3,
           "migrated": 3,
-          "recovered": 985
+          "recovered": 934
         }
       },
       "West Karbi Anglong": {
