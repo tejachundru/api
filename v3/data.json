@@ -296,7 +296,7 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 43,
+      "confirmed": 149,
       "recovered": 155
     },
     "districts": {
@@ -314,8 +314,11 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "confirmed": 10
+        },
         "total": {
-          "confirmed": 108,
+          "confirmed": 118,
           "recovered": 55
         }
       },
@@ -338,8 +341,11 @@
         }
       },
       "Cachar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 90,
+          "confirmed": 91,
           "recovered": 82
         }
       },
@@ -357,16 +363,19 @@
         }
       },
       "Darrang": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 89
+          "confirmed": 102
         }
       },
       "Dhemaji": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         },
         "total": {
-          "confirmed": 74,
+          "confirmed": 75,
           "recovered": 6
         }
       },
@@ -430,10 +439,10 @@
       },
       "Kamrup": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 54
         },
         "total": {
-          "confirmed": 159,
+          "confirmed": 203,
           "recovered": 21
         }
       },
@@ -458,10 +467,11 @@
       },
       "Karimganj": {
         "delta": {
+          "confirmed": 3,
           "recovered": 4
         },
         "total": {
-          "confirmed": 83,
+          "confirmed": 86,
           "recovered": 20
         }
       },
@@ -472,8 +482,11 @@
         }
       },
       "Lakhimpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 76,
+          "confirmed": 78,
           "recovered": 6
         }
       },
@@ -496,10 +509,10 @@
       },
       "Nagaon": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 46
         },
         "total": {
-          "confirmed": 228,
+          "confirmed": 260,
           "recovered": 25
         }
       },
@@ -567,7 +580,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:44:57+05:30",
+      "last_updated": "2020-06-14T20:02:48+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -575,7 +588,7 @@
       }
     },
     "total": {
-      "confirmed": 3944,
+      "confirmed": 4050,
       "deceased": 8,
       "migrated": 3,
       "recovered": 1961,
@@ -4249,7 +4262,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:04:59+05:30",
+      "last_updated": "2020-06-14T20:00:49+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2013-06-2020.pdf"
@@ -5421,21 +5434,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2929,
+      "confirmed": 3035,
       "deceased": 55,
       "migrated": 1,
       "recovered": 2505,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T19:44:46+05:30",
+      "last_updated": "2020-06-14T20:02:45+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 324559,
+      "confirmed": 324665,
       "deceased": 9254,
       "migrated": 38,
       "recovered": 164832,
