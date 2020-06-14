@@ -1225,26 +1225,26 @@
 			"totalrecovered": "162327"
 		},
 		{
-			"dailyconfirmed": "11340",
+			"dailyconfirmed": "11377",
 			"dailydeceased": "321",
-			"dailyrecovered": "7273",
+			"dailyrecovered": "7362",
 			"date": "14 June ",
-			"totalconfirmed": "332974",
+			"totalconfirmed": "333011",
 			"totaldeceased": "9519",
-			"totalrecovered": "169600"
+			"totalrecovered": "169689"
 		}
 	],
 	"statewise": [
 		{
-			"active": "153811",
-			"confirmed": "332970",
+			"active": "153759",
+			"confirmed": "333007",
 			"deaths": "9520",
-			"deltaconfirmed": "11340",
+			"deltaconfirmed": "11377",
 			"deltadeaths": "321",
-			"deltarecovered": "7273",
-			"lastupdatedtime": "15/06/2020 00:42:46",
+			"deltarecovered": "7362",
+			"lastupdatedtime": "15/06/2020 00:52:46",
 			"migratedother": "39",
-			"recovered": "169600",
+			"recovered": "169689",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1480,7 +1480,7 @@
 			"deltaconfirmed": "218",
 			"deltadeaths": "0",
 			"deltarecovered": "155",
-			"lastupdatedtime": "15/06/2020 00:42:48",
+			"lastupdatedtime": "15/06/2020 00:50:48",
 			"migratedother": "3",
 			"recovered": "1961",
 			"state": "Assam",
@@ -1530,15 +1530,15 @@
 			"statenotes": "9 Migrated cases reduced from Active count"
 		},
 		{
-			"active": "887",
-			"confirmed": "1711",
+			"active": "835",
+			"confirmed": "1748",
 			"deaths": "8",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "37",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/06/2020 22:23:49",
+			"deltarecovered": "89",
+			"lastupdatedtime": "15/06/2020 00:52:47",
 			"migratedother": "0",
-			"recovered": "816",
+			"recovered": "905",
 			"state": "Jharkhand",
 			"statecode": "JH",
 			"statenotes": ""

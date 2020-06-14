@@ -2977,24 +2977,24 @@
     "districtData": {
       "Bokaro": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 29,
         "deceased": 2,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Chatra": {
         "notes": "",
-        "active": 17,
-        "confirmed": 35,
+        "active": 18,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3013,14 +3013,14 @@
       },
       "Dhanbad": {
         "notes": "",
-        "active": 33,
+        "active": 18,
         "confirmed": 114,
         "deceased": 0,
-        "recovered": 81,
+        "recovered": 96,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       "Dumka": {
@@ -3037,12 +3037,12 @@
       },
       "East Singhbhum": {
         "notes": "",
-        "active": 178,
-        "confirmed": 230,
+        "active": 188,
+        "confirmed": 240,
         "deceased": 0,
         "recovered": 52,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -3061,14 +3061,14 @@
       },
       "Giridih": {
         "notes": "",
-        "active": 21,
+        "active": 8,
         "confirmed": 53,
         "deceased": 1,
-        "recovered": 31,
+        "recovered": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       "Godda": {
@@ -3085,26 +3085,26 @@
       },
       "Gumla": {
         "notes": "",
-        "active": 59,
-        "confirmed": 88,
+        "active": 49,
+        "confirmed": 89,
         "deceased": 0,
-        "recovered": 29,
+        "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "Hazaribagh": {
         "notes": "",
-        "active": 21,
-        "confirmed": 132,
+        "active": 18,
+        "confirmed": 133,
         "deceased": 0,
-        "recovered": 111,
+        "recovered": 115,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Jamtara": {
@@ -3157,14 +3157,14 @@
       },
       "Lohardaga": {
         "notes": "",
-        "active": 19,
+        "active": 11,
         "confirmed": 37,
         "deceased": 0,
-        "recovered": 18,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Pakur": {
@@ -3205,14 +3205,14 @@
       },
       "Ranchi": {
         "notes": "",
-        "active": 32,
-        "confirmed": 165,
+        "active": 39,
+        "confirmed": 174,
         "deceased": 4,
-        "recovered": 129,
+        "recovered": 131,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Sahibganj": {
@@ -3229,38 +3229,38 @@
       },
       "Saraikela-Kharsawan": {
         "notes": "",
-        "active": 28,
+        "active": 23,
         "confirmed": 36,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Simdega": {
         "notes": "",
-        "active": 162,
-        "confirmed": 232,
+        "active": 147,
+        "confirmed": 246,
         "deceased": 0,
-        "recovered": 70,
+        "recovered": 99,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 29
         }
       },
       "West Singhbhum": {
         "notes": "",
         "active": 40,
-        "confirmed": 46,
+        "confirmed": 47,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
