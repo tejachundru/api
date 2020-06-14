@@ -952,11 +952,6 @@
           "recovered": 46
         }
       },
-      "Rayagada": {
-        "total": {
-          "recovered": 9
-        }
-      },
       "Surajpur": {
         "total": {
           "confirmed": 14,
@@ -982,7 +977,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T00:24:48+05:30",
+      "last_updated": "2020-06-14T13:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
@@ -991,7 +986,7 @@
     "total": {
       "confirmed": 1550,
       "deceased": 6,
-      "recovered": 631,
+      "recovered": 622,
       "tested": 101554
     }
   },
@@ -4755,7 +4750,7 @@
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T12:54:46+05:30",
+      "last_updated": "2020-06-14T13:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
@@ -4765,7 +4760,7 @@
       "confirmed": 322006,
       "deceased": 9204,
       "migrated": 37,
-      "recovered": 162439,
+      "recovered": 162430,
       "tested": 5658614
     }
   },

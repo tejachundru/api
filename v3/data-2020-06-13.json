@@ -993,7 +993,7 @@
   "CT": {
     "delta": {
       "confirmed": 105,
-      "recovered": 87,
+      "recovered": 78,
       "tested": 2951
     },
     "districts": {
@@ -1197,14 +1197,6 @@
           "recovered": 46
         }
       },
-      "Rayagada": {
-        "delta": {
-          "recovered": 9
-        },
-        "total": {
-          "recovered": 9
-        }
-      },
       "Surajpur": {
         "total": {
           "confirmed": 14,
@@ -1241,7 +1233,7 @@
     "total": {
       "confirmed": 1550,
       "deceased": 6,
-      "recovered": 631,
+      "recovered": 622,
       "tested": 101554
     }
   },
@@ -6084,7 +6076,7 @@
       "confirmed": 12032,
       "deceased": 309,
       "migrated": 14,
-      "recovered": 8091,
+      "recovered": 8082,
       "tested": 143737
     },
     "meta": {
@@ -6097,7 +6089,7 @@
       "confirmed": 321627,
       "deceased": 9199,
       "migrated": 37,
-      "recovered": 162326,
+      "recovered": 162317,
       "tested": 5507182
     }
   },
