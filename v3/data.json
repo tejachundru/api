@@ -972,7 +972,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T13:42:48+05:30",
+      "last_updated": "2020-06-14T13:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
@@ -1476,7 +1476,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T13:42:49+05:30",
+      "last_updated": "2020-06-14T13:52:50+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -1492,17 +1492,27 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 220,
+      "recovered": 12
+    },
     "districts": {
       "Ambala": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 168,
           "deceased": 3,
-          "recovered": 65
+          "recovered": 70
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 100,
+          "confirmed": 107,
           "recovered": 50
         }
       },
@@ -1514,8 +1524,11 @@
         }
       },
       "Faridabad": {
+        "delta": {
+          "confirmed": 125
+        },
         "total": {
-          "confirmed": 1086,
+          "confirmed": 1211,
           "deceased": 28,
           "recovered": 348
         }
@@ -1533,8 +1546,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 65
+        },
         "total": {
-          "confirmed": 3125,
+          "confirmed": 3190,
           "deceased": 25,
           "recovered": 1161
         }
@@ -1553,14 +1569,21 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 126,
-          "recovered": 100
+          "confirmed": 130,
+          "recovered": 104
         }
       },
       "Jind": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 69,
+          "confirmed": 71,
           "deceased": 3,
           "recovered": 26
         }
@@ -1597,8 +1620,11 @@
         }
       },
       "Palwal": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 185,
+          "confirmed": 196,
           "deceased": 1,
           "recovered": 79
         }
@@ -1630,8 +1656,11 @@
         }
       },
       "Sirsa": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 68,
+          "confirmed": 70,
           "recovered": 42
         }
       },
@@ -1643,23 +1672,27 @@
         }
       },
       "Yamunanagar": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 41,
-          "recovered": 17
+          "confirmed": 45,
+          "recovered": 20
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T21:23:47+05:30",
+      "last_updated": "2020-06-14T13:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-12.pdf"
       }
     },
     "total": {
-      "confirmed": 6749,
+      "confirmed": 6969,
       "deceased": 78,
-      "recovered": 2803,
+      "recovered": 2815,
       "tested": 171560
     }
   },
@@ -2359,6 +2392,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 16424
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2617,8 +2653,8 @@
       "last_updated": "2020-06-13T22:43:48+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://twitter.com/Maha_MEDD/status/1271674157898567680?s=19"
+        "last_updated": "2020-06-14",
+        "source": "https://twitter.com/Maha_MEDD/status/1272043816237711368?s=19"
       }
     },
     "total": {
@@ -2626,7 +2662,7 @@
       "deceased": 3830,
       "migrated": 13,
       "recovered": 49346,
-      "tested": 643057
+      "tested": 659481
     }
   },
   "ML": {
@@ -3595,7 +3631,8 @@
       "last_updated": "2020-06-14T10:53:51+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-14"
+        "last_updated": "2020-06-14",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/449?single"
       }
     },
     "total": {
@@ -4751,23 +4788,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 382,
+      "confirmed": 602,
       "deceased": 5,
-      "recovered": 113,
+      "recovered": 125,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T13:42:46+05:30",
+      "last_updated": "2020-06-14T13:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 322012,
+      "confirmed": 322232,
       "deceased": 9204,
       "migrated": 37,
-      "recovered": 162439,
+      "recovered": 162451,
       "tested": 5658614
     }
   },
