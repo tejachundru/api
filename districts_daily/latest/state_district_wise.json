@@ -1036,12 +1036,12 @@
       },
       "Aurangabad": {
         "notes": "",
-        "active": 48,
-        "confirmed": 123,
+        "active": 47,
+        "confirmed": 122,
         "deceased": 1,
         "recovered": 74,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 7
         }
@@ -1072,24 +1072,24 @@
       },
       "Bhagalpur": {
         "notes": "",
-        "active": 127,
-        "confirmed": 325,
+        "active": 126,
+        "confirmed": 324,
         "deceased": 1,
         "recovered": 197,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 15
         }
       },
       "Bhojpur": {
         "notes": "",
-        "active": 70,
-        "confirmed": 147,
+        "active": 68,
+        "confirmed": 145,
         "deceased": 2,
         "recovered": 75,
         "delta": {
-          "confirmed": 1,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1108,12 +1108,12 @@
       },
       "Darbhanga": {
         "notes": "",
-        "active": 41,
-        "confirmed": 148,
+        "active": 42,
+        "confirmed": 149,
         "deceased": 2,
         "recovered": 105,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1168,12 +1168,12 @@
       },
       "Jehanabad": {
         "notes": "",
-        "active": 25,
-        "confirmed": 188,
+        "active": 24,
+        "confirmed": 187,
         "deceased": 2,
         "recovered": 161,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 11
         }
@@ -1300,24 +1300,24 @@
       },
       "Nawada": {
         "notes": "",
-        "active": 59,
-        "confirmed": 181,
+        "active": 54,
+        "confirmed": 176,
         "deceased": 1,
         "recovered": 121,
         "delta": {
-          "confirmed": 1,
+          "confirmed": -4,
           "deceased": 0,
           "recovered": 2
         }
       },
       "Patna": {
         "notes": "",
-        "active": 116,
-        "confirmed": 318,
+        "active": 122,
+        "confirmed": 324,
         "deceased": 2,
         "recovered": 200,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 2
         }
@@ -1420,12 +1420,12 @@
       },
       "Siwan": {
         "notes": "",
-        "active": 114,
-        "confirmed": 230,
+        "active": 117,
+        "confirmed": 233,
         "deceased": 2,
         "recovered": 114,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 46
         }
@@ -6503,38 +6503,38 @@
     "districtData": {
       "Karaikal": {
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mahe": {
         "notes": "",
-        "active": 3,
-        "confirmed": 8,
+        "active": 4,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Puducherry": {
         "notes": "",
-        "active": 87,
-        "confirmed": 165,
+        "active": 94,
+        "confirmed": 181,
         "deceased": 3,
-        "recovered": 75,
+        "recovered": 84,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Yanam": {
