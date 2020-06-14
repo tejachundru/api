@@ -1560,7 +1560,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 12
+      "confirmed": 12,
+      "recovered": 1
     },
     "districts": {
       "Bilaspur": {
@@ -1643,11 +1644,12 @@
       },
       "Una": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 1
         },
         "total": {
           "confirmed": 64,
-          "recovered": 36
+          "recovered": 37
         }
       },
       "Unknown": {
@@ -1657,7 +1659,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T17:44:48+05:30",
+      "last_updated": "2020-06-14T17:52:48+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -1668,7 +1670,7 @@
       "confirmed": 514,
       "deceased": 7,
       "migrated": 10,
-      "recovered": 308,
+      "recovered": 309,
       "tested": 52737
     }
   },
@@ -5036,11 +5038,11 @@
       "confirmed": 1153,
       "deceased": 7,
       "migrated": 1,
-      "recovered": 693,
+      "recovered": 694,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T17:44:46+05:30",
+      "last_updated": "2020-06-14T17:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
@@ -5050,7 +5052,7 @@
       "confirmed": 322783,
       "deceased": 9206,
       "migrated": 38,
-      "recovered": 163019,
+      "recovered": 163020,
       "tested": 5658614
     }
   },
