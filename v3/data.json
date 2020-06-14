@@ -2630,6 +2630,10 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 5,
+      "recovered": 16
+    },
     "districts": {
       "Bishnupur": {
         "total": {
@@ -2716,22 +2720,26 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 16
+        },
         "total": {
-          "confirmed": 95,
-          "recovered": 42
+          "confirmed": 100,
+          "recovered": 58
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T20:55:54+05:30",
+      "last_updated": "2020-06-14T08:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/DiprManipur/status/1271819573054943232"
       }
     },
     "total": {
-      "confirmed": 449,
-      "recovered": 73,
+      "confirmed": 454,
+      "recovered": 89,
       "tested": 24046
     }
   },
@@ -3154,7 +3162,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T08:22:48+05:30",
+      "last_updated": "2020-06-14T08:32:55+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1262020-500pm-1362020-500-pm"
@@ -4532,20 +4540,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 10,
+      "recovered": 16
     },
     "meta": {
-      "last_updated": "2020-06-14T08:22:46+05:30",
+      "last_updated": "2020-06-14T08:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
       }
     },
     "total": {
-      "confirmed": 321632,
+      "confirmed": 321637,
       "deceased": 9199,
       "migrated": 37,
-      "recovered": 162326,
+      "recovered": 162342,
       "tested": 5507182
     }
   },
