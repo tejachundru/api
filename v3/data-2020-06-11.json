@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "tested": 216
     },
     "districts": {
       "North and Middle Andaman": {
@@ -27,14 +28,14 @@
     },
     "meta": {
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://dhs.andaman.gov.in/NewEvents/291.pdf"
+        "last_updated": "2020-06-11",
+        "source": "https://dhs.andaman.gov.in/NewEvents/292.pdf"
       }
     },
     "total": {
       "confirmed": 38,
       "recovered": 33,
-      "tested": 10010
+      "tested": 10226
     }
   },
   "AP": {

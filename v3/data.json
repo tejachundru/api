@@ -28,14 +28,14 @@
     "meta": {
       "last_updated": "2020-06-14T21:05:49+05:30",
       "tested": {
-        "last_updated": "2020-06-10",
-        "source": "https://dhs.andaman.gov.in/NewEvents/291.pdf"
+        "last_updated": "2020-06-12",
+        "source": "https://dhs.andaman.gov.in/NewEvents/293.pdf"
       }
     },
     "total": {
       "confirmed": 40,
       "recovered": 33,
-      "tested": 10010
+      "tested": 10697
     }
   },
   "AP": {
@@ -223,9 +223,20 @@
       "recovered": 1
     },
     "districts": {
-      "Changlang": {
+      "Capital Complex": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 59
+          "confirmed": 7
+        }
+      },
+      "Changlang": {
+        "delta": {
+          "confirmed": -4
+        },
+        "total": {
+          "confirmed": 55
         }
       },
       "East Siang": {
@@ -276,14 +287,6 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 3
-        },
-        "total": {
-          "confirmed": 3
-        }
-      },
       "Upper Siang": {
         "delta": {
           "recovered": 1
@@ -305,7 +308,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T22:52:48+05:30",
+      "last_updated": "2020-06-14T23:02:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/447"
@@ -6101,7 +6104,7 @@
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T22:52:46+05:30",
+      "last_updated": "2020-06-14T23:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"

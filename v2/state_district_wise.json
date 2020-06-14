@@ -310,12 +310,12 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 59,
-        "confirmed": 59,
+        "active": 55,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -4,
           "deceased": 0,
           "recovered": 0
         }
@@ -622,8 +622,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
