@@ -2445,12 +2445,20 @@
           "recovered": 584
         }
       },
-      "Uttara Kannada": {
+      "Uttar Kannada": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 1
         },
         "total": {
-          "confirmed": 114,
+          "confirmed": 1
+        }
+      },
+      "Uttara Kannada": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 113,
           "recovered": 85
         }
       },
@@ -2476,7 +2484,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T18:52:52+05:30",
+      "last_updated": "2020-06-14T19:01:50+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
         "last_updated": "2020-06-13",
@@ -5170,7 +5178,7 @@
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T18:52:46+05:30",
+      "last_updated": "2020-06-14T19:01:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
@@ -5189,7 +5197,7 @@
       "confirmed": -548
     },
     "meta": {
-      "last_updated": "2020-06-14T18:52:48+05:30",
+      "last_updated": "2020-06-14T19:01:48+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 548 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day."
     },
     "total": {

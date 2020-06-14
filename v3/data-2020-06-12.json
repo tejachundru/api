@@ -6943,9 +6943,12 @@
         }
       },
       "Pauri Garhwal": {
+        "delta": {
+          "deceased": 2
+        },
         "total": {
           "confirmed": 53,
-          "deceased": 1,
+          "deceased": 3,
           "recovered": 28
         }
       },
@@ -6984,11 +6987,8 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "deceased": 2
-        },
         "total": {
-          "deceased": 3,
+          "deceased": 1,
           "migrated": 1
         }
       },
