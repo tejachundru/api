@@ -567,7 +567,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:36:51+05:30",
+      "last_updated": "2020-06-14T19:41:50+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -957,7 +957,8 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 98
     },
     "districts": {
       "Chandigarh": {
@@ -979,15 +980,14 @@
     "meta": {
       "last_updated": "2020-06-14T19:35:59+05:30",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/438"
+        "last_updated": "2020-06-14"
       }
     },
     "total": {
       "confirmed": 352,
       "deceased": 5,
       "recovered": 295,
-      "tested": 5839
+      "tested": 5937
     }
   },
   "CT": {
@@ -2219,7 +2219,8 @@
     "delta": {
       "confirmed": 176,
       "deceased": 5,
-      "recovered": 312
+      "recovered": 312,
+      "tested": 7451
     },
     "districts": {
       "Bagalkote": {
@@ -2515,11 +2516,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:36:49+05:30",
+      "last_updated": "2020-06-14T19:41:48+05:30",
       "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/13-06-2020%20HMB%20English.pdf"
+        "last_updated": "2020-06-14",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/14-06-2020%20HMB%20English.pdf"
       }
     },
     "total": {
@@ -2527,7 +2528,7 @@
       "deceased": 87,
       "migrated": 2,
       "recovered": 3960,
-      "tested": 436518
+      "tested": 443969
     }
   },
   "KL": {
@@ -3201,7 +3202,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T10:09:48+05:30",
+      "last_updated": "2020-06-14T19:39:55+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/DiprManipur/status/1271819573054943232"
@@ -5336,7 +5337,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:36:53+05:30",
+      "last_updated": "2020-06-14T19:41:53+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/444"
@@ -5358,7 +5359,7 @@
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T19:36:46+05:30",
+      "last_updated": "2020-06-14T19:41:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
