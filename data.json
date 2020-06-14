@@ -1227,15 +1227,15 @@
 	],
 	"statewise": [
 		{
-			"active": "150250",
-			"confirmed": "321832",
-			"deaths": "9200",
-			"deltaconfirmed": "205",
-			"deltadeaths": "1",
-			"deltarecovered": "19",
-			"lastupdatedtime": "14/06/2020 10:42:47",
+			"active": "150283",
+			"confirmed": "321963",
+			"deaths": "9204",
+			"deltaconfirmed": "336",
+			"deltadeaths": "5",
+			"deltarecovered": "113",
+			"lastupdatedtime": "14/06/2020 10:52:46",
 			"migratedother": "37",
-			"recovered": "162345",
+			"recovered": "162439",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1311,15 +1311,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2782",
-			"confirmed": "12401",
-			"deaths": "282",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/06/2020 22:43:50",
+			"active": "2815",
+			"confirmed": "12532",
+			"deaths": "286",
+			"deltaconfirmed": "131",
+			"deltadeaths": "4",
+			"deltarecovered": "94",
+			"lastupdatedtime": "14/06/2020 10:52:47",
 			"migratedother": "0",
-			"recovered": "9337",
+			"recovered": "9431",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1457,7 +1457,7 @@
 			"deltaconfirmed": "186",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/06/2020 10:42:54",
+			"lastupdatedtime": "14/06/2020 10:52:49",
 			"migratedother": "0",
 			"recovered": "2594",
 			"state": "Odisha",
@@ -3089,6 +3089,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "5507182",
 			"updatetimestamp": "13/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "151432",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/448",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "5658614",
+			"updatetimestamp": "14/06/2020 09:00:00"
 		}
 	]
 }
