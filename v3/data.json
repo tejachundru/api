@@ -964,11 +964,6 @@
           "recovered": 9
         }
       },
-      "Unknown": {
-        "total": {
-          "recovered": -9
-        }
-      },
       "Uttar Bastar Kanker": {
         "total": {
           "confirmed": 26,
@@ -977,7 +972,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T13:34:48+05:30",
+      "last_updated": "2020-06-14T13:42:48+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://twitter.com/HealthCgGov/status/1271816685092208641"
@@ -986,7 +981,7 @@
     "total": {
       "confirmed": 1550,
       "deceased": 6,
-      "recovered": 622,
+      "recovered": 631,
       "tested": 101554
     }
   },
@@ -1386,6 +1381,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 6
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -1394,8 +1392,11 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 35,
+          "confirmed": 36,
           "recovered": 27
         }
       },
@@ -1432,8 +1433,11 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 20,
           "deceased": 2,
           "recovered": 9
         }
@@ -1446,16 +1450,22 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 40,
           "deceased": 1,
           "migrated": 3,
           "recovered": 25
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 61,
+          "confirmed": 64,
           "recovered": 36
         }
       },
@@ -1466,7 +1476,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-13T22:14:25+05:30",
+      "last_updated": "2020-06-14T13:42:49+05:30",
       "notes": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
         "last_updated": "2020-06-13",
@@ -1474,7 +1484,7 @@
       }
     },
     "total": {
-      "confirmed": 502,
+      "confirmed": 508,
       "deceased": 7,
       "migrated": 10,
       "recovered": 308,
@@ -3163,13 +3173,10 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 2
     },
     "districts": {
       "Aizawl": {
-        "delta": {
-          "confirmed": 3
-        },
         "total": {
           "confirmed": 28,
           "recovered": 1
@@ -4744,23 +4751,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 379,
+      "confirmed": 382,
       "deceased": 5,
       "recovered": 113,
       "tested": 151432
     },
     "meta": {
-      "last_updated": "2020-06-14T13:34:46+05:30",
+      "last_updated": "2020-06-14T13:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 322006,
+      "confirmed": 322012,
       "deceased": 9204,
       "migrated": 37,
-      "recovered": 162430,
+      "recovered": 162439,
       "tested": 5658614
     }
   },

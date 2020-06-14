@@ -1823,18 +1823,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 9,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": -9,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     },
     "statecode": "CT"
@@ -2511,12 +2499,12 @@
       },
       "Chamba": {
         "notes": "",
-        "active": 8,
-        "confirmed": 35,
+        "active": 9,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2595,12 +2583,12 @@
       },
       "Shimla": {
         "notes": "",
-        "active": 8,
-        "confirmed": 19,
+        "active": 9,
+        "confirmed": 20,
         "deceased": 2,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2619,24 +2607,24 @@
       },
       "Solan": {
         "notes": "",
-        "active": 10,
-        "confirmed": 39,
+        "active": 11,
+        "confirmed": 40,
         "deceased": 1,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Una": {
         "notes": "",
-        "active": 25,
-        "confirmed": 61,
+        "active": 28,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 36,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -5564,7 +5552,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }

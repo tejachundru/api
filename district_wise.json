@@ -3583,11 +3583,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "8",
-			"confirmed": "35",
+			"active": "9",
+			"confirmed": "36",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Chamba",
@@ -3709,11 +3709,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "8",
-			"confirmed": "19",
+			"active": "9",
+			"confirmed": "20",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Shimla",
@@ -3745,11 +3745,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "10",
-			"confirmed": "39",
+			"active": "11",
+			"confirmed": "40",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Solan",
@@ -3763,11 +3763,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "25",
-			"confirmed": "61",
+			"active": "28",
+			"confirmed": "64",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Una",
@@ -8032,8 +8032,8 @@
 			"active": "27",
 			"confirmed": "28",
 			"deceased": "0",
-			"deltaactive": "3",
-			"deltaconfirmed": "3",
+			"deltaactive": "0",
+			"deltaconfirmed": "0",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Aizawl",
@@ -13807,7 +13807,7 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "9",
+			"active": "0",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -13819,7 +13819,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "-9",
+			"recovered": "0",
 			"slno": "734",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
