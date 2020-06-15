@@ -195,7 +195,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T13:43:47+05:30",
+      "last_updated": "2020-06-15T13:52:49+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-14",
@@ -1529,6 +1529,9 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 119
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1538,8 +1541,11 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 20
+        },
         "total": {
-          "confirmed": 107,
+          "confirmed": 127,
           "recovered": 50
         }
       },
@@ -1558,8 +1564,11 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 65,
+          "confirmed": 67,
           "recovered": 31
         }
       },
@@ -1570,8 +1579,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 68
+        },
         "total": {
-          "confirmed": 3294,
+          "confirmed": 3362,
           "deceased": 31,
           "recovered": 1265
         }
@@ -1590,8 +1602,11 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 132,
+          "confirmed": 135,
           "deceased": 1,
           "recovered": 104
         }
@@ -1610,8 +1625,11 @@
         }
       },
       "Karnal": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 128,
+          "confirmed": 143,
           "deceased": 2,
           "recovered": 47
         }
@@ -1648,8 +1666,11 @@
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 94,
+          "confirmed": 97,
           "deceased": 5,
           "recovered": 65
         }
@@ -1661,15 +1682,21 @@
         }
       },
       "Rohtak": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 300,
+          "confirmed": 307,
           "deceased": 6,
           "recovered": 128
         }
       },
       "Sirsa": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 70,
+          "confirmed": 71,
           "recovered": 42
         }
       },
@@ -1688,14 +1715,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:23:52+05:30",
+      "last_updated": "2020-06-15T13:52:47+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-06-2020%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 7208,
+      "confirmed": 7327,
       "deceased": 88,
       "recovered": 3003,
       "tested": 185722
@@ -4746,20 +4773,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 124,
+      "confirmed": 243,
       "deceased": 5,
       "recovered": 134,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T13:43:46+05:30",
+      "last_updated": "2020-06-15T13:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 333136,
+      "confirmed": 333255,
       "deceased": 9524,
       "migrated": 40,
       "recovered": 169817,
