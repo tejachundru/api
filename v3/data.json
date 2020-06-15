@@ -319,8 +319,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 40,
-      "recovered": 396,
+      "confirmed": 191,
+      "recovered": 245,
       "tested": 28998
     },
     "districts": {
@@ -543,13 +543,14 @@
       },
       "Unknown": {
         "delta": {
-          "recovered": 396
+          "confirmed": 151,
+          "recovered": 245
         },
         "total": {
-          "confirmed": 733,
+          "confirmed": 884,
           "deceased": 3,
           "migrated": 3,
-          "recovered": 1485
+          "recovered": 1334
         }
       },
       "West Karbi Anglong": {
@@ -559,7 +560,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T00:23:50+05:30",
+      "last_updated": "2020-06-16T00:35:50+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-15",
@@ -567,10 +568,10 @@
       }
     },
     "total": {
-      "confirmed": 4159,
+      "confirmed": 4310,
       "deceased": 8,
       "migrated": 3,
-      "recovered": 2357,
+      "recovered": 2206,
       "tested": 217088
     }
   },
@@ -2326,7 +2327,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T00:23:53+05:30",
+      "last_updated": "2020-06-16T00:31:57+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/FOBGumla/status/1272579760363761665?s=09"
@@ -5999,24 +6000,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9863,
+      "confirmed": 10014,
       "deceased": 396,
       "migrated": 3,
-      "recovered": 10788,
+      "recovered": 10637,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-16T00:23:47+05:30",
+      "last_updated": "2020-06-16T00:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 342875,
+      "confirmed": 343026,
       "deceased": 9915,
-      "migrated": 43,
-      "recovered": 180471,
+      "migrated": 44,
+      "recovered": 180320,
       "tested": 5774133
     }
   },
@@ -6949,7 +6950,7 @@
       },
       "Unknown": {
         "total": {
-          "migrated": 1
+          "migrated": 2
         }
       },
       "Uttarkashi": {
@@ -6963,8 +6964,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T21:55:01+05:30",
-      "notes": "12 Migrated cases reduced from Active count",
+      "last_updated": "2020-06-16T00:35:56+05:30",
+      "notes": "13 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-15"
       }
@@ -6972,7 +6973,7 @@
     "total": {
       "confirmed": 1845,
       "deceased": 24,
-      "migrated": 12,
+      "migrated": 13,
       "recovered": 1189,
       "tested": 46573
     }

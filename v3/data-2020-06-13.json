@@ -6093,7 +6093,7 @@
     "delta": {
       "confirmed": 12039,
       "deceased": 309,
-      "migrated": 14,
+      "migrated": 15,
       "recovered": 8092,
       "tested": 143737
     },
@@ -6106,7 +6106,7 @@
     "total": {
       "confirmed": 321634,
       "deceased": 9198,
-      "migrated": 38,
+      "migrated": 39,
       "recovered": 162327,
       "tested": 5507182
     }
@@ -6900,7 +6900,7 @@
     "delta": {
       "confirmed": 61,
       "deceased": 2,
-      "migrated": 1,
+      "migrated": 2,
       "recovered": 130,
       "tested": 1257
     },
@@ -7018,8 +7018,10 @@
       },
       "Unknown": {
         "delta": {
-          "deceased": -1,
-          "migrated": -1
+          "deceased": -1
+        },
+        "total": {
+          "migrated": 1
         }
       },
       "Uttarkashi": {
@@ -7041,7 +7043,7 @@
     "total": {
       "confirmed": 1785,
       "deceased": 23,
-      "migrated": 8,
+      "migrated": 9,
       "recovered": 1077,
       "tested": 44040
     }

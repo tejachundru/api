@@ -1234,26 +1234,26 @@
 			"totalrecovered": "169683"
 		},
 		{
-			"dailyconfirmed": "9863",
+			"dailyconfirmed": "10014",
 			"dailydeceased": "396",
-			"dailyrecovered": "10788",
+			"dailyrecovered": "10637",
 			"date": "15 June ",
-			"totalconfirmed": "342879",
+			"totalconfirmed": "343030",
 			"totaldeceased": "9915",
-			"totalrecovered": "180471"
+			"totalrecovered": "180320"
 		}
 	],
 	"statewise": [
 		{
-			"active": "152445",
-			"confirmed": "342875",
+			"active": "152746",
+			"confirmed": "343026",
 			"deaths": "9916",
-			"deltaconfirmed": "9863",
+			"deltaconfirmed": "10014",
 			"deltadeaths": "396",
-			"deltarecovered": "10788",
-			"lastupdatedtime": "16/06/2020 00:23:47",
-			"migratedother": "43",
-			"recovered": "180471",
+			"deltarecovered": "10637",
+			"lastupdatedtime": "16/06/2020 00:35:46",
+			"migratedother": "44",
+			"recovered": "180320",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1483,15 +1483,15 @@
 			"statenotes": "Three non-covid deaths reported in state dashboard are included in the deceased count"
 		},
 		{
-			"active": "1791",
-			"confirmed": "4159",
+			"active": "2093",
+			"confirmed": "4310",
 			"deaths": "8",
-			"deltaconfirmed": "40",
+			"deltaconfirmed": "191",
 			"deltadeaths": "0",
-			"deltarecovered": "396",
-			"lastupdatedtime": "16/06/2020 00:23:50",
+			"deltarecovered": "245",
+			"lastupdatedtime": "16/06/2020 00:35:50",
 			"migratedother": "3",
-			"recovered": "2357",
+			"recovered": "2206",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count"
@@ -1525,18 +1525,18 @@
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
-			"active": "620",
+			"active": "619",
 			"confirmed": "1845",
 			"deaths": "24",
 			"deltaconfirmed": "26",
 			"deltadeaths": "0",
 			"deltarecovered": "78",
-			"lastupdatedtime": "15/06/2020 21:55:01",
-			"migratedother": "12",
+			"lastupdatedtime": "16/06/2020 00:35:56",
+			"migratedother": "13",
 			"recovered": "1189",
 			"state": "Uttarakhand",
 			"statecode": "UT",
-			"statenotes": "12 Migrated cases reduced from Active count"
+			"statenotes": "13 Migrated cases reduced from Active count"
 		},
 		{
 			"active": "769",
@@ -1545,7 +1545,7 @@
 			"deltaconfirmed": "30",
 			"deltadeaths": "1",
 			"deltarecovered": "95",
-			"lastupdatedtime": "16/06/2020 00:23:53",
+			"lastupdatedtime": "16/06/2020 00:31:57",
 			"migratedother": "0",
 			"recovered": "1000",
 			"state": "Jharkhand",
