@@ -1234,26 +1234,26 @@
 			"totalrecovered": "169683"
 		},
 		{
-			"dailyconfirmed": "9833",
-			"dailydeceased": "395",
-			"dailyrecovered": "10542",
+			"dailyconfirmed": "9863",
+			"dailydeceased": "396",
+			"dailyrecovered": "10788",
 			"date": "15 June ",
-			"totalconfirmed": "342849",
-			"totaldeceased": "9914",
-			"totalrecovered": "180225"
+			"totalconfirmed": "342879",
+			"totaldeceased": "9915",
+			"totalrecovered": "180471"
 		}
 	],
 	"statewise": [
 		{
-			"active": "152662",
-			"confirmed": "342845",
-			"deaths": "9915",
-			"deltaconfirmed": "9833",
-			"deltadeaths": "395",
-			"deltarecovered": "10542",
-			"lastupdatedtime": "15/06/2020 23:24:46",
+			"active": "152445",
+			"confirmed": "342875",
+			"deaths": "9916",
+			"deltaconfirmed": "9863",
+			"deltadeaths": "396",
+			"deltarecovered": "10788",
+			"lastupdatedtime": "16/06/2020 00:23:47",
 			"migratedother": "43",
-			"recovered": "180225",
+			"recovered": "180471",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1483,15 +1483,15 @@
 			"statenotes": "Three non-covid deaths reported in state dashboard are included in the deceased count"
 		},
 		{
-			"active": "1942",
+			"active": "1791",
 			"confirmed": "4159",
 			"deaths": "8",
 			"deltaconfirmed": "40",
 			"deltadeaths": "0",
-			"deltarecovered": "245",
-			"lastupdatedtime": "15/06/2020 20:38:49",
+			"deltarecovered": "396",
+			"lastupdatedtime": "16/06/2020 00:23:50",
 			"migratedother": "3",
-			"recovered": "2206",
+			"recovered": "2357",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count"
@@ -1539,15 +1539,15 @@
 			"statenotes": "12 Migrated cases reduced from Active count"
 		},
 		{
-			"active": "835",
-			"confirmed": "1748",
-			"deaths": "8",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/06/2020 00:56:48",
+			"active": "769",
+			"confirmed": "1778",
+			"deaths": "9",
+			"deltaconfirmed": "30",
+			"deltadeaths": "1",
+			"deltarecovered": "95",
+			"lastupdatedtime": "16/06/2020 00:23:53",
 			"migratedother": "0",
-			"recovered": "905",
+			"recovered": "1000",
 			"state": "Jharkhand",
 			"statecode": "JH",
 			"statenotes": ""
