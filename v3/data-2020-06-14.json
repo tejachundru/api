@@ -220,20 +220,9 @@
       "recovered": 1
     },
     "districts": {
-      "Capital Complex": {
-        "delta": {
-          "confirmed": 9
-        },
-        "total": {
-          "confirmed": 9
-        }
-      },
       "Changlang": {
-        "delta": {
-          "confirmed": -4
-        },
         "total": {
-          "confirmed": 55
+          "confirmed": 59
         }
       },
       "East Siang": {
@@ -242,11 +231,8 @@
         }
       },
       "Lohit": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 2,
           "recovered": 1
         }
       },
@@ -273,10 +259,10 @@
       },
       "Papum Pare": {
         "delta": {
-          "confirmed": -3
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 8,
           "recovered": 2
         }
       },
@@ -4296,8 +4282,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 5,
-      "recovered": 12,
+      "confirmed": 10,
+      "recovered": 4,
       "tested": 12
     },
     "districts": {
@@ -4363,11 +4349,12 @@
       },
       "Unknown": {
         "delta": {
-          "recovered": 76
+          "confirmed": 5,
+          "recovered": 68
         },
         "total": {
-          "confirmed": 7,
-          "recovered": 96
+          "confirmed": 12,
+          "recovered": 88
         }
       },
       "Wokha": {
@@ -4388,8 +4375,8 @@
       }
     },
     "total": {
-      "confirmed": 168,
-      "recovered": 96,
+      "confirmed": 173,
+      "recovered": 88,
       "tested": 6478
     }
   },
@@ -6179,10 +6166,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11373,
+      "confirmed": 11378,
       "deceased": 321,
       "migrated": 2,
-      "recovered": 7364,
+      "recovered": 7356,
       "tested": 151432
     },
     "meta": {
@@ -6192,10 +6179,10 @@
       }
     },
     "total": {
-      "confirmed": 333007,
+      "confirmed": 333012,
       "deceased": 9520,
       "migrated": 39,
-      "recovered": 169691,
+      "recovered": 169683,
       "tested": 5658614
     }
   },
@@ -7342,20 +7329,20 @@
       },
       "Purba Bardhaman": {
         "delta": {
-          "confirmed": 1
+          "confirmed": -6
         },
         "total": {
-          "confirmed": 139,
+          "confirmed": 132,
           "recovered": 109
         }
       },
       "Purba Medinipur": {
         "delta": {
-          "confirmed": 12,
+          "confirmed": 19,
           "recovered": 7
         },
         "total": {
-          "confirmed": 204,
+          "confirmed": 211,
           "deceased": 2,
           "recovered": 94
         }

@@ -156,14 +156,9 @@
   },
   "AR": {
     "districts": {
-      "Capital Complex": {
-        "total": {
-          "confirmed": 9
-        }
-      },
       "Changlang": {
         "total": {
-          "confirmed": 55
+          "confirmed": 59
         }
       },
       "East Siang": {
@@ -173,7 +168,7 @@
       },
       "Lohit": {
         "total": {
-          "confirmed": 3,
+          "confirmed": 2,
           "recovered": 1
         }
       },
@@ -200,7 +195,7 @@
       },
       "Papum Pare": {
         "total": {
-          "confirmed": 2,
+          "confirmed": 8,
           "recovered": 2
         }
       },
@@ -3196,8 +3191,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 9,
-      "recovered": -8
+      "confirmed": 4
     },
     "districts": {
       "Dimapur": {
@@ -3242,8 +3236,7 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 9,
-          "recovered": -8
+          "confirmed": 4
         },
         "total": {
           "confirmed": 16,
@@ -4563,9 +4556,8 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -448,
-      "deceased": 1,
-      "recovered": -8
+      "confirmed": -453,
+      "deceased": 1
     },
     "meta": {
       "last_updated": "2020-06-15T09:51:46+05:30",
@@ -5358,13 +5350,13 @@
       },
       "Purba Bardhaman": {
         "total": {
-          "confirmed": 139,
+          "confirmed": 132,
           "recovered": 109
         }
       },
       "Purba Medinipur": {
         "total": {
-          "confirmed": 204,
+          "confirmed": 211,
           "deceased": 2,
           "recovered": 94
         }
