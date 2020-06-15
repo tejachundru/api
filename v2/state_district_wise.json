@@ -479,10 +479,10 @@
       {
         "district": "Pakke Kessang",
         "notes": "",
-        "active": -1,
+        "active": 0,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -492,10 +492,10 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -6156,12 +6156,12 @@
       {
         "district": "Mamit",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
