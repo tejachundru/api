@@ -1391,7 +1391,8 @@
   "GA": {
     "delta": {
       "confirmed": 28,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 868
     },
     "districts": {
       "North Goa": {
@@ -1425,21 +1426,22 @@
     "meta": {
       "last_updated": "2020-06-15T19:43:51+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/DHS_Goa/status/1272160140154646530/photo/1"
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/DHS_Goa/status/1272527710951059457?s=19"
       }
     },
     "total": {
       "confirmed": 592,
       "recovered": 85,
-      "tested": 41835
+      "tested": 42703
     }
   },
   "GJ": {
     "delta": {
       "confirmed": 514,
       "deceased": 28,
-      "recovered": 339
+      "recovered": 339,
+      "tested": 3426
     },
     "districts": {
       "Ahmedabad": {
@@ -1771,15 +1773,15 @@
     "meta": {
       "last_updated": "2020-06-15T21:56:50+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/PIBAhmedabad/status/1272178019885514761?s=20"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/484?single"
       }
     },
     "total": {
       "confirmed": 24104,
       "deceased": 1506,
       "recovered": 16672,
-      "tested": 288565
+      "tested": 291991
     }
   },
   "HP": {
@@ -1916,7 +1918,8 @@
     "delta": {
       "confirmed": 514,
       "deceased": 12,
-      "recovered": 562
+      "recovered": 562,
+      "tested": 4192
     },
     "districts": {
       "Ambala": {
@@ -2148,15 +2151,15 @@
     "meta": {
       "last_updated": "2020-06-15T22:36:48+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-06-2020%20Evening.pdf"
+        "last_updated": "2020-06-15",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2015-06-2020%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 7722,
       "deceased": 100,
       "recovered": 3565,
-      "tested": 185722
+      "tested": 189914
     }
   },
   "JH": {
@@ -3446,7 +3449,8 @@
     "meta": {
       "last_updated": "2020-06-14T09:41:50+05:30",
       "tested": {
-        "last_updated": "2020-06-15"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/487"
       }
     },
     "total": {
@@ -5202,7 +5206,8 @@
     "meta": {
       "last_updated": "2020-06-14T14:39:51+05:30",
       "tested": {
-        "last_updated": "2020-06-15"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/488"
       }
     },
     "total": {
