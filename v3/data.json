@@ -3264,8 +3264,7 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 146,
-      "recovered": 114
+      "confirmed": 146
     },
     "districts": {
       "Angul": {
@@ -3507,18 +3506,10 @@
           "confirmed": 130,
           "recovered": 111
         }
-      },
-      "Unknown": {
-        "delta": {
-          "recovered": 114
-        },
-        "total": {
-          "recovered": 114
-        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T10:53:09+05:30",
+      "last_updated": "2020-06-15T11:02:48+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-14",
@@ -3528,7 +3519,7 @@
     "total": {
       "confirmed": 4055,
       "deceased": 14,
-      "recovered": 2822,
+      "recovered": 2708,
       "tested": 200014
     }
   },
@@ -4036,7 +4027,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T10:53:05+05:30",
+      "last_updated": "2020-06-15T10:59:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/indiacovid/7252?single"
@@ -4670,10 +4661,10 @@
     "delta": {
       "confirmed": -229,
       "deceased": 3,
-      "recovered": 179
+      "recovered": 65
     },
     "meta": {
-      "last_updated": "2020-06-15T10:53:02+05:30",
+      "last_updated": "2020-06-15T11:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
@@ -4683,7 +4674,7 @@
       "confirmed": 332783,
       "deceased": 9523,
       "migrated": 39,
-      "recovered": 169862,
+      "recovered": 169748,
       "tested": 5658614
     }
   },
