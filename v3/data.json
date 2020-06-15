@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -14,20 +17,23 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 7
+          "confirmed": 8
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:05:49+05:30",
+      "last_updated": "2020-06-15T09:34:48+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://dhs.andaman.gov.in/NewEvents/293.pdf"
       }
     },
     "total": {
-      "confirmed": 40,
+      "confirmed": 41,
       "recovered": 33,
       "tested": 10697
     }
@@ -738,11 +744,19 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 1,
+      "deceased": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 1,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 352,
-          "deceased": 5,
+          "confirmed": 353,
+          "deceased": 6,
           "recovered": 295
         }
       }
@@ -755,8 +769,8 @@
       }
     },
     "total": {
-      "confirmed": 352,
-      "deceased": 5,
+      "confirmed": 353,
+      "deceased": 6,
       "recovered": 295,
       "tested": 5937
     }
@@ -4554,19 +4568,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14,
+      "confirmed": 16,
+      "deceased": 1,
       "recovered": -8
     },
     "meta": {
-      "last_updated": "2020-06-15T09:03:46+05:30",
+      "last_updated": "2020-06-15T09:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 333021,
-      "deceased": 9520,
+      "confirmed": 333023,
+      "deceased": 9521,
       "migrated": 39,
       "recovered": 169683,
       "tested": 5658614
