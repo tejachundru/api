@@ -211,10 +211,16 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "Changlang": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 59
+          "confirmed": 61
         }
       },
       "East Siang": {
@@ -261,8 +267,11 @@
         }
       },
       "Tirap": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "Upper Siang": {
@@ -272,8 +281,11 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "West Siang": {
@@ -283,14 +295,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T23:02:48+05:30",
+      "last_updated": "2020-06-15T23:12:54+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/447"
       }
     },
     "total": {
-      "confirmed": 91,
+      "confirmed": 95,
       "recovered": 7,
       "tested": 14518
     }
@@ -5954,21 +5966,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9829,
+      "confirmed": 9833,
       "deceased": 395,
       "migrated": 3,
       "recovered": 10542,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T23:02:46+05:30",
+      "last_updated": "2020-06-15T23:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 342841,
+      "confirmed": 342845,
       "deceased": 9914,
       "migrated": 43,
       "recovered": 180225,
@@ -6766,7 +6778,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T23:02:49+05:30",
+      "last_updated": "2020-06-15T23:12:49+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/indiacovid/7242?single"
