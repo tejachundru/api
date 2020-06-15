@@ -2361,7 +2361,7 @@
   },
   "KL": {
     "delta": {
-      "confirmed": 79,
+      "confirmed": 82,
       "deceased": 1,
       "recovered": 73
     },
@@ -2451,11 +2451,11 @@
       },
       "Malappuram": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 6,
           "recovered": 10
         },
         "total": {
-          "confirmed": 275,
+          "confirmed": 278,
           "deceased": 3,
           "recovered": 83
         }
@@ -2521,7 +2521,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T18:34:48+05:30",
+      "last_updated": "2020-06-15T18:42:49+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
         "last_updated": "2020-06-14",
@@ -2529,7 +2529,7 @@
       }
     },
     "total": {
-      "confirmed": 2541,
+      "confirmed": 2544,
       "deceased": 21,
       "migrated": 1,
       "recovered": 1174,
@@ -4977,20 +4977,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 463,
+      "confirmed": 466,
       "deceased": 6,
       "recovered": 389,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T18:34:46+05:30",
+      "last_updated": "2020-06-15T18:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 333475,
+      "confirmed": 333478,
       "deceased": 9525,
       "migrated": 40,
       "recovered": 170072,
