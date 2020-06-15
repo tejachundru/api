@@ -4305,11 +4305,10 @@
       "Dimapur": {
         "delta": {
           "confirmed": -16,
-          "recovered": 12
+          "recovered": -54
         },
         "total": {
-          "confirmed": 23,
-          "recovered": 66
+          "confirmed": 23
         }
       },
       "Kiphire": {
@@ -4319,11 +4318,11 @@
       },
       "Kohima": {
         "delta": {
-          "confirmed": -5
+          "confirmed": -5,
+          "recovered": -10
         },
         "total": {
-          "confirmed": 7,
-          "recovered": 10
+          "confirmed": 7
         }
       },
       "Mon": {
@@ -4364,9 +4363,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 76
+        },
         "total": {
           "confirmed": 7,
-          "recovered": 20
+          "recovered": 96
         }
       },
       "Wokha": {
