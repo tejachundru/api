@@ -2559,12 +2559,12 @@
       },
       "Kangra": {
         "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally",
-        "active": 55,
-        "confirmed": 144,
+        "active": 56,
+        "confirmed": 145,
         "deceased": 2,
         "recovered": 87,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 7
         }
@@ -2643,12 +2643,12 @@
       },
       "Solan": {
         "notes": "",
-        "active": 10,
-        "confirmed": 40,
+        "active": 29,
+        "confirmed": 59,
         "deceased": 0,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "deceased": 0,
           "recovered": 1
         }
@@ -2663,18 +2663,6 @@
           "confirmed": 9,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 20,
-        "confirmed": 20,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },
@@ -2964,18 +2952,6 @@
         "confirmed": 45,
         "deceased": 0,
         "recovered": 20,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "deceased": 1,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

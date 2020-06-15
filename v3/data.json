@@ -1793,14 +1793,14 @@
       },
       "Kangra": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 7
         },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 144,
+          "confirmed": 145,
           "deceased": 2,
           "recovered": 87
         }
@@ -1846,10 +1846,11 @@
       },
       "Solan": {
         "delta": {
+          "confirmed": 19,
           "recovered": 1
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 59,
           "migrated": 4,
           "recovered": 26
         }
@@ -1865,11 +1866,7 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 20
-        },
         "total": {
-          "confirmed": 20,
           "migrated": -3
         }
       }
@@ -2124,7 +2121,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:34:03+05:30",
+      "last_updated": "2020-06-15T22:36:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-06-2020%20Evening.pdf"
@@ -4084,7 +4081,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "tested": 654
     },
     "districts": {
       "Dimapur": {
@@ -4158,14 +4156,13 @@
     "meta": {
       "last_updated": "2020-06-15T20:20:58+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/MyGovNagaland/status/1272177894769389570/photo/1"
+        "last_updated": "2020-06-15"
       }
     },
     "total": {
       "confirmed": 177,
       "recovered": 88,
-      "tested": 6478
+      "tested": 7132
     }
   },
   "OR": {
@@ -5949,7 +5946,7 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T22:33:52+05:30",
+      "last_updated": "2020-06-15T22:36:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
