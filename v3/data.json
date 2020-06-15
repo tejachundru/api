@@ -298,7 +298,7 @@
   "AS": {
     "delta": {
       "confirmed": 40,
-      "recovered": 206
+      "recovered": 245
     },
     "districts": {
       "Airport Quarantine": {
@@ -520,13 +520,13 @@
       },
       "Unknown": {
         "delta": {
-          "recovered": 206
+          "recovered": 245
         },
         "total": {
           "confirmed": 733,
           "deceased": 3,
           "migrated": 3,
-          "recovered": 1295
+          "recovered": 1334
         }
       },
       "West Karbi Anglong": {
@@ -536,7 +536,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T20:35:50+05:30",
+      "last_updated": "2020-06-15T20:38:49+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -547,7 +547,7 @@
       "confirmed": 4159,
       "deceased": 8,
       "migrated": 3,
-      "recovered": 2167,
+      "recovered": 2206,
       "tested": 188090
     }
   },
@@ -3717,7 +3717,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T20:35:48+05:30",
+      "last_updated": "2020-06-15T20:38:47+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/healthminmp/status/1272195103864414208"
@@ -5552,11 +5552,11 @@
     "delta": {
       "confirmed": 3306,
       "deceased": 77,
-      "recovered": 2856,
+      "recovered": 2895,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T20:35:46+05:30",
+      "last_updated": "2020-06-15T20:38:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
@@ -5566,7 +5566,7 @@
       "confirmed": 336318,
       "deceased": 9596,
       "migrated": 40,
-      "recovered": 172539,
+      "recovered": 172578,
       "tested": 5774133
     }
   },
