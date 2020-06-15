@@ -295,7 +295,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T23:12:54+05:30",
+      "last_updated": "2020-06-15T23:22:49+05:30",
       "tested": {
         "last_updated": "2020-06-13",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/447"
@@ -3022,7 +3022,8 @@
   "LA": {
     "delta": {
       "confirmed": 6,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 125
     },
     "districts": {
       "Kargil": {
@@ -3050,15 +3051,15 @@
     "meta": {
       "last_updated": "2020-06-15T17:52:50+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/DIPR_Leh/status/1272185086591422464"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/indiacovid/7313?single"
       }
     },
     "total": {
       "confirmed": 555,
       "deceased": 1,
       "recovered": 82,
-      "tested": 11135
+      "tested": 11260
     }
   },
   "LD": {
@@ -5973,7 +5974,7 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T23:12:46+05:30",
+      "last_updated": "2020-06-15T23:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
@@ -6778,7 +6779,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T23:12:49+05:30",
+      "last_updated": "2020-06-15T23:15:55+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/indiacovid/7242?single"
