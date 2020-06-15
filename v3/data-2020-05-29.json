@@ -2299,7 +2299,7 @@
   "KA": {
     "delta": {
       "confirmed": 248,
-      "deceased": 1,
+      "migrated": 1,
       "recovered": 60,
       "tested": 12411
     },
@@ -2359,11 +2359,12 @@
       "Chikkaballapura": {
         "delta": {
           "confirmed": 5,
-          "deceased": 1
+          "migrated": 1
         },
         "total": {
           "confirmed": 136,
-          "deceased": 3,
+          "deceased": 2,
+          "migrated": 1,
           "recovered": 19
         }
       },
@@ -2573,8 +2574,8 @@
     },
     "total": {
       "confirmed": 2781,
-      "deceased": 48,
-      "migrated": 2,
+      "deceased": 47,
+      "migrated": 3,
       "recovered": 894,
       "tested": 264489
     }
@@ -5383,7 +5384,8 @@
   "TT": {
     "delta": {
       "confirmed": 8138,
-      "deceased": 269,
+      "deceased": 268,
+      "migrated": 1,
       "recovered": 11735,
       "tested": 121702
     },
@@ -5395,8 +5397,8 @@
     },
     "total": {
       "confirmed": 173495,
-      "deceased": 4980,
-      "migrated": 11,
+      "deceased": 4979,
+      "migrated": 12,
       "recovered": 82631,
       "tested": 3483838
     }

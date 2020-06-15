@@ -5169,7 +5169,7 @@
 		{
 			"active": "23",
 			"confirmed": "152",
-			"deceased": "3",
+			"deceased": "2",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -5178,7 +5178,7 @@
 			"districtkey": "KA_Chikkaballapura",
 			"districtnotes": "",
 			"lastupdated": "",
-			"migratedother": "0",
+			"migratedother": "1",
 			"recovered": "126",
 			"slno": "277",
 			"state": "Karnataka",
@@ -13969,9 +13969,9 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "0",
+			"active": "-1",
 			"confirmed": "0",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

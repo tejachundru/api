@@ -1984,7 +1984,8 @@
       "Chikkaballapura": {
         "total": {
           "confirmed": 152,
-          "deceased": 3,
+          "deceased": 2,
+          "migrated": 1,
           "recovered": 126
         }
       },
@@ -2141,8 +2142,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:44:48+05:30",
-      "notes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
+      "last_updated": "2020-06-15T11:22:48+05:30",
+      "notes": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/14-06-2020%20HMB%20English.pdf"
@@ -2150,8 +2151,8 @@
     },
     "total": {
       "confirmed": 7000,
-      "deceased": 87,
-      "migrated": 2,
+      "deceased": 86,
+      "migrated": 3,
       "recovered": 3960,
       "tested": 443969
     }
@@ -3264,7 +3265,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 146
+      "confirmed": 146,
+      "tested": 2499
     },
     "districts": {
       "Angul": {
@@ -3509,18 +3511,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T11:02:48+05:30",
+      "last_updated": "2020-06-15T11:15:49+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/449?single"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/475?single"
       }
     },
     "total": {
       "confirmed": 4055,
       "deceased": 14,
       "recovered": 2708,
-      "tested": 200014
+      "tested": 202513
     }
   },
   "PB": {
@@ -4661,21 +4663,22 @@
     "delta": {
       "confirmed": -229,
       "deceased": 3,
-      "recovered": 65
+      "recovered": 65,
+      "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T11:02:46+05:30",
+      "last_updated": "2020-06-15T11:22:46+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
       "confirmed": 332783,
-      "deceased": 9523,
-      "migrated": 39,
+      "deceased": 9522,
+      "migrated": 40,
       "recovered": 169748,
-      "tested": 5658614
+      "tested": 5774133
     }
   },
   "UN": {

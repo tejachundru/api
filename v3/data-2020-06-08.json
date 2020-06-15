@@ -2610,7 +2610,8 @@
         },
         "total": {
           "confirmed": 150,
-          "deceased": 3,
+          "deceased": 2,
+          "migrated": 1,
           "recovered": 92
         }
       },
@@ -2823,8 +2824,8 @@
     },
     "total": {
       "confirmed": 5760,
-      "deceased": 64,
-      "migrated": 2,
+      "deceased": 63,
+      "migrated": 3,
       "recovered": 2441,
       "tested": 393221
     }
@@ -5925,8 +5926,8 @@
     },
     "total": {
       "confirmed": 266017,
-      "deceased": 7478,
-      "migrated": 16,
+      "deceased": 7477,
+      "migrated": 17,
       "recovered": 129019,
       "tested": 4774434
     }

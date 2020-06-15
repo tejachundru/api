@@ -1236,14 +1236,14 @@
 	],
 	"statewise": [
 		{
-			"active": "153473",
+			"active": "153472",
 			"confirmed": "332783",
 			"deaths": "9523",
 			"deltaconfirmed": "-229",
 			"deltadeaths": "3",
 			"deltarecovered": "65",
-			"lastupdatedtime": "15/06/2020 11:02:46",
-			"migratedother": "39",
+			"lastupdatedtime": "15/06/2020 11:22:46",
+			"migratedother": "40",
 			"recovered": "169748",
 			"state": "Total",
 			"statecode": "TT",
@@ -1376,18 +1376,18 @@
 			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 464 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day."
 		},
 		{
-			"active": "2951",
+			"active": "2950",
 			"confirmed": "7000",
 			"deaths": "87",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/06/2020 19:44:48",
-			"migratedother": "2",
+			"lastupdatedtime": "15/06/2020 11:22:48",
+			"migratedother": "3",
 			"recovered": "3960",
 			"state": "Karnataka",
 			"statecode": "KA",
-			"statenotes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons"
+			"statenotes": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases"
 		},
 		{
 			"active": "4117",
@@ -1466,7 +1466,7 @@
 			"deltaconfirmed": "146",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/06/2020 11:02:48",
+			"lastupdatedtime": "15/06/2020 11:15:49",
 			"migratedother": "0",
 			"recovered": "2708",
 			"state": "Odisha",
@@ -3112,6 +3112,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "5658614",
 			"updatetimestamp": "14/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "115519",
+			"source": "https://t.me/Covid19india_Auxiliary_Test_Data/472",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "5774133",
+			"updatetimestamp": "15/06/2020 09:00:00"
 		}
 	]
 }

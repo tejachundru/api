@@ -2618,7 +2618,8 @@
       "Chikkaballapura": {
         "total": {
           "confirmed": 152,
-          "deceased": 3,
+          "deceased": 2,
+          "migrated": 1,
           "recovered": 109
         }
       },
@@ -2829,8 +2830,8 @@
     },
     "total": {
       "confirmed": 6041,
-      "deceased": 69,
-      "migrated": 2,
+      "deceased": 68,
+      "migrated": 3,
       "recovered": 2862,
       "tested": 408506
     }
@@ -6020,8 +6021,8 @@
     },
     "total": {
       "confirmed": 287154,
-      "deceased": 8108,
-      "migrated": 16,
+      "deceased": 8107,
+      "migrated": 17,
       "recovered": 140928,
       "tested": 5061332
     }
