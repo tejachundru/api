@@ -953,7 +953,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T21:02:48+05:30",
+      "last_updated": "2020-06-15T21:05:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/PIB_Patna/status/1272512236041297920"
@@ -1176,6 +1176,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1647,
+      "deceased": 73,
+      "recovered": 604
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1229,10 +1234,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1647,
+          "deceased": 73,
+          "recovered": 604
+        },
         "total": {
-          "confirmed": 40394,
-          "deceased": 1326,
-          "recovered": 15823
+          "confirmed": 42041,
+          "deceased": 1399,
+          "recovered": 16427
         }
       },
       "West Delhi": {
@@ -1242,7 +1252,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:34:47+05:30",
+      "last_updated": "2020-06-15T21:12:48+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "tested": {
         "last_updated": "2020-06-14",
@@ -1250,9 +1260,9 @@
       }
     },
     "total": {
-      "confirmed": 41182,
-      "deceased": 1327,
-      "recovered": 15823,
+      "confirmed": 42829,
+      "deceased": 1400,
+      "recovered": 16427,
       "tested": 290592
     }
   },
@@ -3265,7 +3275,8 @@
     "delta": {
       "confirmed": 133,
       "deceased": 6,
-      "recovered": 226
+      "recovered": 226,
+      "tested": 5278
     },
     "districts": {
       "Agar Malwa": {
@@ -3731,15 +3742,15 @@
     "meta": {
       "last_updated": "2020-06-15T20:38:47+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/healthminmp/status/1272195103864414208"
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/healthminmp/status/1272538287186432000?s=09"
       }
     },
     "total": {
       "confirmed": 10935,
       "deceased": 465,
       "recovered": 7903,
-      "tested": 252762
+      "tested": 258040
     }
   },
   "MZ": {
@@ -5562,23 +5573,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3387,
-      "deceased": 77,
-      "recovered": 2895,
+      "confirmed": 5034,
+      "deceased": 150,
+      "recovered": 3499,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T21:02:46+05:30",
+      "last_updated": "2020-06-15T21:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 336399,
-      "deceased": 9596,
+      "confirmed": 338046,
+      "deceased": 9669,
       "migrated": 40,
-      "recovered": 172578,
+      "recovered": 173182,
       "tested": 5774133
     }
   },
