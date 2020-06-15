@@ -3868,8 +3868,11 @@
         }
       },
       "Niwari": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       "Panna": {
@@ -3997,11 +4000,10 @@
       },
       "Tikamgarh": {
         "delta": {
-          "confirmed": 2,
           "recovered": 1
         },
         "total": {
-          "confirmed": 24,
+          "confirmed": 22,
           "deceased": 1,
           "recovered": 8
         }

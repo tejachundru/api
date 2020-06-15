@@ -7651,11 +7651,11 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "3",
+			"confirmed": "3",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Niwari",
@@ -7957,11 +7957,11 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "15",
-			"confirmed": "24",
+			"active": "13",
+			"confirmed": "22",
 			"deceased": "1",
-			"deltaactive": "1",
-			"deltaconfirmed": "2",
+			"deltaactive": "-1",
+			"deltaconfirmed": "0",
 			"deltadeceased": "0",
 			"deltarecovered": "1",
 			"district": "Tikamgarh",
