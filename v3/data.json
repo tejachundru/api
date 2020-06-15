@@ -1785,7 +1785,8 @@
   "HP": {
     "delta": {
       "confirmed": 38,
-      "recovered": 16
+      "recovered": 16,
+      "tested": 538
     },
     "districts": {
       "Bilaspur": {
@@ -1899,8 +1900,8 @@
       "last_updated": "2020-06-15T21:40:48+05:30",
       "notes": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/nhm_hp/status/1272200800089997317"
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/nhm_hp/status/1272555566208962561?s=19"
       }
     },
     "total": {
@@ -1908,7 +1909,7 @@
       "deceased": 7,
       "migrated": 11,
       "recovered": 342,
-      "tested": 53946
+      "tested": 54484
     }
   },
   "HR": {
@@ -2162,7 +2163,8 @@
     "delta": {
       "confirmed": 30,
       "deceased": 1,
-      "recovered": 95
+      "recovered": 95,
+      "tested": 2472
     },
     "districts": {
       "Bokaro": {
@@ -2329,7 +2331,7 @@
     "meta": {
       "last_updated": "2020-06-16T00:31:57+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
+        "last_updated": "2020-06-15",
         "source": "https://twitter.com/FOBGumla/status/1272579760363761665?s=09"
       }
     },
@@ -3386,6 +3388,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "tested": 793
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -3441,21 +3446,21 @@
     "meta": {
       "last_updated": "2020-06-14T09:41:50+05:30",
       "tested": {
-        "last_updated": "2020-06-13",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/439"
+        "last_updated": "2020-06-15"
       }
     },
     "total": {
       "confirmed": 44,
       "deceased": 1,
       "recovered": 26,
-      "tested": 12560
+      "tested": 13353
     }
   },
   "MN": {
     "delta": {
       "confirmed": 32,
-      "recovered": 60
+      "recovered": 60,
+      "tested": 1232
     },
     "districts": {
       "Bishnupur": {
@@ -3556,14 +3561,14 @@
     "meta": {
       "last_updated": "2020-06-15T20:33:51+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/DiprManipur/status/1272395844268908545"
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/DiprManipur/status/1272537968004100097?s=19"
       }
     },
     "total": {
       "confirmed": 490,
       "recovered": 151,
-      "tested": 25226
+      "tested": 26458
     }
   },
   "MP": {
