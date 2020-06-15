@@ -3179,8 +3179,7 @@
     "districts": {
       "Dimapur": {
         "total": {
-          "confirmed": 39,
-          "recovered": 66
+          "confirmed": 23
         }
       },
       "Kiphire": {
@@ -3190,18 +3189,22 @@
       },
       "Kohima": {
         "total": {
-          "confirmed": 12,
-          "recovered": 10
+          "confirmed": 7
         }
       },
       "Mon": {
         "total": {
-          "confirmed": 26
+          "confirmed": 33
+        }
+      },
+      "Others": {
+        "total": {
+          "confirmed": 2
         }
       },
       "Peren": {
         "total": {
-          "confirmed": 65
+          "confirmed": 80
         }
       },
       "Phek": {
@@ -3211,18 +3214,13 @@
       },
       "Tuensang": {
         "total": {
-          "confirmed": 8
+          "confirmed": 10
         }
       },
       "Unknown": {
         "total": {
           "confirmed": 7,
-          "recovered": 20
-        }
-      },
-      "Wokha": {
-        "total": {
-          "confirmed": 5
+          "recovered": 96
         }
       },
       "Zunheboto": {
@@ -4546,7 +4544,7 @@
       "confirmed": 5
     },
     "meta": {
-      "last_updated": "2020-06-15T07:24:46+05:30",
+      "last_updated": "2020-06-15T07:56:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
