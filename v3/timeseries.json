@@ -3453,14 +3453,15 @@
     "2020-06-15": {
       "delta": {
         "confirmed": 40,
-        "recovered": 245
+        "recovered": 245,
+        "tested": 28998
       },
       "total": {
         "confirmed": 4159,
         "deceased": 8,
         "migrated": 3,
         "recovered": 2206,
-        "tested": 188090
+        "tested": 217088
       }
     }
   },
