@@ -310,12 +310,12 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 61,
-        "confirmed": 61,
+        "active": 57,
+        "confirmed": 57,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": -2,
           "deceased": 0,
           "recovered": 0
         }
@@ -401,12 +401,12 @@
       {
         "district": "Lohit",
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -479,12 +479,12 @@
       {
         "district": "Pakke Kessang",
         "notes": "",
-        "active": -1,
-        "confirmed": 0,
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -492,12 +492,12 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 6,
-        "confirmed": 8,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }

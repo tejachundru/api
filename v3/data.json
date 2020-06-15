@@ -217,10 +217,10 @@
     "districts": {
       "Changlang": {
         "delta": {
-          "confirmed": 2
+          "confirmed": -2
         },
         "total": {
-          "confirmed": 61
+          "confirmed": 57
         }
       },
       "East Siang": {
@@ -229,8 +229,11 @@
         }
       },
       "Lohit": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1
         }
       },
@@ -251,13 +254,20 @@
         }
       },
       "Pakke Kessang": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
+          "confirmed": 1,
           "recovered": 1
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 8,
+          "confirmed": 10,
           "recovered": 2
         }
       },
