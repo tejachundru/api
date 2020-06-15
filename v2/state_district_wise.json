@@ -1102,14 +1102,14 @@
       {
         "district": "Araria",
         "notes": "",
-        "active": 15,
+        "active": 13,
         "confirmed": 89,
         "deceased": 1,
-        "recovered": 73,
+        "recovered": 75,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -1154,27 +1154,27 @@
       {
         "district": "Begusarai",
         "notes": "",
-        "active": 49,
+        "active": 39,
         "confirmed": 301,
         "deceased": 3,
-        "recovered": 249,
+        "recovered": 259,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
         "district": "Bhagalpur",
         "notes": "",
-        "active": 129,
+        "active": 123,
         "confirmed": 327,
         "deceased": 1,
-        "recovered": 197,
+        "recovered": 203,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
@@ -1193,14 +1193,14 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 42,
+        "active": 38,
         "confirmed": 158,
         "deceased": 0,
-        "recovered": 116,
+        "recovered": 120,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -1219,27 +1219,27 @@
       {
         "district": "East Champaran",
         "notes": "",
-        "active": 34,
+        "active": 30,
         "confirmed": 153,
         "deceased": 1,
-        "recovered": 118,
+        "recovered": 122,
         "delta": {
           "confirmed": 10,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Gaya",
         "notes": "",
-        "active": 68,
+        "active": 63,
         "confirmed": 140,
         "deceased": 0,
-        "recovered": 72,
+        "recovered": 77,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -1258,14 +1258,14 @@
       {
         "district": "Jamui",
         "notes": "",
-        "active": 21,
+        "active": 16,
         "confirmed": 51,
         "deceased": 1,
-        "recovered": 29,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -1284,40 +1284,40 @@
       {
         "district": "Kaimur",
         "notes": "",
-        "active": 62,
+        "active": 56,
         "confirmed": 139,
         "deceased": 0,
-        "recovered": 77,
+        "recovered": 83,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
         "district": "Katihar",
         "notes": "",
-        "active": 103,
+        "active": 79,
         "confirmed": 223,
         "deceased": 0,
-        "recovered": 120,
+        "recovered": 144,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 24
         }
       },
       {
         "district": "Khagaria",
         "notes": "",
-        "active": 59,
+        "active": 46,
         "confirmed": 293,
         "deceased": 3,
-        "recovered": 231,
+        "recovered": 244,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       {
@@ -1336,14 +1336,14 @@
       {
         "district": "Lakhisarai",
         "notes": "",
-        "active": 32,
+        "active": 29,
         "confirmed": 72,
         "deceased": 0,
-        "recovered": 40,
+        "recovered": 43,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -1362,40 +1362,40 @@
       {
         "district": "Madhubani",
         "notes": "",
-        "active": 170,
+        "active": 169,
         "confirmed": 303,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 133,
         "delta": {
           "confirmed": 11,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Munger",
         "notes": "",
-        "active": 118,
+        "active": 117,
         "confirmed": 270,
         "deceased": 1,
-        "recovered": 151,
+        "recovered": 152,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Muzaffarpur",
         "notes": "",
-        "active": 125,
+        "active": 107,
         "confirmed": 178,
-        "deceased": 1,
-        "recovered": 52,
+        "deceased": 2,
+        "recovered": 69,
         "delta": {
           "confirmed": 16,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 17
         }
       },
       {
@@ -1414,53 +1414,53 @@
       {
         "district": "Nawada",
         "notes": "",
-        "active": 61,
+        "active": 44,
         "confirmed": 183,
         "deceased": 1,
-        "recovered": 121,
+        "recovered": 138,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       },
       {
         "district": "Patna",
         "notes": "",
-        "active": 127,
+        "active": 123,
         "confirmed": 329,
         "deceased": 2,
-        "recovered": 200,
+        "recovered": 204,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Purnia",
         "notes": "",
-        "active": 149,
+        "active": 108,
         "confirmed": 228,
         "deceased": 0,
-        "recovered": 79,
+        "recovered": 120,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 41
         }
       },
       {
         "district": "Rohtas",
         "notes": "",
-        "active": 54,
+        "active": 36,
         "confirmed": 282,
         "deceased": 1,
-        "recovered": 227,
+        "recovered": 245,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 18
         }
       },
       {
@@ -1479,53 +1479,53 @@
       {
         "district": "Samastipur",
         "notes": "",
-        "active": 96,
+        "active": 83,
         "confirmed": 166,
         "deceased": 1,
-        "recovered": 69,
+        "recovered": 82,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       {
         "district": "Saran",
         "notes": "",
-        "active": 71,
+        "active": 66,
         "confirmed": 160,
         "deceased": 2,
-        "recovered": 87,
+        "recovered": 92,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
         "district": "Sheikhpura",
         "notes": "",
-        "active": 68,
+        "active": 56,
         "confirmed": 123,
         "deceased": 0,
-        "recovered": 55,
+        "recovered": 67,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       {
         "district": "Sheohar",
         "notes": "",
-        "active": 62,
+        "active": 61,
         "confirmed": 70,
         "deceased": 1,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -1557,40 +1557,40 @@
       {
         "district": "Supaul",
         "notes": "",
-        "active": 62,
+        "active": 29,
         "confirmed": 177,
         "deceased": 0,
-        "recovered": 115,
+        "recovered": 148,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 33
         }
       },
       {
         "district": "Vaishali",
         "notes": "",
-        "active": 33,
+        "active": 28,
         "confirmed": 114,
         "deceased": 3,
-        "recovered": 78,
+        "recovered": 83,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
         "district": "West Champaran",
         "notes": "",
-        "active": 44,
+        "active": 42,
         "confirmed": 115,
         "deceased": 0,
-        "recovered": 71,
+        "recovered": 73,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
