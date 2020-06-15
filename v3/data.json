@@ -953,7 +953,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T20:52:51+05:30",
+      "last_updated": "2020-06-15T21:02:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/PIB_Patna/status/1272512236041297920"
@@ -2585,7 +2585,8 @@
     "delta": {
       "confirmed": 82,
       "deceased": 1,
-      "recovered": 73
+      "recovered": 73,
+      "tested": 2522
     },
     "districts": {
       "Alappuzha": {
@@ -2746,8 +2747,8 @@
       "last_updated": "2020-06-15T18:51:56+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-14.pdf"
+        "last_updated": "2020-06-15",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Daily-Bulletin-HFWD-English-June-15-1.pdf"
       }
     },
     "total": {
@@ -2755,7 +2756,7 @@
       "deceased": 21,
       "migrated": 1,
       "recovered": 1174,
-      "tested": 149164
+      "tested": 151686
     }
   },
   "LA": {
@@ -5567,7 +5568,7 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T20:52:48+05:30",
+      "last_updated": "2020-06-15T21:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
