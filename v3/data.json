@@ -42,7 +42,8 @@
     "delta": {
       "confirmed": 304,
       "deceased": 2,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 15173
     },
     "districts": {
       "Anantapur": {
@@ -198,15 +199,15 @@
       "last_updated": "2020-06-15T13:53:50+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/457"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/476"
       }
     },
     "total": {
       "confirmed": 6456,
       "deceased": 86,
       "recovered": 3385,
-      "tested": 552202
+      "tested": 567375
     }
   },
   "AR": {
@@ -887,7 +888,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T15:02:47+05:30",
+      "last_updated": "2020-06-15T15:09:49+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/PIB_Patna/status/1272122915325046786"
@@ -2511,6 +2512,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 11867
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2769,8 +2773,8 @@
       "last_updated": "2020-06-14T21:54:47+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/Maha_MEDD/status/1272043816237711368?s=19"
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/Maha_MEDD/status/1272412835491053568?s=19"
       }
     },
     "total": {
@@ -2778,7 +2782,7 @@
       "deceased": 3950,
       "migrated": 13,
       "recovered": 50978,
-      "tested": 659481
+      "tested": 671348
     }
   },
   "ML": {
@@ -4865,7 +4869,7 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T15:02:46+05:30",
+      "last_updated": "2020-06-15T15:09:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
