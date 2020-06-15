@@ -195,7 +195,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T13:52:49+05:30",
+      "last_updated": "2020-06-15T13:53:50+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-14",
@@ -816,31 +816,31 @@
   },
   "CH": {
     "delta": {
-      "confirmed": 1,
+      "confirmed": 3,
       "deceased": 1
     },
     "districts": {
       "Chandigarh": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 1
         },
         "total": {
-          "confirmed": 353,
+          "confirmed": 355,
           "deceased": 6,
           "recovered": 295
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:35:59+05:30",
+      "last_updated": "2020-06-15T14:02:47+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/456"
       }
     },
     "total": {
-      "confirmed": 353,
+      "confirmed": 355,
       "deceased": 6,
       "recovered": 295,
       "tested": 5937
@@ -1715,7 +1715,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T13:52:47+05:30",
+      "last_updated": "2020-06-15T14:00:47+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-06-2020%20Evening.pdf"
@@ -4773,20 +4773,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 243,
+      "confirmed": 245,
       "deceased": 5,
       "recovered": 134,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T13:52:46+05:30",
+      "last_updated": "2020-06-15T14:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 333255,
+      "confirmed": 333257,
       "deceased": 9524,
       "migrated": 40,
       "recovered": 169817,
