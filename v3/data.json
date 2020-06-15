@@ -3179,7 +3179,8 @@
     "districts": {
       "Dimapur": {
         "total": {
-          "confirmed": 23
+          "confirmed": 23,
+          "recovered": 66
         }
       },
       "Kiphire": {
@@ -3189,7 +3190,8 @@
       },
       "Kohima": {
         "total": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 10
         }
       },
       "Mon": {
@@ -3220,7 +3222,7 @@
       "Unknown": {
         "total": {
           "confirmed": 7,
-          "recovered": 96
+          "recovered": 20
         }
       },
       "Zunheboto": {
