@@ -297,7 +297,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 40
+      "confirmed": 40,
+      "recovered": 206
     },
     "districts": {
       "Airport Quarantine": {
@@ -518,11 +519,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 206
+        },
         "total": {
           "confirmed": 733,
           "deceased": 3,
           "migrated": 3,
-          "recovered": 1089
+          "recovered": 1295
         }
       },
       "West Karbi Anglong": {
@@ -532,7 +536,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T12:24:48+05:30",
+      "last_updated": "2020-06-15T19:34:51+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-12",
@@ -543,7 +547,7 @@
       "confirmed": 4159,
       "deceased": 8,
       "migrated": 3,
-      "recovered": 1961,
+      "recovered": 2167,
       "tested": 188090
     }
   },
@@ -938,7 +942,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T19:22:48+05:30",
+      "last_updated": "2020-06-15T19:35:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/PIB_Patna/status/1272512236041297920"
@@ -1274,6 +1278,10 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 28,
+      "recovered": 11
+    },
     "districts": {
       "North Goa": {
         "total": {
@@ -1293,22 +1301,26 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 28,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 177,
-          "recovered": 7
+          "confirmed": 205,
+          "recovered": 18
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T19:23:52+05:30",
+      "last_updated": "2020-06-15T19:34:53+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/DHS_Goa/status/1272160140154646530/photo/1"
       }
     },
     "total": {
-      "confirmed": 564,
-      "recovered": 74,
+      "confirmed": 592,
+      "recovered": 85,
       "tested": 41835
     }
   },
@@ -2034,9 +2046,10 @@
   },
   "JK": {
     "delta": {
-      "confirmed": 30,
+      "confirmed": 57,
       "deceased": 3,
-      "recovered": 215
+      "recovered": 215,
+      "tested": 5131
     },
     "districts": {
       "Anantnag": {
@@ -2102,29 +2115,32 @@
       },
       "Jammu": {
         "delta": {
+          "confirmed": 6,
           "recovered": 2
         },
         "total": {
-          "confirmed": 273,
+          "confirmed": 279,
           "deceased": 4,
           "recovered": 139
         }
       },
       "Kathua": {
         "delta": {
+          "confirmed": 1,
           "recovered": 5
         },
         "total": {
-          "confirmed": 159,
+          "confirmed": 160,
           "recovered": 76
         }
       },
       "Kishtwar": {
         "delta": {
+          "confirmed": 1,
           "recovered": 3
         },
         "total": {
-          "confirmed": 22,
+          "confirmed": 23,
           "recovered": 9
         }
       },
@@ -2141,12 +2157,12 @@
       },
       "Kupwara": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 1,
           "recovered": 1
         },
         "total": {
-          "confirmed": 397,
+          "confirmed": 398,
           "deceased": 5,
           "recovered": 288
         }
@@ -2180,29 +2196,30 @@
       },
       "Ramban": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "recovered": 2
         },
         "total": {
-          "confirmed": 196,
+          "confirmed": 199,
           "recovered": 57
         }
       },
       "Reasi": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 25,
+          "confirmed": 27,
           "recovered": 9
         }
       },
       "Samba": {
         "delta": {
+          "confirmed": 6,
           "recovered": 1
         },
         "total": {
-          "confirmed": 99,
+          "confirmed": 105,
           "recovered": 29
         }
       },
@@ -2228,25 +2245,28 @@
         }
       },
       "Udhampur": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 158,
+          "confirmed": 165,
           "deceased": 1,
           "recovered": 39
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T18:56:51+05:30",
+      "last_updated": "2020-06-15T19:35:51+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://twitter.com/diprjk/status/1272178184402792449"
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/diprjk/status/1272511800727101446?s=19"
       }
     },
     "total": {
-      "confirmed": 5071,
+      "confirmed": 5098,
       "deceased": 62,
       "recovered": 2604,
-      "tested": 266163
+      "tested": 271294
     }
   },
   "KA": {
@@ -2535,7 +2555,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T19:16:48+05:30",
+      "last_updated": "2020-06-15T19:25:59+05:30",
       "notes": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-15",
@@ -5168,23 +5188,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 709,
+      "confirmed": 764,
       "deceased": 13,
-      "recovered": 1035,
+      "recovered": 1252,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T19:22:46+05:30",
+      "last_updated": "2020-06-15T19:35:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 333721,
+      "confirmed": 333776,
       "deceased": 9532,
       "migrated": 40,
-      "recovered": 170718,
+      "recovered": 170935,
       "tested": 5774133
     }
   },
