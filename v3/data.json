@@ -187,10 +187,15 @@
           "recovered": 2
         }
       },
+      "Pakke Kessang": {
+        "total": {
+          "recovered": 1
+        }
+      },
       "Papum Pare": {
         "total": {
           "confirmed": 3,
-          "recovered": 3
+          "recovered": 2
         }
       },
       "Tawang": {
@@ -3177,7 +3182,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 9,
+      "recovered": -8
     },
     "districts": {
       "Dimapur": {
@@ -3222,11 +3228,12 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": -8
         },
         "total": {
           "confirmed": 16,
-          "recovered": 96
+          "recovered": 88
         }
       },
       "Zunheboto": {
@@ -3236,7 +3243,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T08:43:49+05:30",
+      "last_updated": "2020-06-15T08:52:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/MyGovNagaland/status/1272177894769389570/photo/1"
@@ -3244,7 +3251,7 @@
     },
     "total": {
       "confirmed": 177,
-      "recovered": 96,
+      "recovered": 88,
       "tested": 6478
     }
   },
@@ -4547,10 +4554,11 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14
+      "confirmed": 14,
+      "recovered": -8
     },
     "meta": {
-      "last_updated": "2020-06-15T08:43:46+05:30",
+      "last_updated": "2020-06-15T08:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
@@ -4560,7 +4568,7 @@
       "confirmed": 333021,
       "deceased": 9520,
       "migrated": 39,
-      "recovered": 169691,
+      "recovered": 169683,
       "tested": 5658614
     }
   },

@@ -438,10 +438,10 @@
       },
       "Pakke Kessang": {
         "notes": "",
-        "active": 0,
+        "active": -1,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -450,10 +450,10 @@
       },
       "Papum Pare": {
         "notes": "",
-        "active": 0,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5840,10 +5840,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -78,
+        "active": -70,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 96,
+        "recovered": 88,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

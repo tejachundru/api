@@ -595,7 +595,7 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "0",
+			"active": "-1",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -607,13 +607,13 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "0",
+			"recovered": "1",
 			"slno": "31",
 			"state": "Arunachal Pradesh",
 			"statecode": "AR"
 		},
 		{
-			"active": "0",
+			"active": "1",
 			"confirmed": "3",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -625,7 +625,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "3",
+			"recovered": "2",
 			"slno": "32",
 			"state": "Arunachal Pradesh",
 			"statecode": "AR"
@@ -14131,7 +14131,7 @@
 			"statecode": "MZ"
 		},
 		{
-			"active": "-78",
+			"active": "-70",
 			"confirmed": "18",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -14143,7 +14143,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "",
-			"recovered": "96",
+			"recovered": "88",
 			"slno": "753",
 			"state": "Nagaland",
 			"statecode": "NL"
