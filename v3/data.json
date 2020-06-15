@@ -970,7 +970,8 @@
     "delta": {
       "confirmed": 5,
       "deceased": 1,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 90
     },
     "districts": {
       "Chandigarh": {
@@ -989,15 +990,15 @@
     "meta": {
       "last_updated": "2020-06-15T17:26:49+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/456"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/indiacovid/7310?single"
       }
     },
     "total": {
       "confirmed": 357,
       "deceased": 6,
       "recovered": 301,
-      "tested": 5937
+      "tested": 6027
     }
   },
   "CT": {
@@ -2468,7 +2469,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:02:49+05:30",
+      "last_updated": "2020-06-15T22:12:55+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/diprjk/status/1272511800727101446?s=19"
@@ -3009,6 +3010,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 2786,
+      "deceased": 178,
+      "recovered": 5071,
       "tested": 11867
     },
     "districts": {
@@ -3243,6 +3247,18 @@
           "recovered": 6871
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 2786,
+          "deceased": 178,
+          "recovered": 5071
+        },
+        "total": {
+          "confirmed": 2786,
+          "deceased": 178,
+          "recovered": 5071
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 14,
@@ -3266,7 +3282,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T21:54:47+05:30",
+      "last_updated": "2020-06-15T22:12:47+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts",
       "tested": {
         "last_updated": "2020-06-15",
@@ -3274,10 +3290,10 @@
       }
     },
     "total": {
-      "confirmed": 107958,
-      "deceased": 3950,
+      "confirmed": 110744,
+      "deceased": 4128,
       "migrated": 13,
-      "recovered": 50978,
+      "recovered": 56049,
       "tested": 671348
     }
   },
@@ -5047,7 +5063,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:02:47+05:30",
+      "last_updated": "2020-06-15T22:12:52+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/indiacovid/7252?single"
@@ -5817,7 +5833,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:02:51+05:30",
+      "last_updated": "2020-06-15T22:12:57+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/466"
@@ -5832,24 +5848,24 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5953,
-      "deceased": 185,
+      "confirmed": 8739,
+      "deceased": 363,
       "migrated": 3,
-      "recovered": 4178,
+      "recovered": 9249,
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T22:02:46+05:30",
+      "last_updated": "2020-06-15T22:12:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 338965,
-      "deceased": 9704,
+      "confirmed": 341751,
+      "deceased": 9882,
       "migrated": 43,
-      "recovered": 173861,
+      "recovered": 178932,
       "tested": 5774133
     }
   },
@@ -6546,7 +6562,8 @@
     "delta": {
       "confirmed": 407,
       "deceased": 10,
-      "recovered": 434
+      "recovered": 434,
+      "tested": 9509
     },
     "districts": {
       "Alipurduar": {
@@ -6797,15 +6814,15 @@
     "meta": {
       "last_updated": "2020-06-15T20:33:49+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_JUNE_REPORT_FINAL.pdf"
+        "last_updated": "2020-06-15",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 11494,
       "deceased": 485,
       "recovered": 5494,
-      "tested": 333733
+      "tested": 343242
     }
   }
 }
