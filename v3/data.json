@@ -225,10 +225,10 @@
     "districts": {
       "Capital Complex": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 8
         },
         "total": {
-          "confirmed": 7
+          "confirmed": 8
         }
       },
       "Changlang": {
@@ -245,8 +245,11 @@
         }
       },
       "Lohit": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 1
         }
       },
@@ -272,8 +275,11 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 5,
+          "confirmed": 3,
           "recovered": 2
         }
       },
@@ -6245,7 +6251,7 @@
     },
     "meta": {
       "last_updated": "2020-06-14T19:04:49+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 548 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day."
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
     },
     "total": {
       "confirmed": 7436
