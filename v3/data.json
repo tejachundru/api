@@ -4052,7 +4052,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 5,
+      "tested": 592
     },
     "districts": {
       "Aizawl": {
@@ -4113,14 +4114,14 @@
     "meta": {
       "last_updated": "2020-06-15T07:24:49+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1362020-500pm-1462020-500-pm"
+        "last_updated": "2020-06-15",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1462020-500pm-1562020-500-pm"
       }
     },
     "total": {
       "confirmed": 117,
       "recovered": 1,
-      "tested": 4327
+      "tested": 4919
     }
   },
   "NL": {
@@ -4510,7 +4511,8 @@
     "delta": {
       "confirmed": 127,
       "deceased": 4,
-      "recovered": 87
+      "recovered": 87,
+      "tested": 6474
     },
     "districts": {
       "Amritsar": {
@@ -4736,21 +4738,22 @@
     "meta": {
       "last_updated": "2020-06-15T20:16:48+05:30",
       "tested": {
-        "last_updated": "2020-06-14"
+        "last_updated": "2020-06-15",
+        "source": "https://t.me/indiacovid/7338?single"
       }
     },
     "total": {
       "confirmed": 3267,
       "deceased": 71,
       "recovered": 2443,
-      "tested": 182225
+      "tested": 188699
     }
   },
   "PY": {
     "delta": {
       "confirmed": 8,
       "recovered": 4,
-      "tested": 478
+      "tested": 165
     },
     "districts": {
       "Karaikal": {
@@ -4781,7 +4784,7 @@
       "last_updated": "2020-06-15T18:15:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
-        "source": "https://t.me/indiacovid/7320?single"
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "total": {
@@ -5170,6 +5173,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "tested": 98
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -5191,14 +5197,13 @@
     "meta": {
       "last_updated": "2020-06-14T14:39:51+05:30",
       "tested": {
-        "last_updated": "2020-06-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/458"
+        "last_updated": "2020-06-15"
       }
     },
     "total": {
       "confirmed": 68,
       "recovered": 5,
-      "tested": 5664
+      "tested": 5762
     }
   },
   "TG": {
