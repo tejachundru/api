@@ -6634,8 +6634,11 @@
         }
       },
       "Pilibhit": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 83,
+          "confirmed": 84,
           "recovered": 46
         }
       },
@@ -6780,11 +6783,9 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 1,
           "deceased": 1
         },
         "total": {
-          "confirmed": 1,
           "deceased": 1
         }
       },

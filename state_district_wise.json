@@ -8825,12 +8825,12 @@
       },
       "Pilibhit": {
         "notes": "",
-        "active": 37,
-        "confirmed": 83,
+        "active": 38,
+        "confirmed": 84,
         "deceased": 0,
         "recovered": 46,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -9029,8 +9029,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": -1,
+        "confirmed": 0,
         "deceased": 1,
         "recovered": 0,
         "delta": {
