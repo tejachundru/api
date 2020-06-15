@@ -3563,12 +3563,12 @@
       },
       "Bengaluru Urban": {
         "notes": "",
-        "active": 359,
-        "confirmed": 719,
+        "active": 365,
+        "confirmed": 725,
         "deceased": 32,
         "recovered": 327,
         "delta": {
-          "confirmed": 29,
+          "confirmed": 35,
           "deceased": 0,
           "recovered": 0
         }
@@ -3647,12 +3647,12 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 26,
-        "confirmed": 226,
+        "active": 27,
+        "confirmed": 227,
         "deceased": 6,
         "recovered": 194,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3803,24 +3803,24 @@
       },
       "Ramanagara": {
         "notes": "",
-        "active": 18,
-        "confirmed": 19,
+        "active": 20,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Shivamogga": {
         "notes": "",
-        "active": 48,
-        "confirmed": 91,
+        "active": 51,
+        "confirmed": 94,
         "deceased": 0,
         "recovered": 43,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3887,8 +3887,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 11,
-        "confirmed": 12,
+        "active": -1,
+        "confirmed": 0,
         "deceased": 1,
         "recovered": 0,
         "delta": {

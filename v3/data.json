@@ -2187,7 +2187,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T18:52:50+05:30",
+      "last_updated": "2020-06-15T18:56:51+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/diprjk/status/1272178184402792449"
@@ -2241,10 +2241,10 @@
       },
       "Bengaluru Urban": {
         "delta": {
-          "confirmed": 29
+          "confirmed": 35
         },
         "total": {
-          "confirmed": 719,
+          "confirmed": 725,
           "deceased": 32,
           "migrated": 1,
           "recovered": 327
@@ -2297,8 +2297,11 @@
         }
       },
       "Davanagere": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 226,
+          "confirmed": 227,
           "deceased": 6,
           "recovered": 194
         }
@@ -2400,14 +2403,20 @@
         }
       },
       "Ramanagara": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 19,
+          "confirmed": 21,
           "recovered": 1
         }
       },
       "Shivamogga": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 91,
+          "confirmed": 94,
           "recovered": 43
         }
       },
@@ -2426,14 +2435,6 @@
           "confirmed": 1028,
           "deceased": 1,
           "recovered": 714
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 12
-        },
-        "total": {
-          "confirmed": 12
         }
       },
       "Uttara Kannada": {
@@ -2464,7 +2465,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T18:52:49+05:30",
+      "last_updated": "2020-06-15T18:56:49+05:30",
       "notes": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-14",
@@ -5103,7 +5104,7 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-15T18:52:46+05:30",
+      "last_updated": "2020-06-15T18:56:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
