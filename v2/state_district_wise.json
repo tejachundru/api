@@ -4443,27 +4443,27 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 404,
-        "confirmed": 425,
+        "active": 406,
+        "confirmed": 428,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Leh",
         "notes": "",
-        "active": 64,
-        "confirmed": 124,
+        "active": 66,
+        "confirmed": 127,
         "deceased": 1,
-        "recovered": 59,
+        "recovered": 60,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
