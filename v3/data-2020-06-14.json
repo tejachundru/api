@@ -1028,18 +1028,13 @@
     },
     "districts": {
       "Chandigarh": {
-        "total": {
-          "confirmed": 350,
-          "deceased": 5,
-          "recovered": 295
-        }
-      },
-      "Unknown": {
         "delta": {
           "confirmed": 2
         },
         "total": {
-          "confirmed": 2
+          "confirmed": 352,
+          "deceased": 5,
+          "recovered": 295
         }
       }
     },
