@@ -1236,13 +1236,13 @@
 	],
 	"statewise": [
 		{
-			"active": "153780",
-			"confirmed": "333023",
+			"active": "153316",
+			"confirmed": "332559",
 			"deaths": "9521",
-			"deltaconfirmed": "16",
+			"deltaconfirmed": "-448",
 			"deltadeaths": "1",
 			"deltarecovered": "-8",
-			"lastupdatedtime": "15/06/2020 09:34:46",
+			"lastupdatedtime": "15/06/2020 09:38:46",
 			"migratedother": "39",
 			"recovered": "169683",
 			"state": "Total",
@@ -1362,10 +1362,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "7436",
-			"confirmed": "7436",
+			"active": "6972",
+			"confirmed": "6972",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-464",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "14/06/2020 19:04:49",
@@ -1373,7 +1373,7 @@
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. "
+			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 464 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day."
 		},
 		{
 			"active": "2951",
@@ -1718,7 +1718,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/06/2020 09:34:48",
+			"lastupdatedtime": "15/06/2020 09:38:49",
 			"migratedother": "0",
 			"recovered": "33",
 			"state": "Andaman and Nicobar Islands",

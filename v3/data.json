@@ -26,7 +26,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T09:34:48+05:30",
+      "last_updated": "2020-06-15T09:38:49+05:30",
       "tested": {
         "last_updated": "2020-06-12",
         "source": "https://dhs.andaman.gov.in/NewEvents/293.pdf"
@@ -4568,19 +4568,19 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16,
+      "confirmed": -448,
       "deceased": 1,
       "recovered": -8
     },
     "meta": {
-      "last_updated": "2020-06-15T09:34:46+05:30",
+      "last_updated": "2020-06-15T09:38:46+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
       }
     },
     "total": {
-      "confirmed": 333023,
+      "confirmed": 332559,
       "deceased": 9521,
       "migrated": 39,
       "recovered": 169683,
@@ -4588,12 +4588,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -464
+    },
     "meta": {
       "last_updated": "2020-06-14T19:04:49+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 464 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day."
     },
     "total": {
-      "confirmed": 7436
+      "confirmed": 6972
     }
   },
   "UP": {
