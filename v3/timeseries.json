@@ -14575,13 +14575,13 @@
         "confirmed": 161,
         "deceased": 3,
         "recovered": 215,
-        "tested": 5131
+        "tested": 5253
       },
       "total": {
         "confirmed": 5202,
         "deceased": 62,
         "recovered": 2604,
-        "tested": 271294
+        "tested": 271416
       }
     }
   },
@@ -27357,13 +27357,14 @@
       "delta": {
         "confirmed": 287,
         "deceased": 9,
-        "recovered": 219
+        "recovered": 219,
+        "tested": 10376
       },
       "total": {
         "confirmed": 12981,
         "deceased": 301,
         "recovered": 9785,
-        "tested": 598920
+        "tested": 609296
       }
     }
   },
