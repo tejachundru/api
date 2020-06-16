@@ -2530,10 +2530,13 @@
         }
       },
       "Rajouri": {
+        "delta": {
+          "recovered": -1
+        },
         "total": {
           "confirmed": 66,
           "deceased": 1,
-          "recovered": 13
+          "recovered": 12
         }
       },
       "Ramban": {
@@ -2558,11 +2561,11 @@
       "Samba": {
         "delta": {
           "confirmed": 6,
-          "recovered": 1
+          "recovered": 2
         },
         "total": {
           "confirmed": 105,
-          "recovered": 29
+          "recovered": 30
         }
       },
       "Shopiyan": {
