@@ -928,6 +928,13 @@
           "recovered": 26
         }
       },
+      "Unknown": {
+        "total": {
+          "confirmed": 9,
+          "deceased": 3,
+          "recovered": 2
+        }
+      },
       "Uttar Bastar Kanker": {
         "total": {
           "confirmed": 26,
@@ -936,16 +943,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T21:40:37+05:30",
+      "last_updated": "2020-06-16T08:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/HealthCgGov/status/1272554463480311809?s=09"
       }
     },
     "total": {
-      "confirmed": 1706,
-      "deceased": 6,
-      "recovered": 833,
+      "confirmed": 1715,
+      "deceased": 9,
+      "recovered": 835,
       "tested": 107172
     }
   },
@@ -4570,17 +4577,17 @@
       "confirmed": 7
     },
     "meta": {
-      "last_updated": "2020-06-16T07:40:46+05:30",
+      "last_updated": "2020-06-16T08:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 343051,
-      "deceased": 9915,
+      "confirmed": 343060,
+      "deceased": 9918,
       "migrated": 44,
-      "recovered": 180320,
+      "recovered": 180322,
       "tested": 5774133
     }
   },
