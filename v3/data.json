@@ -817,6 +817,7 @@
       "Dhamtari": {
         "total": {
           "confirmed": 8,
+          "deceased": 1,
           "recovered": 5
         }
       },
@@ -842,7 +843,7 @@
       "Janjgir Champa": {
         "total": {
           "confirmed": 136,
-          "recovered": 34
+          "recovered": 37
         }
       },
       "Jashpur": {
@@ -865,7 +866,7 @@
       "Korba": {
         "total": {
           "confirmed": 255,
-          "recovered": 79
+          "recovered": 76
         }
       },
       "Koriya": {
@@ -877,6 +878,7 @@
       "Mahasamund": {
         "total": {
           "confirmed": 72,
+          "deceased": 1,
           "recovered": 56
         }
       },
@@ -895,6 +897,7 @@
       "Raigarh": {
         "total": {
           "confirmed": 68,
+          "deceased": 1,
           "recovered": 30
         }
       },
@@ -931,7 +934,6 @@
       "Unknown": {
         "total": {
           "confirmed": 9,
-          "deceased": 3,
           "recovered": 2
         }
       },

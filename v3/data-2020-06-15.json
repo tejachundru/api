@@ -1081,8 +1081,12 @@
         }
       },
       "Dhamtari": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 8,
+          "deceased": 1,
           "recovered": 5
         }
       },
@@ -1111,11 +1115,11 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "recovered": 10
+          "recovered": 13
         },
         "total": {
           "confirmed": 136,
-          "recovered": 34
+          "recovered": 37
         }
       },
       "Jashpur": {
@@ -1143,11 +1147,12 @@
       },
       "Korba": {
         "delta": {
-          "confirmed": 16
+          "confirmed": 16,
+          "recovered": -3
         },
         "total": {
           "confirmed": 255,
-          "recovered": 79
+          "recovered": 76
         }
       },
       "Koriya": {
@@ -1162,10 +1167,12 @@
       },
       "Mahasamund": {
         "delta": {
+          "deceased": 1,
           "recovered": 7
         },
         "total": {
           "confirmed": 72,
+          "deceased": 1,
           "recovered": 56
         }
       },
@@ -1185,8 +1192,12 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 68,
+          "deceased": 1,
           "recovered": 30
         }
       },
@@ -1237,9 +1248,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": -3
+        },
         "total": {
           "confirmed": 9,
-          "deceased": 3,
           "recovered": 2
         }
       },
