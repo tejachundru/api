@@ -2379,7 +2379,7 @@
   },
   "JK": {
     "delta": {
-      "confirmed": 161,
+      "confirmed": 179,
       "deceased": 3,
       "recovered": 215,
       "tested": 5253
@@ -2590,6 +2590,14 @@
           "deceased": 1,
           "recovered": 39
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 18
+        },
+        "total": {
+          "confirmed": 18
+        }
       }
     },
     "meta": {
@@ -2599,7 +2607,7 @@
       }
     },
     "total": {
-      "confirmed": 5202,
+      "confirmed": 5220,
       "deceased": 62,
       "recovered": 2604,
       "tested": 271416
@@ -6140,7 +6148,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10014,
+      "confirmed": 10032,
       "deceased": 396,
       "migrated": 3,
       "recovered": 10637,
@@ -6153,7 +6161,7 @@
       }
     },
     "total": {
-      "confirmed": 343053,
+      "confirmed": 343071,
       "deceased": 9918,
       "migrated": 44,
       "recovered": 180322,

@@ -1937,17 +1937,22 @@
           "deceased": 1,
           "recovered": 39
         }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": 18
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:12:55+05:30",
+      "last_updated": "2020-06-16T08:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/indiacovid/7364?single"
       }
     },
     "total": {
-      "confirmed": 5202,
+      "confirmed": 5220,
       "deceased": 62,
       "recovered": 2604,
       "tested": 271416
@@ -4577,14 +4582,14 @@
       "confirmed": 7
     },
     "meta": {
-      "last_updated": "2020-06-16T08:40:46+05:30",
+      "last_updated": "2020-06-16T08:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 343060,
+      "confirmed": 343078,
       "deceased": 9918,
       "migrated": 44,
       "recovered": 180322,
