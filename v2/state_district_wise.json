@@ -1868,10 +1868,10 @@
       {
         "district": "Mahasamund",
         "notes": "",
-        "active": 15,
+        "active": 16,
         "confirmed": 72,
         "deceased": 1,
-        "recovered": 56,
+        "recovered": 55,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2000,19 +2000,6 @@
         "notes": "",
         "active": 0,
         "confirmed": 3,
-        "deceased": 0,
-        "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -3,
-        "confirmed": 0,
         "deceased": 0,
         "recovered": 3,
         "delta": {

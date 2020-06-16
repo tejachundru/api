@@ -1021,7 +1021,7 @@
   "CT": {
     "delta": {
       "confirmed": 44,
-      "recovered": 116,
+      "recovered": 112,
       "tested": 3277
     },
     "districts": {
@@ -1169,12 +1169,12 @@
       "Mahasamund": {
         "delta": {
           "deceased": 1,
-          "recovered": 7
+          "recovered": 6
         },
         "total": {
           "confirmed": 72,
           "deceased": 1,
-          "recovered": 56
+          "recovered": 55
         }
       },
       "Mungeli": {
@@ -1246,10 +1246,7 @@
         "delta": {
           "confirmed": -9,
           "deceased": -3,
-          "recovered": 1
-        },
-        "total": {
-          "recovered": 3
+          "recovered": -2
         }
       },
       "Uttar Bastar Kanker": {
@@ -1268,7 +1265,7 @@
     "total": {
       "confirmed": 1715,
       "deceased": 9,
-      "recovered": 835,
+      "recovered": 831,
       "tested": 107172
     }
   },
@@ -6152,7 +6149,7 @@
       "confirmed": 10032,
       "deceased": 396,
       "migrated": 3,
-      "recovered": 10637,
+      "recovered": 10633,
       "tested": 115519
     },
     "meta": {
@@ -6165,7 +6162,7 @@
       "confirmed": 343071,
       "deceased": 9918,
       "migrated": 43,
-      "recovered": 180322,
+      "recovered": 180318,
       "tested": 5774133
     }
   },
