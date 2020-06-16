@@ -3827,14 +3827,14 @@
       },
       "Tumakuru": {
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 42,
         "deceased": 2,
-        "recovered": 30,
+        "recovered": 31,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Udupi": {
@@ -3887,10 +3887,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -99,
+        "active": -100,
         "confirmed": 0,
         "deceased": 1,
-        "recovered": 98,
+        "recovered": 99,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
