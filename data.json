@@ -1251,7 +1251,7 @@
 			"deltaconfirmed": "944",
 			"deltadeaths": "1",
 			"deltarecovered": "13",
-			"lastupdatedtime": "16/06/2020 11:23:47",
+			"lastupdatedtime": "16/06/2020 11:35:50",
 			"migratedother": "43",
 			"recovered": "180335",
 			"state": "Total",
@@ -1335,7 +1335,7 @@
 			"deltaconfirmed": "115",
 			"deltadeaths": "1",
 			"deltarecovered": "9",
-			"lastupdatedtime": "16/06/2020 11:23:50",
+			"lastupdatedtime": "16/06/2020 11:35:52",
 			"migratedother": "0",
 			"recovered": "9794",
 			"state": "Rajasthan",
@@ -3135,6 +3135,20 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "5774133",
 			"updatetimestamp": "15/06/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "",
+			"updatetimestamp": "16/06/2020 09:00:00"
 		}
 	]
 }

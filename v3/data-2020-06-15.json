@@ -1194,12 +1194,13 @@
       },
       "Raigarh": {
         "delta": {
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 11
         },
         "total": {
           "confirmed": 68,
           "deceased": 1,
-          "recovered": 30
+          "recovered": 41
         }
       },
       "Raipur": {
@@ -1223,14 +1224,6 @@
           "recovered": 51
         }
       },
-      "Rayagada": {
-        "delta": {
-          "recovered": 12
-        },
-        "total": {
-          "recovered": 12
-        }
-      },
       "Surajpur": {
         "delta": {
           "recovered": 1
@@ -1252,10 +1245,11 @@
       "Unknown": {
         "delta": {
           "confirmed": -9,
-          "deceased": -3
+          "deceased": -3,
+          "recovered": 1
         },
         "total": {
-          "recovered": 2
+          "recovered": 3
         }
       },
       "Uttar Bastar Kanker": {
