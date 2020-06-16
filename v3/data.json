@@ -4592,7 +4592,7 @@
       "recovered": 4
     },
     "meta": {
-      "last_updated": "2020-06-16T09:09:46+05:30",
+      "last_updated": "2020-06-16T09:42:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
@@ -4601,7 +4601,7 @@
     "total": {
       "confirmed": 343080,
       "deceased": 9918,
-      "migrated": 44,
+      "migrated": 43,
       "recovered": 180326,
       "tested": 5774133
     }
@@ -5228,7 +5228,7 @@
       },
       "Unknown": {
         "total": {
-          "migrated": 2
+          "migrated": 1
         }
       },
       "Uttarkashi": {
@@ -5239,8 +5239,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T00:39:50+05:30",
-      "notes": "13 Migrated cases reduced from Active count",
+      "last_updated": "2020-06-16T09:42:48+05:30",
+      "notes": "12 Migrated cases reduced from Active count",
       "tested": {
         "last_updated": "2020-06-15"
       }
@@ -5248,7 +5248,7 @@
     "total": {
       "confirmed": 1845,
       "deceased": 24,
-      "migrated": 13,
+      "migrated": 12,
       "recovered": 1189,
       "tested": 46573
     }
