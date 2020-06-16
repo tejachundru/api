@@ -1945,7 +1945,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T08:52:49+05:30",
+      "last_updated": "2020-06-16T09:02:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/indiacovid/7364?single"
@@ -3218,6 +3218,10 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 4
+    },
     "districts": {
       "Dimapur": {
         "total": {
@@ -3260,8 +3264,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "total": {
-          "recovered": 88
+          "confirmed": 2,
+          "recovered": 92
         }
       },
       "Wokha": {
@@ -3276,15 +3285,15 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T20:20:58+05:30",
+      "last_updated": "2020-06-16T09:02:52+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/HealthNagaland/status/1272538281616404482/photo/1"
       }
     },
     "total": {
-      "confirmed": 177,
-      "recovered": 88,
+      "confirmed": 179,
+      "recovered": 92,
       "tested": 7132
     }
   },
@@ -4579,20 +4588,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 7
+      "confirmed": 9,
+      "recovered": 4
     },
     "meta": {
-      "last_updated": "2020-06-16T08:52:46+05:30",
+      "last_updated": "2020-06-16T09:02:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 343078,
+      "confirmed": 343080,
       "deceased": 9918,
       "migrated": 44,
-      "recovered": 180322,
+      "recovered": 180326,
       "tested": 5774133
     }
   },
