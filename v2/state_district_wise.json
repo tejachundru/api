@@ -9810,14 +9810,14 @@
       {
         "district": "Almora",
         "notes": "",
-        "active": 2,
-        "confirmed": 75,
+        "active": 11,
+        "confirmed": 85,
         "deceased": 1,
-        "recovered": 72,
+        "recovered": 73,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -9862,25 +9862,25 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 193,
-        "confirmed": 481,
+        "active": 201,
+        "confirmed": 493,
         "deceased": 16,
-        "recovered": 263,
+        "recovered": 267,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 126,
-        "confirmed": 211,
+        "active": 134,
+        "confirmed": 219,
         "deceased": 0,
         "recovered": 83,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -9888,25 +9888,25 @@
       {
         "district": "Nainital",
         "notes": "",
-        "active": 116,
-        "confirmed": 338,
-        "deceased": 1,
+        "active": 117,
+        "confirmed": 340,
+        "deceased": 2,
         "recovered": 221,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 2,
+          "deceased": 1,
           "recovered": 0
         }
       },
       {
         "district": "Pauri Garhwal",
         "notes": "",
-        "active": 33,
-        "confirmed": 65,
+        "active": 35,
+        "confirmed": 67,
         "deceased": 3,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -9914,12 +9914,12 @@
       {
         "district": "Pithoragarh",
         "notes": "",
-        "active": 26,
-        "confirmed": 53,
+        "active": 33,
+        "confirmed": 60,
         "deceased": 0,
         "recovered": 27,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -9940,12 +9940,12 @@
       {
         "district": "Tehri Garhwal",
         "notes": "",
-        "active": 48,
-        "confirmed": 294,
+        "active": 62,
+        "confirmed": 308,
         "deceased": 0,
         "recovered": 246,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -9953,12 +9953,12 @@
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 21,
-        "confirmed": 114,
+        "active": 29,
+        "confirmed": 122,
         "deceased": 2,
         "recovered": 91,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -9966,12 +9966,12 @@
       {
         "district": "Uttarkashi",
         "notes": "",
-        "active": 12,
-        "confirmed": 34,
+        "active": 16,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
