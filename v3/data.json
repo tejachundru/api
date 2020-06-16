@@ -535,7 +535,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T15:12:48+05:30",
+      "last_updated": "2020-06-16T15:22:49+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-15",
@@ -1656,6 +1656,11 @@
     }
   },
   "HR": {
+    "delta": {
+      "confirmed": 110,
+      "deceased": 3,
+      "recovered": 2
+    },
     "districts": {
       "Ambala": {
         "total": {
@@ -1665,14 +1670,22 @@
         }
       },
       "Bhiwani": {
+        "delta": {
+          "confirmed": 5,
+          "deceased": 2
+        },
         "total": {
-          "confirmed": 127,
+          "confirmed": 132,
+          "deceased": 2,
           "recovered": 50
         }
       },
       "Charkhi Dadri": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 47,
+          "confirmed": 53,
           "deceased": 1,
           "recovered": 7
         }
@@ -1685,8 +1698,11 @@
         }
       },
       "Fatehabad": {
+        "delta": {
+          "confirmed": 4
+        },
         "total": {
-          "confirmed": 75,
+          "confirmed": 79,
           "recovered": 39
         }
       },
@@ -1697,8 +1713,11 @@
         }
       },
       "Gurugram": {
+        "delta": {
+          "confirmed": 75
+        },
         "total": {
-          "confirmed": 3477,
+          "confirmed": 3552,
           "deceased": 37,
           "recovered": 1776
         }
@@ -1717,16 +1736,24 @@
         }
       },
       "Jhajjar": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 141,
+          "confirmed": 143,
           "deceased": 2,
-          "recovered": 104
+          "recovered": 106
         }
       },
       "Jind": {
+        "delta": {
+          "confirmed": 1,
+          "deceased": 1
+        },
         "total": {
-          "confirmed": 73,
-          "deceased": 3,
+          "confirmed": 74,
+          "deceased": 4,
           "recovered": 26
         }
       },
@@ -1750,14 +1777,20 @@
         }
       },
       "Mahendragarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 135,
+          "confirmed": 136,
           "recovered": 90
         }
       },
       "Nuh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 116,
+          "confirmed": 117,
           "recovered": 101
         }
       },
@@ -1775,8 +1808,11 @@
         }
       },
       "Panipat": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 97,
+          "confirmed": 105,
           "deceased": 5,
           "recovered": 70
         }
@@ -1788,8 +1824,11 @@
         }
       },
       "Rohtak": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
-          "confirmed": 321,
+          "confirmed": 328,
           "deceased": 6,
           "recovered": 128
         }
@@ -1815,16 +1854,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T22:36:48+05:30",
+      "last_updated": "2020-06-16T15:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2015-06-2020%20Evening.pdf"
       }
     },
     "total": {
-      "confirmed": 7722,
-      "deceased": 100,
-      "recovered": 3565,
+      "confirmed": 7832,
+      "deceased": 103,
+      "recovered": 3567,
       "tested": 189914
     }
   },
@@ -2805,6 +2844,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "recovered": 2
+    },
     "districts": {
       "East Khasi Hills": {
         "total": {
@@ -2841,9 +2883,12 @@
         }
       },
       "West Garo Hills": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 5,
-          "recovered": 2
+          "recovered": 4
         }
       },
       "West Jaintia Hills": {
@@ -2858,7 +2903,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-14T09:41:50+05:30",
+      "last_updated": "2020-06-16T15:22:51+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/487"
@@ -2867,7 +2912,7 @@
     "total": {
       "confirmed": 44,
       "deceased": 1,
-      "recovered": 26,
+      "recovered": 28,
       "tested": 13353
     }
   },
@@ -4870,23 +4915,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1346,
-      "deceased": 3,
-      "recovered": 142,
+      "confirmed": 1456,
+      "deceased": 6,
+      "recovered": 146,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T15:12:46+05:30",
+      "last_updated": "2020-06-16T15:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 344417,
-      "deceased": 9921,
+      "confirmed": 344527,
+      "deceased": 9924,
       "migrated": 43,
-      "recovered": 180460,
+      "recovered": 180464,
       "tested": 5921069
     }
   },
