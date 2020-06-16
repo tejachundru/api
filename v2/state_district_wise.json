@@ -1219,8 +1219,8 @@
       {
         "district": "East Champaran",
         "notes": "",
-        "active": 31,
-        "confirmed": 154,
+        "active": 32,
+        "confirmed": 155,
         "deceased": 1,
         "recovered": 122,
         "delta": {
@@ -1589,19 +1589,6 @@
         "recovered": 73,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
