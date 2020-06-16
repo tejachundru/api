@@ -1702,7 +1702,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T20:22:48+05:30",
+      "last_updated": "2020-06-16T20:24:47+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/484?single"
@@ -4474,7 +4474,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T20:22:50+05:30",
+      "last_updated": "2020-06-16T20:24:50+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/indiacovid/7338?single"
@@ -4838,7 +4838,8 @@
   },
   "SK": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "recovered": 3
     },
     "districts": {
       "East Sikkim": {
@@ -4855,6 +4856,14 @@
           "confirmed": 23
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 3
+        },
+        "total": {
+          "recovered": 3
+        }
+      },
       "West Sikkim": {
         "total": {
           "confirmed": 16
@@ -4862,7 +4871,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T18:21:53+05:30",
+      "last_updated": "2020-06-16T20:34:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/488"
@@ -4870,7 +4879,7 @@
     },
     "total": {
       "confirmed": 72,
-      "recovered": 5,
+      "recovered": 8,
       "tested": 5762
     }
   },
@@ -5598,11 +5607,11 @@
     "delta": {
       "confirmed": 4723,
       "deceased": 97,
-      "recovered": 3820,
+      "recovered": 3823,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T20:22:46+05:30",
+      "last_updated": "2020-06-16T20:34:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
@@ -5612,7 +5621,7 @@
       "confirmed": 347794,
       "deceased": 10015,
       "migrated": 43,
-      "recovered": 184138,
+      "recovered": 184141,
       "tested": 5921069
     }
   },
