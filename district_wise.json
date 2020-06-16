@@ -8299,11 +8299,11 @@
 			"statecode": "NL"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "8",
+			"confirmed": "8",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kohima",
@@ -8425,11 +8425,11 @@
 			"statecode": "NL"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "8",
+			"confirmed": "8",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Wokha",
@@ -14167,8 +14167,8 @@
 			"statecode": "MZ"
 		},
 		{
-			"active": "-101",
-			"confirmed": "2",
+			"active": "-103",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
