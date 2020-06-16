@@ -539,7 +539,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T19:52:52+05:30",
+      "last_updated": "2020-06-16T19:53:52+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "tested": {
         "last_updated": "2020-06-15",
@@ -2556,20 +2556,13 @@
       },
       "Raichur": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 46
         },
         "total": {
           "confirmed": 409,
           "deceased": 2,
-          "recovered": 96
-        }
-      },
-      "Raichuru": {
-        "delta": {
-          "recovered": 46
-        },
-        "total": {
-          "recovered": 46
+          "recovered": 142
         }
       },
       "Ramanagara": {
@@ -2632,27 +2625,20 @@
           "recovered": 182
         }
       },
-      "Yadagiri": {
-        "delta": {
-          "recovered": 50
-        },
-        "total": {
-          "recovered": 50
-        }
-      },
       "Yadgir": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 50
         },
         "total": {
           "confirmed": 828,
           "deceased": 1,
-          "recovered": 305
+          "recovered": 355
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T19:52:50+05:30",
+      "last_updated": "2020-06-16T20:01:48+05:30",
       "notes": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "tested": {
         "last_updated": "2020-06-15",
@@ -3336,7 +3322,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T19:52:54+05:30",
+      "last_updated": "2020-06-16T19:53:55+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/DiprManipur/status/1272537968004100097?s=19"
@@ -5352,7 +5338,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T19:52:48+05:30",
+      "last_updated": "2020-06-16T19:53:48+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "tested": {
         "last_updated": "2020-06-15",
@@ -5440,7 +5426,7 @@
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T19:52:46+05:30",
+      "last_updated": "2020-06-16T20:01:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
