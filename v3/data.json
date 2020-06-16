@@ -2481,6 +2481,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 15140
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -2739,8 +2742,8 @@
       "last_updated": "2020-06-15T22:19:48+05:30",
       "notes": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://twitter.com/Maha_MEDD/status/1272412835491053568?s=19"
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/Maha_MEDD/status/1272769236868362242?s=19"
       }
     },
     "total": {
@@ -2748,7 +2751,7 @@
       "deceased": 4128,
       "migrated": 13,
       "recovered": 56049,
-      "tested": 671348
+      "tested": 686488
     }
   },
   "ML": {
@@ -3440,7 +3443,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 108
+      "confirmed": 108,
+      "tested": 2988
     },
     "districts": {
       "Angul": {
@@ -3688,15 +3692,15 @@
       "last_updated": "2020-06-16T10:44:50+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
-        "last_updated": "2020-06-15",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/475?single"
+        "last_updated": "2020-06-16",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/494?single"
       }
     },
     "total": {
       "confirmed": 4163,
       "deceased": 14,
       "recovered": 2854,
-      "tested": 202513
+      "tested": 205501
     }
   },
   "PB": {
