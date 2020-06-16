@@ -12,7 +12,7 @@
       },
       "South Andaman": {
         "total": {
-          "confirmed": 32,
+          "confirmed": 35,
           "recovered": 32
         }
       },
@@ -21,7 +21,7 @@
           "confirmed": 3
         },
         "total": {
-          "confirmed": 11
+          "confirmed": 8
         }
       }
     },
@@ -1137,7 +1137,7 @@
         "total": {
           "confirmed": 68,
           "deceased": 1,
-          "recovered": 41
+          "recovered": 53
         }
       },
       "Raipur": {
@@ -1157,6 +1157,11 @@
         "total": {
           "confirmed": 89,
           "recovered": 51
+        }
+      },
+      "Rayagada": {
+        "total": {
+          "recovered": -12
         }
       },
       "Surajpur": {
@@ -1697,7 +1702,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T20:12:49+05:30",
+      "last_updated": "2020-06-16T20:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/484?single"
@@ -4270,9 +4275,12 @@
         }
       },
       "Barnala": {
+        "delta": {
+          "deceased": -1
+        },
         "total": {
           "confirmed": 31,
-          "deceased": 2,
+          "deceased": 1,
           "recovered": 24
         }
       },
@@ -4455,25 +4463,18 @@
       },
       "Tarn Taran": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": -1
         },
         "total": {
           "confirmed": 169,
-          "deceased": 2,
+          "deceased": 1,
           "recovered": 159
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "deceased": -2
-        },
-        "total": {
-          "deceased": -2
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T20:12:52+05:30",
+      "last_updated": "2020-06-16T20:22:50+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/indiacovid/7338?single"
@@ -5601,7 +5602,7 @@
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T20:12:46+05:30",
+      "last_updated": "2020-06-16T20:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"

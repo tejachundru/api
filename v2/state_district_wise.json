@@ -51,8 +51,8 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 0,
-        "confirmed": 32,
+        "active": 3,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 32,
         "delta": {
@@ -64,8 +64,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1894,10 +1894,10 @@
       {
         "district": "Raigarh",
         "notes": "",
-        "active": 26,
+        "active": 14,
         "confirmed": 68,
         "deceased": 1,
-        "recovered": 41,
+        "recovered": 53,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1989,6 +1989,19 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 12,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": -12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2164,6 +2177,19 @@
     "statecode": "DN",
     "districtData": [
       {
+        "district": "Other State",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Dadra and Nagar Haveli",
         "notes": "",
         "active": 28,
@@ -2194,19 +2220,6 @@
         "notes": "",
         "active": 2,
         "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -6212,6 +6225,19 @@
     "statecode": "NL",
     "districtData": [
       {
+        "district": "Others",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Dimapur",
         "notes": "",
         "active": 28,
@@ -6357,8 +6383,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -99,
-        "confirmed": 4,
+        "active": -101,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 103,
         "delta": {
@@ -6798,13 +6824,13 @@
       {
         "district": "Barnala",
         "notes": "",
-        "active": 5,
+        "active": 6,
         "confirmed": 31,
-        "deceased": 2,
+        "deceased": 1,
         "recovered": 24,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": -1,
           "recovered": 0
         }
       },
@@ -7058,26 +7084,13 @@
       {
         "district": "Tarn Taran",
         "notes": "",
-        "active": 8,
+        "active": 9,
         "confirmed": 169,
-        "deceased": 2,
+        "deceased": 1,
         "recovered": 159,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 0,
-        "deceased": -2,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "deceased": -1,
           "recovered": 0
         }
       }
