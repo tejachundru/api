@@ -3534,35 +3534,39 @@
   "OR": {
     "delta": {
       "confirmed": 108,
+      "recovered": 120,
       "tested": 2988
     },
     "districts": {
       "Angul": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 48,
-          "recovered": 31
+          "recovered": 33
         }
       },
       "Balangir": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 5
         },
         "total": {
           "confirmed": 144,
-          "recovered": 121
+          "recovered": 126
         }
       },
       "Balasore": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 4
         },
         "total": {
           "confirmed": 216,
           "deceased": 1,
-          "recovered": 190
+          "recovered": 194
         }
       },
       "Bargarh": {
@@ -3588,12 +3592,13 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 15
         },
         "total": {
           "confirmed": 343,
           "deceased": 1,
-          "recovered": 165
+          "recovered": 180
         }
       },
       "Deogarh": {
@@ -3603,9 +3608,12 @@
         }
       },
       "Dhenkanal": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 52,
-          "recovered": 34
+          "recovered": 38
         }
       },
       "Gajapati": {
@@ -3619,12 +3627,13 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 3
         },
         "total": {
           "confirmed": 698,
           "deceased": 6,
-          "recovered": 613
+          "recovered": 616
         }
       },
       "Jagatsinghpur": {
@@ -3637,79 +3646,99 @@
         }
       },
       "Jajpur": {
+        "delta": {
+          "recovered": 19
+        },
         "total": {
           "confirmed": 341,
-          "recovered": 293
+          "recovered": 312
         }
       },
       "Jharsuguda": {
+        "delta": {
+          "recovered": 4
+        },
         "total": {
           "confirmed": 18,
-          "recovered": 9
+          "recovered": 13
         }
       },
       "Kalahandi": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 58,
-          "recovered": 25
+          "recovered": 27
         }
       },
       "Kandhamal": {
+        "delta": {
+          "recovered": 6
+        },
         "total": {
           "confirmed": 137,
-          "recovered": 30
+          "recovered": 36
         }
       },
       "Kendrapara": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 4
         },
         "total": {
           "confirmed": 185,
-          "recovered": 163
+          "recovered": 167
         }
       },
       "Kendujhar": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 3
         },
         "total": {
           "confirmed": 75,
-          "recovered": 30
+          "recovered": 33
         }
       },
       "Khordha": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 11
         },
         "total": {
           "confirmed": 369,
           "deceased": 6,
-          "recovered": 259
+          "recovered": 270
         }
       },
       "Koraput": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 17,
-          "recovered": 14
+          "recovered": 16
         }
       },
       "Malkangiri": {
         "delta": {
-          "confirmed": 21
+          "confirmed": 21,
+          "recovered": 1
         },
         "total": {
           "confirmed": 47,
-          "recovered": 21
+          "recovered": 22
         }
       },
       "Mayurbhanj": {
+        "delta": {
+          "recovered": 11
+        },
         "total": {
           "confirmed": 121,
-          "recovered": 50
+          "recovered": 61
         }
       },
       "Nabarangapur": {
@@ -3719,15 +3748,21 @@
         }
       },
       "Nayagarh": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 112,
-          "recovered": 92
+          "recovered": 97
         }
       },
       "Nuapada": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 74,
-          "recovered": 62
+          "recovered": 71
         }
       },
       "Others": {
@@ -3743,11 +3778,12 @@
       },
       "Puri": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 15,
+          "recovered": 3
         },
         "total": {
           "confirmed": 170,
-          "recovered": 100
+          "recovered": 103
         }
       },
       "Rayagada": {
@@ -3770,16 +3806,17 @@
       },
       "Sundargarh": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 7
         },
         "total": {
           "confirmed": 132,
-          "recovered": 111
+          "recovered": 118
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T10:44:50+05:30",
+      "last_updated": "2020-06-16T17:06:47+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "tested": {
         "last_updated": "2020-06-16",
@@ -3789,7 +3826,7 @@
     "total": {
       "confirmed": 4163,
       "deceased": 14,
-      "recovered": 2854,
+      "recovered": 2974,
       "tested": 205501
     }
   },
@@ -4912,11 +4949,11 @@
     "delta": {
       "confirmed": 1523,
       "deceased": 7,
-      "recovered": 151,
+      "recovered": 271,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T15:54:46+05:30",
+      "last_updated": "2020-06-16T17:06:45+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
@@ -4926,7 +4963,7 @@
       "confirmed": 344594,
       "deceased": 9925,
       "migrated": 43,
-      "recovered": 180469,
+      "recovered": 180589,
       "tested": 5921069
     }
   },
