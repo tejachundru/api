@@ -4111,6 +4111,11 @@
         "total": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": 4
+        }
       }
     },
     "meta": {
@@ -4120,7 +4125,7 @@
       }
     },
     "total": {
-      "confirmed": 24,
+      "confirmed": 28,
       "recovered": 1,
       "tested": 1991
     }
@@ -5921,7 +5926,7 @@
       }
     },
     "total": {
-      "confirmed": 246599,
+      "confirmed": 246603,
       "deceased": 6945,
       "migrated": 15,
       "recovered": 118657,

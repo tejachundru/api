@@ -2325,7 +2325,7 @@
           "recovered": 95
         },
         "total": {
-          "confirmed": 30,
+          "confirmed": 45,
           "deceased": 1,
           "recovered": 95
         }
@@ -2338,14 +2338,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T00:31:57+05:30",
+      "last_updated": "2020-06-16T07:22:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/FOBGumla/status/1272579760363761665?s=09"
       }
     },
     "total": {
-      "confirmed": 1778,
+      "confirmed": 1793,
       "deceased": 9,
       "recovered": 1000,
       "tested": 108576
@@ -4124,17 +4124,22 @@
         "total": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": 4
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T07:24:49+05:30",
+      "last_updated": "2020-06-16T07:22:51+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1462020-500pm-1562020-500-pm"
       }
     },
     "total": {
-      "confirmed": 117,
+      "confirmed": 121,
       "recovered": 1,
       "tested": 4919
     }
@@ -6030,14 +6035,14 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-16T06:15:46+05:30",
+      "last_updated": "2020-06-16T07:22:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 343029,
+      "confirmed": 343048,
       "deceased": 9915,
       "migrated": 44,
       "recovered": 180320,

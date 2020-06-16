@@ -2179,7 +2179,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 37,
+      "confirmed": 52,
       "recovered": 89,
       "tested": 2199
     },
@@ -2363,6 +2363,14 @@
           "recovered": 99
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 15
+        },
+        "total": {
+          "confirmed": 15
+        }
+      },
       "West Singhbhum": {
         "delta": {
           "confirmed": 1,
@@ -2381,7 +2389,7 @@
       }
     },
     "total": {
-      "confirmed": 1748,
+      "confirmed": 1763,
       "deceased": 8,
       "recovered": 905,
       "tested": 106104
@@ -4280,6 +4288,11 @@
         "total": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "total": {
+          "confirmed": 4
+        }
       }
     },
     "meta": {
@@ -4289,7 +4302,7 @@
       }
     },
     "total": {
-      "confirmed": 112,
+      "confirmed": 116,
       "recovered": 1,
       "tested": 4327
     }
@@ -6182,7 +6195,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11381,
+      "confirmed": 11396,
       "deceased": 321,
       "migrated": 2,
       "recovered": 7356,
@@ -6195,7 +6208,7 @@
       }
     },
     "total": {
-      "confirmed": 333015,
+      "confirmed": 333034,
       "deceased": 9519,
       "migrated": 41,
       "recovered": 169683,
