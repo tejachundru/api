@@ -1374,17 +1374,22 @@
         "total": {
           "confirmed": 2
         }
+      },
+      "Other State": {
+        "total": {
+          "confirmed": 1
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T06:01:50+05:30",
+      "last_updated": "2020-06-16T06:10:48+05:30",
       "tested": {
         "last_updated": "2020-06-14",
         "source": "https://twitter.com/DnhPublicity/status/1272191063860494336"
       }
     },
     "total": {
-      "confirmed": 38,
+      "confirmed": 39,
       "recovered": 2,
       "tested": 18445
     }
@@ -6025,14 +6030,14 @@
       "tested": 115519
     },
     "meta": {
-      "last_updated": "2020-06-16T06:01:46+05:30",
+      "last_updated": "2020-06-16T06:10:46+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
       }
     },
     "total": {
-      "confirmed": 343028,
+      "confirmed": 343029,
       "deceased": 9915,
       "migrated": 44,
       "recovered": 180320,

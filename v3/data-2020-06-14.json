@@ -1365,7 +1365,7 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 3,
+      "confirmed": 4,
       "tested": 796
     },
     "districts": {
@@ -1390,6 +1390,14 @@
         "total": {
           "confirmed": 2
         }
+      },
+      "Other State": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
       }
     },
     "meta": {
@@ -1399,7 +1407,7 @@
       }
     },
     "total": {
-      "confirmed": 38,
+      "confirmed": 39,
       "recovered": 2,
       "tested": 18445
     }
@@ -6174,7 +6182,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11380,
+      "confirmed": 11381,
       "deceased": 321,
       "migrated": 2,
       "recovered": 7356,
@@ -6187,7 +6195,7 @@
       }
     },
     "total": {
-      "confirmed": 333014,
+      "confirmed": 333015,
       "deceased": 9519,
       "migrated": 41,
       "recovered": 169683,
