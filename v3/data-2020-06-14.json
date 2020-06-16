@@ -1038,8 +1038,9 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 112,
-      "recovered": 86,
+      "confirmed": 121,
+      "deceased": 3,
+      "recovered": 88,
       "tested": 2341
     },
     "districts": {
@@ -1250,6 +1251,18 @@
           "recovered": 11
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 9,
+          "deceased": 3,
+          "recovered": 2
+        },
+        "total": {
+          "confirmed": 9,
+          "deceased": 3,
+          "recovered": 2
+        }
+      },
       "Uttar Bastar Kanker": {
         "delta": {
           "recovered": 5
@@ -1267,9 +1280,9 @@
       }
     },
     "total": {
-      "confirmed": 1662,
-      "deceased": 6,
-      "recovered": 717,
+      "confirmed": 1671,
+      "deceased": 9,
+      "recovered": 719,
       "tested": 103895
     }
   },
@@ -6190,10 +6203,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11396,
-      "deceased": 321,
+      "confirmed": 11405,
+      "deceased": 324,
       "migrated": 2,
-      "recovered": 7356,
+      "recovered": 7358,
       "tested": 151432
     },
     "meta": {
@@ -6203,10 +6216,10 @@
       }
     },
     "total": {
-      "confirmed": 333030,
-      "deceased": 9519,
+      "confirmed": 333039,
+      "deceased": 9522,
       "migrated": 41,
-      "recovered": 169683,
+      "recovered": 169685,
       "tested": 5658614
     }
   },
