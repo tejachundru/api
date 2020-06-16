@@ -47,27 +47,37 @@
     },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 28,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 485,
+          "confirmed": 513,
           "deceased": 6,
-          "recovered": 194
+          "recovered": 202
         }
       },
       "Chittoor": {
         "delta": {
-          "deceased": 1
+          "confirmed": 4,
+          "deceased": 1,
+          "recovered": 3
         },
         "total": {
-          "confirmed": 359,
+          "confirmed": 363,
           "deceased": 5,
-          "recovered": 237
+          "recovered": 240
         }
       },
       "East Godavari": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 387,
+          "confirmed": 399,
           "deceased": 5,
-          "recovered": 229
+          "recovered": 234
         }
       },
       "Foreign Evacuees": {
@@ -80,24 +90,36 @@
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 29,
+          "recovered": 13
+        },
         "total": {
-          "confirmed": 642,
+          "confirmed": 671,
           "deceased": 9,
-          "recovered": 435
+          "recovered": 448
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 34,
+          "recovered": 19
+        },
         "total": {
-          "confirmed": 757,
+          "confirmed": 791,
           "deceased": 27,
-          "recovered": 380
+          "recovered": 399
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 56,
+          "recovered": 13
+        },
         "total": {
-          "confirmed": 1036,
+          "confirmed": 1092,
           "deceased": 30,
-          "recovered": 664
+          "recovered": 677
         }
       },
       "Other State": {
@@ -112,19 +134,24 @@
       },
       "Prakasam": {
         "delta": {
-          "deceased": 1
+          "deceased": 1,
+          "recovered": 2
         },
         "total": {
           "confirmed": 103,
           "deceased": 1,
-          "recovered": 86
+          "recovered": 88
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 412,
+          "confirmed": 423,
           "deceased": 4,
-          "recovered": 221
+          "recovered": 223
         }
       },
       "Srikakulam": {
@@ -133,39 +160,43 @@
           "recovered": 18
         }
       },
-      "Unknown": {
+      "Visakhapatnam": {
         "delta": {
-          "confirmed": 193,
-          "recovered": 81
+          "confirmed": 3
         },
         "total": {
-          "confirmed": 193,
-          "recovered": 81
-        }
-      },
-      "Visakhapatnam": {
-        "total": {
-          "confirmed": 220,
+          "confirmed": 223,
           "deceased": 1,
           "recovered": 111
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 73,
+          "confirmed": 74,
           "recovered": 19
         }
       },
       "West Godavari": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 301,
-          "recovered": 61
+          "confirmed": 311,
+          "recovered": 70
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 257,
-          "recovered": 115
+          "confirmed": 262,
+          "recovered": 122
         }
       }
     },
