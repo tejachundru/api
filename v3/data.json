@@ -1636,8 +1636,8 @@
       },
       "Chatra": {
         "total": {
-          "confirmed": 36,
-          "recovered": 18
+          "confirmed": 41,
+          "recovered": 20
         }
       },
       "Deoghar": {
@@ -1660,7 +1660,7 @@
       },
       "East Singhbhum": {
         "total": {
-          "confirmed": 240,
+          "confirmed": 258,
           "recovered": 52
         }
       },
@@ -1674,7 +1674,7 @@
         "total": {
           "confirmed": 53,
           "deceased": 1,
-          "recovered": 44
+          "recovered": 45
         }
       },
       "Godda": {
@@ -1686,12 +1686,13 @@
       "Gumla": {
         "total": {
           "confirmed": 89,
-          "recovered": 40
+          "deceased": 1,
+          "recovered": 53
         }
       },
       "Hazaribagh": {
         "total": {
-          "confirmed": 133,
+          "confirmed": 134,
           "recovered": 115
         }
       },
@@ -1703,8 +1704,8 @@
       },
       "Khunti": {
         "total": {
-          "confirmed": 16,
-          "recovered": 5
+          "confirmed": 22,
+          "recovered": 8
         }
       },
       "Koderma": {
@@ -1722,31 +1723,31 @@
       },
       "Lohardaga": {
         "total": {
-          "confirmed": 37,
-          "recovered": 26
+          "confirmed": 40,
+          "recovered": 28
         }
       },
       "Pakur": {
         "total": {
           "confirmed": 29,
-          "recovered": 5
+          "recovered": 16
         }
       },
       "Palamu": {
         "total": {
           "confirmed": 45,
-          "recovered": 32
+          "recovered": 44
         }
       },
       "Ramgarh": {
         "total": {
           "confirmed": 108,
-          "recovered": 49
+          "recovered": 68
         }
       },
       "Ranchi": {
         "total": {
-          "confirmed": 174,
+          "confirmed": 180,
           "deceased": 4,
           "recovered": 131
         }
@@ -1766,19 +1767,17 @@
       "Simdega": {
         "total": {
           "confirmed": 246,
-          "recovered": 99
+          "recovered": 131
         }
       },
       "Unknown": {
         "total": {
-          "confirmed": 45,
-          "deceased": 1,
-          "recovered": 95
+          "confirmed": 1
         }
       },
       "West Singhbhum": {
         "total": {
-          "confirmed": 47,
+          "confirmed": 52,
           "recovered": 7
         }
       }
@@ -2332,14 +2331,14 @@
     "districts": {
       "Ahmednagar": {
         "total": {
-          "confirmed": 239,
+          "confirmed": 246,
           "deceased": 9,
           "recovered": 166
         }
       },
       "Akola": {
         "total": {
-          "confirmed": 1021,
+          "confirmed": 1026,
           "deceased": 42,
           "migrated": 1,
           "recovered": 568
@@ -2347,16 +2346,16 @@
       },
       "Amravati": {
         "total": {
-          "confirmed": 344,
+          "confirmed": 351,
           "deceased": 21,
-          "recovered": 243
+          "recovered": 258
         }
       },
       "Aurangabad": {
         "total": {
-          "confirmed": 2668,
+          "confirmed": 2786,
           "deceased": 135,
-          "recovered": 1455
+          "recovered": 1516
         }
       },
       "Beed": {
@@ -2368,7 +2367,7 @@
       },
       "Bhandara": {
         "total": {
-          "confirmed": 49,
+          "confirmed": 50,
           "recovered": 41
         }
       },
@@ -2376,19 +2375,19 @@
         "total": {
           "confirmed": 125,
           "deceased": 3,
-          "recovered": 73
+          "recovered": 77
         }
       },
       "Chandrapur": {
         "total": {
-          "confirmed": 47,
-          "recovered": 27
+          "confirmed": 50,
+          "recovered": 28
         }
       },
       "Dhule": {
         "total": {
-          "confirmed": 393,
-          "deceased": 26,
+          "confirmed": 433,
+          "deceased": 39,
           "migrated": 1,
           "recovered": 223
         }
@@ -2397,103 +2396,103 @@
         "total": {
           "confirmed": 49,
           "deceased": 1,
-          "recovered": 39
+          "recovered": 41
         }
       },
       "Gondia": {
         "total": {
-          "confirmed": 70,
+          "confirmed": 71,
           "recovered": 69
         }
       },
       "Hingoli": {
         "total": {
-          "confirmed": 239,
+          "confirmed": 242,
           "deceased": 1,
           "recovered": 187
         }
       },
       "Jalgaon": {
         "total": {
-          "confirmed": 1702,
-          "deceased": 131,
-          "recovered": 668
+          "confirmed": 1783,
+          "deceased": 135,
+          "recovered": 730
         }
       },
       "Jalna": {
         "total": {
-          "confirmed": 272,
-          "deceased": 6,
-          "recovered": 159
+          "confirmed": 280,
+          "deceased": 8,
+          "recovered": 171
         }
       },
       "Kolhapur": {
         "total": {
-          "confirmed": 694,
+          "confirmed": 729,
           "deceased": 8,
           "recovered": 532
         }
       },
       "Latur": {
         "total": {
-          "confirmed": 176,
+          "confirmed": 181,
           "deceased": 8,
-          "recovered": 120
+          "recovered": 121
         }
       },
       "Mumbai": {
         "total": {
-          "confirmed": 58226,
-          "deceased": 2182,
+          "confirmed": 59293,
+          "deceased": 2250,
           "migrated": 8,
-          "recovered": 26986
+          "recovered": 30125
         }
       },
       "Nagpur": {
         "total": {
-          "confirmed": 1013,
+          "confirmed": 1046,
           "deceased": 12,
-          "recovered": 598
+          "recovered": 624
         }
       },
       "Nanded": {
         "total": {
-          "confirmed": 235,
+          "confirmed": 241,
           "deceased": 10,
-          "recovered": 151
+          "recovered": 161
         }
       },
       "Nandurbar": {
         "total": {
-          "confirmed": 48,
+          "confirmed": 66,
           "deceased": 4,
-          "recovered": 30
+          "recovered": 32
         }
       },
       "Nashik": {
         "total": {
-          "confirmed": 1934,
-          "deceased": 105,
-          "recovered": 1178
+          "confirmed": 2006,
+          "deceased": 104,
+          "recovered": 1214
         }
       },
       "Osmanabad": {
         "total": {
-          "confirmed": 146,
+          "confirmed": 150,
           "deceased": 5,
           "recovered": 113
         }
       },
       "Other State": {
         "total": {
-          "confirmed": 81,
+          "confirmed": 89,
           "deceased": 20
         }
       },
       "Palghar": {
         "total": {
-          "confirmed": 2326,
-          "deceased": 50,
+          "confirmed": 2476,
+          "deceased": 71,
           "recovered": 714
         }
       },
@@ -2501,71 +2500,64 @@
         "total": {
           "confirmed": 82,
           "deceased": 3,
-          "recovered": 69
+          "recovered": 71
         }
       },
       "Pune": {
         "total": {
-          "confirmed": 12184,
-          "deceased": 480,
-          "recovered": 6750
+          "confirmed": 12419,
+          "deceased": 494,
+          "recovered": 7279
         }
       },
       "Raigad": {
         "total": {
-          "confirmed": 1868,
-          "deceased": 64,
+          "confirmed": 1932,
+          "deceased": 72,
           "migrated": 2,
-          "recovered": 1163
+          "recovered": 1247
         }
       },
       "Ratnagiri": {
         "total": {
-          "confirmed": 392,
-          "deceased": 16,
-          "recovered": 276
+          "confirmed": 435,
+          "deceased": 17,
+          "recovered": 290
         }
       },
       "Sangli": {
         "total": {
-          "confirmed": 225,
+          "confirmed": 246,
           "deceased": 7,
-          "recovered": 120
+          "recovered": 125
         }
       },
       "Satara": {
         "total": {
-          "confirmed": 741,
+          "confirmed": 752,
           "deceased": 28,
-          "recovered": 436
+          "recovered": 461
         }
       },
       "Sindhudurg": {
         "total": {
-          "confirmed": 150,
-          "recovered": 78
+          "confirmed": 156,
+          "recovered": 83
         }
       },
       "Solapur": {
         "total": {
-          "confirmed": 1820,
-          "deceased": 131,
-          "recovered": 676
+          "confirmed": 1889,
+          "deceased": 133,
+          "recovered": 690
         }
       },
       "Thane": {
         "total": {
-          "confirmed": 18080,
-          "deceased": 434,
+          "confirmed": 18732,
+          "deceased": 480,
           "migrated": 1,
-          "recovered": 6871
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 2786,
-          "deceased": 178,
-          "recovered": 5071
+          "recovered": 7890
         }
       },
       "Wardha": {
@@ -2577,16 +2569,16 @@
       },
       "Washim": {
         "total": {
-          "confirmed": 49,
+          "confirmed": 53,
           "deceased": 2,
-          "recovered": 6
+          "recovered": 8
         }
       },
       "Yavatmal": {
         "total": {
-          "confirmed": 181,
+          "confirmed": 190,
           "deceased": 3,
-          "recovered": 136
+          "recovered": 137
         }
       }
     },
