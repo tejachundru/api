@@ -2561,11 +2561,11 @@
       },
       "Shopiyan": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 20,
           "recovered": 10
         },
         "total": {
-          "confirmed": 539,
+          "confirmed": 557,
           "deceased": 5,
           "recovered": 304
         }
@@ -2589,14 +2589,6 @@
           "confirmed": 165,
           "deceased": 1,
           "recovered": 39
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 18
-        },
-        "total": {
-          "confirmed": 18
         }
       }
     },

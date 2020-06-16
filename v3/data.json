@@ -1919,7 +1919,7 @@
       },
       "Shopiyan": {
         "total": {
-          "confirmed": 539,
+          "confirmed": 557,
           "deceased": 5,
           "recovered": 304
         }
@@ -1936,11 +1936,6 @@
           "confirmed": 165,
           "deceased": 1,
           "recovered": 39
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 18
         }
       }
     },
@@ -4588,7 +4583,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9,
+      "confirmed": 721,
       "recovered": 4
     },
     "meta": {
@@ -4599,7 +4594,7 @@
       }
     },
     "total": {
-      "confirmed": 343080,
+      "confirmed": 343792,
       "deceased": 9918,
       "migrated": 43,
       "recovered": 180326,
@@ -4607,12 +4602,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": 712
+    },
     "meta": {
       "last_updated": "2020-06-15T09:51:47+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 712 cases were increased from this category today by MoHFW. We have reduced this cases from total for the day."
     },
     "total": {
-      "confirmed": 6972
+      "confirmed": 7684
     }
   },
   "UP": {
