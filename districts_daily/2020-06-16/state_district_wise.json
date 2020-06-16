@@ -73,12 +73,12 @@
     "districtData": {
       "Foreign Evacuees": {
         "notes": "",
-        "active": 186,
-        "confirmed": 208,
+        "active": 213,
+        "confirmed": 235,
         "deceased": 0,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 27,
           "deceased": 0,
           "recovered": 0
         }
@@ -97,13 +97,13 @@
       },
       "Chittoor": {
         "notes": "",
-        "active": 118,
+        "active": 117,
         "confirmed": 359,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 237,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -157,25 +157,25 @@
       },
       "Other State": {
         "notes": "",
-        "active": 567,
-        "confirmed": 1159,
+        "active": 564,
+        "confirmed": 1203,
         "deceased": 0,
-        "recovered": 592,
+        "recovered": 639,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 44,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 47
         }
       },
       "Prakasam": {
         "notes": "",
-        "active": 17,
+        "active": 16,
         "confirmed": 103,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 86,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -253,10 +253,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 113,
+        "confirmed": 195,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 82,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

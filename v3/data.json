@@ -39,6 +39,11 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 264,
+      "deceased": 2,
+      "recovered": 128
+    },
     "districts": {
       "Anantapur": {
         "total": {
@@ -48,9 +53,12 @@
         }
       },
       "Chittoor": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 359,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 237
         }
       },
@@ -62,8 +70,11 @@
         }
       },
       "Foreign Evacuees": {
+        "delta": {
+          "confirmed": 27
+        },
         "total": {
-          "confirmed": 210,
+          "confirmed": 237,
           "recovered": 23
         }
       },
@@ -89,14 +100,22 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 44,
+          "recovered": 47
+        },
         "total": {
-          "confirmed": 1159,
-          "recovered": 592
+          "confirmed": 1203,
+          "recovered": 639
         }
       },
       "Prakasam": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 103,
+          "deceased": 1,
           "recovered": 86
         }
       },
@@ -111,6 +130,16 @@
         "total": {
           "confirmed": 55,
           "recovered": 18
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 193,
+          "recovered": 81
+        },
+        "total": {
+          "confirmed": 193,
+          "recovered": 81
         }
       },
       "Visakhapatnam": {
@@ -140,7 +169,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-15T13:53:50+05:30",
+      "last_updated": "2020-06-16T13:52:48+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "tested": {
         "last_updated": "2020-06-15",
@@ -148,9 +177,9 @@
       }
     },
     "total": {
-      "confirmed": 6456,
-      "deceased": 86,
-      "recovered": 3385,
+      "confirmed": 6720,
+      "deceased": 88,
+      "recovered": 3513,
       "tested": 567375
     }
   },
@@ -843,7 +872,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T13:43:49+05:30",
+      "last_updated": "2020-06-16T13:48:48+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/indiacovid/7310?single"
@@ -4787,23 +4816,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1072,
-      "deceased": 1,
-      "recovered": 14,
+      "confirmed": 1336,
+      "deceased": 3,
+      "recovered": 142,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T13:43:46+05:30",
+      "last_updated": "2020-06-16T13:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 344143,
-      "deceased": 9919,
+      "confirmed": 344407,
+      "deceased": 9921,
       "migrated": 43,
-      "recovered": 180332,
+      "recovered": 180460,
       "tested": 5921069
     }
   },
