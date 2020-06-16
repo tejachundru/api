@@ -5475,7 +5475,8 @@
     "delta": {
       "confirmed": 67,
       "deceased": 1,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 1297
     },
     "districts": {
       "Almora": {
@@ -5604,7 +5605,8 @@
       "last_updated": "2020-06-16T15:54:47+05:30",
       "notes": "12 Migrated cases reduced from Active count",
       "tested": {
-        "last_updated": "2020-06-15"
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/PIBDehradun/status/1272831747764318208/photo/1"
       }
     },
     "total": {
@@ -5612,7 +5614,7 @@
       "deceased": 25,
       "migrated": 12,
       "recovered": 1194,
-      "tested": 46573
+      "tested": 47870
     }
   },
   "WB": {
