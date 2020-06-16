@@ -1777,12 +1777,12 @@
       {
         "district": "Janjgir Champa",
         "notes": "",
-        "active": 96,
-        "confirmed": 141,
+        "active": 95,
+        "confirmed": 140,
         "deceased": 0,
         "recovered": 45,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 8
         }
@@ -1790,14 +1790,14 @@
       {
         "district": "Jashpur",
         "notes": "",
-        "active": 42,
+        "active": 41,
         "confirmed": 85,
         "deceased": 0,
-        "recovered": 43,
+        "recovered": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 8
         }
       },
       {
@@ -1829,12 +1829,12 @@
       {
         "district": "Korba",
         "notes": "",
-        "active": 151,
-        "confirmed": 259,
+        "active": 141,
+        "confirmed": 249,
         "deceased": 0,
         "recovered": 108,
         "delta": {
-          "confirmed": 6,
+          "confirmed": -4,
           "deceased": 0,
           "recovered": 32
         }
@@ -1894,14 +1894,14 @@
       {
         "district": "Raigarh",
         "notes": "",
-        "active": 2,
+        "active": 14,
         "confirmed": 68,
         "deceased": 1,
-        "recovered": 65,
+        "recovered": 53,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 12
+          "recovered": 0
         }
       },
       {
@@ -1989,19 +1989,6 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 12,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": -12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

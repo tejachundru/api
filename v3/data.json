@@ -986,8 +986,8 @@
   },
   "CT": {
     "delta": {
-      "confirmed": 80,
-      "recovered": 102
+      "confirmed": 69,
+      "recovered": 103
     },
     "districts": {
       "Balod": {
@@ -1087,21 +1087,21 @@
       },
       "Janjgir Champa": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "recovered": 8
         },
         "total": {
-          "confirmed": 141,
+          "confirmed": 140,
           "recovered": 45
         }
       },
       "Jashpur": {
         "delta": {
-          "recovered": 7
+          "recovered": 8
         },
         "total": {
           "confirmed": 85,
-          "recovered": 43
+          "recovered": 44
         }
       },
       "Kabeerdham": {
@@ -1121,11 +1121,11 @@
       },
       "Korba": {
         "delta": {
-          "confirmed": 6,
+          "confirmed": -4,
           "recovered": 32
         },
         "total": {
-          "confirmed": 259,
+          "confirmed": 249,
           "recovered": 108
         }
       },
@@ -1169,13 +1169,10 @@
         }
       },
       "Raigarh": {
-        "delta": {
-          "recovered": 12
-        },
         "total": {
           "confirmed": 68,
           "deceased": 1,
-          "recovered": 65
+          "recovered": 53
         }
       },
       "Raipur": {
@@ -1219,6 +1216,14 @@
           "recovered": 26
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 12
+        },
+        "total": {
+          "recovered": 12
+        }
+      },
       "Uttar Bastar Kanker": {
         "total": {
           "confirmed": 26,
@@ -1227,16 +1232,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T20:42:50+05:30",
+      "last_updated": "2020-06-16T20:52:49+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://twitter.com/HealthCgGov/status/1272554463480311809?s=09"
       }
     },
     "total": {
-      "confirmed": 1795,
+      "confirmed": 1784,
       "deceased": 9,
-      "recovered": 933,
+      "recovered": 934,
       "tested": 107172
     }
   },
@@ -4911,7 +4916,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-16T20:42:53+05:30",
+      "last_updated": "2020-06-16T20:45:54+05:30",
       "tested": {
         "last_updated": "2020-06-15",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/488"
@@ -5645,23 +5650,23 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 4750,
+      "confirmed": 4739,
       "deceased": 97,
-      "recovered": 3925,
+      "recovered": 3926,
       "tested": 146936
     },
     "meta": {
-      "last_updated": "2020-06-16T20:42:46+05:30",
+      "last_updated": "2020-06-16T20:52:46+05:30",
       "tested": {
         "last_updated": "2020-06-16",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
       }
     },
     "total": {
-      "confirmed": 347821,
+      "confirmed": 347810,
       "deceased": 10015,
       "migrated": 43,
-      "recovered": 184243,
+      "recovered": 184244,
       "tested": 5921069
     }
   },
