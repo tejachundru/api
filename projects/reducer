@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-07-19T16:18:28.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.4.6" etag="N99r7LCK25XpGwJb5LKh" type="github"><diagram id="7YFzi4PS6j6a9CLTmgko">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-19T16:29:12.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ITymHUthDxxBNm7X8dQV" version="13.4.6" type="github">
+  <diagram id="7YFzi4PS6j6a9CLTmgko" name="Page-1">
+    <mxGraphModel dx="799" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Lato^https://fonts.googleapis.com/css?family=Lato">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vzr4P8oQSgk0fRVTH45R-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vzr4P8oQSgk0fRVTH45R-1" target="2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vzr4P8oQSgk0fRVTH45R-1" value="Reducer&amp;nbsp; - Function that mangaes the change to an object&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;The function that gets called with two objects&lt;br&gt;&lt;br&gt;Argument -1, that has all the state&amp;nbsp; in it&lt;br&gt;&lt;br&gt;Argument -2, describe the object we want to change&lt;br&gt;&lt;br&gt;we look at the argument 2 and decide and use it how to change the argument 1&lt;br&gt;&lt;br&gt;Note: Technicalities&amp;nbsp; -1 we never the argument 1 directly, -2&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Lato;FType=g;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="540" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
